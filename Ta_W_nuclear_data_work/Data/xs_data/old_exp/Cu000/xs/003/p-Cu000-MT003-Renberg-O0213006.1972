@@ -1,0 +1,40 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : O0213006 
+# X4 code     : 29-CU-0(P,NON),,SIG,,,EXP
+# Author      : Renberg                  
+# Year        : 1972
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.48000E+02  7.77000E+02  1.70000E+01  0.00000E+00
+  5.48000E+02  7.88000E+02  1.70000E+01  0.00000E+00
+  4.59000E+02  7.75000E+02  1.70000E+01  0.00000E+00
+  4.59000E+02  7.87000E+02  1.70000E+01  0.00000E+00
+  3.40000E+02  7.51000E+02  1.70000E+01  0.00000E+00
+  3.40000E+02  7.60000E+02  1.70000E+01  0.00000E+00
+  2.25000E+02  7.61000E+02  1.70000E+01  0.00000E+00
+  2.25000E+02  7.68000E+02  1.70000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#P.U.Renberg, D.F.Measday, M.Pepin, P.Schwaller, B.Favier, C.Richard-Serre
+#Jour. Nuclear Physics, Section A Vol.183, p.81, 1972
+#Reaction Cross Sections For Protons in the Energy Range 220-570 MeV.
+#
+# Quality information:
+#
+# Quality  O0213006 :   
+# Date     O0213006 : 05-01-2018
+# Reaction O0213006 : NP:    8 E-range:   225.    -   548.     MeV 29-CU-0(P,NON),,SIG,,,EXP           pdf: n
+# Paper    O0213006 : P.U.Renberg+ Jour. Nuclear Physics, Section A Vol.183, p.81, 1972 Reaction Cross Sections For Protons in the Energy Range 220-570 MeV.
+# Action   O0213006 : 
+# Comment  O0213006 : 

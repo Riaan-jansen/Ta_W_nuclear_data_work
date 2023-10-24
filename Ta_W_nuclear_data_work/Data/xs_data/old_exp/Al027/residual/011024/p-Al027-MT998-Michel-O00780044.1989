@@ -1,0 +1,44 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O00780044
+# X4 code     : 13-AL-27(P,X)11-NA-24,CUM,SIG
+# Author      : Michel                   
+# Year        : 1989
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.00000E+02  1.13000E+01  3.00000E-01  0.00000E+00  5.26946E+00  0.4663       404.1       6.031              
+#
+# Average deviation:                                                2.144       404.1       6.031    
+#
+# Full reference:
+#R.Michel,  B.Dittrich,  U.Herpers,  F.Peiffer, T.Schiffmann,  P.Cloth,  P.Dragovitsch,  D.Filges
+#
+#Jour. Analyst (London) Vol.114, p.287, 1989
+#Proton-induced spallation at 600 MeV.
+#
+# Quality information:
+#
+# Quality  O00780044: T1
+# Date     O00780044: 05-01-2018
+# Reaction O00780044: NP:    1 E-range:   600.    -   600.     MeV 13-AL-27(P,X)11-NA-24,CUM,SIG       pdf: y
+# Paper    O00780044: R.Michel+ Jour. Analyst (London) Vol.114, p.287, 1989 Proton-induced spallation at 600 MeV.
+# Action   O00780044: 
+# Comment  O00780044: Evaluation        N=     1 F=   2.14     chi-2=   404.     D=   6.03     mb T=   5.27     mb E=   11.3     K1=  2.14     K2=  159.
+# Comment  O00780044: TALYS             N=     1 F=   2.14     chi-2=   404.     D=   6.03     mb T=   5.27     mb E=   11.3     K1=  2.14     K2=  159.
+# Comment  O00780044: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.3     K1=  0.00     K2=  0.00
+# Comment  O00780044: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.3     K1=  0.00     K2=  0.00
+# Comment  O00780044: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.3     K1=  0.00     K2=  0.00
+# Comment  O00780044: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.3     K1=  0.00     K2=  0.00
+# Comment  O00780044: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.3     K1=  0.00     K2=  0.00
+# Comment  O00780044: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.3     K1=  0.00     K2=  0.00
+# Comment  O00780044: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.3     K1=  0.00     K2=  0.00

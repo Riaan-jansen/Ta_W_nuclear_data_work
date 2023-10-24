@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xn)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  201
+# X4 ID       : O0726007 
+# X4 code     : 13-AL-27(P,X)0-NN-1,,SIG
+# Author      : Verbinski                
+# Year        : 1969
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.45000E+01  3.85000E+02  0.00000E+00  1.10000E+00
+  1.83000E+01  2.50000E+02  0.00000E+00  9.50000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#V.V.Verbinski, W.R.Burrus
+#Jour. Physical Review Vol.177, p.1671, 1969
+#Direct and Compound-Nucleus Neutrons from 14-18 MeV Proton on Be-9, N-14, Al-27, Fe-56, In-115, Ta-181 and Pb-208 and from 33-MeV Bremsstrahlung on Al-27, Pb-206
+#And Bi-209.
+#
+# Quality information:
+#
+# Quality  O0726007 :   
+# Date     O0726007 : 05-01-2018
+# Reaction O0726007 : NP:    2 E-range:   14.5    -   18.3     MeV 13-AL-27(P,X)0-NN-1,,SIG            pdf: n
+# Paper    O0726007 : V.V.Verbinski+ Jour. Physical Review Vol.177, p.1671, 1969 Direct and Compound-Nucleus Neutrons from 14-18 MeV Proton on Be-9, N-14, Al-27,
+# Action   O0726007 : 
+# Comment  O0726007 : 

@@ -1,0 +1,39 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xp)
+# E-inc       :  500.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  203
+# X4 ID       : O0146012 
+# X4 code     : 73-TA-181(P,X)1-H-1,,DA/DE,,,EXP
+# Author      : Roy                      
+# Year        : 1981
+# Data points :     18
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.65000E+01  1.70000E-07  5.10000E-09  0.00000E+00  1.60000E+02
+  7.85000E+01  1.24000E-07  3.72000E-09  0.00000E+00  1.60000E+02
+  8.85000E+01  8.90000E-08  2.67000E-09  0.00000E+00  1.60000E+02
+  9.85000E+01  7.20000E-08  2.16000E-09  0.00000E+00  1.60000E+02
+  1.08500E+02  4.70000E-08  1.41000E-09  0.00000E+00  1.60000E+02
+  1.21500E+02  2.90000E-08  8.70000E-10  0.00000E+00  1.60000E+02
+  1.31500E+02  1.64000E-08  4.92000E-10  0.00000E+00  1.60000E+02
+  1.43500E+02  8.00000E-09  2.40000E-10  0.00000E+00  1.60000E+02
+  1.53500E+02  8.80000E-09  2.64000E-10  0.00000E+00  1.60000E+02
+  1.63500E+02  5.80000E-09  1.74000E-10  0.00000E+00  1.60000E+02
+  1.73500E+02  3.50000E-09  1.05000E-10  0.00000E+00  1.60000E+02
+  1.87100E+02  1.84000E-09  5.52000E-11  0.00000E+00  1.60000E+02
+  1.96100E+02  8.50000E-10  2.55000E-11  0.00000E+00  1.60000E+02
+  2.08600E+02  3.42000E-10  1.02600E-11  0.00000E+00  1.60000E+02
+  2.16600E+02  3.00000E-10  9.00000E-12  0.00000E+00  1.60000E+02
+  2.27100E+02  1.56000E-10  4.68000E-12  0.00000E+00  1.60000E+02
+  2.38600E+02  8.30000E-11  2.49000E-12  0.00000E+00  1.60000E+02
+  2.58600E+02  2.90000E-11  8.70000E-13  0.00000E+00  1.60000E+02
+# Full reference:
+#G.Roy, L.G.Greeniaus, G.A.Moss, D.A.Hutcheon, R.Liljestrand, R.M.Woloshyn, D.H.Boal, A.W.Stetz, K.Aniol,
+#A.Willis, N.Willis, R.Mccamic
+#Jour. Physical Review, Part C, Nuclear Physics Vol.23, p.1671, 1981
+#Inclusive Scattering of Protons on Helium,Nickel and Tantalum at 500 MeV.

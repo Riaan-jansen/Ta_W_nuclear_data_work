@@ -1,0 +1,40 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  65
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0284122M
+# X4 code     : 29-CU-0(P,X)30-ZN-65,,SIG
+# Author      : Schiekel                 
+# Year        : 1996
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.26000E+02  7.90000E-01  7.74000E-02  1.80000E+00
+  2.71000E+02  6.47000E-01  6.89000E-02  1.28000E+00
+  3.38000E+02  5.81000E-01  6.21000E-02  1.74000E+00
+  3.75000E+02  5.62000E-01  6.34000E-02  1.26000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Th.Schiekel,  F.Sudbrock,  U.Herpers,  M.Gloris, H.-J.Lange,  I.Leya,  R.Michel,  B.Dittrich-Hannen, H.-A.Synal,
+# M.Suter,  P.W.Kubik,  M.Blann,  D.Filges
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.114, p.91, 1996
+#Nuclide production by proton-induced reactions on elements (6<=Z<=296) in the energy range from 200 MeV to 400 MeV.
+#
+#
+# Quality information:
+#
+# Quality  O0284122M:   
+# Date     O0284122M: 05-01-2018
+# Reaction O0284122M: NP:    4 E-range:   226.    -   375.     MeV 29-CU-0(P,X)30-ZN-65,,SIG           pdf: n
+# Paper    O0284122M: Th.Schiekel+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.114, p.91, 1996 Nuclide production by proton-induced reactions on elem
+# Action   O0284122M: 
+# Comment  O0284122M: 

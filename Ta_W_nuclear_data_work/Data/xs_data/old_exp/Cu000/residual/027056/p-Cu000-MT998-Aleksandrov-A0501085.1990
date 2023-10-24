@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  56
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0501085 
+# X4 code     : 29-CU-0(P,X)27-CO-56,CUM,SIG
+# Author      : Aleksandrov              
+# Year        : 1990
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.00000E+03  7.90000E+00  4.00000E-01  0.00000E+00  9.35178E+00   1.184       13.17       1.452              
+#
+# Average deviation:                                                1.184       13.17       1.452    
+#
+# Full reference:
+#Yu.V.Aleksandrov,  A.I.Bogdanov,  S.K.Vasil'ev, R.B.Ivanov,  M.A.Mikhaylova,  T.I.Popova, V.P.Prikhodtseva
+#
+#Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz. Vol.54, p.2249, 1990
+#The Radionuclide Production by 1 GeV Protons in the Middle Atomic Weight Elements.
+#
+# Quality information:
+#
+# Quality  A0501085 : T1
+# Date     A0501085 : 05-01-2018
+# Reaction A0501085 : NP:    1 E-range:  1.000E+03-  1.000E+03 MeV 29-CU-0(P,X)27-CO-56,CUM,SIG        pdf: y
+# Paper    A0501085 : Yu.V.Aleksandrov+ Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz. Vol.54, p.2249, 1990 The Radionuclide Production by 1 GeV Protons in the Mid
+# Action   A0501085 : 
+# Comment  A0501085 : Evaluation        N=     1 F=   1.18     chi-2=   13.2     D=   1.45     mb T=   9.35     mb E=   7.90     K1=  1.18     K2=  1.44
+# Comment  A0501085 : TALYS             N=     1 F=   1.18     chi-2=   13.2     D=   1.45     mb T=   9.35     mb E=   7.90     K1=  1.18     K2=  1.44
+# Comment  A0501085 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.90     K1=  0.00     K2=  0.00
+# Comment  A0501085 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.90     K1=  0.00     K2=  0.00
+# Comment  A0501085 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.90     K1=  0.00     K2=  0.00
+# Comment  A0501085 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.90     K1=  0.00     K2=  0.00
+# Comment  A0501085 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.90     K1=  0.00     K2=  0.00
+# Comment  A0501085 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.90     K1=  0.00     K2=  0.00
+# Comment  A0501085 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.90     K1=  0.00     K2=  0.00

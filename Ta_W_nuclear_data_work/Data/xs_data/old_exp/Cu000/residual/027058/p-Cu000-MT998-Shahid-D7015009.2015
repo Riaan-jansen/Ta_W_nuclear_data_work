@@ -1,0 +1,56 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  58
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D7015009 
+# X4 code     : 29-CU-0(P,X)27-CO-58,,SIG
+# Author      : Shahid                   
+# Year        : 2015
+# Data points :     13
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.30000E+01  5.58000E+01  3.60000E+00  2.00000E-01  3.18125E+01  0.5701       44.40       23.99              
+  4.16000E+01  5.88000E+01  3.70000E+00  2.00000E-01  3.30324E+01  0.5618       48.50       25.77              
+  4.01000E+01  6.05000E+01  3.90000E+00  2.00000E-01  3.43395E+01  0.5676       44.99       26.16              
+  3.87000E+01  5.85000E+01  3.70000E+00  2.00000E-01  3.18789E+01  0.5449       51.77       26.62              
+  3.71000E+01  5.35000E+01  3.40000E+00  2.00000E-01  2.87433E+01  0.5373       53.02       24.76              
+  3.55000E+01  4.59000E+01  2.90000E+00  2.00000E-01  2.56077E+01  0.5579       48.96       20.29              
+  3.39000E+01  3.68000E+01  2.30000E+00  2.00000E-01  2.03348E+01  0.5526       51.25       16.47              
+  3.22000E+01  2.80000E+01  1.80000E+00  3.00000E-01  1.37001E+01  0.4893       63.11       14.30              
+  3.04000E+01  1.52000E+01  1.00000E+00  3.00000E-01  6.67506E+00  0.4391       72.67       8.525              
+  2.85000E+01  4.40000E+00  3.00000E-01  3.00000E-01  2.12074E+00  0.4820       57.72       2.279              
+  2.66000E+01  7.40000E-01  5.00000E-02  3.00000E-01  3.92391E-01  0.5303       48.33      0.3476              
+  2.45000E+01  4.40000E-01  3.00000E-02  3.00000E-01  2.07890E-02  4.7248E-02   195.3      0.4192              
+  2.23000E+01  4.00000E-02  1.00000E-02  3.00000E-01
+#
+# Average deviation:                                                2.929       65.00       15.83    
+#
+# Full reference:
+#M.Shahid,  K.Kim,  H.Naik,  M.Zaman,  S.C.Yang,  G.N.Kim
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.342, p.305, 2015
+#Measurement of excitation functions in proton induced reactions on natural copper from their threshold to 43 MeV
+#
+#
+# Quality information:
+#
+# Quality  D7015009 : T2
+# Date     D7015009 : 05-01-2018
+# Reaction D7015009 : NP:   13 E-range:   22.3    -   43.0     MeV 29-CU-0(P,X)27-CO-58,,SIG           pdf: y
+# Paper    D7015009 : M.Shahid+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.342, p.305, 2015 Measurement of excitation functions in proton induced re
+# Action   D7015009 : 
+# Comment  D7015009 : Evaluation        N=    12 F=   2.93     chi-2=   65.0     D=   15.8     mb T=   19.1     mb E=   32.2     K1=  2.93     K2= 4.735E+06
+# Comment  D7015009 : TALYS             N=    12 F=   2.93     chi-2=   65.0     D=   15.8     mb T=   19.1     mb E=   32.2     K1=  2.93     K2= 4.735E+06
+# Comment  D7015009 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.2     K1=  0.00     K2=  0.00
+# Comment  D7015009 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.2     K1=  0.00     K2=  0.00
+# Comment  D7015009 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.2     K1=  0.00     K2=  0.00
+# Comment  D7015009 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.2     K1=  0.00     K2=  0.00
+# Comment  D7015009 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.2     K1=  0.00     K2=  0.00
+# Comment  D7015009 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.2     K1=  0.00     K2=  0.00
+# Comment  D7015009 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.2     K1=  0.00     K2=  0.00

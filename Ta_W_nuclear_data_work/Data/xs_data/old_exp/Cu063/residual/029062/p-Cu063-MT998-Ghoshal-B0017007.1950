@@ -1,0 +1,50 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  62
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0017007 
+# X4 code     : 29-CU-63(P,X)29-CU-62,IND,SIG,,,EXP
+# Author      : Ghoshal                  
+# Year        : 1950
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.51000E+01  8.90000E+01  0.00000E+00  0.00000E+00  2.01185E+02   2.261       143.9       112.2              
+  1.74000E+01  3.91000E+02  0.00000E+00  0.00000E+00  1.64126E+02  0.4198       42.18       243.0              
+  2.19000E+01  7.98000E+02  0.00000E+00  0.00000E+00  1.79340E+02  0.2247       66.24       618.7              
+  2.41000E+01  8.80000E+02  0.00000E+00  0.00000E+00  1.74310E+02  0.1981       68.48       705.7              
+  2.61000E+01  8.30000E+02  0.00000E+00  0.00000E+00  1.56682E+02  0.1888       68.58       673.3              
+  2.82000E+01  7.24000E+02  0.00000E+00  0.00000E+00  1.32128E+02  0.1825       68.12       591.9              
+  3.01000E+01  6.17000E+02  0.00000E+00  0.00000E+00  1.47792E+02  0.2395       58.59       469.2              
+  3.17000E+01  4.99000E+02  0.00000E+00  0.00000E+00  1.37157E+02  0.2749       57.15       361.8              
+#
+# Average deviation:                                                7.796       71.65       472.0    
+#
+# Full reference:
+#S.N.Ghoshal
+#Jour. Physical Review Vol.80, p.939, 1950
+#An Experimental Verification of the Theory of Compound Nucleus
+#
+# Quality information:
+#
+# Quality  B0017007 : T2
+# Date     B0017007 : 05-01-2018
+# Reaction B0017007 : NP:    8 E-range:   15.1    -   31.7     MeV 29-CU-63(P,X)29-CU-62,IND,SIG,,,EXP pdf: y
+# Paper    B0017007 : S.N.Ghoshal Jour. Physical Review Vol.80, p.939, 1950 An Experimental Verification of the Theory of Compound Nucleus
+# Action   B0017007 : 
+# Comment  B0017007 : Evaluation        N=     8 F=   7.80     chi-2=   71.7     D=   472.     mb T=   162.     mb E=   604.     K1=  7.80     K2= 2.997E+10
+# Comment  B0017007 : TALYS             N=     8 F=   1.58     chi-2=   0.00     D=   201.     mb T=   441.     mb E=   604.     K1=  1.58     K2=  3.75
+# Comment  B0017007 : cendl3.1          N=     2 F=   2.93     chi-2=   74.1     D=   188.     mb T=   137.     mb E=   604.     K1=  2.93     K2=  247.
+# Comment  B0017007 : eaf.2010          N=     8 F=   9.32     chi-2=   93.6     D=   549.     mb T=   86.0     mb E=   604.     K1=  9.32     K2= 1.587E+10
+# Comment  B0017007 : endfb8.0          N=     6 F=   11.9     chi-2=   102.     D=   578.     mb T=   83.1     mb E=   604.     K1=  11.9     K2= 1.439E+14
+# Comment  B0017007 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   604.     K1=  0.00     K2=  0.00
+# Comment  B0017007 : jeff3.3           N=     6 F=   8.42     chi-2=   93.7     D=   559.     mb T=   99.1     mb E=   604.     K1=  8.42     K2= 4.026E+09
+# Comment  B0017007 : jendl4.0          N=     2 F=   2.68     chi-2=   103.     D=   189.     mb T=   164.     mb E=   604.     K1=  2.68     K2=  74.5
+# Comment  B0017007 : tendl.2017        N=     8 F=   9.87     chi-2=   90.7     D=   544.     mb T=   89.0     mb E=   604.     K1=  9.87     K2= 7.738E+11

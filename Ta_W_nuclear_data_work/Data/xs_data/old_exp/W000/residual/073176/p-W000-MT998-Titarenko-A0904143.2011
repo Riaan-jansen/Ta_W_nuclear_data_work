@@ -1,0 +1,55 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  73
+# Final A     : 176
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0904143 
+# X4 code     : 74-W-0(P,X)73-TA-176,IND,SIG
+# Author      : Titarenko                
+# Year        : 2011
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.80000E+01  9.30000E+00  1.70000E+00  1.00000E+00  1.96429E-02  2.1121E-03   29.80       9.280              
+  9.90000E+01  4.90000E+00  3.50000E+00  1.00000E+00  2.71179E-02  5.5343E-03   1.938       4.873              
+  1.49000E+02  1.94000E+01  4.10000E+00  1.00000E+00  2.67846E-02  1.3806E-03   22.33       19.37              
+  2.49000E+02  2.56000E+01  3.50000E+00  1.00000E+00  3.88896E-02  1.5191E-03   53.34       25.56              
+  4.00000E+02  2.62000E+01  4.00000E+00  2.00000E+00  3.66648E-02  1.3994E-03   42.78       26.16              
+  6.00000E+02  2.88000E+01  3.70000E+00  2.00000E+00  3.28223E-02  1.1397E-03   60.45       28.77              
+  7.99000E+02  2.17000E+01  3.00000E+00  2.00000E+00  2.83796E-02  1.3078E-03   52.18       21.67              
+  1.19900E+03  2.69000E+01  4.20000E+00  3.00000E+00
+  1.59900E+03  1.74000E+01  3.90000E+00  4.00000E+00
+  2.60500E+03  2.44000E+01  3.40000E+00  8.00000E+00
+#
+# Average deviation:                                                607.1       37.55       19.38    
+#
+# Full reference:
+#Yu.E.Titarenko,  V.F.Batyaev,  A.Yu.Titarenko, M.A.Butko,  K.V.Pavlov,  S.N.Florya,  R.S.Tikhonov, V.M.Zhivun,  A.V.Ignatyuk,
+# S.G.Mashnik,  S.Leray, A.Boudard,  J.Cugnon,  D.Mancusi,  Y.Yariv,  K.Nishihara, N.Matsuda,  H.Kumawat,
+# G.Mank,  W.Gudowski
+#Jour. Yadernaya Fizika Vol.74, p.574, 2011
+#Measurement and simulation of the cross sections for nuclide production in W-nat and Ta-181 targets irradiated with 0.04- to 2.6-GeV protons.
+#
+#
+# Quality information:
+#
+# Quality  A0904143 : T2
+# Date     A0904143 : 05-01-2018
+# Reaction A0904143 : NP:   10 E-range:   68.0    -  2.605E+03 MeV 74-W-0(P,X)73-TA-176,IND,SIG        pdf: y
+# Paper    A0904143 : Yu.E.Titarenko+ Jour. Yadernaya Fizika Vol.74, p.574, 2011 Measurement and simulation of the cross sections for nuclide production in W-nat
+# Action   A0904143 : 
+# Comment  A0904143 : Evaluation        N=     7 F=   607.     chi-2=   37.5     D=   19.4     mb T=  3.004E-02 mb E=   20.5     K1=  607.     K2= 1.000E+35
+# Comment  A0904143 : TALYS             N=     7 F=   525.     chi-2=   37.5     D=   19.4     mb T=  3.370E-02 mb E=   20.5     K1=  525.     K2= 1.000E+35
+# Comment  A0904143 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.5     K1=  0.00     K2=  0.00
+# Comment  A0904143 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.5     K1=  0.00     K2=  0.00
+# Comment  A0904143 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.5     K1=  0.00     K2=  0.00
+# Comment  A0904143 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.5     K1=  0.00     K2=  0.00
+# Comment  A0904143 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.5     K1=  0.00     K2=  0.00
+# Comment  A0904143 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.5     K1=  0.00     K2=  0.00
+# Comment  A0904143 : tendl.2017        N=     3 F=   638.     chi-2=   18.0     D=   11.2     mb T=  1.597E-02 mb E=   20.5     K1=  638.     K2= 1.000E+35

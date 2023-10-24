@@ -1,0 +1,44 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : C1211003 
+# X4 code     : 13-AL-27(P,NON),,SIG
+# Author      : Goloskie                 
+# Year        : 1962
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.33000E+02  4.24000E+02  1.30000E+01  5.00000E+00  1.10547E+01  2.6072E-02   1009.       412.9              
+  1.13000E+02  4.08000E+02  1.30000E+01  5.00000E+00  1.24899E+01  3.0612E-02   925.6       395.5              
+  9.50000E+01  4.15000E+02  1.30000E+01  5.00000E+00  1.41125E+01  3.4006E-02   951.0       400.9              
+  7.70000E+01  4.44000E+02  1.40000E+01  5.00000E+00  1.51892E+01  3.4210E-02   938.2       428.8              
+#
+# Average deviation:                                                32.27       955.9       409.5    
+#
+# Full reference:
+#R.Goloskie, K.Strauch
+#Jour. Nuclear Physics Vol.29, p.474, 1962
+#Measurement of proton inelastic cross sections between 77 MeV and 133 MeV
+#
+# Quality information:
+#
+# Quality  C1211003 : T2
+# Date     C1211003 : 05-01-2018
+# Reaction C1211003 : NP:    4 E-range:   77.0    -   133.     MeV 13-AL-27(P,NON),,SIG                pdf: y
+# Paper    C1211003 : R.Goloskie+ Jour. Nuclear Physics Vol.29, p.474, 1962 Measurement of proton inelastic cross sections between 77 MeV and 133 MeV
+# Action   C1211003 : 
+# Comment  C1211003 : Evaluation        N=     4 F=   32.3     chi-2=   956.     D=   410.     mb T=   13.2     mb E=   423.     K1=  32.3     K2= 1.000E+35
+# Comment  C1211003 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   423.     K1=  0.00     K2=  0.00
+# Comment  C1211003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   423.     K1=  0.00     K2=  0.00
+# Comment  C1211003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   423.     K1=  0.00     K2=  0.00
+# Comment  C1211003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   423.     K1=  0.00     K2=  0.00
+# Comment  C1211003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   423.     K1=  0.00     K2=  0.00
+# Comment  C1211003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   423.     K1=  0.00     K2=  0.00
+# Comment  C1211003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   423.     K1=  0.00     K2=  0.00
+# Comment  C1211003 : tendl.2017        N=     4 F=   32.3     chi-2=   956.     D=   410.     mb T=   13.2     mb E=   423.     K1=  32.3     K2= 1.000E+35

@@ -1,0 +1,55 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  71
+# Final A     : 169
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099045 
+# X4 code     : 74-W-0(P,X)71-LU-169,CUM,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :     11
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.54000E+02  5.28100E+01  9.02700E+00  1.72000E+00  1.64556E-03  3.1160E-05   34.22       52.81              
+  2.60000E+02  5.67200E+01  5.76700E+00  1.08000E+00  1.68853E-03  2.9770E-05   96.73       56.72              
+  3.34000E+02  5.82400E+01  7.63300E+00  1.68000E+00  1.98821E-03  3.4138E-05   58.21       58.24              
+  5.59000E+02  6.74300E+01  6.97800E+00  1.48000E+00  1.98581E-03  2.9450E-05   93.37       67.43              
+  7.64000E+02  5.70100E+01  5.94200E+00  1.45000E+00  1.80078E-03  3.1587E-05   92.05       57.01              
+  9.88000E+02  4.31300E+01  5.73800E+00  1.01000E+00  1.74164E-03  4.0381E-05   56.49       43.13              
+  1.16000E+03  4.07600E+01  7.38800E+00  1.36600E+00
+  1.38000E+03  4.16300E+01  4.69700E+00  1.01600E+00
+  1.57000E+03  3.28400E+01  6.16900E+00  1.29000E+00
+  2.58000E+03  2.89800E+01  5.64500E+00  1.00200E+00
+  2.59000E+03  2.00200E+01  2.15200E+00  1.01000E+00
+#
+# Average deviation:                                               3.0738E+04   71.85       55.89    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099045 : T2
+# Date     O1099045 : 05-01-2018
+# Reaction O1099045 : NP:   11 E-range:   254.    -  2.590E+03 MeV 74-W-0(P,X)71-LU-169,CUM,SIG        pdf: y
+# Paper    O1099045 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099045 : 
+# Comment  O1099045 : Evaluation        N=     6 F=  3.074E+04 chi-2=   71.8     D=   55.9     mb T=  1.808E-03 mb E=   45.4     K1= 3.074E+04 K2= 1.000E+35
+# Comment  O1099045 : TALYS             N=     6 F=  3.074E+04 chi-2=   71.8     D=   55.9     mb T=  1.808E-03 mb E=   45.4     K1= 3.074E+04 K2= 1.000E+35
+# Comment  O1099045 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   45.4     K1=  0.00     K2=  0.00
+# Comment  O1099045 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   45.4     K1=  0.00     K2=  0.00
+# Comment  O1099045 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   45.4     K1=  0.00     K2=  0.00
+# Comment  O1099045 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   45.4     K1=  0.00     K2=  0.00
+# Comment  O1099045 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   45.4     K1=  0.00     K2=  0.00
+# Comment  O1099045 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   45.4     K1=  0.00     K2=  0.00
+# Comment  O1099045 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   45.4     K1=  0.00     K2=  0.00

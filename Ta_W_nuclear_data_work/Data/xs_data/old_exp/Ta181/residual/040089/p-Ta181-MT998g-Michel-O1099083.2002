@@ -1,0 +1,42 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  40
+# Final A     :  89
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099083 
+# X4 code     : 73-TA-181(P,X)40-ZR-89-G,CUM,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.65000E+02  4.62000E-01  7.10000E-02  1.00000E+00
+  9.86000E+02  6.40000E-01  8.70000E-02  1.00000E+00
+  1.18000E+03  7.59000E-01  1.13000E-01  1.00000E+00
+  1.38000E+03  1.12000E+00  1.50000E-01  1.00000E+00
+  1.57000E+03  1.26000E+00  1.70000E-01  1.00000E+00
+  2.58000E+03  3.72000E+00  4.90000E-01  1.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099083 :   
+# Date     O1099083 : 05-01-2018
+# Reaction O1099083 : NP:    6 E-range:   765.    -  2.580E+03 MeV 73-TA-181(P,X)40-ZR-89-G,CUM,SIG    pdf: n
+# Paper    O1099083 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099083 : 
+# Comment  O1099083 : 

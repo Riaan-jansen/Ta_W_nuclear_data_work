@@ -1,0 +1,41 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 184
+# Final state : 1
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1884006 
+# X4 code     : 74-W-0(P,X)75-RE-184-M,,SIG
+# Author      : Bonardi                  
+# Year        : 2011
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.15900E+01  4.94000E+01  2.40000E+00  2.50000E-01
+  2.03300E+01  3.47000E+01  1.80000E+00  3.30000E-01
+  1.90100E+01  1.98000E+01  1.00000E+00  3.90000E-01
+  1.76200E+01  7.09000E+00  4.10000E-01  4.30000E-01
+  1.61500E+01  1.47000E+00  1.10000E-01  4.70000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#M.L.Bonardi,  F.Groppi,  E.Persico,  S.Manenti,  K.Abbas, U.Holzwarth,  F.Simonelli,  Z.B.Alfassi
+#
+#Jour. Radiochimica Acta Vol.99, p.1, 2011
+#Excitation functions and yields for cyclotron production of radiorhenium via W-0(p,xn)Re-181-186g nuclear reactions and tests on the production of
+#Re-186g using enriched W-186
+#
+# Quality information:
+#
+# Quality  O1884006 :   
+# Date     O1884006 : 05-01-2018
+# Reaction O1884006 : NP:    5 E-range:   16.1    -   21.6     MeV 74-W-0(P,X)75-RE-184-M,,SIG         pdf: n
+# Paper    O1884006 : M.L.Bonardi+ Jour. Radiochimica Acta Vol.99, p.1, 2011 Excitation functions and yields for cyclotron production of radiorhenium via W-0(p,xn
+# Action   O1884006 : 
+# Comment  O1884006 : 

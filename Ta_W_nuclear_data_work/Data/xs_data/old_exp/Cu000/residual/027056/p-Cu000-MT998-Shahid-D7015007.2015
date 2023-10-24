@@ -1,0 +1,55 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  56
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D7015007 
+# X4 code     : 29-CU-0(P,X)27-CO-56,,SIG
+# Author      : Shahid                   
+# Year        : 2015
+# Data points :     12
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.30000E+01  1.02000E+00  8.00000E-02  2.00000E-01  9.57821E-03  9.3904E-03   159.5       1.010              
+  4.16000E+01  1.02000E+00  9.00000E-02  2.00000E-01  5.10837E-03  5.0082E-03   127.2       1.015              
+  4.01000E+01  1.03000E+00  9.00000E-02  2.00000E-01
+  3.87000E+01  9.50000E-01  9.00000E-02  2.00000E-01
+  3.71000E+01  1.01000E+00  9.00000E-02  2.00000E-01
+  3.55000E+01  8.50000E-01  9.00000E-02  2.00000E-01
+  3.39000E+01  7.10000E-01  8.00000E-02  2.00000E-01
+  3.22000E+01  5.50000E-01  7.00000E-02  3.00000E-01
+  3.04000E+01  4.20000E-01  6.00000E-02  3.00000E-01
+  2.85000E+01  2.50000E-01  4.00000E-02  3.00000E-01
+  2.66000E+01  1.00000E-01  3.00000E-02  3.00000E-01
+  2.45000E+01  7.00000E-02  2.00000E-02  3.00000E-01
+#
+# Average deviation:                                                147.3       143.3       1.013    
+#
+# Full reference:
+#M.Shahid,  K.Kim,  H.Naik,  M.Zaman,  S.C.Yang,  G.N.Kim
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.342, p.305, 2015
+#Measurement of excitation functions in proton induced reactions on natural copper from their threshold to 43 MeV
+#
+#
+# Quality information:
+#
+# Quality  D7015007 : T2
+# Date     D7015007 : 05-01-2018
+# Reaction D7015007 : NP:   12 E-range:   24.5    -   43.0     MeV 29-CU-0(P,X)27-CO-56,,SIG           pdf: y
+# Paper    D7015007 : M.Shahid+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.342, p.305, 2015 Measurement of excitation functions in proton induced re
+# Action   D7015007 : 
+# Comment  D7015007 : Evaluation        N=     2 F=   147.     chi-2=   143.     D=   1.01     mb T=  7.343E-03 mb E=  0.665     K1=  147.     K2= 1.000E+35
+# Comment  D7015007 : TALYS             N=     2 F=   147.     chi-2=   143.     D=   1.01     mb T=  7.343E-03 mb E=  0.665     K1=  147.     K2= 1.000E+35
+# Comment  D7015007 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.665     K1=  0.00     K2=  0.00
+# Comment  D7015007 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.665     K1=  0.00     K2=  0.00
+# Comment  D7015007 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.665     K1=  0.00     K2=  0.00
+# Comment  D7015007 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.665     K1=  0.00     K2=  0.00
+# Comment  D7015007 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.665     K1=  0.00     K2=  0.00
+# Comment  D7015007 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.665     K1=  0.00     K2=  0.00
+# Comment  D7015007 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.665     K1=  0.00     K2=  0.00

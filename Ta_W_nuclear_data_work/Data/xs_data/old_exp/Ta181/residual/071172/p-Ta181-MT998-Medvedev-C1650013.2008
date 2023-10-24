@@ -1,0 +1,44 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  71
+# Final A     : 172
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C1650013 
+# X4 code     : 73-TA-181(P,X)71-LU-172,,SIG
+# Author      : Medvedev                 
+# Year        : 2008
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.09800E+02  4.20000E+00  4.00000E-01  3.00000E-01  6.60264E+00   1.572       270.3       6.122              
+  1.95300E+02  5.60000E+00  6.00000E-01  3.00000E-01  6.81415E+00   1.217       27.73       2.917              
+#
+# Average deviation:                                                3.530       149.0       4.519    
+#
+# Full reference:
+#D.G.Medvedev, L.F.Mausner, G.A.Greene, A.L.Hanson
+#Jour. Applied Radiation and Isotopes Vol.66, p.1300, 2008
+#Activation of natural Hf and Ta in relation to the production of 177Lu
+#
+# Quality information:
+#
+# Quality  C1650013 : T2
+# Date     C1650013 : 05-01-2018
+# Reaction C1650013 : NP:    2 E-range:   110.    -   195.     MeV 73-TA-181(P,X)71-LU-172,,SIG        pdf: y
+# Paper    C1650013 : D.G.Medvedev+ Jour. Applied Radiation and Isotopes Vol.66, p.1300, 2008 Activation of natural Hf and Ta in relation to the production of 177
+# Action   C1650013 : 
+# Comment  C1650013 : Evaluation        N=     2 F=   3.53     chi-2=   149.     D=   4.52     mb T=   6.71     mb E=   4.90     K1=  3.53     K2= 2.718E+04
+# Comment  C1650013 : TALYS             N=     2 F=   4.73     chi-2=   47.3     D=   2.71     mb T=   2.19     mb E=   4.90     K1=  4.73     K2= 1.103E+06
+# Comment  C1650013 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.90     K1=  0.00     K2=  0.00
+# Comment  C1650013 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.90     K1=  0.00     K2=  0.00
+# Comment  C1650013 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.90     K1=  0.00     K2=  0.00
+# Comment  C1650013 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.90     K1=  0.00     K2=  0.00
+# Comment  C1650013 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.90     K1=  0.00     K2=  0.00
+# Comment  C1650013 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.90     K1=  0.00     K2=  0.00
+# Comment  C1650013 : tendl.2017        N=     2 F=   2.40     chi-2=   251.     D=   6.33     mb T=   11.2     mb E=   4.90     K1=  2.40     K2=  47.5

@@ -1,0 +1,56 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : B0074003 
+# X4 code     : 29-CU-65(P,N)30-ZN-65,,SIG,,,EXP
+# Author      : Greene                   
+# Year        : 1972
+# Data points :     16
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.60000E+01  2.43000E+02  0.00000E+00  0.00000E+00  1.55906E+02  0.6416       9.897       87.09              
+  1.60000E+01  2.56000E+02  0.00000E+00  0.00000E+00  1.55906E+02  0.6090       11.92       100.1              
+  1.80000E+01  1.39000E+02  0.00000E+00  0.00000E+00  1.00736E+02  0.7247       5.626       38.26              
+  1.80000E+01  1.83000E+02  0.00000E+00  0.00000E+00  1.00736E+02  0.5505       15.97       82.26              
+  2.00000E+01  9.15000E+01  0.00000E+00  0.00000E+00  7.98192E+01  0.8723       1.818       12.69              
+  2.00000E+01  9.42000E+01  0.00000E+00  0.00000E+00  7.98192E+01  0.8473       2.228       14.62              
+  2.20000E+01  5.20000E+01  0.00000E+00  0.00000E+00  6.76954E+01   1.302       15.59       15.70              
+  2.20000E+01  5.50000E+01  0.00000E+00  0.00000E+00  6.76954E+01   1.231       11.06       14.83              
+  2.49000E+01  4.90000E+01  0.00000E+00  0.00000E+00  6.04175E+01   1.233       13.80       14.36              
+  2.71000E+01  5.05000E+01  0.00000E+00  0.00000E+00  5.42178E+01   1.074       11.39       15.17              
+  2.80000E+01  4.35000E+01  0.00000E+00  0.00000E+00  5.25417E+01   1.208       20.05       16.17              
+  2.90000E+01  4.30000E+01  0.00000E+00  0.00000E+00  5.11583E+01   1.190       20.25       16.19              
+  2.99000E+01  4.30000E+01  0.00000E+00  0.00000E+00  4.98284E+01   1.159       19.40       16.01              
+  3.02000E+01  4.25000E+01  0.00000E+00  0.00000E+00  3.67824E+01  0.8655       6.907       11.88              
+  3.22000E+01  4.45000E+01  0.00000E+00  0.00000E+00  3.44962E+01  0.7752       7.240       13.15              
+  3.28000E+01  4.02000E+01  0.00000E+00  0.00000E+00  3.40065E+01  0.8459       6.384       11.64              
+#
+# Average deviation:                                                1.460       11.22       30.01    
+#
+# Full reference:
+#M.W.Greene,  E.Lebowitz
+#Jour. Applied Radiation and Isotopes Vol.23, p.342, 1972
+#Proton Reactions with Copper For Auxiliary Cyclotron Beam Monitoring
+#
+# Quality information:
+#
+# Quality  B0074003 : T1
+# Date     B0074003 : 05-01-2018
+# Reaction B0074003 : NP:   16 E-range:   16.0    -   32.8     MeV 29-CU-65(P,N)30-ZN-65,,SIG,,,EXP    pdf: y
+# Paper    B0074003 : M.W.Greene+ Jour. Applied Radiation and Isotopes Vol.23, p.342, 1972 Proton Reactions with Copper For Auxiliary Cyclotron Beam Monitoring
+# Action   B0074003 : 
+# Comment  B0074003 : Evaluation        N=    16 F=   1.46     chi-2=   11.2     D=   30.0     mb T=   73.9     mb E=   91.9     K1=  1.46     K2=  2.87
+# Comment  B0074003 : TALYS             N=    16 F=   1.53     chi-2=   0.00     D=   34.9     mb T=   57.0     mb E=   91.9     K1=  1.53     K2=  3.85
+# Comment  B0074003 : cendl3.1          N=     6 F=   1.61     chi-2=   13.0     D=   63.7     mb T=   104.     mb E=   91.9     K1=  1.61     K2=  4.25
+# Comment  B0074003 : eaf.2010          N=    16 F=   1.30     chi-2=   6.49     D=   24.5     mb T=   81.0     mb E=   91.9     K1=  1.30     K2=  1.84
+# Comment  B0074003 : endfb8.0          N=    13 F=   1.46     chi-2=   9.21     D=   33.0     mb T=   70.4     mb E=   91.9     K1=  1.46     K2=  2.78
+# Comment  B0074003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   91.9     K1=  0.00     K2=  0.00
+# Comment  B0074003 : jeff3.3           N=    13 F=   1.36     chi-2=   9.28     D=   30.0     mb T=   90.0     mb E=   91.9     K1=  1.36     K2=  2.07
+# Comment  B0074003 : jendl4.0          N=     6 F=   1.37     chi-2=   6.76     D=   44.6     mb T=   125.     mb E=   91.9     K1=  1.37     K2=  2.22
+# Comment  B0074003 : tendl.2017        N=    16 F=   1.62     chi-2=   30.5     D=   36.1     mb T=   86.2     mb E=   91.9     K1=  1.62     K2=  3.96

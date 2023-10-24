@@ -1,0 +1,50 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0729007 
+# X4 code     : 13-AL-27(P,X)4-BE-7,IND,SIG
+# Author      : Fassbender               
+# Year        : 1998
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.56600E+02  1.60000E+00  2.00000E-01  1.00000E-01  2.03206E+00   1.270       4.667      0.4321              
+  2.17200E+02  1.60000E+00  2.00000E-01  1.00000E-01  8.58511E-01  0.5366       13.75      0.7415              
+  1.75000E+02  1.20000E+00  2.00000E-01  1.00000E-01  2.28162E-01  0.1901       23.61      0.9718              
+  1.65200E+02  9.00000E-01  1.00000E-01  1.00000E-01  1.56482E-01  0.1739       55.28      0.7435              
+  1.57000E+02  9.00000E-01  1.00000E-01  1.00000E-01  1.05575E-01  0.1173       63.11      0.7944              
+  1.48600E+02  1.10000E+00  1.00000E-01  2.00000E-01  7.14523E-02  6.4957E-02   105.8       1.029              
+  1.40900E+02  1.00000E+00  1.00000E-01  2.00000E-01  4.89807E-02  4.8981E-02   90.44      0.9510              
+#
+# Average deviation:                                                7.238       50.95      0.8090    
+#
+# Full reference:
+#M.Fassbender,  B.Scholten,  S.M.Qaim
+#Jour. Radiochimica Acta Vol.81, p.1, 1998
+#Radiochemical Studies of (P,BE-7) Reactions on Biologically Relevant Elements in the Proton Energy Range of 50 to 350 MeV.
+#
+#
+# Quality information:
+#
+# Quality  O0729007 : T2
+# Date     O0729007 : 05-01-2018
+# Reaction O0729007 : NP:    7 E-range:   141.    -   257.     MeV 13-AL-27(P,X)4-BE-7,IND,SIG         pdf: y
+# Paper    O0729007 : M.Fassbender+ Jour. Radiochimica Acta Vol.81, p.1, 1998 Radiochemical Studies of (P,BE-7) Reactions on Biologically Relevant Elements in the
+# Action   O0729007 : 
+# Comment  O0729007 : Evaluation        N=     7 F=   7.24     chi-2=   51.0     D=  0.809     mb T=  0.500     mb E=   1.19     K1=  7.24     K2= 5.023E+09
+# Comment  O0729007 : TALYS             N=     7 F=   7.24     chi-2=   51.0     D=  0.809     mb T=  0.500     mb E=   1.19     K1=  7.24     K2= 5.023E+09
+# Comment  O0729007 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.19     K1=  0.00     K2=  0.00
+# Comment  O0729007 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.19     K1=  0.00     K2=  0.00
+# Comment  O0729007 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.19     K1=  0.00     K2=  0.00
+# Comment  O0729007 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.19     K1=  0.00     K2=  0.00
+# Comment  O0729007 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.19     K1=  0.00     K2=  0.00
+# Comment  O0729007 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.19     K1=  0.00     K2=  0.00
+# Comment  O0729007 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.19     K1=  0.00     K2=  0.00

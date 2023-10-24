@@ -1,0 +1,40 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   22.800 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  5.59000)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :   51
+# X4 ID       : O0058005 
+# X4 code     : 13-AL-27(P,N)14-SI-27,PAR,DA,,,EXP
+# Author      : Carlson                  
+# Year        : 1975
+# Data points :     19
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  9.00012E+00  6.80000E-01  1.02000E-01
+  2.00001E+01  8.20000E-01  1.23000E-01
+  2.70001E+01  1.08000E+00  1.62000E-01
+  3.50000E+01  1.21000E+00  1.81500E-01
+  4.50001E+01  1.08000E+00  1.62000E-01
+  5.20001E+01  9.80000E-01  1.47000E-01
+  6.00001E+01  7.30000E-01  1.09500E-01
+  6.70001E+01  7.30000E-01  1.09500E-01
+  7.40001E+01  6.10000E-01  9.15000E-02
+  8.90001E+01  5.60000E-01  8.40000E-02
+  9.60001E+01  5.00000E-01  7.50000E-02
+  1.04000E+02  5.00000E-01  7.50000E-02
+  1.11000E+02  4.10000E-01  6.15000E-02
+  1.18000E+02  3.20000E-01  4.80000E-02
+  1.26000E+02  3.20000E-01  4.80000E-02
+  1.33000E+02  3.80000E-01  5.70000E-02
+  1.40000E+02  4.10000E-01  6.15000E-02
+  1.48000E+02  3.80000E-01  5.70000E-02
+  1.55000E+02  4.10000E-01  6.15000E-02
+# Full reference:
+#J.D.Carlson, C.D.Zafirators, D.A.Lind
+#Jour. Nuclear Physics, Section A Vol.249, p.29, 1975
+#OPTICAL MODEL ANALYSIS OF QUASIELASTIC (P,N) REACTIONS AT 22.8 MEV.

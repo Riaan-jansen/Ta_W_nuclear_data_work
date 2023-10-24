@@ -1,0 +1,33 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : D0534006 
+# X4 code     : 29-CU-0(P,NON),,SIG
+# Author      : Bulman                   
+# Year        : 1968
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  9.05000E+00  7.68000E+02  2.50000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#P.J.Bulman, J.A.R.Griffith
+#Jour. Nuclear Physics, Section A Vol.111, p.315, 1968
+#Proton total reaction cross sections at 9.1 MeV
+#
+# Quality information:
+#
+# Quality  D0534006 :   
+# Date     D0534006 : 05-01-2018
+# Reaction D0534006 : NP:    1 E-range:   9.05    -   9.05     MeV 29-CU-0(P,NON),,SIG                 pdf: n
+# Paper    D0534006 : P.J.Bulman+ Jour. Nuclear Physics, Section A Vol.111, p.315, 1968 Proton total reaction cross sections at 9.1 MeV
+# Action   D0534006 : 
+# Comment  D0534006 : 

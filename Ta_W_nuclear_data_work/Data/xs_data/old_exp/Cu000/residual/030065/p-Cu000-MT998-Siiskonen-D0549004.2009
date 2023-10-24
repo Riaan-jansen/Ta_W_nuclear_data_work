@@ -1,0 +1,43 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  65
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0549004 
+# X4 code     : 29-CU-0(P,X)30-ZN-65,,SIG
+# Author      : Siiskonen                
+# Year        : 2009
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.00000E+00  1.57000E+02  1.30000E+01  7.50000E-01
+  8.36000E+00  1.94000E+02  1.60000E+01  6.50000E-01
+  9.62000E+00  2.25000E+02  1.80000E+01  6.00000E-01
+  1.07400E+01  2.30000E+02  1.90000E+01  5.50000E-01
+  1.21200E+01  1.95000E+02  1.60000E+01  4.50000E-01
+  1.33900E+01  1.34000E+02  1.10000E+01  4.00000E-01
+  1.48400E+01  8.60000E+01  7.00000E+00  3.50000E-01
+  1.64500E+01  5.50000E+01  5.00000E+00  3.00000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#T.Siiskonen, J.Huikari, T.Haavisto, J.Bergman, S.-J.Heselius,  J.-O.Lill, T.Lonnroth, K.Perajarvi
+#
+#Jour. Applied Radiation and Isotopes Vol.67, p.2037, 2009
+#Excitation functions of proton-induced reactions in natCu in the energy range 7 - 17 MeV
+#
+# Quality information:
+#
+# Quality  D0549004 :   
+# Date     D0549004 : 05-01-2018
+# Reaction D0549004 : NP:    8 E-range:   7.00    -   16.5     MeV 29-CU-0(P,X)30-ZN-65,,SIG           pdf: n
+# Paper    D0549004 : T.Siiskonen+ Jour. Applied Radiation and Isotopes Vol.67, p.2037, 2009 Excitation functions of proton-induced reactions in natCu in the ener
+# Action   D0549004 : 
+# Comment  D0549004 : 

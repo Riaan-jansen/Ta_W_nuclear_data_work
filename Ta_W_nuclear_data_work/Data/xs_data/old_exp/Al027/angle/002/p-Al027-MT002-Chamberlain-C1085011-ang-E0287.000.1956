@@ -1,0 +1,31 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,el)
+# E-inc       :  287.000 MeV
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :    2
+# X4 ID       : C1085011 
+# X4 code     : 13-AL-27(P,EL)13-AL-27,,DA
+# Author      : Chamberlain              
+# Year        : 1956
+# Data points :     11
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  7.79994E+00  6.50000E+02  6.00000E+00
+  9.79996E+00  3.23000E+02  3.00000E+00
+  1.18001E+01  1.23000E+02  2.00000E+00
+  1.38001E+01  4.94000E+01  1.20000E+00
+  1.58000E+01  1.76000E+01  7.00000E-01
+  1.78001E+01  1.06000E+01  5.00000E-01
+  1.98000E+01  7.29000E+00  4.10000E-01
+  2.08001E+01  7.46000E+00  3.40000E-01
+  2.18000E+01  7.43000E+00  3.90000E-01
+  2.38001E+01  5.09000E+00  3.00000E-01
+  2.58000E+01  2.82000E+00  2.30000E-01
+# Full reference:
+#O.Chamberlain, E.Segre, R.D.Tripp, C.Wiegand, T.Ypsilantis
+#Jour. Physical Review Vol.102, p.1659, 1956
+#Experiments with 315-Mev Polarized Protons. I. Elastic Scattering by Complex Nuclei

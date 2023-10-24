@@ -1,0 +1,43 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  64
+# Final A     : 148
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0905003 
+# X4 code     : 73-TA-181(P,X)64-GD-148,,SIG
+# Author      : Titarenko                
+# Year        : 2011
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.00000E+02  2.11000E+00  2.80000E-01  0.00000E+00
+  6.00000E+02  1.48000E+01  2.30000E+00  0.00000E+00
+  8.00000E+02  2.23000E+01  2.80000E+00  0.00000E+00
+  1.20000E+03  2.77000E+01  3.40000E+00  0.00000E+00
+  1.60000E+03  3.17000E+01  4.80000E+00  0.00000E+00
+  2.60000E+03  2.14000E+01  3.20000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Yu.E.Titarenko,  V.F.Batyaev,  A.Yu.Titarenko, M.A.Butko,  K.V.Pavlov,  S.N.Florya,  R.S.Tikhonov, V.M.Zhivun,  A.V.Ignatyuk,
+# S.G.Mashnik,  S.Leray, A.Boudard,  J.Cugnon,  D.Mancusi,  Y.Yariv,  K.Nishihara, N.Matsuda,  H.Kumawat,
+# G.Mank,  W.Gudowski
+#Jour. Yadernaya Fizika Vol.74, p.596, 2011
+#Measurement and simulation of the cross sections for nuclide production of Gd-148 in thin W-nat and Ta-181 targets irradiated with 0.4- to 2.6-GeV
+#protons.
+#
+# Quality information:
+#
+# Quality  A0905003 :   
+# Date     A0905003 : 05-01-2018
+# Reaction A0905003 : NP:    6 E-range:   400.    -  2.600E+03 MeV 73-TA-181(P,X)64-GD-148,,SIG        pdf: n
+# Paper    A0905003 : Yu.E.Titarenko+ Jour. Yadernaya Fizika Vol.74, p.596, 2011 Measurement and simulation of the cross sections for nuclide production of Gd-148
+# Action   A0905003 : 
+# Comment  A0905003 : 

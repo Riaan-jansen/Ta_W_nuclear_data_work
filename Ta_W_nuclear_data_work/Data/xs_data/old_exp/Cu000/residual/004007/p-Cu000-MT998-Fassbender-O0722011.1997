@@ -1,0 +1,47 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0722011 
+# X4 code     : 29-CU-0(P,X)4-BE-7,,SIG
+# Author      : Fassbender               
+# Year        : 1997
+# Data points :     12
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.55500E+02  6.29000E-01  1.07000E-01  0.00000E+00
+  2.51400E+02  7.07000E-01  1.21000E-01  0.00000E+00
+  2.14400E+02  3.51000E-01  6.00000E-02  0.00000E+00
+  1.67800E+02  2.59000E-01  4.40000E-02  0.00000E+00
+  1.66300E+02  2.43000E-01  4.00000E-02  0.00000E+00
+  1.60200E+02  2.15000E-01  3.70000E-02  0.00000E+00
+  1.55900E+02  2.35000E-01  4.10000E-02  0.00000E+00
+  1.49800E+02  2.12000E-01  3.60000E-02  0.00000E+00
+  1.47400E+02  2.04000E-01  3.30000E-02  0.00000E+00
+  1.26500E+02  1.88000E-01  3.20000E-02  0.00000E+00
+  1.04700E+02  1.54000E-01  2.60000E-02  0.00000E+00
+  7.99000E+01  1.11000E-01  1.90000E-02  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#M.Fassbender,  Yu.N.Shubin,  V.P.Lunev,  S.M.Qaim
+#Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997
+#Experimental studies and nuclear model calculations on the formation of radioactive products in interactions of medium energy protons with copper, zinc
+#and brass:  estimation of collimator activation in proton therapy facilities.
+#
+# Quality information:
+#
+# Quality  O0722011 :   
+# Date     O0722011 : 05-01-2018
+# Reaction O0722011 : NP:   12 E-range:   79.9    -   356.     MeV 29-CU-0(P,X)4-BE-7,,SIG             pdf: n
+# Paper    O0722011 : M.Fassbender+ Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997 Experimental studies and nuclear model calculations on the formation
+# Action   O0722011 : 
+# Comment  O0722011 : 

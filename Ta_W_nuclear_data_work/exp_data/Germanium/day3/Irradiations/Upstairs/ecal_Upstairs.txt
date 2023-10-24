@@ -1,0 +1,13 @@
+
+Detector = BE2020
+
+Front of plastic end cap to source = 141 mm
+
+152Eu   C3N.19/92    Livetime = 3307.04 sec
+
+60Co  Co60.284.17  Livetime= 1320.00 sec
+
+
+
+
+

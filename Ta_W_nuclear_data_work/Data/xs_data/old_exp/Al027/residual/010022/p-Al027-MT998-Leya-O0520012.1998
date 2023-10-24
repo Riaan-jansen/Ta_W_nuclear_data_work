@@ -1,0 +1,52 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  10
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0520012 
+# X4 code     : 13-AL-27(P,X)10-NE-22,IND,SIG
+# Author      : Leya                     
+# Year        : 1998
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.15000E+01  1.96000E+01  3.40000E+00  4.00000E-01  1.38998E+01  0.7092       2.811       5.700              
+  4.40000E+01  1.53000E+01  2.30000E+00  5.00000E-01  1.43160E+01  0.9357      0.1830      0.9840              
+  8.95000E+01  1.17000E+01  2.40000E+00  1.40000E+00  1.20538E+01   1.030      2.1735E-02  0.3538              
+  1.09000E+02  1.14000E+01  1.20000E+00  1.00000E+00  1.24025E+01   1.088      0.6979       1.003              
+  1.20000E+02  1.20000E+01  1.20000E+00  1.00000E+00  1.22617E+01   1.022      4.7560E-02  0.2617              
+  1.37000E+02  1.19000E+01  1.20000E+00  1.00000E+00  1.17440E+01  0.9869      1.6894E-02  0.1560              
+  1.79000E+02  1.13000E+01  1.10000E+00  1.00000E+00  1.04205E+01  0.9222      0.6392      0.8795              
+  2.99000E+02  1.22000E+01  1.40000E+00  1.00000E+00  1.09183E+01  0.8949      0.8381       1.282              
+  3.97000E+02  1.29000E+01  1.00000E+00  1.00000E+00  1.08213E+01  0.8389       4.321       2.079              
+#
+# Average deviation:                                                1.152       1.064       1.411    
+#
+# Full reference:
+#I.Leya, H.Busemann, H.Baur, R.Wieler, M.Gloris, S.Neumann, R.Michel, F.Sudbrock, U.Herpers
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.145, p.449, 1998
+#Cross sections for the proton-induced production of He and Ne isotopes from magnesium, aluminum and silicon.
+#
+# Quality information:
+#
+# Quality  O0520012 : T1
+# Date     O0520012 : 05-01-2018
+# Reaction O0520012 : NP:    9 E-range:   41.5    -   397.     MeV 13-AL-27(P,X)10-NE-22,IND,SIG       pdf: y
+# Paper    O0520012 : I.Leya+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.145, p.449, 1998 Cross sections for the proton-induced production of He and
+# Action   O0520012 : 
+# Comment  O0520012 : Evaluation        N=     9 F=   1.15     chi-2=   1.06     D=   1.41     mb T=   12.1     mb E=   13.1     K1=  1.15     K2=  1.28
+# Comment  O0520012 : TALYS             N=     9 F=   1.15     chi-2=   1.06     D=   1.41     mb T=   12.1     mb E=   13.1     K1=  1.15     K2=  1.28
+# Comment  O0520012 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.1     K1=  0.00     K2=  0.00
+# Comment  O0520012 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.1     K1=  0.00     K2=  0.00
+# Comment  O0520012 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.1     K1=  0.00     K2=  0.00
+# Comment  O0520012 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.1     K1=  0.00     K2=  0.00
+# Comment  O0520012 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.1     K1=  0.00     K2=  0.00
+# Comment  O0520012 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.1     K1=  0.00     K2=  0.00
+# Comment  O0520012 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.1     K1=  0.00     K2=  0.00

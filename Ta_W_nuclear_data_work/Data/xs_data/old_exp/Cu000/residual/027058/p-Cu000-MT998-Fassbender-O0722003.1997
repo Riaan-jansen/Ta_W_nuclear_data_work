@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  58
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0722003 
+# X4 code     : 29-CU-0(P,X)27-CO-58,,SIG
+# Author      : Fassbender               
+# Year        : 1997
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.54100E+02  3.34000E+01  3.80000E+00  0.00000E+00  2.94485E+01  0.8817       1.081       3.952              
+  2.14400E+02  3.40000E+01  3.90000E+00  0.00000E+00  2.85706E+01  0.8403       1.938       5.429              
+#
+# Average deviation:                                                1.164       1.510       4.690    
+#
+# Full reference:
+#M.Fassbender,  Yu.N.Shubin,  V.P.Lunev,  S.M.Qaim
+#Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997
+#Experimental studies and nuclear model calculations on the formation of radioactive products in interactions of medium energy protons with copper, zinc
+#and brass:  estimation of collimator activation in proton therapy facilities.
+#
+# Quality information:
+#
+# Quality  O0722003 : T1
+# Date     O0722003 : 05-01-2018
+# Reaction O0722003 : NP:    2 E-range:   214.    -   254.     MeV 29-CU-0(P,X)27-CO-58,,SIG           pdf: y
+# Paper    O0722003 : M.Fassbender+ Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997 Experimental studies and nuclear model calculations on the formation
+# Action   O0722003 : 
+# Comment  O0722003 : Evaluation        N=     2 F=   1.16     chi-2=   1.51     D=   4.69     mb T=   29.0     mb E=   33.7     K1=  1.16     K2=  1.27
+# Comment  O0722003 : TALYS             N=     2 F=   1.16     chi-2=   1.51     D=   4.69     mb T=   29.0     mb E=   33.7     K1=  1.16     K2=  1.27
+# Comment  O0722003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.7     K1=  0.00     K2=  0.00
+# Comment  O0722003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.7     K1=  0.00     K2=  0.00
+# Comment  O0722003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.7     K1=  0.00     K2=  0.00
+# Comment  O0722003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.7     K1=  0.00     K2=  0.00
+# Comment  O0722003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.7     K1=  0.00     K2=  0.00
+# Comment  O0722003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.7     K1=  0.00     K2=  0.00
+# Comment  O0722003 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.7     K1=  0.00     K2=  0.00

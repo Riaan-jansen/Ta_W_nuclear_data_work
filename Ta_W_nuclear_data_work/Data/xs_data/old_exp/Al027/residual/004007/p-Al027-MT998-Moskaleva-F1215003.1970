@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : F1215003 
+# X4 code     : 13-AL-27(P,X)4-BE-7,,SIG
+# Author      : Moskaleva                
+# Year        : 1970
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.00000E+04  7.17000E+00  1.08000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#L.P.Moskaleva, G.A.Fedoseev, A.N.Khalemskii
+#Jour. Yadernaya Fizika Vol.12, Issue.4, p.871, 1970
+#Yields of the isotopes Be-7, C-11, F-18, Na-22,24 in bombardment of aluminum by 30-, 50- and 70-BeV protons.
+#
+# Quality information:
+#
+# Quality  F1215003 :   
+# Date     F1215003 : 05-01-2018
+# Reaction F1215003 : NP:    1 E-range:  3.000E+04-  3.000E+04 MeV 13-AL-27(P,X)4-BE-7,,SIG            pdf: n
+# Paper    F1215003 : L.P.Moskaleva+ Jour. Yadernaya Fizika Vol.12, Issue.4, p.871, 1970 Yields of the isotopes Be-7, C-11, F-18, Na-22,24 in bombardment of alumi
+# Action   F1215003 : 
+# Comment  F1215003 : 

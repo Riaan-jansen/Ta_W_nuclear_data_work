@@ -1,0 +1,44 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,f)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   18
+# X4 ID       : A0047008 
+# X4 code     : 73-TA-181(P,F),,SIG
+# Author      : Shigaev                  
+# Year        : 1973
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.55000E+02  2.25000E+00  1.60000E-01  0.00000E+00  9.67205E+00   4.299       2152.       7.422              
+  2.00000E+02  3.80000E+00  2.00000E-01  0.00000E+00  1.00604E+01   2.647       979.8       6.260              
+#
+# Average deviation:                                                3.455       1566.       6.841    
+#
+# Full reference:
+#O.E.Shigaev, V.S.Bychenkov, M.F.Lomanov, A.I.Obukhov, N.A.Perfilov, G.G.Shimchuk, R.M.Jakovlev
+#
+#Rept. Khlopin Radiev. Inst., Leningrad Reports No.17, 1973
+#The definition of anisotropy and fission cross sections as a function of Z**2/A at the proton energy 200 MeV
+#
+#
+# Quality information:
+#
+# Quality  A0047008 : N2
+# Date     A0047008 : 05-01-2018
+# Reaction A0047008 : NP:    2 E-range:   155.    -   200.     MeV 73-TA-181(P,F),,SIG                 pdf: n
+# Paper    A0047008 : O.E.Shigaev+ Rept. Khlopin Radiev. Inst., Leningrad Reports No.17, 1973 The definition of anisotropy and fission cross sections as a functio
+# Action   A0047008 : 
+# Comment  A0047008 : Evaluation        N=     2 F=   3.46     chi-2=  1.566E+03 D=   6.84     mb T=   9.87     mb E=   3.03     K1=  3.46     K2= 3.313E+03
+# Comment  A0047008 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.03     K1=  0.00     K2=  0.00
+# Comment  A0047008 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.03     K1=  0.00     K2=  0.00
+# Comment  A0047008 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.03     K1=  0.00     K2=  0.00
+# Comment  A0047008 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.03     K1=  0.00     K2=  0.00
+# Comment  A0047008 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.03     K1=  0.00     K2=  0.00
+# Comment  A0047008 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.03     K1=  0.00     K2=  0.00
+# Comment  A0047008 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.03     K1=  0.00     K2=  0.00
+# Comment  A0047008 : tendl.2017        N=     2 F=   3.46     chi-2=  1.566E+03 D=   6.84     mb T=   9.87     mb E=   3.03     K1=  3.46     K2= 3.313E+03

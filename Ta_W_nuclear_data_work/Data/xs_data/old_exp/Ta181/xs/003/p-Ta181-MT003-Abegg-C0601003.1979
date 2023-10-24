@@ -1,0 +1,48 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : C0601003 
+# X4 code     : 73-TA-181(P,NON),,SIG
+# Author      : Abegg                    
+# Year        : 1979
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.98000E+01  1.61100E+03  1.55000E+02  0.00000E+00  8.47017E+01  5.2577E-02   96.97       1526.              
+  2.48000E+01  1.61700E+03  9.60000E+01  0.00000E+00  6.46523E+01  3.9983E-02   261.5       1552.              
+  2.98000E+01  1.64900E+03  7.50000E+01  0.00000E+00  5.40266E+01  3.2763E-02   452.3       1595.              
+  3.48000E+01  1.70300E+03  7.30000E+01  0.00000E+00  3.54522E+01  2.0818E-02   521.8       1668.              
+  3.99000E+01  1.74000E+03  6.90000E+01  0.00000E+00  3.22399E+01  1.8529E-02   612.6       1708.              
+  4.49000E+01  1.72900E+03  7.80000E+01  0.00000E+00  2.94235E+01  1.7018E-02   474.8       1700.              
+  4.74000E+01  1.74800E+03  7.00000E+01  0.00000E+00  2.77831E+01  1.5894E-02   603.9       1720.              
+#
+# Average deviation:                                                41.56       432.0       1638.    
+#
+# Full reference:
+#R.Abegg, J.Birchall, N.E.Davison, M.S.De Jong, D.L.Ginther, D.K.Hasell, T.N.Nasr, W.T.H.Van Oers, R.F.Carlson,
+#A.J.Cox
+#Jour. Nuclear Physics, Section A Vol.324, p.109, 1979
+#Measurement of the proton total reaction cross section for 159Tb, 181Ta and 197Au between 20 and 48 MeV
+#
+# Quality information:
+#
+# Quality  C0601003 : T2
+# Date     C0601003 : 05-01-2018
+# Reaction C0601003 : NP:    7 E-range:   19.8    -   47.4     MeV 73-TA-181(P,NON),,SIG               pdf: y
+# Paper    C0601003 : R.Abegg+ Jour. Nuclear Physics, Section A Vol.324, p.109, 1979 Measurement of the proton total reaction cross section for 159Tb, 181Ta and 1
+# Action   C0601003 : 
+# Comment  C0601003 : Evaluation        N=     7 F=   41.6     chi-2=   432.     D=  1.638E+03 mb T=   46.9     mb E=  1.685E+03 K1=  41.6     K2= 1.000E+35
+# Comment  C0601003 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.685E+03 K1=  0.00     K2=  0.00
+# Comment  C0601003 : cendl3.1          N=     1 F=   19.3     chi-2=   97.1     D=  1.528E+03 mb T=   83.4     mb E=  1.685E+03 K1=  19.3     K2= 6.145E+17
+# Comment  C0601003 : eaf.2010          N=     7 F=   35.7     chi-2=   430.     D=  1.635E+03 mb T=   50.5     mb E=  1.685E+03 K1=  35.7     K2= 1.000E+35
+# Comment  C0601003 : endfb8.0          N=     3 F=   37.2     chi-2=   278.     D=  1.579E+03 mb T=   46.5     mb E=  1.685E+03 K1=  37.2     K2= 1.000E+35
+# Comment  C0601003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.685E+03 K1=  0.00     K2=  0.00
+# Comment  C0601003 : jeff3.3           N=     3 F=   24.0     chi-2=   270.     D=  1.556E+03 mb T=   69.7     mb E=  1.685E+03 K1=  24.0     K2= 6.489E+28
+# Comment  C0601003 : jendl4.0          N=     1 F=   16.6     chi-2=   95.4     D=  1.514E+03 mb T=   97.2     mb E=  1.685E+03 K1=  16.6     K2= 3.643E+15
+# Comment  C0601003 : tendl.2017        N=     7 F=   43.2     chi-2=   431.     D=  1.635E+03 mb T=   50.0     mb E=  1.685E+03 K1=  43.2     K2= 1.000E+35

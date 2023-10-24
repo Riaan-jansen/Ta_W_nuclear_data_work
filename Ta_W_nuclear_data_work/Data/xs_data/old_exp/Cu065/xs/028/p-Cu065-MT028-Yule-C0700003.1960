@@ -1,0 +1,49 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,np)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   28
+# X4 ID       : C0700003 
+# X4 code     : 29-CU-65(P,N+P)29-CU-64,,SIG
+# Author      : Yule                     
+# Year        : 1960
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.20000E+01  1.08400E+02  4.20000E+00  0.00000E+00  7.01445E+01  0.6471       255.4       55.15              
+  1.10000E+02  9.36000E+01  3.70000E+00  0.00000E+00  4.86919E+01  0.5202       241.9       44.91              
+  1.34000E+02  7.46000E+01  2.90000E+00  0.00000E+00  3.81973E+01  0.5120       245.5       36.40              
+  1.68000E+02  6.58000E+01  2.60000E+00  0.00000E+00  2.90456E+01  0.4414       258.4       36.75              
+  1.96000E+02  6.43000E+01  2.50000E+00  0.00000E+00  2.50180E+01  0.3891       284.0       39.28              
+  2.25000E+02  5.79000E+01  2.30000E+00  0.00000E+00  3.71317E+01  0.6413       81.54       20.77              
+  2.63000E+02  5.50000E+01  2.10000E+00  0.00000E+00  3.53599E+01  0.6429       87.47       19.64              
+  3.30000E+02  5.59000E+01  2.20000E+00  0.00000E+00  3.35584E+01  0.6003       103.1       22.34              
+  4.26000E+02  5.16000E+01  2.00000E+00  0.00000E+00  3.21347E+01  0.6228       94.72       19.47              
+#
+# Average deviation:                                                2.954       183.6       32.75    
+#
+# Full reference:
+#H.P.Yule, A.Turkevich
+#Jour. Physical Review Vol.118, p.1591, 1960
+#Radiochemical studies of the (p,pn) Reaction in Complex Nuclei in the 80-450-MeV Range
+#
+# Quality information:
+#
+# Quality  C0700003 : T1
+# Date     C0700003 : 05-01-2018
+# Reaction C0700003 : NP:    9 E-range:   82.0    -   426.     MeV 29-CU-65(P,N+P)29-CU-64,,SIG        pdf: y
+# Paper    C0700003 : H.P.Yule+ Jour. Physical Review Vol.118, p.1591, 1960 Radiochemical studies of the (p,pn) Reaction in Complex Nuclei in the 80-450-MeV Range
+# Action   C0700003 : 
+# Comment  C0700003 : Evaluation        N=     9 F=   2.95     chi-2=   184.     D=   32.7     mb T=   38.8     mb E=   69.7     K1=  2.95     K2= 3.934E+05
+# Comment  C0700003 : TALYS             N=     9 F=   1.45     chi-2=   59.3     D=   17.6     mb T=   55.9     mb E=   69.7     K1=  1.45     K2=  4.29
+# Comment  C0700003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.7     K1=  0.00     K2=  0.00
+# Comment  C0700003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.7     K1=  0.00     K2=  0.00
+# Comment  C0700003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.7     K1=  0.00     K2=  0.00
+# Comment  C0700003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.7     K1=  0.00     K2=  0.00
+# Comment  C0700003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.7     K1=  0.00     K2=  0.00
+# Comment  C0700003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.7     K1=  0.00     K2=  0.00
+# Comment  C0700003 : tendl.2017        N=     5 F=   7.03     chi-2=   481.     D=   69.8     mb T=   11.5     mb E=   69.7     K1=  7.03     K2= 3.596E+10

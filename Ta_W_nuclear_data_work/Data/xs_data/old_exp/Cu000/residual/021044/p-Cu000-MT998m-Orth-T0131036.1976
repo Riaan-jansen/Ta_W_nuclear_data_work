@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  21
+# Final A     :  44
+# Final state : 1
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : T0131036 
+# X4 code     : 29-CU-0(P,X)21-SC-44-M,IND,SIG
+# Author      : Orth                     
+# Year        : 1976
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.90000E+02  3.68000E+00  1.80000E-01  0.00000E+00  3.13542E+00  0.8520       9.153      0.5446              
+#
+# Average deviation:                                                1.174       9.153      0.5446    
+#
+# Full reference:
+#C.J.Orth, H.A.O'brien Jr, M.E.Schillaci, B.J.Dropesky, J.E.Cline, E.B.Nieschmidt, R.L.Brodzinski
+#
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.38, p.13, 1976
+#Interlaboratory comparison of spallation-reaction cross sections for iron and copper with 590 MeV protons
+#
+#
+# Quality information:
+#
+# Quality  T0131036 : T1
+# Date     T0131036 : 05-01-2018
+# Reaction T0131036 : NP:    1 E-range:   590.    -   590.     MeV 29-CU-0(P,X)21-SC-44-M,IND,SIG      pdf: y
+# Paper    T0131036 : C.J.Orth+ Jour. Journal of Inorganic and Nuclear Chemistry Vol.38, p.13, 1976 Interlaboratory comparison of spallation-reaction cross sectio
+# Action   T0131036 : 
+# Comment  T0131036 : Evaluation        N=     1 F=   1.17     chi-2=   9.15     D=  0.545     mb T=   3.14     mb E=   3.68     K1=  1.17     K2=  1.41
+# Comment  T0131036 : TALYS             N=     1 F=   1.17     chi-2=   9.15     D=  0.545     mb T=   3.14     mb E=   3.68     K1=  1.17     K2=  1.41
+# Comment  T0131036 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.68     K1=  0.00     K2=  0.00
+# Comment  T0131036 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.68     K1=  0.00     K2=  0.00
+# Comment  T0131036 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.68     K1=  0.00     K2=  0.00
+# Comment  T0131036 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.68     K1=  0.00     K2=  0.00
+# Comment  T0131036 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.68     K1=  0.00     K2=  0.00
+# Comment  T0131036 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.68     K1=  0.00     K2=  0.00
+# Comment  T0131036 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.68     K1=  0.00     K2=  0.00

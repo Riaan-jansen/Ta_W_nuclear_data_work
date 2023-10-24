@@ -1,0 +1,49 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  28
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0277200 
+# X4 code     : 29-CU-0(P,X)28-NI-57,CUM,SIG
+# Author      : Michel                   
+# Year        : 1995
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.00000E+02  1.11000E+00  9.00000E-02  0.00000E+00  1.42940E+00   1.288       12.59      0.3194              
+  1.20000E+03  8.81000E-01  7.00000E-02  0.00000E+00
+  1.60000E+03  9.02000E-01  8.30000E-02  0.00000E+00
+  2.60000E+03  7.65000E-01  6.80000E-02  0.00000E+00
+#
+# Average deviation:                                                1.288       12.59      0.3194    
+#
+# Full reference:
+#R.Michel, M.Gloris,  H.-J.Lange,  I.Leya,  M.Luepke, U.Herpers,  B.Dittrich-Hannen,  R.Roesel,  Th.Schiekel,
+#D.Filges,  P.Dragovitsch,  M.Suter,  H.-J.Hofmann, W.Woelfli,  P.W.Kubik,  H.Baur,  R.Wieler
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.103, p.183, 1995
+#Nuclide production by proton-induced reactions on elements (6<=Z<=29) in the energy range from 800 to 2600 MeV.
+#
+#
+# Quality information:
+#
+# Quality  O0277200 : T1
+# Date     O0277200 : 05-01-2018
+# Reaction O0277200 : NP:    4 E-range:   800.    -  2.600E+03 MeV 29-CU-0(P,X)28-NI-57,CUM,SIG        pdf: y
+# Paper    O0277200 : R.Michel+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.103, p.183, 1995 Nuclide production by proton-induced reactions on elemen
+# Action   O0277200 : 
+# Comment  O0277200 : Evaluation        N=     1 F=   1.29     chi-2=   12.6     D=  0.319     mb T=   1.43     mb E=  0.914     K1=  1.29     K2=  1.71
+# Comment  O0277200 : TALYS             N=     1 F=   1.29     chi-2=   12.6     D=  0.319     mb T=   1.43     mb E=  0.914     K1=  1.29     K2=  1.71
+# Comment  O0277200 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.914     K1=  0.00     K2=  0.00
+# Comment  O0277200 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.914     K1=  0.00     K2=  0.00
+# Comment  O0277200 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.914     K1=  0.00     K2=  0.00
+# Comment  O0277200 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.914     K1=  0.00     K2=  0.00
+# Comment  O0277200 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.914     K1=  0.00     K2=  0.00
+# Comment  O0277200 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.914     K1=  0.00     K2=  0.00
+# Comment  O0277200 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.914     K1=  0.00     K2=  0.00

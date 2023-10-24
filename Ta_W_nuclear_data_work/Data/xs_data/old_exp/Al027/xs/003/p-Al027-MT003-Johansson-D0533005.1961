@@ -1,0 +1,33 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : D0533005 
+# X4 code     : 13-AL-27(P,NON),,SIG
+# Author      : Johansson                
+# Year        : 1961
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.79600E+02  3.90000E+02  1.00000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#A.Johansson,  U.Svanberg,  O.Sundberg
+#Jour. Arkiv foer Fysik Vol.19, p.527, 1961
+#Total nuclear reaction cross sections for 180 MeV protons
+#
+# Quality information:
+#
+# Quality  D0533005 :   
+# Date     D0533005 : 05-01-2018
+# Reaction D0533005 : NP:    1 E-range:   180.    -   180.     MeV 13-AL-27(P,NON),,SIG                pdf: n
+# Paper    D0533005 : A.Johansson+ Jour. Arkiv foer Fysik Vol.19, p.527, 1961 Total nuclear reaction cross sections for 180 MeV protons
+# Action   D0533005 : 
+# Comment  D0533005 : 

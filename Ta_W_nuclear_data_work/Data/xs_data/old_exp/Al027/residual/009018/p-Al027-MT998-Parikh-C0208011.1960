@@ -1,0 +1,43 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   9
+# Final A     :  18
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0208011 
+# X4 code     : 13-AL-27(P,X)9-F-18,,SIG
+# Author      : Parikh                   
+# Year        : 1960
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.42000E+02  6.80000E+00  6.80000E-01  1.50000E+01  1.10780E+01   1.629       39.58       4.278              
+#
+# Average deviation:                                                1.629       39.58       4.278    
+#
+# Full reference:
+#V.Parikh
+#Jour. Nuclear Physics Vol.18, p.646, 1960
+#The activities induced in beryllium, oxygen and fluorine by protons of 220 MeV to 362 MeV
+#
+# Quality information:
+#
+# Quality  C0208011 : T1
+# Date     C0208011 : 05-01-2018
+# Reaction C0208011 : NP:    1 E-range:   342.    -   342.     MeV 13-AL-27(P,X)9-F-18,,SIG            pdf: y
+# Paper    C0208011 : V.Parikh Jour. Nuclear Physics Vol.18, p.646, 1960 The activities induced in beryllium, oxygen and fluorine by protons of 220 MeV to 362 MeV
+# Action   C0208011 : 
+# Comment  C0208011 : Evaluation        N=     1 F=   1.63     chi-2=   39.6     D=   4.28     mb T=   11.1     mb E=   6.80     K1=  1.63     K2=  3.74
+# Comment  C0208011 : TALYS             N=     1 F=   1.63     chi-2=   39.6     D=   4.28     mb T=   11.1     mb E=   6.80     K1=  1.63     K2=  3.74
+# Comment  C0208011 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.80     K1=  0.00     K2=  0.00
+# Comment  C0208011 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.80     K1=  0.00     K2=  0.00
+# Comment  C0208011 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.80     K1=  0.00     K2=  0.00
+# Comment  C0208011 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.80     K1=  0.00     K2=  0.00
+# Comment  C0208011 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.80     K1=  0.00     K2=  0.00
+# Comment  C0208011 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.80     K1=  0.00     K2=  0.00
+# Comment  C0208011 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.80     K1=  0.00     K2=  0.00

@@ -1,0 +1,53 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  39
+# Final A     :  87
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099016 
+# X4 code     : 74-W-0(P,X)39-Y-87-G,CUM,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :     17
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.01000E+01  4.38800E-02  1.27800E-02  1.30000E+00
+  8.42000E+01  6.10700E-02  2.07500E-02  1.83000E+00
+  9.96000E+01  6.40500E-02  1.70800E-02  1.12000E+00
+  1.17000E+02  7.41500E-02  2.19500E-02  9.25000E-01
+  1.32000E+02  9.67400E-02  2.62600E-02  6.57000E-01
+  1.54000E+02  8.40600E-02  2.01700E-02  1.29000E+00
+  1.70000E+02  9.69100E-02  3.12200E-02  1.11000E+00
+  2.35000E+02  1.96300E-01  4.88100E-02  1.29900E+00
+  2.60000E+02  2.09500E-01  3.90700E-02  1.08000E+00
+  3.34000E+02  4.26800E-01  1.26900E-01  1.68000E+00
+  5.59000E+02  5.70900E-01  1.30300E-01  1.48000E+00
+  7.64000E+02  7.05600E-01  1.10000E-01  1.45000E+00
+  1.16000E+03  1.30700E+00  1.85300E-01  1.36600E+00
+  1.38000E+03  1.44900E+00  1.60700E-01  1.01600E+00
+  1.57000E+03  1.76900E+00  2.34000E-01  1.29000E+00
+  2.58000E+03  4.29900E+00  8.28900E-01  1.00200E+00
+  2.59000E+03  3.19400E+00  3.42300E-01  1.01000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099016 :   
+# Date     O1099016 : 05-01-2018
+# Reaction O1099016 : NP:   17 E-range:   80.1    -  2.590E+03 MeV 74-W-0(P,X)39-Y-87-G,CUM,SIG        pdf: n
+# Paper    O1099016 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099016 : 
+# Comment  O1099016 : 

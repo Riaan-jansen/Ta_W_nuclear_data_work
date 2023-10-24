@@ -1,0 +1,56 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,np)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   28
+# X4 ID       : D0162013 
+# X4 code     : 29-CU-65(P,N+P)29-CU-64,,SIG
+# Author      : Brinkman                 
+# Year        : 1977
+# Data points :     16
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.26600E+01  1.52930E+01  0.00000E+00  0.00000E+00  4.50267E+00  0.2944       0.000       10.79              
+  1.75860E+01  1.63800E+02  0.00000E+00  0.00000E+00  1.93598E+02   1.182       0.000       29.80              
+  2.13650E+01  3.59260E+02  0.00000E+00  0.00000E+00  3.24111E+02  0.9022       0.000       35.15              
+  2.23470E+01  3.18940E+02  0.00000E+00  0.00000E+00  3.49263E+02   1.095       0.000       30.32              
+  2.61940E+01  3.38510E+02  0.00000E+00  0.00000E+00  3.55720E+02   1.051       0.000       17.21              
+  2.62840E+01  3.52340E+02  0.00000E+00  0.00000E+00  3.54371E+02   1.006       0.000       2.031              
+  3.04850E+01  2.72370E+02  0.00000E+00  0.00000E+00  2.97564E+02   1.092       0.000       25.19              
+  3.06090E+01  2.76810E+02  0.00000E+00  0.00000E+00  2.96555E+02   1.071       0.000       19.74              
+  3.62350E+01  2.67720E+02  0.00000E+00  0.00000E+00  2.54897E+02  0.9521       0.000       12.82              
+  3.62710E+01  2.57760E+02  0.00000E+00  0.00000E+00  2.54725E+02  0.9882       0.000       3.035              
+  4.10290E+01  2.17650E+02  0.00000E+00  0.00000E+00  2.32697E+02   1.069       0.000       15.05              
+  4.58220E+01  2.06860E+02  0.00000E+00  0.00000E+00  2.13402E+02   1.032       0.000       6.542              
+  4.58380E+01  2.02430E+02  0.00000E+00  0.00000E+00  2.13340E+02   1.054       0.000       10.91              
+  4.99640E+01  1.82750E+02  0.00000E+00  0.00000E+00  1.97306E+02   1.080       0.000       14.56              
+  5.00900E+01  1.86630E+02  0.00000E+00  0.00000E+00  1.96844E+02   1.055       0.000       10.21              
+  5.55060E+01  1.58170E+02  0.00000E+00  0.00000E+00  1.78454E+02   1.128       0.000       20.28              
+#
+# Average deviation:                                                1.371       0.000       16.48    
+#
+# Full reference:
+#G.A.Brinkman, J.Helmer, L.Lindner
+#Jour. Radiochemical and Radioanalytical Letters Vol.28, p.9, 1977
+#Nickel and copper fiols as monitors for cyclotron beam intensities
+#
+# Quality information:
+#
+# Quality  D0162013 : T1
+# Date     D0162013 : 05-01-2018
+# Reaction D0162013 : NP:   16 E-range:   12.7    -   55.5     MeV 29-CU-65(P,N+P)29-CU-64,,SIG        pdf: y
+# Paper    D0162013 : G.A.Brinkman+ Jour. Radiochemical and Radioanalytical Letters Vol.28, p.9, 1977 Nickel and copper fiols as monitors for cyclotron beam inten
+# Action   D0162013 : 
+# Comment  D0162013 : Evaluation        N=    16 F=   1.37     chi-2=   0.00     D=   16.5     mb T=   245.     mb E=   236.     K1=  1.37     K2=  4.63
+# Comment  D0162013 : TALYS             N=    16 F=   1.37     chi-2=   0.00     D=   16.5     mb T=   245.     mb E=   236.     K1=  1.37     K2=  4.63
+# Comment  D0162013 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0162013 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0162013 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0162013 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0162013 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0162013 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0162013 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00

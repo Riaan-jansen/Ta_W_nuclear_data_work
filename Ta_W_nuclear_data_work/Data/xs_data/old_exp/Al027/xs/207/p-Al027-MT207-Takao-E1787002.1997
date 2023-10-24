@@ -1,0 +1,45 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xa)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  207
+# X4 ID       : E1787002 
+# X4 code     : 13-AL-27(P,X)2-HE-4,,SIG
+# Author      : Takao                    
+# Year        : 1997
+# Data points :     12
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.80000E+00  1.80000E+01  2.00000E+00  1.20000E+00
+  4.80000E+00  8.20000E+01  4.00000E+00  8.00000E-01
+  6.25000E+00  1.15000E+02  5.00000E+00  6.50000E-01
+  7.60000E+00  1.24000E+02  5.00000E+00  6.00000E-01
+  8.70000E+00  1.29000E+02  6.00000E+00  5.00000E-01
+  9.95000E+00  1.21000E+02  5.00000E+00  4.50000E-01
+  1.11000E+01  1.21000E+02  5.00000E+00  4.00000E-01
+  1.22000E+01  1.21000E+02  5.00000E+00  4.00000E-01
+  1.31500E+01  1.24000E+02  5.00000E+00  3.50000E-01
+  1.40500E+01  1.25000E+02  6.00000E+00  3.50000E-01
+  1.49000E+01  1.33000E+02  6.00000E+00  3.00000E-01
+  1.60000E+01  1.46000E+02  6.00000E+00  3.00000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Y.Takao,  Y.Kanda,  H.Hashimoto,  K.Yamasaki, K.Yamaguchi,  T.Yonemoto,  M.Miwa,  H.Etoh,  K.Nagae
+#
+#Jour. Jour. of Nuclear Science and Technology Vol.34, Issue.2, p.109, 1997
+#Measurement of proton-induced helium production cross sections for aluminum and nickel below 16 MeV
+#
+# Quality information:
+#
+# Quality  E1787002 :   
+# Date     E1787002 : 05-01-2018
+# Reaction E1787002 : NP:   12 E-range:   2.80    -   16.0     MeV 13-AL-27(P,X)2-HE-4,,SIG            pdf: n
+# Paper    E1787002 : Y.Takao+ Jour. Jour. of Nuclear Science and Technology Vol.34, Issue.2, p.109, 1997 Measurement of proton-induced helium production cross se
+# Action   E1787002 : 
+# Comment  E1787002 : 

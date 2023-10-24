@@ -1,0 +1,45 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0028003 
+# X4 code     : 13-AL-27(P,X)11-NA-22,,SIG
+# Author      : Gruetter                 
+# Year        : 1982
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.93000E+02  1.40000E+01  5.00000E-01  0.00000E+00  1.40587E+01   1.004      1.3781E-02  5.8696E-02          
+  5.40000E+02  1.40000E+01  5.00000E-01  0.00000E+00  1.47998E+01   1.057       2.559      0.7998              
+#
+# Average deviation:                                                1.040       1.286      0.4293    
+#
+# Full reference:
+#A.Gruetter
+#Jour. Applied Radiation and Isotopes Vol.33, p.725, 1982
+#Cross sections for reactions with 593 MeV- and 540 MeV- protons in Aluminium, Arsenic, Bromine, Rubidium and Yttrium.  part 1. Al(beam monitor reaction).
+#
+#
+# Quality information:
+#
+# Quality  D0028003 : T1
+# Date     D0028003 : 05-01-2018
+# Reaction D0028003 : NP:    2 E-range:   540.    -   593.     MeV 13-AL-27(P,X)11-NA-22,,SIG          pdf: y
+# Paper    D0028003 : A.Gruetter Jour. Applied Radiation and Isotopes Vol.33, p.725, 1982 Cross sections for reactions with 593 MeV- and 540 MeV- protons in Alumi
+# Action   D0028003 : 
+# Comment  D0028003 : Evaluation        N=     2 F=   1.04     chi-2=   1.29     D=  0.429     mb T=   14.4     mb E=   14.0     K1=  1.04     K2=  1.07
+# Comment  D0028003 : TALYS             N=     2 F=   1.04     chi-2=   1.29     D=  0.429     mb T=   14.4     mb E=   14.0     K1=  1.04     K2=  1.07
+# Comment  D0028003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.0     K1=  0.00     K2=  0.00
+# Comment  D0028003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.0     K1=  0.00     K2=  0.00
+# Comment  D0028003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.0     K1=  0.00     K2=  0.00
+# Comment  D0028003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.0     K1=  0.00     K2=  0.00
+# Comment  D0028003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.0     K1=  0.00     K2=  0.00
+# Comment  D0028003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.0     K1=  0.00     K2=  0.00
+# Comment  D0028003 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.0     K1=  0.00     K2=  0.00

@@ -1,0 +1,48 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A03510026
+# X4 code     : 29-CU-0(P,X)27-CO-57,,SIG
+# Author      : Aleksandrov              
+# Year        : 1987
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.00000E+01  3.00000E+01  5.90000E+00  2.10000E+00  2.13194E+01  0.7106       2.958       8.681              
+  5.90000E+01  6.10000E+01  1.10000E+01  1.20000E+00  1.89872E+01  0.3113       14.81       42.01              
+  7.00000E+01  4.20000E+01  8.10000E+00  9.00000E-01  1.46629E+01  0.3491       11.59       27.34              
+  7.90000E+01  4.29000E+01  8.10000E+00  2.20000E+00  1.53935E+01  0.3588       11.90       27.51              
+  8.90000E+01  4.70000E+01  8.90000E+00  1.90000E+00  1.94939E+01  0.4148       10.67       27.51              
+  9.80000E+01  4.40000E+01  8.50000E+00  1.50000E+00  2.25565E+01  0.5126       8.687       21.44              
+#
+# Average deviation:                                                2.890       10.10       25.75    
+#
+# Full reference:
+#V.N.Aleksandrov, M.P.Semyonova, V.G.Semyonov
+#Jour. Atomnaya Energiya Vol.62, p.411, 1987
+#Excitation functions for radionuclides produced by (p,x)-reactions of copper and nickel.
+#
+# Quality information:
+#
+# Quality  A03510026: T2
+# Date     A03510026: 05-01-2018
+# Reaction A03510026: NP:    6 E-range:   50.0    -   98.0     MeV 29-CU-0(P,X)27-CO-57,,SIG           pdf: y
+# Paper    A03510026: V.N.Aleksandrov+ Jour. Atomnaya Energiya Vol.62, p.411, 1987 Excitation functions for radionuclides produced by (p,x)-reactions of copper an
+# Action   A03510026: 
+# Comment  A03510026: Evaluation        N=     6 F=   2.89     chi-2=   10.1     D=   25.7     mb T=   18.7     mb E=   44.5     K1=  2.89     K2=  74.8
+# Comment  A03510026: TALYS             N=     6 F=   1.86     chi-2=   5.38     D=   18.6     mb T=   25.9     mb E=   44.5     K1=  1.86     K2=  5.46
+# Comment  A03510026: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   44.5     K1=  0.00     K2=  0.00
+# Comment  A03510026: eaf.2010          N=     2 F=   2.31     chi-2=   8.02     D=   24.7     mb T=   20.8     mb E=   44.5     K1=  2.31     K2=  18.5
+# Comment  A03510026: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   44.5     K1=  0.00     K2=  0.00
+# Comment  A03510026: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   44.5     K1=  0.00     K2=  0.00
+# Comment  A03510026: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   44.5     K1=  0.00     K2=  0.00
+# Comment  A03510026: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   44.5     K1=  0.00     K2=  0.00
+# Comment  A03510026: tendl.2017        N=     6 F=   4.00     chi-2=   15.1     D=   33.1     mb T=   11.3     mb E=   44.5     K1=  4.00     K2=  412.

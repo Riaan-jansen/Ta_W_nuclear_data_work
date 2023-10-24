@@ -1,0 +1,30 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xd)
+# E-inc       :  392.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  204
+# X4 ID       : E2007052 
+# X4 code     : 13-AL-27(P,X)1-H-2,,DA/DE
+# Author      : Uozumi                   
+# Year        : 2007
+# Data points :      8
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.50000E+00  3.78400E-07  1.31300E-08  0.00000E+00  6.00001E+01
+  6.50000E+00  3.66000E-07  1.29100E-08  0.00000E+00  6.00001E+01
+  7.50000E+00  3.37900E-07  1.24000E-08  0.00000E+00  6.00001E+01
+  8.50000E+00  3.15900E-07  1.19900E-08  0.00000E+00  6.00001E+01
+  9.50000E+00  2.99200E-07  1.16700E-08  0.00000E+00  6.00001E+01
+  1.05000E+01  2.78800E-07  1.12700E-08  0.00000E+00  6.00001E+01
+  1.15000E+01  2.72400E-07  1.11400E-08  0.00000E+00  6.00001E+01
+  1.25000E+01  2.57300E-07  1.08200E-08  0.00000E+00  6.00001E+01
+# Full reference:
+#Y.Uozumi,  P.Evtoukhovitch,  H.Fukuda,  M.Imamura, H.Iwamoto,  V.Kalinikov,  W.Kallies,  N.Khumutov,  T.Kin,
+#N.Koba,  Y.Koba,  N.Kuchinski,  A.Moisenko,  D.Mzavia, M.Nakano,  V.Samoilov,  Z.Tsamalaidze,  G.Wakabayashi,
+#Y.Yamashita
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.A Vol.571, Issue.3, p.743, 2007
+#Magnitude factor systematics of Kalbach phenomenology for reactions emitting helium and lithium ions

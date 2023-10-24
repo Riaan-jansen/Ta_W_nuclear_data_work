@@ -1,0 +1,23 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9000
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9000
+# X4 ID       : O21290022
+# X4 code     : (13-AL-27(P,X)11-NA-22,,SIG)/(13-AL-27(P,X)11-NA-24,,SIG)
+# Author      : NguyenLongDen            
+# Year        : 1961
+# Data points :      1
+#    E(MeV)      ratio        dratio      dE(MeV)
+  1.55000E+02  1.92000E+00  6.00000E-02  0.00000E+00
+# Full reference:
+#M.Nguyen-Long-Den
+#Jour. Comptes Rendus Vol.253, p.2919, 1961
+#Production cross section of sodium by the reaction Al-27(p,3n+3p)11-Na-22 at 155 MeV.

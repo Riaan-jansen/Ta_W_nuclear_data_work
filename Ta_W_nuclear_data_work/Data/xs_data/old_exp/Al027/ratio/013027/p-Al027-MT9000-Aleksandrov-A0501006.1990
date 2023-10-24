@@ -1,0 +1,24 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9001
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9000
+# X4 ID       : A0501006 
+# X4 code     : (13-AL-27(P,X)4-BE-7,,SIG)/(13-AL-27(P,X)11-NA-22,CUM,SIG)
+# Author      : Aleksandrov              
+# Year        : 1990
+# Data points :      1
+#    E(MeV)      ratio        dratio      dE(MeV)
+  1.00000E+03  4.83000E-01  2.00000E-02  0.00000E+00
+# Full reference:
+#Yu.V.Aleksandrov,  A.I.Bogdanov,  S.K.Vasil'ev, R.B.Ivanov,  M.A.Mikhaylova,  T.I.Popova, V.P.Prikhodtseva
+#
+#Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz. Vol.54, p.2249, 1990
+#The Radionuclide Production by 1 GeV Protons in the Middle Atomic Weight Elements.

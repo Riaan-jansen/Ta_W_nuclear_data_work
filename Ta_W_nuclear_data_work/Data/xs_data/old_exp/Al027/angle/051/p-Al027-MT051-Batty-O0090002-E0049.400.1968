@@ -1,0 +1,30 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   49.400 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  5.59000)
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :   51
+# X4 ID       : O0090002 
+# X4 code     : 13-AL-27(P,N)14-SI-27,PAR,DA
+# Author      : Batty                    
+# Year        : 1968
+# Data points :      7
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  1.99968E+00  2.08000E+00  2.08000E-01
+  9.99991E+00  1.54000E+00  1.54000E-01
+  2.00001E+01  8.80000E-01  8.80000E-02
+  3.00000E+01  7.00000E-01  7.00000E-02
+  4.00000E+01  3.70000E-01  3.70000E-02
+  5.00000E+01  2.00000E-01  2.00000E-02
+  6.00001E+01  1.50000E-01  1.50000E-02
+# Full reference:
+#C.J.Batty, B.E.Bonner, E.Friedman, C.Tschalar, L.E.Williams, A.S.Clough, J.B.Hunt
+#
+#Jour. Nuclear Physics, Section A Vol.116, p.643, 1968
+#Excitation of isobaric analogue states in (p,n) reactions at 30 and 50 MeV and the isospin dependence of the optical model.
+#

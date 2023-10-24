@@ -1,0 +1,23 @@
+26P44MA serial number downstairs germamium
+GEM - 28195 model number 
+Source    ID       Live_time (s)      Filename
+
+137Cs    A0697       418.06           ecal_137cs_vertical.Spe
+
+
+22Na    251021       1598              ecal_22na_vertical.Spe
+
+
+152Eu   C3N19/92    1508               ecal_152eu_vertical.Spe
+
+
+60Co    Co60.284.17 1345               ecal_60co_vertical.Spe
+
+
+241Am   1Q598       181                ecal_241am_vertical.Spe
+
+
+133Ba  133.278.17   1614               ecal_133ba_vertical.Spe
+
+
+108mAg  N/A

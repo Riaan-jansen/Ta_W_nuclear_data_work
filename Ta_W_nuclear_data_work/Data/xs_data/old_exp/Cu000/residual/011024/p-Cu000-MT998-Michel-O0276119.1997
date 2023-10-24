@@ -1,0 +1,39 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0276119 
+# X4 code     : 29-CU-0(P,X)11-NA-24,CUM,SIG
+# Author      : Michel                   
+# Year        : 1997
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.20000E+03  1.62000E+00  1.11000E-01  9.86000E-01
+  1.59000E+03  2.07000E+00  2.70000E-01  1.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Michel,  R.Bodemann,  H.Busemann,  R.Daunke,  M.Gloris, H.-J.Lange,  B.Klug,  A.Krins,  I.Leya,
+# M.Luepke, S.Neumann,  H.Reinhardt,  M.Schnatz-Buettgen, U.Herpers,  Th.Schiekel,  F.Sudbrock,  B.Holmqvist, H.Conde,
+# P.Malmborg,  M.Suter,  B.Dittrich-Hannen, P.-W.Kubik,  H.-A.Sinal,  D.Filges
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.129, p.153, 1997
+#Cross sections for the production of residual nuclides by low- and medium-energy protons from the target elements C, N, O, Mg, Al, Si, Ca, Ti, V, Mn, Fe, Co,
+#Ni, Cu, Sr, Y, Zr, Nb, Ba and Au.
+#
+# Quality information:
+#
+# Quality  O0276119 :   
+# Date     O0276119 : 05-01-2018
+# Reaction O0276119 : NP:    2 E-range:  1.200E+03-  1.590E+03 MeV 29-CU-0(P,X)11-NA-24,CUM,SIG        pdf: n
+# Paper    O0276119 : R.Michel+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.129, p.153, 1997 Cross sections for the production of residual nuclides b
+# Action   O0276119 : 
+# Comment  O0276119 : 

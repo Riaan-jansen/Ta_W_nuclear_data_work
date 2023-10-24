@@ -1,0 +1,48 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  25
+# Final A     :  52
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0505021 
+# X4 code     : 29-CU-0(P,X)25-MN-52,IND,SIG
+# Author      : Gruetter                 
+# Year        : 1982
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.98000E+01  6.14000E-02  0.00000E+00  3.40000E-01  1.09687E-02  0.1786       0.000      5.0431E-02          
+  6.97000E+01  5.40000E-02  2.00000E-03  3.40000E-01  1.07735E-02  0.1995       467.1      4.3226E-02          
+  6.97000E+01  5.92000E-02  0.00000E+00  3.40000E-01  1.07735E-02  0.1820       0.000      4.8426E-02          
+  6.76000E+01  3.21000E-02  0.00000E+00  3.40000E-01  6.67506E-03  0.2079       0.000      2.5425E-02          
+  6.51000E+01  1.61000E-02  8.00000E-04  3.40000E-01  1.79594E-03  0.1115       319.7      1.4304E-02          
+#
+# Average deviation:                                                5.897       157.4      3.6363E-02
+#
+# Full reference:
+#A.Gruetter
+#Jour. Nuclear Physics, Section A Vol.383, p.98, 1982
+#Excitation functions for radioactive isotope produced by proton bombardment of Cu and Al in the energy range of 16 to 70 MeV
+#
+#
+# Quality information:
+#
+# Quality  D0505021 : T2
+# Date     D0505021 : 05-01-2018
+# Reaction D0505021 : NP:    5 E-range:   65.1    -   69.8     MeV 29-CU-0(P,X)25-MN-52,IND,SIG        pdf: y
+# Paper    D0505021 : A.Gruetter Jour. Nuclear Physics, Section A Vol.383, p.98, 1982 Excitation functions for radioactive isotope produced by proton bombardment
+# Action   D0505021 : 
+# Comment  D0505021 : Evaluation        N=     5 F=   5.90     chi-2=   157.     D=  3.636E-02 mb T=  8.197E-03 mb E=  4.456E-02 K1=  5.90     K2= 2.199E+07
+# Comment  D0505021 : TALYS             N=     5 F=   5.90     chi-2=   157.     D=  3.636E-02 mb T=  8.197E-03 mb E=  4.456E-02 K1=  5.90     K2= 2.199E+07
+# Comment  D0505021 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.456E-02 K1=  0.00     K2=  0.00
+# Comment  D0505021 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.456E-02 K1=  0.00     K2=  0.00
+# Comment  D0505021 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.456E-02 K1=  0.00     K2=  0.00
+# Comment  D0505021 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.456E-02 K1=  0.00     K2=  0.00
+# Comment  D0505021 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.456E-02 K1=  0.00     K2=  0.00
+# Comment  D0505021 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.456E-02 K1=  0.00     K2=  0.00
+# Comment  D0505021 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.456E-02 K1=  0.00     K2=  0.00

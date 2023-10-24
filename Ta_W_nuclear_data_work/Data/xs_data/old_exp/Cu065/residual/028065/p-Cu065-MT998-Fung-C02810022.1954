@@ -1,0 +1,53 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  28
+# Final A     :  65
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C02810022
+# X4 code     : 29-CU-65(P,X)28-NI-65,,SIG
+# Author      : Fung                     
+# Year        : 1954
+# Data points :     11
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.00000E+02  6.00000E-03  0.00000E+00  0.00000E+00  1.37311E+01   2289.       0.000       13.73              
+  2.00000E+02  9.00000E-03  0.00000E+00  0.00000E+00  1.00604E+01   1118.       0.000       10.05              
+  2.50000E+02  2.10000E-02  0.00000E+00  0.00000E+00
+  3.00000E+02  3.20000E-02  0.00000E+00  0.00000E+00
+  3.50000E+02  5.60000E-02  0.00000E+00  0.00000E+00
+  4.00000E+02  7.80000E-02  0.00000E+00  0.00000E+00
+  4.30000E+02  8.70000E-02  0.00000E+00  0.00000E+00
+  4.40000E+02  8.40000E-02  0.00000E+00  0.00000E+00
+  4.40000E+02  9.20000E-02  0.00000E+00  0.00000E+00
+  4.40000E+02  9.30000E-02  0.00000E+00  0.00000E+00
+  4.40000E+02  8.80000E-02  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                1613.       0.000       11.89    
+#
+# Full reference:
+#S.C.Fung, A.Turkevich
+#Jour. Physical Review Vol.95, p.176, 1954
+#Radiochemical Evidence for the Cu65(p,p+pi+)Ni65 Reaction
+#
+# Quality information:
+#
+# Quality  C02810022: T2
+# Date     C02810022: 05-01-2018
+# Reaction C02810022: NP:   11 E-range:   100.    -   440.     MeV 29-CU-65(P,X)28-NI-65,,SIG          pdf: y
+# Paper    C02810022: S.C.Fung+ Jour. Physical Review Vol.95, p.176, 1954 Radiochemical Evidence for the Cu65(p,p+pi+)Ni65 Reaction
+# Action   C02810022: 
+# Comment  C02810022: Evaluation        N=     2 F=  1.613E+03 chi-2=   0.00     D=   11.9     mb T=   11.9     mb E=  5.873E-02 K1= 1.613E+03 K2= 1.000E+35
+# Comment  C02810022: TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.873E-02 K1=  0.00     K2=  0.00
+# Comment  C02810022: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.873E-02 K1=  0.00     K2=  0.00
+# Comment  C02810022: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.873E-02 K1=  0.00     K2=  0.00
+# Comment  C02810022: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.873E-02 K1=  0.00     K2=  0.00
+# Comment  C02810022: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.873E-02 K1=  0.00     K2=  0.00
+# Comment  C02810022: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.873E-02 K1=  0.00     K2=  0.00
+# Comment  C02810022: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.873E-02 K1=  0.00     K2=  0.00
+# Comment  C02810022: tendl.2017        N=     2 F=  1.613E+03 chi-2=   0.00     D=   11.9     mb T=   11.9     mb E=  5.873E-02 K1= 1.613E+03 K2= 1.000E+35

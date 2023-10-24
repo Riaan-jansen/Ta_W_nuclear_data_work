@@ -1,0 +1,22 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xg)
+# E-inc       :  900.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  202
+# X4 ID       : O0914004 
+# X4 code     : 29-CU-0(P,X)0-ET-0,,DA/DE
+# Author      : Chiavassa                
+# Year        : 1993
+# Data points :      1
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.50000E+01  2.41000E-10  0.00000E+00  3.50000E+01  9.00000E+01
+# Full reference:
+#E.Chiavassa,  G.Dellacasa,  N.De Marco,  F.Ferrero, M.Gallio,  A.Musso,  A.Piccotti,  E.Scomparin, E.Vercellin,
+# J.M.Durand,  P.Fassnacht
+#Jour. Zeitschrift fuer Physik A, Hadrons and Nuclei Vol.344, p.345, 1993
+#Eta meson production in nuclei by protons at T(P)< = 1-GeV.

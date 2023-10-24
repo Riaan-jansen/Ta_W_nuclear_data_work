@@ -1,0 +1,47 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0255003 
+# X4 code     : 13-AL-27(P,X)4-BE-7,,SIG
+# Author      : Baker                    
+# Year        : 1958
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.00000E+03  7.60000E+00  1.90000E+00  0.00000E+00  2.62500E+00  0.3454       6.856       4.975              
+  1.40000E+03  8.30000E+00  2.07500E+00  0.00000E+00
+  2.20000E+03  1.26000E+01  3.15000E+00  0.00000E+00
+  2.20000E+03  9.10000E+00  2.27500E+00  0.00000E+00
+  3.00000E+03  1.17000E+01  2.92500E+00  0.00000E+00
+#
+# Average deviation:                                                2.895       6.856       4.975    
+#
+# Full reference:
+#E.Baker, G.Friedlander, J.Hudis
+#Jour. Physical Review Vol.112, p.1319, 1958
+#FORMATION OF BE-7 IN INTERACTION OF VARIOUS NUCLEI WITH HIGH-ENERGY PROTONS
+#
+# Quality information:
+#
+# Quality  C0255003 : T2
+# Date     C0255003 : 05-01-2018
+# Reaction C0255003 : NP:    5 E-range:  1.000E+03-  3.000E+03 MeV 13-AL-27(P,X)4-BE-7,,SIG            pdf: y
+# Paper    C0255003 : E.Baker+ Jour. Physical Review Vol.112, p.1319, 1958 FORMATION OF BE-7 IN INTERACTION OF VARIOUS NUCLEI WITH HIGH-ENERGY PROTONS
+# Action   C0255003 : 
+# Comment  C0255003 : Evaluation        N=     1 F=   2.90     chi-2=   6.86     D=   4.97     mb T=   2.63     mb E=   9.86     K1=  2.90     K2=  22.5
+# Comment  C0255003 : TALYS             N=     1 F=   2.90     chi-2=   6.86     D=   4.97     mb T=   2.63     mb E=   9.86     K1=  2.90     K2=  22.5
+# Comment  C0255003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.86     K1=  0.00     K2=  0.00
+# Comment  C0255003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.86     K1=  0.00     K2=  0.00
+# Comment  C0255003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.86     K1=  0.00     K2=  0.00
+# Comment  C0255003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.86     K1=  0.00     K2=  0.00
+# Comment  C0255003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.86     K1=  0.00     K2=  0.00
+# Comment  C0255003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.86     K1=  0.00     K2=  0.00
+# Comment  C0255003 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.86     K1=  0.00     K2=  0.00

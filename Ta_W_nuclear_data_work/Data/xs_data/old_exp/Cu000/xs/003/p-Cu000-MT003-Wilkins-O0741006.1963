@@ -1,0 +1,34 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : O0741006 
+# X4 code     : 29-CU-0(P,NON),,SIG
+# Author      : Wilkins                  
+# Year        : 1963
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.01200E+01  8.16000E+02  4.30000E+01  5.00000E-01
+  9.90000E+00  8.05000E+02  4.30000E+01  5.00000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#B.D.Wilkins, G.Igo
+#Jour. Physical Review Vol.129, p.2198, 1963
+#10-MeV Proton Reaction Cross Sections For Several Elements.
+#
+# Quality information:
+#
+# Quality  O0741006 :   
+# Date     O0741006 : 05-01-2018
+# Reaction O0741006 : NP:    2 E-range:   9.90    -   10.1     MeV 29-CU-0(P,NON),,SIG                 pdf: n
+# Paper    O0741006 : B.D.Wilkins+ Jour. Physical Review Vol.129, p.2198, 1963 10-MeV Proton Reaction Cross Sections For Several Elements.
+# Action   O0741006 : 
+# Comment  O0741006 : 

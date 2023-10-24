@@ -1,0 +1,35 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   6
+# Final A     :  11
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0285002 
+# X4 code     : 29-CU-0(P,X)6-C-11,,SIG
+# Author      : Greenberg                
+# Year        : 1951
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.70000E+02  3.00000E-02  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#D.H.Greenberg, J.M.Miller
+#Jour. Physical Review Vol.84, p.845, 1951
+#THE PRODUCTION OF LIGHT NUCLEI BY HIGH ENERGY PROTON BOMBARDMENT OF MEDIUM WEIGHT ELEMENTS
+#
+# Quality information:
+#
+# Quality  C0285002 :   
+# Date     C0285002 : 05-01-2018
+# Reaction C0285002 : NP:    1 E-range:   370.    -   370.     MeV 29-CU-0(P,X)6-C-11,,SIG             pdf: n
+# Paper    C0285002 : D.H.Greenberg+ Jour. Physical Review Vol.84, p.845, 1951 THE PRODUCTION OF LIGHT NUCLEI BY HIGH ENERGY PROTON BOMBARDMENT OF MEDIUM WEIGHT E
+# Action   C0285002 : 
+# Comment  C0285002 : 

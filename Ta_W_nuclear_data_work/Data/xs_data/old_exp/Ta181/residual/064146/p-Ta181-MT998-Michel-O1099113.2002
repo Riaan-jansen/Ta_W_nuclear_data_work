@@ -1,0 +1,52 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  64
+# Final A     : 146
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099113 
+# X4 code     : 73-TA-181(P,X)64-GD-146,CUM,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.37000E+02  4.09000E-01  5.40000E-02  2.00000E+00  4.27047E-02  0.1044       46.01      0.3663              
+  5.61000E+02  8.08000E+00  1.05000E+00  1.00000E+00  1.51702E-02  1.8775E-03   58.99       8.065              
+  7.65000E+02  1.95000E+01  2.40000E+00  1.00000E+00  1.34688E-02  6.9071E-04   65.92       19.49              
+  9.86000E+02  2.79000E+01  3.50000E+00  1.00000E+00  4.85067E-03  1.7386E-04   63.52       27.90              
+  1.18000E+03  3.14000E+01  4.00000E+00  1.00000E+00
+  1.38000E+03  2.99000E+01  3.70000E+00  1.00000E+00
+  1.57000E+03  2.87000E+01  3.60000E+00  1.00000E+00
+  2.58000E+03  1.96000E+01  2.50000E+00  1.00000E+00
+#
+# Average deviation:                                                710.3       58.61       13.95    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099113 : T2
+# Date     O1099113 : 05-01-2018
+# Reaction O1099113 : NP:    8 E-range:   337.    -  2.580E+03 MeV 73-TA-181(P,X)64-GD-146,CUM,SIG     pdf: y
+# Paper    O1099113 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099113 : 
+# Comment  O1099113 : Evaluation        N=     4 F=   710.     chi-2=   58.6     D=   14.0     mb T=  1.905E-02 mb E=   20.7     K1=  710.     K2= 1.000E+35
+# Comment  O1099113 : TALYS             N=     4 F=   710.     chi-2=   58.6     D=   14.0     mb T=  1.905E-02 mb E=   20.7     K1=  710.     K2= 1.000E+35
+# Comment  O1099113 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.7     K1=  0.00     K2=  0.00
+# Comment  O1099113 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.7     K1=  0.00     K2=  0.00
+# Comment  O1099113 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.7     K1=  0.00     K2=  0.00
+# Comment  O1099113 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.7     K1=  0.00     K2=  0.00
+# Comment  O1099113 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.7     K1=  0.00     K2=  0.00
+# Comment  O1099113 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.7     K1=  0.00     K2=  0.00
+# Comment  O1099113 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   20.7     K1=  0.00     K2=  0.00

@@ -1,0 +1,53 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0151002 
+# X4 code     : 13-AL-27(P,X)11-NA-22,CUM,SIG
+# Author      : Michel                   
+# Year        : 1979
+# Data points :     11
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.48000E+01  4.51000E+01  5.00000E+00  9.00000E-02  2.92981E+01  0.6496       10.85       15.80              
+  4.30600E+01  4.83000E+01  5.80000E+00  1.30000E-01  2.92036E+01  0.6046       11.67       19.10              
+  4.12800E+01  4.53000E+01  4.90000E+00  1.70000E-01  2.90918E+01  0.6422       12.65       16.21              
+  3.94400E+01  4.10000E+01  4.50000E+00  2.10000E-01  2.87913E+01  0.7022       10.62       12.21              
+  3.78200E+01  3.42000E+01  4.10000E+00  2.40000E-01  2.80012E+01  0.8187       8.406       11.16              
+  3.61400E+01  2.55000E+01  2.80000E+00  2.70000E-01  2.74080E+01   1.075       20.94       10.35              
+  3.44000E+01  1.62100E+01  1.80000E+00  2.90000E-01  2.68343E+01   1.655       106.0       15.38              
+  3.25900E+01  7.50000E+00  9.00000E-01  3.20000E-01  2.62949E+01   3.506       817.9       19.99              
+  3.06900E+01  2.20000E+00  2.60000E-01  3.30000E-01  2.61462E+01   11.88      1.4403E+04   23.97              
+  2.87000E+01  4.17000E-01  3.60000E-01  3.70000E-01  4.44950E+01   106.7      2.0709E+04   44.10              
+  2.65800E+01  3.80000E-01  4.00000E-03  4.00000E-01  4.78446E+01   125.9      1.8911E+08   47.60              
+#
+# Average deviation:                                                8.297      1.7195E+07   21.44    
+#
+# Full reference:
+#R.Michel, G.Brinkmann, W.Herr
+#Rept. Fed.Rep.Germ.report to the I.N.D.C. No.21, p.70, 1979
+#Redetermination of the excitation function for the reaction 27-Al(p,3p3n)22-Na.
+#
+# Quality information:
+#
+# Quality  A0151002 : N2
+# Date     A0151002 : 05-01-2018
+# Reaction A0151002 : NP:   11 E-range:   26.6    -   44.8     MeV 13-AL-27(P,X)11-NA-22,CUM,SIG       pdf: n
+# Paper    A0151002 : R.Michel+ Rept. Fed.Rep.Germ.report to the I.N.D.C. No.21, p.70, 1979 Redetermination of the excitation function for the reaction 27-Al(p,3p
+# Action   A0151002 : 
+# Comment  A0151002 : Evaluation        N=    11 F=   8.30     chi-2=  1.720E+07 D=   21.4     mb T=   31.2     mb E=   24.2     K1=  8.30     K2= 1.000E+35
+# Comment  A0151002 : TALYS             N=    11 F=   2.48     chi-2=   706.     D=   10.6     mb T=   13.6     mb E=   24.2     K1=  2.48     K2= 1.031E+11
+# Comment  A0151002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   24.2     K1=  0.00     K2=  0.00
+# Comment  A0151002 : eaf.2010          N=    11 F=   11.1     chi-2=  1.859E+07 D=   26.0     mb T=   44.8     mb E=   24.2     K1=  11.1     K2= 1.000E+35
+# Comment  A0151002 : endfb8.0          N=     2 F=   86.3     chi-2=  4.403E+07 D=   34.0     mb T=   34.4     mb E=   24.2     K1=  86.3     K2= 1.000E+35
+# Comment  A0151002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   24.2     K1=  0.00     K2=  0.00
+# Comment  A0151002 : jeff3.3           N=     2 F=   147.     chi-2=  1.151E+08 D=   58.2     mb T=   58.6     mb E=   24.2     K1=  147.     K2= 1.000E+35
+# Comment  A0151002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   24.2     K1=  0.00     K2=  0.00
+# Comment  A0151002 : tendl.2017        N=    11 F=   11.6     chi-2=  3.844E+07 D=   27.6     mb T=   35.2     mb E=   24.2     K1=  11.6     K2= 1.000E+35

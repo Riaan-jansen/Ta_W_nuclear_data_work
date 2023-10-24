@@ -1,0 +1,41 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : C2006003 
+# X4 code     : 29-CU-65(P,N)30-ZN-65,,SIG
+# Author      : Albert                   
+# Year        : 1961
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  9.85000E+00  7.00000E+02  4.90000E+01  0.00000E+00  2.50516E+02  0.3579       95.57       449.5              
+#
+# Average deviation:                                                3.518       95.57       449.5    
+#
+# Full reference:
+#R.D.Albert, L.F.Hansen
+#Jour. Physical Review Letters Vol.6, p.13, 1961
+#10-MeV proton reaction cross sections for Cu63 and Cu65
+#
+# Quality information:
+#
+# Quality  C2006003 : T2
+# Date     C2006003 : 05-01-2018
+# Reaction C2006003 : NP:    1 E-range:   9.85    -   9.85     MeV 29-CU-65(P,N)30-ZN-65,,SIG          pdf: y
+# Paper    C2006003 : R.D.Albert+ Jour. Physical Review Letters Vol.6, p.13, 1961 10-MeV proton reaction cross sections for Cu63 and Cu65
+# Action   C2006003 : 
+# Comment  C2006003 : Evaluation        N=     1 F=   3.52     chi-2=   95.6     D=   449.     mb T=   251.     mb E=   700.     K1=  3.52     K2= 4.464E+03
+# Comment  C2006003 : TALYS             N=     1 F=   1.07     chi-2=  0.977     D=   48.4     mb T=   652.     mb E=   700.     K1=  1.07     K2=  1.11
+# Comment  C2006003 : cendl3.1          N=     1 F=   5.18     chi-2=   133.     D=   565.     mb T=   135.     mb E=   700.     K1=  5.18     K2= 3.707E+05
+# Comment  C2006003 : eaf.2010          N=     1 F=   3.75     chi-2=   110.     D=   513.     mb T=   187.     mb E=   700.     K1=  3.75     K2= 4.354E+03
+# Comment  C2006003 : endfb8.0          N=     1 F=   3.45     chi-2=   103.     D=   497.     mb T=   203.     mb E=   700.     K1=  3.45     K2= 1.688E+03
+# Comment  C2006003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   700.     K1=  0.00     K2=  0.00
+# Comment  C2006003 : jeff3.3           N=     1 F=   3.95     chi-2=   114.     D=   523.     mb T=   177.     mb E=   700.     K1=  3.95     K2= 8.290E+03
+# Comment  C2006003 : jendl4.0          N=     1 F=   3.14     chi-2=   94.7     D=   477.     mb T=   223.     mb E=   700.     K1=  3.14     K2=  611.
+# Comment  C2006003 : tendl.2017        N=     1 F=   3.96     chi-2=   114.     D=   523.     mb T=   177.     mb E=   700.     K1=  3.96     K2= 8.524E+03

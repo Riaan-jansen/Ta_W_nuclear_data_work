@@ -1,0 +1,37 @@
+# Target Z    :  74
+# Target A    : 183
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,el)
+# E-inc       :   55.000 MeV
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :    2
+# X4 ID       : O0447014 
+# X4 code     : 74-W-183(P,EL)74-W-183,,DA
+# Author      : Kamitsubo                
+# Year        : 1967
+# Data points :     16
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  3.90001E+01  2.94000E+02  1.47000E+01
+  4.26001E+01  2.08000E+02  1.04000E+01
+  4.50001E+01  1.39000E+02  6.95000E+00
+  4.67001E+01  8.70000E+01  4.35000E+00
+  4.78000E+01  6.18000E+01  3.09000E+00
+  4.99000E+01  4.63000E+01  2.31500E+00
+  5.47001E+01  5.19000E+01  2.59500E+00
+  5.87001E+01  4.00000E+01  2.00000E+00
+  6.17001E+01  2.91000E+01  1.45500E+00
+  6.40001E+01  2.05000E+01  1.02500E+00
+  6.80001E+01  1.33000E+01  6.65000E-01
+  7.36001E+01  1.12000E+01  5.60000E-01
+  7.79001E+01  8.40000E+00  4.20000E-01
+  8.18001E+01  5.91000E+00  2.95500E-01
+  8.55001E+01  4.55000E+00  2.27500E-01
+  9.04001E+01  3.13000E+00  1.56500E-01
+# Full reference:
+#H.Kamitsubo, H.Ohnuma, K.Ono, A.Uchida, M.Imaizumi, S.Kobayashi, M.Sekiguchi
+#
+#Jour. Journal of the Physical Society of Japan Vol.22, p.19, 1967
+#Elastic Scattering of 55 MeV Protons from Heavy Nuclei.

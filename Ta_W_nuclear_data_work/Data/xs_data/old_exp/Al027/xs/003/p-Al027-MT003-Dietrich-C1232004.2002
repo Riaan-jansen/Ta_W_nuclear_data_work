@@ -1,0 +1,40 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : C1232004 
+# X4 code     : 13-AL-27(P,NON),,SIG
+# Author      : Dietrich                 
+# Year        : 2002
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.27300E+02  4.25000E+02  1.30000E+01  0.00000E+00
+  7.92900E+02  4.66000E+02  1.23000E+01  0.00000E+00
+  1.07500E+03  4.72000E+02  1.15000E+01  0.00000E+00
+  1.36400E+03  4.81000E+02  1.46000E+01  0.00000E+00
+  1.65500E+03  4.76000E+02  1.38000E+01  0.00000E+00
+  2.64500E+03  4.76000E+02  1.38000E+01  0.00000E+00
+  3.45700E+03  4.81000E+02  1.38000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#F.S.Dietrich, E.P.Hartouni, S.C.Johnson, G.J.Schmid, R.Soltz, W.P.Abfalterer, R.C.Haight, L.S.Waters, A.L.Hanson,
+#R.W.Finlay, G.S.Blanpied
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, Issue.1, p.269, 2002
+#Proton reaction cross sections measured in the BNL/AGS E943 experiment.
+#
+# Quality information:
+#
+# Quality  C1232004 :   
+# Date     C1232004 : 05-01-2018
+# Reaction C1232004 : NP:    7 E-range:   527.    -  3.457E+03 MeV 13-AL-27(P,NON),,SIG                pdf: n
+# Paper    C1232004 : F.S.Dietrich+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, Issue.1, p.269, 2002 Proton reaction cross sections measured in th
+# Action   C1232004 : 
+# Comment  C1232004 : 

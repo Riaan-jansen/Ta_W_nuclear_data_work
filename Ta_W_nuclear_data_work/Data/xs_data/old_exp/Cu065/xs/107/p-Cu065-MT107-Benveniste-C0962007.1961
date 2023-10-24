@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,a)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  107
+# X4 ID       : C0962007 
+# X4 code     : 29-CU-65(P,A)28-NI-62,,SIG
+# Author      : Benveniste               
+# Year        : 1961
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.20000E+00  3.70000E+01  1.00000E+01  0.00000E+00  1.19892E+01  0.3240       6.255       25.01              
+  8.80000E+00  2.60000E+01  3.00000E+00  0.00000E+00  1.14345E+02   4.398       1039.       88.34              
+  1.02000E+01  2.20000E+01  1.00000E+00  0.00000E+00  1.74858E+02   7.948      2.6955E+04   152.9              
+  1.10300E+01  3.40000E+01  3.00000E+00  0.00000E+00  1.99563E+02   5.869       3568.       165.6              
+#
+# Average deviation:                                                5.119       7892.       107.9    
+#
+# Full reference:
+#J.Benveniste, R.Booth, A.Mitchell
+#Jour. Physical Review Vol.123, p.1818, 1961
+#Proton Interactions with Cu63 and Cu65
+#
+# Quality information:
+#
+# Quality  C0962007 : T2
+# Date     C0962007 : 05-01-2018
+# Reaction C0962007 : NP:    4 E-range:   6.20    -   11.0     MeV 29-CU-65(P,A)28-NI-62,,SIG          pdf: y
+# Paper    C0962007 : J.Benveniste+ Jour. Physical Review Vol.123, p.1818, 1961 Proton Interactions with Cu63 and Cu65
+# Action   C0962007 : 
+# Comment  C0962007 : Evaluation        N=     4 F=   5.12     chi-2=  7.892E+03 D=   108.     mb T=   125.     mb E=   29.8     K1=  5.12     K2= 9.343E+06
+# Comment  C0962007 : TALYS             N=     4 F=   1.94     chi-2=   88.8     D=   14.6     mb T=   31.9     mb E=   29.8     K1=  1.94     K2=  8.67
+# Comment  C0962007 : cendl3.1          N=     3 F=   5.28     chi-2=  7.331E+03 D=   120.     mb T=   148.     mb E=   29.8     K1=  5.28     K2= 7.079E+06
+# Comment  C0962007 : eaf.2010          N=     3 F=   6.82     chi-2=  1.238E+04 D=   158.     mb T=   186.     mb E=   29.8     K1=  6.82     K2= 4.944E+08
+# Comment  C0962007 : endfb8.0          N=     3 F=   7.37     chi-2=  1.457E+04 D=   172.     mb T=   200.     mb E=   29.8     K1=  7.37     K2= 2.338E+09
+# Comment  C0962007 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   29.8     K1=  0.00     K2=  0.00
+# Comment  C0962007 : jeff3.3           N=     3 F=   6.50     chi-2=  1.048E+04 D=   148.     mb T=   176.     mb E=   29.8     K1=  6.50     K2= 1.232E+08
+# Comment  C0962007 : jendl4.0          N=     3 F=   7.98     chi-2=  1.830E+04 D=   191.     mb T=   218.     mb E=   29.8     K1=  7.98     K2= 2.225E+10
+# Comment  C0962007 : tendl.2017        N=     3 F=   6.49     chi-2=  1.047E+04 D=   148.     mb T=   175.     mb E=   29.8     K1=  6.49     K2= 1.210E+08

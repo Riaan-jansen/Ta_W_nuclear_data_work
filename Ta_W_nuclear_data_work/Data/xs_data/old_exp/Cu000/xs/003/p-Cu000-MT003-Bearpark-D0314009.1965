@@ -1,0 +1,40 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : D0314009 
+# X4 code     : 29-CU-0(P,NON),,SIG
+# Author      : Bearpark                 
+# Year        : 1965
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.78000E+00  6.80000E+02  3.60000E+01  7.20000E-01
+  9.15000E+00  7.10000E+02  3.30000E+01  7.00000E-01
+  9.52000E+00  7.40000E+02  3.20000E+01  6.80000E-01
+  1.01900E+01  7.98000E+02  3.10000E+01  3.10000E-01
+  1.03600E+01  8.15000E+02  3.00000E+01  6.30000E-01
+  1.07000E+01  8.30000E+02  2.90000E+01  3.00000E-01
+  1.08900E+01  8.53000E+02  2.80000E+01  6.10000E-01
+  1.12100E+01  8.65000E+02  2.80000E+01  2.90000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#K.Bearpark, W.R.Graham, G.Jones
+#Jour. Nuclear Physics Vol.73, p.206, 1965
+#Total proton and deuteron reaction cross-sections in the energy range 8.5 to 11.5 MeV
+#
+# Quality information:
+#
+# Quality  D0314009 :   
+# Date     D0314009 : 05-01-2018
+# Reaction D0314009 : NP:    8 E-range:   8.78    -   11.2     MeV 29-CU-0(P,NON),,SIG                 pdf: n
+# Paper    D0314009 : K.Bearpark+ Jour. Nuclear Physics Vol.73, p.206, 1965 Total proton and deuteron reaction cross-sections in the energy range 8.5 to 11.5 MeV
+# Action   D0314009 : 
+# Comment  D0314009 : 

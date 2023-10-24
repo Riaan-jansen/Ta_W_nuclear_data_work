@@ -1,0 +1,49 @@
+# Target Z    :  74
+# Target A    : 182
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,2n)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   16
+# X4 ID       : C1501002 
+# X4 code     : 74-W-182(P,2N)75-RE-181,,SIG
+# Author      : Lapi                     
+# Year        : 2007
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.72000E+01  2.89000E+02  2.10000E+01  2.00000E-01  2.38114E+02  0.8239       191.5       236.5              
+  1.66000E+01  2.45000E+02  1.80000E+01  2.00000E-01  2.45594E+02   1.002       211.5       182.7              
+  1.62000E+01  2.04000E+02  1.50000E+01  2.00000E-01  2.52924E+02   1.240       274.5       135.4              
+  1.55000E+01  2.02000E+02  1.40000E+01  2.00000E-01  2.68244E+02   1.328       240.3       97.07              
+  1.48000E+01  1.62000E+02  1.20000E+01  3.00000E-01  2.85105E+02   1.760       295.6       123.1              
+  1.41000E+01  1.33000E+02  9.00000E+00  4.00000E-01  2.98262E+02   2.243       518.9       165.3              
+  1.24000E+01  8.93000E+01  6.40000E+00  2.00000E-01  2.70414E+02   3.028       816.5       181.1              
+  1.11000E+01  4.50000E+00  3.00000E-01  3.00000E-01  2.02405E+02   44.98      4.8523E+05   197.9              
+#
+# Average deviation:                                                4.526      6.0972E+04   164.9    
+#
+# Full reference:
+#S.Lapi, W.J.Mills, J.Wilson, S.Mcquarrie, J.Publicover, M.Schueller, D.Schyler, J.J.Ressler, T.J.Ruth
+#
+#Jour. Applied Radiation and Isotopes Vol.65, p.345, 2007
+#Production cross-sections of 181-186Re isotopes from proton bombardment of natural tungsten
+#
+# Quality information:
+#
+# Quality  C1501002 : T2
+# Date     C1501002 : 05-01-2018
+# Reaction C1501002 : NP:    8 E-range:   11.1    -   17.2     MeV 74-W-182(P,2N)75-RE-181,,SIG        pdf: y
+# Paper    C1501002 : S.Lapi+ Jour. Applied Radiation and Isotopes Vol.65, p.345, 2007 Production cross-sections of 181-186Re isotopes from proton bombardment of
+# Action   C1501002 : 
+# Comment  C1501002 : Evaluation        N=     8 F=   4.53     chi-2=  6.097E+04 D=   165.     mb T=   258.     mb E=   166.     K1=  4.53     K2= 2.954E+15
+# Comment  C1501002 : TALYS             N=     8 F=   4.50     chi-2=  3.753E+03 D=   469.     mb T=   636.     mb E=   166.     K1=  4.50     K2= 2.929E+05
+# Comment  C1501002 : cendl3.1          N=     8 F=   4.61     chi-2=  6.334E+04 D=   122.     mb T=   179.     mb E=   166.     K1=  4.61     K2= 9.109E+15
+# Comment  C1501002 : eaf.2010          N=     8 F=   4.49     chi-2=  6.966E+04 D=   111.     mb T=   200.     mb E=   166.     K1=  4.49     K2= 3.256E+16
+# Comment  C1501002 : endfb8.0          N=     8 F=   4.61     chi-2=  7.579E+04 D=   116.     mb T=   198.     mb E=   166.     K1=  4.61     K2= 1.113E+17
+# Comment  C1501002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   166.     K1=  0.00     K2=  0.00
+# Comment  C1501002 : jeff3.3           N=     8 F=   4.34     chi-2=  5.788E+04 D=   107.     mb T=   192.     mb E=   166.     K1=  4.34     K2= 2.532E+15
+# Comment  C1501002 : jendl4.0          N=     8 F=   4.81     chi-2=  9.840E+04 D=   122.     mb T=   207.     mb E=   166.     K1=  4.81     K2= 6.018E+18
+# Comment  C1501002 : tendl.2017        N=     8 F=   4.34     chi-2=  5.798E+04 D=   107.     mb T=   192.     mb E=   166.     K1=  4.34     K2= 2.588E+15

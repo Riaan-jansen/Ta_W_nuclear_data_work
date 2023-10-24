@@ -1,0 +1,36 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :    6.100 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  0.00000)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :  840
+# X4 ID       : E2231009 
+# X4 code     : 13-AL-27(P,A)12-MG-24,PAR,DA
+# Author      : Yamashita                
+# Year        : 1961
+# Data points :     15
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  2.12901E+01  3.14100E+00  2.15000E-01
+  3.21000E+01  3.32900E+00  1.66000E-01
+  4.26601E+01  3.36500E+00  1.87000E-01
+  5.32000E+01  3.49800E+00  1.87000E-01
+  6.39201E+01  2.58400E+00  1.18000E-01
+  7.39801E+01  2.18300E+00  1.59000E-01
+  8.46401E+01  1.64400E+00  1.80000E-01
+  9.43801E+01  1.43700E+00  9.70000E-02
+  1.04400E+02  1.54200E+00  1.52000E-01
+  1.14100E+02  1.27300E+00  1.59000E-01
+  1.23700E+02  1.88400E+00  2.57000E-01
+  1.33300E+02  2.59800E+00  2.15000E-01
+  1.43100E+02  2.14900E+00  2.08000E-01
+  1.52500E+02  2.15000E+00  1.94000E-01
+  1.61700E+02  1.97100E+00  2.22000E-01
+# Full reference:
+#S.Yamashita
+#Jour. Journal of the Physical Society of Japan Vol.16, p.2378, 1961
+#Angular distributions of alpha-particles from F19, Al27 and P31 bombarded with protons

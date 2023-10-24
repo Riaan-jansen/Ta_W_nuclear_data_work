@@ -1,0 +1,48 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 186
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0904129 
+# X4 code     : 74-W-0(P,X)75-RE-186,IND,SIG
+# Author      : Titarenko                
+# Year        : 2011
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.60000E+01  3.44000E+00  3.50000E-01  1.00000E+00  3.44830E-02  1.0024E-02   94.67       3.406              
+  6.80000E+01  1.95000E+00  1.80000E-01  1.00000E+00  1.93962E-02  9.9468E-03   115.0       1.931              
+  9.90000E+01  7.74000E-01  8.70000E-02  1.00000E+00  1.65689E-02  2.1407E-02   75.80      0.7574              
+#
+# Average deviation:                                                79.43       95.17       2.031    
+#
+# Full reference:
+#Yu.E.Titarenko,  V.F.Batyaev,  A.Yu.Titarenko, M.A.Butko,  K.V.Pavlov,  S.N.Florya,  R.S.Tikhonov, V.M.Zhivun,  A.V.Ignatyuk,
+# S.G.Mashnik,  S.Leray, A.Boudard,  J.Cugnon,  D.Mancusi,  Y.Yariv,  K.Nishihara, N.Matsuda,  H.Kumawat,
+# G.Mank,  W.Gudowski
+#Jour. Yadernaya Fizika Vol.74, p.574, 2011
+#Measurement and simulation of the cross sections for nuclide production in W-nat and Ta-181 targets irradiated with 0.04- to 2.6-GeV protons.
+#
+#
+# Quality information:
+#
+# Quality  A0904129 : T2
+# Date     A0904129 : 05-01-2018
+# Reaction A0904129 : NP:    3 E-range:   46.0    -   99.0     MeV 74-W-0(P,X)75-RE-186,IND,SIG        pdf: y
+# Paper    A0904129 : Yu.E.Titarenko+ Jour. Yadernaya Fizika Vol.74, p.574, 2011 Measurement and simulation of the cross sections for nuclide production in W-nat
+# Action   A0904129 : 
+# Comment  A0904129 : Evaluation        N=     3 F=   79.4     chi-2=   95.2     D=   2.03     mb T=  2.348E-02 mb E=   2.05     K1=  79.4     K2= 1.000E+35
+# Comment  A0904129 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.05     K1=  0.00     K2=  0.00
+# Comment  A0904129 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.05     K1=  0.00     K2=  0.00
+# Comment  A0904129 : eaf.2010          N=     1 F=   84.0     chi-2=   94.3     D=   3.40     mb T=  4.094E-02 mb E=   2.05     K1=  84.0     K2= 1.000E+35
+# Comment  A0904129 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.05     K1=  0.00     K2=  0.00
+# Comment  A0904129 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.05     K1=  0.00     K2=  0.00
+# Comment  A0904129 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.05     K1=  0.00     K2=  0.00
+# Comment  A0904129 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.05     K1=  0.00     K2=  0.00
+# Comment  A0904129 : tendl.2017        N=     3 F=   84.9     chi-2=   95.3     D=   2.03     mb T=  2.133E-02 mb E=   2.05     K1=  84.9     K2= 1.000E+35

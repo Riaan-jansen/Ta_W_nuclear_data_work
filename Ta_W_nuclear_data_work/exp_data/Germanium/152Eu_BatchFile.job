@@ -1,0 +1,7 @@
+set_preset_real 180
+loop 10
+clear
+start
+wait
+save M:\SHU_ISIS_Feb22\Ge_152Eu_calib_run\152Eu_batchcalib_???.spe
+end_loop

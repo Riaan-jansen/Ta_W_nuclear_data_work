@@ -1,0 +1,33 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : O0368006 
+# X4 code     : 29-CU-0(P,NON),,SIG
+# Author      : Pollock                  
+# Year        : 1965
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.63700E+01  9.55000E+02  6.40000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.E.Pollock,  G.Schrank
+#Jour. Physical Review Vol.140, p.B575, 1965
+#Proton total reaction cross sections at 16.4 MeV.
+#
+# Quality information:
+#
+# Quality  O0368006 :   
+# Date     O0368006 : 05-01-2018
+# Reaction O0368006 : NP:    1 E-range:   16.4    -   16.4     MeV 29-CU-0(P,NON),,SIG                 pdf: n
+# Paper    O0368006 : R.E.Pollock+ Jour. Physical Review Vol.140, p.B575, 1965 Proton total reaction cross sections at 16.4 MeV.
+# Action   O0368006 : 
+# Comment  O0368006 : 

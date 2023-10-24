@@ -1,0 +1,48 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  61
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0510080 
+# X4 code     : 29-CU-63(P,X)29-CU-61,,SIG
+# Author      : Levkovski                
+# Year        : 1991
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.57000E+01  1.70000E+01  1.70000E+00  0.00000E+00  5.66801E+01   3.334       645.5       39.68              
+  2.66000E+01  3.70000E+01  3.70000E+00  0.00000E+00  5.84326E+01   1.579       48.89       21.43              
+  2.76000E+01  6.40000E+01  6.40000E+00  0.00000E+00  6.17137E+01  0.9643       8.268       16.02              
+  2.85000E+01  1.00000E+02  1.00000E+01  0.00000E+00  6.56600E+01  0.6566       18.20       36.37              
+  2.95000E+01  1.38000E+02  1.38000E+01  0.00000E+00  7.01436E+01  0.5083       30.72       67.86              
+#
+# Average deviation:                                                2.200       150.3       36.27    
+#
+# Full reference:
+#V.N.Levkovski
+#Book. Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991
+#Cross sections of medium mass nuclide activation (A=40-100) by medium energy protons and alpha-particles (E=10-50 MeV)
+#
+#
+# Quality information:
+#
+# Quality  A0510080 : T1
+# Date     A0510080 : 05-01-2018
+# Reaction A0510080 : NP:    5 E-range:   25.7    -   29.5     MeV 29-CU-63(P,X)29-CU-61,,SIG          pdf: y
+# Paper    A0510080 : V.N.Levkovski Book. Levkovskij,Act.Cs.By Protons and Alphas,Moscow 1991 Cross sections of medium mass nuclide activation (A=40-100) by mediu
+# Action   A0510080 : 
+# Comment  A0510080 : Evaluation        N=     5 F=   2.20     chi-2=   150.     D=   36.3     mb T=   62.5     mb E=   71.2     K1=  2.20     K2=  50.7
+# Comment  A0510080 : TALYS             N=     5 F=   1.42     chi-2=   22.1     D=   11.7     mb T=   80.8     mb E=   71.2     K1=  1.42     K2=  2.78
+# Comment  A0510080 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   71.2     K1=  0.00     K2=  0.00
+# Comment  A0510080 : eaf.2010          N=     5 F=   2.20     chi-2=   144.     D=   40.6     mb T=   55.9     mb E=   71.2     K1=  2.20     K2=  33.8
+# Comment  A0510080 : endfb8.0          N=     5 F=   2.75     chi-2=   80.7     D=   47.4     mb T=   35.2     mb E=   71.2     K1=  2.75     K2=  196.
+# Comment  A0510080 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   71.2     K1=  0.00     K2=  0.00
+# Comment  A0510080 : jeff3.3           N=     5 F=   2.22     chi-2=   168.     D=   40.7     mb T=   58.7     mb E=   71.2     K1=  2.22     K2=  39.8
+# Comment  A0510080 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   71.2     K1=  0.00     K2=  0.00
+# Comment  A0510080 : tendl.2017        N=     5 F=   2.32     chi-2=   336.     D=   41.0     mb T=   81.9     mb E=   71.2     K1=  2.32     K2=  111.

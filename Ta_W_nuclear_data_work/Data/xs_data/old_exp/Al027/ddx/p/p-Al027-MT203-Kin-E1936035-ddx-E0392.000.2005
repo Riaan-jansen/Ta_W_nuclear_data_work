@@ -1,0 +1,40 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xp)
+# E-inc       :  392.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  203
+# X4 ID       : E1936035 
+# X4 code     : 13-AL-27(P,X)1-H-1,,DA/DE
+# Author      : Kin                      
+# Year        : 2005
+# Data points :     19
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.00000E+01  1.97800E-07  2.82300E-09  0.00000E+00  1.05000E+02
+  5.00000E+01  1.82000E-07  2.72300E-09  0.00000E+00  1.05000E+02
+  6.00000E+01  1.46200E-07  2.45200E-09  0.00000E+00  1.05000E+02
+  7.00000E+01  1.08200E-07  2.12100E-09  0.00000E+00  1.05000E+02
+  8.00000E+01  8.48400E-08  1.89800E-09  0.00000E+00  1.05000E+02
+  9.00000E+01  6.29200E-08  1.64300E-09  0.00000E+00  1.05000E+02
+  1.00000E+02  4.85400E-08  1.45900E-09  0.00000E+00  1.05000E+02
+  1.10000E+02  3.71800E-08  1.28500E-09  0.00000E+00  1.05000E+02
+  1.20000E+02  2.87000E-08  1.14200E-09  0.00000E+00  1.05000E+02
+  1.30000E+02  2.30400E-08  1.02900E-09  0.00000E+00  1.05000E+02
+  1.40000E+02  1.71100E-08  8.97600E-10  0.00000E+00  1.05000E+02
+  1.50000E+02  1.27200E-08  7.83400E-10  0.00000E+00  1.05000E+02
+  1.60000E+02  9.65000E-09  6.86600E-10  0.00000E+00  1.05000E+02
+  1.70000E+02  7.12200E-09  5.97300E-10  0.00000E+00  1.05000E+02
+  1.80000E+02  5.04000E-09  5.09100E-10  0.00000E+00  1.05000E+02
+  1.90000E+02  2.71500E-09  3.76700E-10  0.00000E+00  1.05000E+02
+  2.00000E+02  1.83200E-09  3.15300E-10  0.00000E+00  1.05000E+02
+  2.10000E+02  1.02300E-09  2.37300E-10  0.00000E+00  1.05000E+02
+  2.20000E+02  6.15800E-10  1.86700E-10  0.00000E+00  1.05000E+02
+# Full reference:
+#T.Kin,  F.Saiho,  S.Hohara,  K.Ikeda,  K.Ichikawa, Y.Yamashita,  M.Imamura,  G.Wakabayashi,  N.Ikeda,
+#Y.Uozumi,  M.Matoba,  M.Nakano,  N.Koori
+#Jour. Physical Review, Part C, Nuclear Physics Vol.72, Issue.1, p.014606, 2005
+#Proton production cross sections for reactions by 300- and 392-MeV protons on carbon, aluminum, and niobium

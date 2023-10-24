@@ -1,0 +1,40 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :  10
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C2192003 
+# X4 code     : 29-CU-0(P,X)4-BE-10,,SIG
+# Author      : Sekimoto                 
+# Year        : 2015
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.92000E+02  2.08000E-01  1.10000E-02  0.00000E+00
+  1.20000E+05  5.81000E+00  5.30000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#S.Sekimoto, S.Okumura, H.Yashima, Y.Matsushi, H.Matsuzaki, H.Matsumura, A.Toyoda, K.Oishi, N.Matsuda,
+#Y.Kasugai, Y.Sakamoto, H.Nakashima, D.Boehnlein, R.Coleman, G.Lauten, A.Leveling, N.Mokhov, E.Ramberg,
+#A.Soha, K.Vaziri, K.Ninomiya, T.Omoto, T.Shima, N.Takahashi, A.Shinohara, M.W.Caffee, K.C.Welten,
+#K.Nishiizumi, S.Shibata, T.Ohtsuki
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.361, p.685, 2015
+#Measurements of production cross sections of 10Be and 26Al by 120 GeV and 392 MeV proton bombardment of 89Y, 159Tb, and natCu targets
+#
+#
+# Quality information:
+#
+# Quality  C2192003 :   
+# Date     C2192003 : 05-01-2018
+# Reaction C2192003 : NP:    2 E-range:   392.    -  1.200E+05 MeV 29-CU-0(P,X)4-BE-10,,SIG            pdf: n
+# Paper    C2192003 : S.Sekimoto+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.361, p.685, 2015 Measurements of production cross sections of 10Be and
+# Action   C2192003 : 
+# Comment  C2192003 : 

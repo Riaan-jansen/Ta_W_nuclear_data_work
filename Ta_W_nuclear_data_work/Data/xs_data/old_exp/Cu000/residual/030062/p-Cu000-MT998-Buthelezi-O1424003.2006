@@ -1,0 +1,51 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  62
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1424003 
+# X4 code     : 29-CU-0(P,X)30-ZN-62,,SIG
+# Author      : Buthelezi                
+# Year        : 2006
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.78800E+01  1.31000E+01  1.30000E+00  1.00000E+00  9.52838E+00  0.7274       7.548       3.572              
+  3.45300E+01  1.88000E+01  1.70000E+00  1.00000E+00  1.14545E+01  0.6093       18.67       7.345              
+  3.08800E+01  3.22000E+01  2.50000E+00  1.00000E+00  1.59906E+01  0.4966       42.04       16.21              
+  2.75100E+01  5.37000E+01  4.00000E+00  1.00000E+00  2.55336E+01  0.4755       49.58       28.17              
+  2.37800E+01  7.13000E+01  5.20000E+00  1.00000E+00  4.26930E+01  0.5988       30.26       28.61              
+  2.16400E+01  6.70000E+01  4.70000E+00  1.00000E+00  4.53536E+01  0.6769       21.21       21.65              
+  1.93100E+01  5.44000E+01  3.90000E+00  1.00000E+00  4.11997E+01  0.7573       11.46       13.20              
+  1.67600E+01  3.42000E+01  2.40000E+00  1.00000E+00  2.68078E+01  0.7839       9.487       7.392              
+  1.38700E+01  8.50000E+00  6.90000E-01  1.00000E+00  2.03717E+00  0.2397       87.73       6.463              
+#
+# Average deviation:                                                1.945       30.89       14.73    
+#
+# Full reference:
+#E.Z.Buthelezi,  F.M.Nortier,  I.W.Schroeder
+#Jour. Applied Radiation and Isotopes Vol.64, p.915, 2006
+#Excitation functions for the production of 82Sr by proton bombardment of natRb at energies up to 100 MeV
+#
+# Quality information:
+#
+# Quality  O1424003 : T1
+# Date     O1424003 : 05-01-2018
+# Reaction O1424003 : NP:    9 E-range:   13.9    -   37.9     MeV 29-CU-0(P,X)30-ZN-62,,SIG           pdf: y
+# Paper    O1424003 : E.Z.Buthelezi+ Jour. Applied Radiation and Isotopes Vol.64, p.915, 2006 Excitation functions for the production of 82Sr by proton bombardmen
+# Action   O1424003 : 
+# Comment  O1424003 : Evaluation        N=     9 F=   1.94     chi-2=   30.9     D=   14.7     mb T=   24.5     mb E=   39.2     K1=  1.94     K2=  30.2
+# Comment  O1424003 : TALYS             N=     9 F=   1.94     chi-2=   30.9     D=   14.7     mb T=   24.5     mb E=   39.2     K1=  1.94     K2=  30.2
+# Comment  O1424003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   39.2     K1=  0.00     K2=  0.00
+# Comment  O1424003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   39.2     K1=  0.00     K2=  0.00
+# Comment  O1424003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   39.2     K1=  0.00     K2=  0.00
+# Comment  O1424003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   39.2     K1=  0.00     K2=  0.00
+# Comment  O1424003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   39.2     K1=  0.00     K2=  0.00
+# Comment  O1424003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   39.2     K1=  0.00     K2=  0.00
+# Comment  O1424003 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   39.2     K1=  0.00     K2=  0.00

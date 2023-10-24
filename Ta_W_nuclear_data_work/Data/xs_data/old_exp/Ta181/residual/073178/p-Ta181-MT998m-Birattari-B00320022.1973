@@ -1,0 +1,50 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  73
+# Final A     : 178
+# Final state : 1
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B00320022
+# X4 code     : 73-TA-181(P,X)73-TA-178-M,IND,SIG,,,EXP
+# Author      : Birattari                
+# Year        : 1973
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.93000E+01  8.50000E-01  7.00000E-02  0.00000E+00  4.43909E+01   52.22      5.2690E+05   43.54              
+  3.12000E+01  1.33000E+00  6.00000E-02  0.00000E+00  2.76083E+01   20.76      2.7832E+05   26.28              
+  3.32000E+01  2.63000E+00  9.00000E-02  0.00000E+00  2.88827E+01   10.98      1.0962E+05   26.25              
+  3.54000E+01  5.71000E+00  1.00000E-01  0.00000E+00  3.11491E+01   5.455      7.4181E+04   25.44              
+  3.74000E+01  1.17300E+01  2.30000E-01  0.00000E+00  3.60543E+01   3.074      1.2327E+04   24.32              
+  3.94000E+01  1.84700E+01  3.80000E-01  0.00000E+00  4.11371E+01   2.227       4863.       22.67              
+  4.15000E+01  2.91000E+01  5.30000E-01  0.00000E+00  4.70468E+01   1.617       3022.       20.91              
+  4.36000E+01  3.49900E+01  6.80000E-01  0.00000E+00  5.32785E+01   1.523       3082.       25.46              
+#
+# Average deviation:                                                7.649      1.2654E+05   26.86    
+#
+# Full reference:
+#C.Birattari,  E.Gadioli,  A.M.Grassi Strini,  G.Strini, G.Tagliaferri
+#Jour. Lettere al Nuovo Cimento Vol.7, p.101, 1973
+#Interpretation of Nucleon Emission from the Bombard- Ment of Ta-181 with Protons
+#
+# Quality information:
+#
+# Quality  B00320022: T2
+# Date     B00320022: 05-01-2018
+# Reaction B00320022: NP:    8 E-range:   29.3    -   43.6     MeV 73-TA-181(P,X)73-TA-178-M,IND,SIG,, pdf: y
+# Paper    B00320022: C.Birattari+ Jour. Lettere al Nuovo Cimento Vol.7, p.101, 1973 Interpretation of Nucleon Emission from the Bombard- Ment of Ta-181 with Prot
+# Action   B00320022: 
+# Comment  B00320022: Evaluation        N=     8 F=   7.65     chi-2=  1.265E+05 D=   26.9     mb T=   38.7     mb E=   13.1     K1=  7.65     K2= 1.354E+21
+# Comment  B00320022: TALYS             N=     8 F=   3.83     chi-2=  1.295E+04 D=   27.6     mb T=   40.7     mb E=   13.1     K1=  3.83     K2= 1.478E+06
+# Comment  B00320022: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.1     K1=  0.00     K2=  0.00
+# Comment  B00320022: eaf.2010          N=     8 F=   10.8     chi-2=  2.064E+05 D=   31.0     mb T=   44.1     mb E=   13.1     K1=  10.8     K2= 2.964E+26
+# Comment  B00320022: endfb8.0          N=     1 F=   35.5     chi-2=  1.756E+05 D=   29.3     mb T=   30.2     mb E=   13.1     K1=  35.5     K2= 5.988E+31
+# Comment  B00320022: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.1     K1=  0.00     K2=  0.00
+# Comment  B00320022: jeff3.3           N=     1 F=   64.4     chi-2=  5.923E+05 D=   53.9     mb T=   54.7     mb E=   13.1     K1=  64.4     K2= 1.000E+35
+# Comment  B00320022: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.1     K1=  0.00     K2=  0.00
+# Comment  B00320022: tendl.2017        N=     8 F=   8.69     chi-2=  1.960E+05 D=   22.5     mb T=   31.8     mb E=   13.1     K1=  8.69     K2= 1.247E+26

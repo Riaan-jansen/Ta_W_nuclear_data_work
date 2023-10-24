@@ -1,0 +1,34 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : O0081008 
+# X4 code     : 13-AL-27(P,NON),,SIG,,,EXP
+# Author      : Menet                    
+# Year        : 1971
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.00000E+01  6.45000E+02  3.50000E+01  0.00000E+00
+  6.08000E+01  4.99000E+02  2.70000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#J.J.Menet, E.E.Gross, J.J.Malanify, A.Zucker
+#Jour. Physical Review, Part C, Nuclear Physics Vol.4, p.1114, 1971
+#TOTAL-REACTION-CROSS SECTION MEASUREMENTS FOR 30-60-MEV PROTONS AND THE IMAGINARY OPTICAL POTENTIAL.
+#
+# Quality information:
+#
+# Quality  O0081008 :   
+# Date     O0081008 : 05-01-2018
+# Reaction O0081008 : NP:    2 E-range:   40.0    -   60.8     MeV 13-AL-27(P,NON),,SIG,,,EXP          pdf: n
+# Paper    O0081008 : J.J.Menet+ Jour. Physical Review, Part C, Nuclear Physics Vol.4, p.1114, 1971 TOTAL-REACTION-CROSS SECTION MEASUREMENTS FOR 30-60-MEV PROTON
+# Action   O0081008 : 
+# Comment  O0081008 : 

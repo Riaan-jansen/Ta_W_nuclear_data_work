@@ -1,0 +1,33 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  205
+# X4 ID       : O0044025 
+# X4 code     : 13-AL-27(P,X)1-H-3,,SIG
+# Author      : Lefort                   
+# Year        : 1961
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.50000E+02  1.00000E+01  1.50000E+00  5.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#M.Lefort, G.N.Simonoff, X.Tarrago
+#Jour. Nuclear Physics Vol.25, p.216, 1961
+#A spallation nuclear reaction on thorium at 150 and 82 MeV proton energies.
+#
+# Quality information:
+#
+# Quality  O0044025 :   
+# Date     O0044025 : 05-01-2018
+# Reaction O0044025 : NP:    1 E-range:   150.    -   150.     MeV 13-AL-27(P,X)1-H-3,,SIG             pdf: n
+# Paper    O0044025 : M.Lefort+ Jour. Nuclear Physics Vol.25, p.216, 1961 A spallation nuclear reaction on thorium at 150 and 82 MeV proton energies.
+# Action   O0044025 : 
+# Comment  O0044025 : 

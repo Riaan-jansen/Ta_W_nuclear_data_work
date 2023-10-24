@@ -1,0 +1,51 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  21
+# Final A     :  47
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0276123 
+# X4 code     : 29-CU-0(P,X)21-SC-47,CUM,SIG
+# Author      : Michel                   
+# Year        : 1997
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.11000E+02  9.10000E-02  7.00000E-03  1.40000E+00
+  1.21000E+02  1.45000E-01  1.10000E-02  1.50000E+00
+  1.31000E+02  1.74000E-01  1.30000E-02  1.30000E+00  1.84164E-03  1.0584E-02   175.4      0.1722              
+  1.40000E+02  1.98000E-01  1.50000E-02  1.20000E+00  3.63896E-03  1.8379E-02   167.9      0.1944              
+  1.48000E+02  2.16000E-01  1.60000E-02  1.10000E+00  7.17466E-03  3.3216E-02   170.3      0.2088              
+  1.58000E+02  2.38000E-01  1.70000E-02  1.10000E+00  1.47775E-02  6.2090E-02   172.4      0.2232              
+#
+# Average deviation:                                                42.13       171.5      0.1996    
+#
+# Full reference:
+#R.Michel,  R.Bodemann,  H.Busemann,  R.Daunke,  M.Gloris, H.-J.Lange,  B.Klug,  A.Krins,  I.Leya,
+# M.Luepke, S.Neumann,  H.Reinhardt,  M.Schnatz-Buettgen, U.Herpers,  Th.Schiekel,  F.Sudbrock,  B.Holmqvist, H.Conde,
+# P.Malmborg,  M.Suter,  B.Dittrich-Hannen, P.-W.Kubik,  H.-A.Sinal,  D.Filges
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.129, p.153, 1997
+#Cross sections for the production of residual nuclides by low- and medium-energy protons from the target elements C, N, O, Mg, Al, Si, Ca, Ti, V, Mn, Fe, Co,
+#Ni, Cu, Sr, Y, Zr, Nb, Ba and Au.
+#
+# Quality information:
+#
+# Quality  O0276123 : T2
+# Date     O0276123 : 05-01-2018
+# Reaction O0276123 : NP:    6 E-range:   111.    -   158.     MeV 29-CU-0(P,X)21-SC-47,CUM,SIG        pdf: y
+# Paper    O0276123 : R.Michel+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.129, p.153, 1997 Cross sections for the production of residual nuclides b
+# Action   O0276123 : 
+# Comment  O0276123 : Evaluation        N=     4 F=   42.1     chi-2=   172.     D=  0.200     mb T=  6.858E-03 mb E=  0.177     K1=  42.1     K2= 1.000E+35
+# Comment  O0276123 : TALYS             N=     4 F=   42.1     chi-2=   172.     D=  0.200     mb T=  6.858E-03 mb E=  0.177     K1=  42.1     K2= 1.000E+35
+# Comment  O0276123 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.177     K1=  0.00     K2=  0.00
+# Comment  O0276123 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.177     K1=  0.00     K2=  0.00
+# Comment  O0276123 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.177     K1=  0.00     K2=  0.00
+# Comment  O0276123 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.177     K1=  0.00     K2=  0.00
+# Comment  O0276123 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.177     K1=  0.00     K2=  0.00
+# Comment  O0276123 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.177     K1=  0.00     K2=  0.00
+# Comment  O0276123 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.177     K1=  0.00     K2=  0.00

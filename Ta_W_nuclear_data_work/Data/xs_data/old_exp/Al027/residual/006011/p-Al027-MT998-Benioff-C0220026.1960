@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   6
+# Final A     :  11
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0220026 
+# X4 code     : 13-AL-27(P,X)6-C-11,,SIG
+# Author      : Benioff                  
+# Year        : 1960
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.70000E+03  6.00000E+00  4.00000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#P.A.Benioff
+#Jour. Physical Review Vol.119, p.316, 1960
+#Nuclear reactions of low-z elements with 5.7-BeV protons
+#
+# Quality information:
+#
+# Quality  C0220026 :   
+# Date     C0220026 : 05-01-2018
+# Reaction C0220026 : NP:    1 E-range:  5.700E+03-  5.700E+03 MeV 13-AL-27(P,X)6-C-11,,SIG            pdf: n
+# Paper    C0220026 : P.A.Benioff Jour. Physical Review Vol.119, p.316, 1960 Nuclear reactions of low-z elements with 5.7-BeV protons
+# Action   C0220026 : 
+# Comment  C0220026 : 

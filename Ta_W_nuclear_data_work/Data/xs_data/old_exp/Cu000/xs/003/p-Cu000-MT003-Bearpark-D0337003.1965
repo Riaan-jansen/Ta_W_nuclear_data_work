@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : D0337003 
+# X4 code     : 29-CU-0(P,NON),,SIG
+# Author      : Bearpark                 
+# Year        : 1965
+# Data points :     13
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.78000E+00  6.80000E+02  3.60000E+01  7.20000E-01
+  9.15000E+00  7.10000E+02  3.30000E+01  7.00000E-01
+  9.15000E+00  6.72000E+02  1.05000E+02  7.00000E-01
+  9.52000E+00  7.40000E+02  3.20000E+01  6.80000E-01
+  9.52000E+00  7.20000E+02  9.70000E+01  6.80000E-01
+  9.85000E+00  7.90000E+02  3.20000E+01  6.60000E-01
+  9.85000E+00  7.58000E+02  9.30000E+01  6.60000E-01
+  1.01900E+01  7.98000E+02  3.10000E+01  3.10000E-01
+  1.01900E+01  7.83000E+02  8.70000E+01  3.10000E-01
+  1.03600E+01  8.15000E+02  3.00000E+01  6.30000E-01
+  1.07000E+01  8.30000E+02  2.90000E+01  3.00000E-01
+  1.08900E+01  8.53000E+02  2.80000E+01  6.10000E-01
+  1.12100E+01  8.65000E+02  2.80000E+01  2.90000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#K.Bearpark, W.R.Graham, G.Jones
+#Jour. Nuclear Instrum.and Methods in Physics Res. Vol.35, p.235, 1965
+#A method for the measurement of total reaction cross-sections fr charged particles
+#
+# Quality information:
+#
+# Quality  D0337003 :   
+# Date     D0337003 : 05-01-2018
+# Reaction D0337003 : NP:   13 E-range:   8.78    -   11.2     MeV 29-CU-0(P,NON),,SIG                 pdf: n
+# Paper    D0337003 : K.Bearpark+ Jour. Nuclear Instrum.and Methods in Physics Res. Vol.35, p.235, 1965 A method for the measurement of total reaction cross-secti
+# Action   D0337003 : 
+# Comment  D0337003 : 

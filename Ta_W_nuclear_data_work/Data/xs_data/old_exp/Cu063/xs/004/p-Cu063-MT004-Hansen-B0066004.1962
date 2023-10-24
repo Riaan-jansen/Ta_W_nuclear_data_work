@@ -1,0 +1,47 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : B0066004 
+# X4 code     : 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP
+# Author      : Hansen                   
+# Year        : 1962
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.00000E+00  2.22000E+02  2.30000E+01  0.00000E+00  2.30918E+02   1.040      0.1503       8.918              
+  7.00000E+00  2.86000E+02  2.90000E+01  0.00000E+00  4.15913E+01  0.1454       81.61       244.4              
+  8.00000E+00  3.32000E+02  3.20000E+01  0.00000E+00  9.72062E+01  0.2928       60.14       234.8              
+  9.00000E+00  3.81000E+02  4.10000E+01  0.00000E+00  1.65212E+02  0.4336       30.09       215.8              
+  1.00000E+01  4.47000E+02  4.50000E+01  0.00000E+00  2.10008E+02  0.4698       29.19       237.0              
+  1.10000E+01  5.12000E+02  4.80000E+01  0.00000E+00  2.42146E+02  0.4729       32.53       269.9              
+#
+# Average deviation:                                                7.077       38.95       201.8    
+#
+# Full reference:
+#L.F.Hansen,  R.D.Albert
+#Jour. Physical Review Vol.128, p.291, 1962
+#Statistical Theory Predictions For 5 to 11 MeV (P,N) And (P,P`) Nuclear Reactions in V-51, Co-59, Cu-63, Cu-65, and Rh-103
+#
+#
+# Quality information:
+#
+# Quality  B0066004 : T2
+# Date     B0066004 : 05-01-2018
+# Reaction B0066004 : NP:    6 E-range:   6.00    -   11.0     MeV 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP    pdf: y
+# Paper    B0066004 : L.F.Hansen+ Jour. Physical Review Vol.128, p.291, 1962 Statistical Theory Predictions For 5 to 11 MeV (P,N) And (P,P`) Nuclear Reactions in
+# Action   B0066004 : 
+# Comment  B0066004 : Evaluation        N=     6 F=   7.08     chi-2=   39.0     D=   202.     mb T=   165.     mb E=   363.     K1=  7.08     K2= 3.772E+25
+# Comment  B0066004 : TALYS             N=     6 F=   1.26     chi-2=   4.10     D=   70.8     mb T=   296.     mb E=   363.     K1=  1.26     K2=  1.69
+# Comment  B0066004 : cendl3.1          N=     5 F=   15.7     chi-2=   64.5     D=   297.     mb T=   94.2     mb E=   363.     K1=  15.7     K2= 1.000E+35
+# Comment  B0066004 : eaf.2010          N=     5 F=   8.53     chi-2=   53.0     D=   265.     mb T=   127.     mb E=   363.     K1=  8.53     K2= 2.773E+21
+# Comment  B0066004 : endfb8.0          N=     5 F=   8.77     chi-2=   49.1     D=   253.     mb T=   138.     mb E=   363.     K1=  8.77     K2= 7.618E+24
+# Comment  B0066004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   363.     K1=  0.00     K2=  0.00
+# Comment  B0066004 : jeff3.3           N=     5 F=   8.70     chi-2=   53.4     D=   269.     mb T=   123.     mb E=   363.     K1=  8.70     K2= 6.653E+22
+# Comment  B0066004 : jendl4.0          N=     5 F=   11.2     chi-2=   48.7     D=   246.     mb T=   146.     mb E=   363.     K1=  11.2     K2= 1.000E+35
+# Comment  B0066004 : tendl.2017        N=     5 F=   8.70     chi-2=   53.4     D=   269.     mb T=   123.     mb E=   363.     K1=  8.70     K2= 6.653E+22

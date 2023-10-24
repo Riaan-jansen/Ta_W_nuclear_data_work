@@ -1,0 +1,58 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  69
+# Final A     : 165
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099128 
+# X4 code     : 73-TA-181(P,X)69-TM-165,CUM,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :     14
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.56000E+02  6.16000E+00  7.40000E-01  1.00000E+00  4.69580E-02  7.6231E-03   68.24       6.113              
+  1.64000E+02  9.30000E+00  1.02000E+00  1.00000E+00  6.50455E-02  6.9941E-03   81.97       9.235              
+  1.67000E+02  9.06000E+00  9.60000E-01  1.00000E+00  7.20071E-02  7.9478E-03   87.66       8.988              
+  1.72000E+02  1.41000E+01  1.60000E+00  1.00000E+00  8.36098E-02  5.9298E-03   76.74       14.02              
+  2.56000E+02  4.47000E+01  5.70000E+00  1.00000E+00  2.34427E-01  5.2445E-03   60.86       44.47              
+  2.58000E+02  4.74000E+01  6.10000E+00  2.00000E+00  2.37074E-01  5.0016E-03   59.78       47.16              
+  3.37000E+02  5.82000E+01  7.50000E+00  2.00000E+00  3.37767E-01  5.8036E-03   59.52       57.86              
+  5.61000E+02  6.90000E+01  8.60000E+00  1.00000E+00  4.62922E-01  6.7090E-03   63.51       68.54              
+  7.65000E+02  5.94000E+01  7.40000E+00  1.00000E+00  3.48913E-01  5.8740E-03   63.68       59.05              
+  9.86000E+02  5.36000E+01  6.60000E+00  1.00000E+00  2.41605E-01  4.5076E-03   65.36       53.36              
+  1.18000E+03  5.13000E+01  6.90000E+00  1.00000E+00
+  1.38000E+03  4.47000E+01  5.60000E+00  1.00000E+00
+  1.57000E+03  3.60000E+01  5.00000E+00  1.00000E+00
+  2.58000E+03  3.06000E+01  4.00000E+00  1.00000E+00
+#
+# Average deviation:                                                165.2       68.73       36.88    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099128 : T2
+# Date     O1099128 : 05-01-2018
+# Reaction O1099128 : NP:   14 E-range:   156.    -  2.580E+03 MeV 73-TA-181(P,X)69-TM-165,CUM,SIG     pdf: y
+# Paper    O1099128 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099128 : 
+# Comment  O1099128 : Evaluation        N=    10 F=   165.     chi-2=   68.7     D=   36.9     mb T=  0.213     mb E=   38.1     K1=  165.     K2= 1.000E+35
+# Comment  O1099128 : TALYS             N=    10 F=   165.     chi-2=   68.7     D=   36.9     mb T=  0.213     mb E=   38.1     K1=  165.     K2= 1.000E+35
+# Comment  O1099128 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   38.1     K1=  0.00     K2=  0.00
+# Comment  O1099128 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   38.1     K1=  0.00     K2=  0.00
+# Comment  O1099128 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   38.1     K1=  0.00     K2=  0.00
+# Comment  O1099128 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   38.1     K1=  0.00     K2=  0.00
+# Comment  O1099128 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   38.1     K1=  0.00     K2=  0.00
+# Comment  O1099128 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   38.1     K1=  0.00     K2=  0.00
+# Comment  O1099128 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   38.1     K1=  0.00     K2=  0.00

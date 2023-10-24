@@ -1,0 +1,50 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  24
+# Final A     :  48
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A05070051
+# X4 code     : 29-CU-0(P,X)24-CR-48,CUM,SIG,,,EXP
+# Author      : Mills                    
+# Year        : 1992
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.96600E+02  4.20000E-02  1.20000E-02  0.00000E+00  3.65130E+00   86.94      1.5905E+05   3.609              
+  1.90200E+02  3.80000E-02  1.10000E-02  0.00000E+00  3.45485E+00   90.92      1.7230E+05   3.417              
+  1.83800E+02  3.90000E-02  1.30000E-02  0.00000E+00  3.25840E+00   83.55      1.1160E+05   3.219              
+  1.77200E+02  4.20000E-02  1.10000E-02  0.00000E+00  3.16834E+00   75.44      1.5025E+05   3.126              
+  1.69400E+02  4.08000E-02  9.20000E-03  0.00000E+00  3.24239E+00   79.47      2.3063E+05   3.202              
+  1.64100E+02  3.88000E-02  8.10000E-03  0.00000E+00  3.29271E+00   84.86      3.1198E+05   3.254              
+  1.58700E+02  3.80000E-02  1.40000E-02  0.00000E+00  3.34634E+00   88.06      1.0944E+05   3.308              
+#
+# Average deviation:                                                46.48      1.7789E+05   3.305    
+#
+# Full reference:
+#S.J.Mills, G.F.Steyn, F.M.Nortier
+#Jour. Applied Radiation and Isotopes Vol.43, p.1019, 1992
+#Experimental and Theoretical Excitation Functions of Radionuclides Produced in Proton Bombardment of Copper Up to 200 MeV.
+#
+#
+# Quality information:
+#
+# Quality  A05070051: T2
+# Date     A05070051: 05-01-2018
+# Reaction A05070051: NP:    7 E-range:   159.    -   197.     MeV 29-CU-0(P,X)24-CR-48,CUM,SIG,,,EXP  pdf: y
+# Paper    A05070051: S.J.Mills+ Jour. Applied Radiation and Isotopes Vol.43, p.1019, 1992 Experimental and Theoretical Excitation Functions of Radionuclides Prod
+# Action   A05070051: 
+# Comment  A05070051: Evaluation        N=     7 F=   46.5     chi-2=  1.779E+05 D=   3.31     mb T=   3.34     mb E=  3.980E-02 K1=  46.5     K2= 1.000E+35
+# Comment  A05070051: TALYS             N=     7 F=   6.77     chi-2=   605.     D=  0.246     mb T=  0.286     mb E=  3.980E-02 K1=  6.77     K2= 2.685E+04
+# Comment  A05070051: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  3.980E-02 K1=  0.00     K2=  0.00
+# Comment  A05070051: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  3.980E-02 K1=  0.00     K2=  0.00
+# Comment  A05070051: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  3.980E-02 K1=  0.00     K2=  0.00
+# Comment  A05070051: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  3.980E-02 K1=  0.00     K2=  0.00
+# Comment  A05070051: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  3.980E-02 K1=  0.00     K2=  0.00
+# Comment  A05070051: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  3.980E-02 K1=  0.00     K2=  0.00
+# Comment  A05070051: tendl.2017        N=     7 F=   161.     chi-2=  3.552E+05 D=   6.36     mb T=   6.40     mb E=  3.980E-02 K1=  161.     K2= 1.000E+35

@@ -1,0 +1,22 @@
+# Target Z    :  74
+# Target A    : 184
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   51.900 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  0.00000)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :  740
+# X4 ID       : E1615074 
+# X4 code     : 74-W-184(P,T)74-W-182,PAR,DA
+# Author      : Miura                    
+# Year        : 1985
+# Data points :      1
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  1.31000E+01  1.20000E-01  9.00000E-03
+# Full reference:
+#K.Miura,  Y.Hiratate,  T.Shoji,  T.Suehiro,  H.Yamaguchi, Y.Ishizaki
+#Jour. Nuclear Physics, Section A Vol.436, Issue.2, p.221, 1985
+#Ground-state transition strengths of the (p,t) reactions for nuclei with A=23-238

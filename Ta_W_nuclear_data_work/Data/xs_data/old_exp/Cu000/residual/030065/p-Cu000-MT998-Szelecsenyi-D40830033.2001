@@ -1,0 +1,50 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  65
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D40830033
+# X4 code     : 29-CU-0(P,X)30-ZN-65,,SIG
+# Author      : Szelecsenyi              
+# Year        : 2001
+# Data points :     14
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.70000E+00  1.03000E+02  1.20000E+01  4.00000E-01
+  6.50000E+00  1.36000E+02  1.60000E+01  4.00000E-01
+  7.20000E+00  1.52000E+02  1.70000E+01  4.00000E-01
+  8.20000E+00  1.85000E+02  2.10000E+01  4.00000E-01
+  9.10000E+00  2.08000E+02  2.40000E+01  3.00000E-01
+  1.00000E+01  2.22000E+02  2.50000E+01  3.00000E-01
+  1.15000E+01  2.29000E+02  2.60000E+01  3.00000E-01
+  1.29000E+01  1.66000E+02  1.90000E+01  2.00000E-01
+  1.43000E+01  1.23000E+02  1.40000E+01  2.00000E-01
+  1.55000E+01  7.63000E+01  9.00000E+00  2.00000E-01
+  1.61000E+01  6.31000E+01  7.90000E+00  2.00000E-01
+  1.66000E+01  5.77000E+01  7.10000E+00  1.00000E-01
+  1.72000E+01  4.45000E+01  5.30000E+00  1.00000E-01
+  1.77000E+01  3.68000E+01  4.80000E+00  1.00000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#F.Szelecsenyi,  F.Tarkanyi,  S.Takacs,  A.Hermanne, M.Sonck,  Yu.Shubin,  M.G.Mustafa,  Zhuang Youxiang
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.174, p.47, 2001
+#Excitation function for the natTi(p,x)48V nuclear process: Evaluation and new measurements for practical applications
+#
+#
+# Quality information:
+#
+# Quality  D40830033:   
+# Date     D40830033: 05-01-2018
+# Reaction D40830033: NP:   14 E-range:   5.70    -   17.7     MeV 29-CU-0(P,X)30-ZN-65,,SIG           pdf: n
+# Paper    D40830033: F.Szelecsenyi+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.174, p.47, 2001 Excitation function for the natTi(p,x)48V nuclear pr
+# Action   D40830033: 
+# Comment  D40830033: 

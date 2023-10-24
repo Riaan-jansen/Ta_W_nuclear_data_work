@@ -1,0 +1,50 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0282009 
+# X4 code     : 13-AL-27(P,X)11-NA-22,CUM,SIG
+# Author      : Bodemann                 
+# Year        : 1993
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.16000E+01  7.24000E+00  7.37000E-01  2.47000E+00  3.85615E+00  0.5326       21.08       3.384              
+  5.40000E+01  3.33000E+01  3.38000E+00  1.37000E+00  2.71916E+01  0.8166       3.266       6.108              
+  6.29000E+01  2.60000E+01  2.95000E+00  1.21000E+00  2.30169E+01  0.8853       1.023       2.983              
+  7.10000E+01  2.28000E+01  2.31000E+00  9.29000E-01  2.12906E+01  0.9338      0.4269       1.509              
+  8.56000E+01  2.09000E+01  2.11000E+00  6.84000E-01  2.22051E+01   1.062      0.3826       1.305              
+  9.39000E+01  2.08000E+01  2.34000E+00  5.02000E-01  2.26568E+01   1.089      0.6297       1.857              
+  9.85000E+01  1.98000E+01  2.01000E+00  3.46000E-01  2.26789E+01   1.145       2.051       2.879              
+#
+# Average deviation:                                                1.302       4.123       2.861    
+#
+# Full reference:
+#R.Bodemann,  H.-J.Lange,  I.Leya,  R.Michel,  T.Schiekel, R.Rosel,  U.Herpers,  H.J.Hofmann,  B.Dittrich,
+# M.Suter, W.Woelfli,  B.Holmqvist,  H.Conde,  P.Malmborg
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.82, p.9, 1993
+#Production of residual nuclei by proton-induced reactions on C, N, O, Mg, Al and Si.
+#
+# Quality information:
+#
+# Quality  O0282009 : T1
+# Date     O0282009 : 05-01-2018
+# Reaction O0282009 : NP:    7 E-range:   31.6    -   98.5     MeV 13-AL-27(P,X)11-NA-22,CUM,SIG       pdf: y
+# Paper    O0282009 : R.Bodemann+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.82, p.9, 1993 Production of residual nuclei by proton-induced reactions
+# Action   O0282009 : 
+# Comment  O0282009 : Evaluation        N=     7 F=   1.30     chi-2=   4.12     D=   2.86     mb T=   20.4     mb E=   21.5     K1=  1.30     K2=  2.14
+# Comment  O0282009 : TALYS             N=     7 F=   1.30     chi-2=   4.12     D=   2.86     mb T=   20.4     mb E=   21.5     K1=  1.30     K2=  2.14
+# Comment  O0282009 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   21.5     K1=  0.00     K2=  0.00
+# Comment  O0282009 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   21.5     K1=  0.00     K2=  0.00
+# Comment  O0282009 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   21.5     K1=  0.00     K2=  0.00
+# Comment  O0282009 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   21.5     K1=  0.00     K2=  0.00
+# Comment  O0282009 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   21.5     K1=  0.00     K2=  0.00
+# Comment  O0282009 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   21.5     K1=  0.00     K2=  0.00
+# Comment  O0282009 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   21.5     K1=  0.00     K2=  0.00

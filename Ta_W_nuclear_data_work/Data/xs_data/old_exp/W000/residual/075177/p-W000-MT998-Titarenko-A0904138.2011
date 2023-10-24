@@ -1,0 +1,49 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 177
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0904138 
+# X4 code     : 74-W-0(P,X)75-RE-177,IND,SIG
+# Author      : Titarenko                
+# Year        : 2011
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.80000E+01  1.40000E+02  1.10000E+01  1.00000E+00  5.07652E-02  3.6261E-04   161.9       139.9              
+  9.90000E+01  9.58000E+01  7.80000E+00  1.00000E+00  2.69867E-02  2.8170E-04   150.8       95.77              
+  1.49000E+02  2.69000E+01  2.30000E+00  1.00000E+00  1.52769E-02  5.6792E-04   136.6       26.88              
+  2.49000E+02  2.90000E+01  1.60000E+01  1.00000E+00  9.24942E-03  3.1895E-04   3.283       28.99              
+#
+# Average deviation:                                                3006.       113.1       72.90    
+#
+# Full reference:
+#Yu.E.Titarenko,  V.F.Batyaev,  A.Yu.Titarenko, M.A.Butko,  K.V.Pavlov,  S.N.Florya,  R.S.Tikhonov, V.M.Zhivun,  A.V.Ignatyuk,
+# S.G.Mashnik,  S.Leray, A.Boudard,  J.Cugnon,  D.Mancusi,  Y.Yariv,  K.Nishihara, N.Matsuda,  H.Kumawat,
+# G.Mank,  W.Gudowski
+#Jour. Yadernaya Fizika Vol.74, p.574, 2011
+#Measurement and simulation of the cross sections for nuclide production in W-nat and Ta-181 targets irradiated with 0.04- to 2.6-GeV protons.
+#
+#
+# Quality information:
+#
+# Quality  A0904138 : T2
+# Date     A0904138 : 05-01-2018
+# Reaction A0904138 : NP:    4 E-range:   68.0    -   249.     MeV 74-W-0(P,X)75-RE-177,IND,SIG        pdf: y
+# Paper    A0904138 : Yu.E.Titarenko+ Jour. Yadernaya Fizika Vol.74, p.574, 2011 Measurement and simulation of the cross sections for nuclide production in W-nat
+# Action   A0904138 : 
+# Comment  A0904138 : Evaluation        N=     4 F=  3.006E+03 chi-2=   113.     D=   72.9     mb T=  2.557E-02 mb E=   72.9     K1= 3.006E+03 K2= 1.000E+35
+# Comment  A0904138 : TALYS             N=     4 F=  2.122E+03 chi-2=   113.     D=   72.9     mb T=  3.685E-02 mb E=   72.9     K1= 2.122E+03 K2= 1.000E+35
+# Comment  A0904138 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   72.9     K1=  0.00     K2=  0.00
+# Comment  A0904138 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   72.9     K1=  0.00     K2=  0.00
+# Comment  A0904138 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   72.9     K1=  0.00     K2=  0.00
+# Comment  A0904138 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   72.9     K1=  0.00     K2=  0.00
+# Comment  A0904138 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   72.9     K1=  0.00     K2=  0.00
+# Comment  A0904138 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   72.9     K1=  0.00     K2=  0.00
+# Comment  A0904138 : tendl.2017        N=     3 F=  4.615E+03 chi-2=   150.     D=   87.6     mb T=  1.597E-02 mb E=   72.9     K1= 4.615E+03 K2= 1.000E+35

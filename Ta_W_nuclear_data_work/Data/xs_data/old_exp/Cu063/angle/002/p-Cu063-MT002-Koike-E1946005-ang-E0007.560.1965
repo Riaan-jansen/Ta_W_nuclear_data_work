@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,el)
+# E-inc       :    7.560 MeV
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :    2
+# X4 ID       : E1946005 
+# X4 code     : 29-CU-63(P,EL)29-CU-63,,DA
+# Author      : Koike                    
+# Year        : 1965
+# Data points :     23
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  1.65000E+02  6.68000E+00  0.00000E+00
+  1.65000E+02  3.84000E+00  0.00000E+00
+  1.65000E+02  7.72000E+00  0.00000E+00
+  1.65000E+02  1.04000E+01  0.00000E+00
+  1.65000E+02  1.08000E+01  0.00000E+00
+  1.65000E+02  1.06000E+01  0.00000E+00
+  1.65000E+02  1.11000E+01  0.00000E+00
+  1.65000E+02  1.20000E+01  0.00000E+00
+  1.65000E+02  1.16000E+01  0.00000E+00
+  1.65000E+02  1.17000E+01  0.00000E+00
+  1.65000E+02  1.19000E+01  0.00000E+00
+  1.65000E+02  1.25000E+01  0.00000E+00
+  1.65000E+02  1.25000E+01  0.00000E+00
+  1.65000E+02  1.39000E+01  0.00000E+00
+  1.65000E+02  1.32000E+01  0.00000E+00
+  1.65000E+02  1.43000E+01  0.00000E+00
+  1.65000E+02  1.34000E+01  0.00000E+00
+  1.65000E+02  1.40000E+01  0.00000E+00
+  1.65000E+02  1.24000E+01  0.00000E+00
+  1.65000E+02  1.28000E+01  0.00000E+00
+  1.65000E+02  1.20000E+01  0.00000E+00
+  1.65000E+02  1.12000E+01  0.00000E+00
+  1.65000E+02  3.54000E+00  0.00000E+00
+# Full reference:
+#M.Koike,  T.Maki,  K.Matsuda,  T.Mikumo,  Y.Nagahara, I.Nonaka,  A.Suzuki,  K.Kikuchi
+#
+#Jour. Journal of the Physical Society of Japan Vol.20, Issue.5, p.679, 1965
+#Elastic scattering of protons from 63Cu and 65Cu in the energy range from 7.54 MeV to 14.64 MeV

@@ -1,0 +1,52 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,np)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   28
+# X4 ID       : C0537020 
+# X4 code     : 29-CU-65(P,N+P)29-CU-64,,SIG
+# Author      : Greenwood                
+# Year        : 1984
+# Data points :     12
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.60000E+01  4.36000E+02  2.18000E+01  0.00000E+00  1.21372E+02  0.2784       238.2       314.6              
+  3.20000E+01  3.06000E+02  1.53000E+01  0.00000E+00  1.19644E+02  0.3910       207.4       186.4              
+  4.00000E+01  2.69000E+02  1.34500E+01  0.00000E+00  1.00416E+02  0.3733       208.8       168.6              
+  5.00000E+01  2.41000E+02  1.20500E+01  0.00000E+00  8.33739E+01  0.3459       215.8       157.6              
+  8.00000E+01  1.33000E+02  6.65000E+00  0.00000E+00  7.19349E+01  0.5409       157.3       61.07              
+  1.00000E+02  1.03000E+02  5.15000E+00  0.00000E+00  5.48813E+01  0.5328       151.1       48.12              
+  1.50000E+02  7.53000E+01  3.76500E+00  0.00000E+00  3.28986E+01  0.4369       164.2       42.40              
+  2.00000E+02  6.45000E+01  3.22500E+00  0.00000E+00  2.46049E+01  0.3815       173.4       39.90              
+  2.50000E+02  5.56000E+01  2.78000E+00  0.00000E+00  3.59927E+01  0.6474       49.74       19.61              
+  3.00000E+02  5.28000E+01  2.64000E+00  0.00000E+00  3.41713E+01  0.6472       49.79       18.63              
+  3.50000E+02  5.40000E+01  2.70000E+00  0.00000E+00  3.31498E+01  0.6139       59.63       20.85              
+  4.50000E+02  5.14000E+01  2.57000E+00  0.00000E+00  3.17598E+01  0.6179       58.40       19.64              
+#
+# Average deviation:                                                3.885       144.5       91.45    
+#
+# Full reference:
+#L.R.Greenwood, R.K.Smither
+#Prog. U.S. Dept.of Energy, Fusion Energy Series No.0046,18, p.11, 1984
+#Measurement of Cu spallation cross sections at IPNS
+#
+# Quality information:
+#
+# Quality  C0537020 : T1
+# Date     C0537020 : 05-01-2018
+# Reaction C0537020 : NP:   12 E-range:   26.0    -   450.     MeV 29-CU-65(P,N+P)29-CU-64,,SIG        pdf: y
+# Paper    C0537020 : L.R.Greenwood+ Prog. U.S. Dept.of Energy, Fusion Energy Series No.0046,18, p.11, 1984 Measurement of Cu spallation cross sections at IPNS
+# Action   C0537020 : 
+# Comment  C0537020 : Evaluation        N=    12 F=   3.89     chi-2=   144.     D=   91.5     mb T=   62.0     mb E=   153.     K1=  3.89     K2= 1.497E+07
+# Comment  C0537020 : TALYS             N=    12 F=   1.39     chi-2=   28.5     D=   25.7     mb T=   128.     mb E=   153.     K1=  1.39     K2=  3.12
+# Comment  C0537020 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   153.     K1=  0.00     K2=  0.00
+# Comment  C0537020 : eaf.2010          N=     4 F=   6.97     chi-2=   293.     D=   268.     mb T=   45.0     mb E=   153.     K1=  6.97     K2= 1.977E+09
+# Comment  C0537020 : endfb8.0          N=     1 F=   9.81     chi-2=   323.     D=   392.     mb T=   44.4     mb E=   153.     K1=  9.81     K2= 1.599E+13
+# Comment  C0537020 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   153.     K1=  0.00     K2=  0.00
+# Comment  C0537020 : jeff3.3           N=     1 F=   6.99     chi-2=   294.     D=   374.     mb T=   62.4     mb E=   153.     K1=  6.99     K2= 1.901E+09
+# Comment  C0537020 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   153.     K1=  0.00     K2=  0.00
+# Comment  C0537020 : tendl.2017        N=     8 F=   8.64     chi-2=   308.     D=   178.     mb T=   25.2     mb E=   153.     K1=  8.64     K2= 1.640E+12

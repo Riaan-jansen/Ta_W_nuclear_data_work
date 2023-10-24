@@ -1,0 +1,54 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  71
+# Final A     : 172
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0904148 
+# X4 code     : 74-W-0(P,X)71-LU-172,IND,SIG
+# Author      : Titarenko                
+# Year        : 2011
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  9.90000E+01  2.50000E-01  1.20000E-01  1.00000E+00  1.65689E-02  6.6275E-02   3.784      0.2334              
+  1.49000E+02  9.37000E-01  8.60000E-02  1.00000E+00  1.19481E-02  1.2751E-02   115.7      0.9251              
+  2.49000E+02  2.52000E+00  2.10000E-01  1.00000E+00
+  4.00000E+02  4.13000E+00  4.10000E-01  2.00000E+00
+  6.00000E+02  5.45000E+00  5.00000E-01  2.00000E+00
+  7.99000E+02  5.11000E+00  4.90000E-01  2.00000E+00
+  1.19900E+03  4.84000E+00  4.40000E-01  3.00000E+00
+  1.59900E+03  4.00000E+00  3.70000E-01  4.00000E+00
+  2.60500E+03  3.74000E+00  3.70000E-01  8.00000E+00
+#
+# Average deviation:                                                37.82       59.74      0.5792    
+#
+# Full reference:
+#Yu.E.Titarenko,  V.F.Batyaev,  A.Yu.Titarenko, M.A.Butko,  K.V.Pavlov,  S.N.Florya,  R.S.Tikhonov, V.M.Zhivun,  A.V.Ignatyuk,
+# S.G.Mashnik,  S.Leray, A.Boudard,  J.Cugnon,  D.Mancusi,  Y.Yariv,  K.Nishihara, N.Matsuda,  H.Kumawat,
+# G.Mank,  W.Gudowski
+#Jour. Yadernaya Fizika Vol.74, p.574, 2011
+#Measurement and simulation of the cross sections for nuclide production in W-nat and Ta-181 targets irradiated with 0.04- to 2.6-GeV protons.
+#
+#
+# Quality information:
+#
+# Quality  A0904148 : T2
+# Date     A0904148 : 05-01-2018
+# Reaction A0904148 : NP:    9 E-range:   99.0    -  2.605E+03 MeV 74-W-0(P,X)71-LU-172,IND,SIG        pdf: y
+# Paper    A0904148 : Yu.E.Titarenko+ Jour. Yadernaya Fizika Vol.74, p.574, 2011 Measurement and simulation of the cross sections for nuclide production in W-nat
+# Action   A0904148 : 
+# Comment  A0904148 : Evaluation        N=     2 F=   37.8     chi-2=   59.7     D=  0.579     mb T=  1.426E-02 mb E=   3.44     K1=  37.8     K2= 1.000E+35
+# Comment  A0904148 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.44     K1=  0.00     K2=  0.00
+# Comment  A0904148 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.44     K1=  0.00     K2=  0.00
+# Comment  A0904148 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.44     K1=  0.00     K2=  0.00
+# Comment  A0904148 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.44     K1=  0.00     K2=  0.00
+# Comment  A0904148 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.44     K1=  0.00     K2=  0.00
+# Comment  A0904148 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.44     K1=  0.00     K2=  0.00
+# Comment  A0904148 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.44     K1=  0.00     K2=  0.00
+# Comment  A0904148 : tendl.2017        N=     2 F=   37.8     chi-2=   59.7     D=  0.579     mb T=  1.426E-02 mb E=   3.44     K1=  37.8     K2= 1.000E+35

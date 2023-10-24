@@ -1,0 +1,21 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (n, )
+# Quantity    : Resonance Parameters
+# Frame       : L
+# MF          :  402
+# MT          : 6003
+# X4 ID       : E18600071
+# X4 code     : 13-AL-27(P,0),,J
+# Author      : Awaya                    
+# Year        : 1965
+# Data points :      2
+#    E(eV)        par         dpar         dE(eV)
+  1.18200E+00  2.00000E+00  0.00000E+00  0.00000E+00
+  1.19800E+00  3.00000E+00  0.00000E+00  0.00000E+00
+# Full reference:
+#T.Awaya
+#Jour. Journal of the Physical Society of Japan Vol.20, Issue.5, p.669, 1965
+#The Al27(p,p)Al27 reaction

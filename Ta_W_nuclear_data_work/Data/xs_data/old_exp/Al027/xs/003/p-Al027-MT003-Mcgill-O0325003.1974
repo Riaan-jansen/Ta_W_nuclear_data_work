@@ -1,0 +1,41 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : O0325003 
+# X4 code     : 13-AL-27(P,NON),,SIG,,,EXP
+# Author      : Mcgill                   
+# Year        : 1974
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.63000E+01  6.00000E+02  1.70000E+01  7.50000E-02
+  4.32000E+01  6.15000E+02  1.60000E+01  7.50000E-02
+  3.98000E+01  6.33000E+02  1.60000E+01  7.50000E-02
+  3.69000E+01  6.51000E+02  1.60000E+01  7.50000E-02
+  3.37000E+01  6.68000E+02  1.70000E+01  7.50000E-02
+  3.04000E+01  7.09000E+02  1.80000E+01  7.50000E-02
+  2.74000E+01  7.31000E+02  1.90000E+01  7.50000E-02
+  2.48000E+01  7.33000E+02  2.00000E+01  7.50000E-02
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#W.F.Mcgill, R.E.Carlson, T.H.Short, J.M.Cameron, J.Reginald Richardson, I.Slaus, W.T.H.Van Oers, J.W.Verba, D.J.Margaziotis,
+#P.Doherty
+#Jour. Physical Review, Part C, Nuclear Physics Vol.10, p.2237, 1974
+#Measurementys of the Proton Total Reaction Cross Section For Light Nuclei Between 20 and 48 MeV.
+#
+# Quality information:
+#
+# Quality  O0325003 :   
+# Date     O0325003 : 05-01-2018
+# Reaction O0325003 : NP:    8 E-range:   24.8    -   46.3     MeV 13-AL-27(P,NON),,SIG,,,EXP          pdf: n
+# Paper    O0325003 : W.F.Mcgill+ Jour. Physical Review, Part C, Nuclear Physics Vol.10, p.2237, 1974 Measurementys of the Proton Total Reaction Cross Section For
+# Action   O0325003 : 
+# Comment  O0325003 : 

@@ -1,0 +1,53 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  69
+# Final A     : 166
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0904036 
+# X4 code     : 74-W-0(P,X)69-TM-166,CUM,SIG
+# Author      : Titarenko                
+# Year        : 2011
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.49000E+02  1.54000E+00  8.90000E-01  1.00000E+00  1.19481E-02  7.7585E-03   2.948       1.528              
+  2.49000E+02  2.26000E+01  1.90000E+00  1.00000E+00
+  4.00000E+02  4.88000E+01  4.60000E+00  2.00000E+00
+  6.00000E+02  6.53000E+01  5.80000E+00  2.00000E+00
+  7.99000E+02  5.18000E+01  5.00000E+00  2.00000E+00
+  1.19900E+03  4.53000E+01  4.20000E+00  3.00000E+00
+  1.59900E+03  3.49000E+01  3.30000E+00  4.00000E+00
+  2.60500E+03  2.78000E+01  2.60000E+00  8.00000E+00
+#
+# Average deviation:                                                128.9       2.948       1.528    
+#
+# Full reference:
+#Yu.E.Titarenko,  V.F.Batyaev,  A.Yu.Titarenko, M.A.Butko,  K.V.Pavlov,  S.N.Florya,  R.S.Tikhonov, V.M.Zhivun,  A.V.Ignatyuk,
+# S.G.Mashnik,  S.Leray, A.Boudard,  J.Cugnon,  D.Mancusi,  Y.Yariv,  K.Nishihara, N.Matsuda,  H.Kumawat,
+# G.Mank,  W.Gudowski
+#Jour. Yadernaya Fizika Vol.74, p.574, 2011
+#Measurement and simulation of the cross sections for nuclide production in W-nat and Ta-181 targets irradiated with 0.04- to 2.6-GeV protons.
+#
+#
+# Quality information:
+#
+# Quality  A0904036 : T2
+# Date     A0904036 : 05-01-2018
+# Reaction A0904036 : NP:    8 E-range:   149.    -  2.605E+03 MeV 74-W-0(P,X)69-TM-166,CUM,SIG        pdf: y
+# Paper    A0904036 : Yu.E.Titarenko+ Jour. Yadernaya Fizika Vol.74, p.574, 2011 Measurement and simulation of the cross sections for nuclide production in W-nat
+# Action   A0904036 : 
+# Comment  A0904036 : Evaluation        N=     1 F=   129.     chi-2=   2.95     D=   1.53     mb T=  1.195E-02 mb E=   37.3     K1=  129.     K2= 2.901E+31
+# Comment  A0904036 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.3     K1=  0.00     K2=  0.00
+# Comment  A0904036 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.3     K1=  0.00     K2=  0.00
+# Comment  A0904036 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.3     K1=  0.00     K2=  0.00
+# Comment  A0904036 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.3     K1=  0.00     K2=  0.00
+# Comment  A0904036 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.3     K1=  0.00     K2=  0.00
+# Comment  A0904036 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.3     K1=  0.00     K2=  0.00
+# Comment  A0904036 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.3     K1=  0.00     K2=  0.00
+# Comment  A0904036 : tendl.2017        N=     1 F=   129.     chi-2=   2.95     D=   1.53     mb T=  1.195E-02 mb E=   37.3     K1=  129.     K2= 2.901E+31

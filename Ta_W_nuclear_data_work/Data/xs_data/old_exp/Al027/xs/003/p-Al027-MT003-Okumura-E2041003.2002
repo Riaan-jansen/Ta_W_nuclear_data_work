@@ -1,0 +1,36 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : E2041003 
+# X4 code     : 13-AL-27(P,NON),,SIG
+# Author      : Okumura                  
+# Year        : 2002
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.50000E+01  6.36000E+02  0.00000E+00  0.00000E+00
+  1.57500E+01  6.61000E+02  0.00000E+00  0.00000E+00
+  1.62500E+01  6.80000E+02  0.00000E+00  0.00000E+00
+  1.70000E+01  6.84000E+02  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#N.Okumura,  Y.Aoki,  T.Joh,  Y.Honkyu,  K.Hirota, K.S.Itoh
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.A Vol.487, Issue.3, p.565, 2002
+#Measuring system of proton total reaction cross-sections at tandem energy region
+#
+# Quality information:
+#
+# Quality  E2041003 :   
+# Date     E2041003 : 05-01-2018
+# Reaction E2041003 : NP:    4 E-range:   15.0    -   17.0     MeV 13-AL-27(P,NON),,SIG                pdf: n
+# Paper    E2041003 : N.Okumura+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.A Vol.487, Issue.3, p.565, 2002 Measuring system of proton total reaction cros
+# Action   E2041003 : 
+# Comment  E2041003 : 

@@ -1,0 +1,51 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  64
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D7015005 
+# X4 code     : 29-CU-0(P,X)29-CU-64,,SIG
+# Author      : Shahid                   
+# Year        : 2015
+# Data points :     16
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.30000E+01  5.89000E+01  6.80000E+00  2.00000E-01
+  4.16000E+01  6.31000E+01  7.10000E+00  2.00000E-01
+  4.01000E+01  7.41000E+01  7.90000E+00  2.00000E-01
+  3.87000E+01  6.16000E+01  7.00000E+00  2.00000E-01
+  3.71000E+01  6.30000E+01  7.10000E+00  2.00000E-01
+  3.55000E+01  7.76000E+01  8.20000E+00  2.00000E-01
+  3.39000E+01  6.84000E+01  7.50000E+00  2.00000E-01
+  3.22000E+01  7.15000E+01  7.70000E+00  3.00000E-01
+  3.04000E+01  7.73000E+01  8.20000E+00  3.00000E-01
+  2.85000E+01  8.71000E+01  8.90000E+00  3.00000E-01
+  2.66000E+01  1.11900E+02  1.06000E+01  3.00000E-01
+  2.45000E+01  1.32900E+02  1.20000E+01  3.00000E-01
+  2.23000E+01  1.31500E+02  1.19000E+01  3.00000E-01
+  1.99000E+01  6.47000E+01  7.30000E+00  4.00000E-01
+  1.73000E+01  4.68000E+01  5.60000E+00  4.00000E-01
+  1.43000E+01  1.64000E+01  3.20000E+00  5.00000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#M.Shahid,  K.Kim,  H.Naik,  M.Zaman,  S.C.Yang,  G.N.Kim
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.342, p.305, 2015
+#Measurement of excitation functions in proton induced reactions on natural copper from their threshold to 43 MeV
+#
+#
+# Quality information:
+#
+# Quality  D7015005 :   
+# Date     D7015005 : 05-01-2018
+# Reaction D7015005 : NP:   16 E-range:   14.3    -   43.0     MeV 29-CU-0(P,X)29-CU-64,,SIG           pdf: n
+# Paper    D7015005 : M.Shahid+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.342, p.305, 2015 Measurement of excitation functions in proton induced re
+# Action   D7015005 : 
+# Comment  D7015005 : 

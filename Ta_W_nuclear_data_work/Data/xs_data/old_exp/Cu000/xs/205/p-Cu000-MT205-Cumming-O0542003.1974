@@ -1,0 +1,33 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  205
+# X4 ID       : O0542003 
+# X4 code     : 29-CU-0(P,X)1-H-3,,SIG
+# Author      : Cumming                  
+# Year        : 1974
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.90000E+03  1.55000E+02  1.60000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#J.B.Cumming,  P.E.Haustein,  R.W.Stoenner,  L.Mausner, R.A.Naumann
+#Jour. Physical Review, Part C, Nuclear Physics Vol.10, p.739, 1974
+#Spallation of Cu by 3.9-GeV N-14 Ions and 3.9-GeV Protons.
+#
+# Quality information:
+#
+# Quality  O0542003 :   
+# Date     O0542003 : 05-01-2018
+# Reaction O0542003 : NP:    1 E-range:  3.900E+03-  3.900E+03 MeV 29-CU-0(P,X)1-H-3,,SIG              pdf: n
+# Paper    O0542003 : J.B.Cumming+ Jour. Physical Review, Part C, Nuclear Physics Vol.10, p.739, 1974 Spallation of Cu by 3.9-GeV N-14 Ions and 3.9-GeV Protons.
+# Action   O0542003 : 
+# Comment  O0542003 : 

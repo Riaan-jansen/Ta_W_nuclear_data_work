@@ -1,0 +1,50 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 179
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0904136 
+# X4 code     : 74-W-0(P,X)75-RE-179,IND,SIG
+# Author      : Titarenko                
+# Year        : 2011
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.60000E+01  2.19000E+02  1.80000E+01  1.00000E+00  5.83747E-02  2.6655E-04   147.9       218.9              
+  6.80000E+01  1.49000E+02  1.20000E+01  1.00000E+00  3.88440E-02  2.6070E-04   154.1       149.0              
+  9.90000E+01  7.97000E+01  7.10000E+00  1.00000E+00  2.29063E-02  2.8741E-04   125.9       79.68              
+  1.49000E+02  3.32000E+01  3.30000E+00  1.00000E+00  1.34203E-02  4.0423E-04   101.1       33.19              
+  2.49000E+02  1.71000E+01  2.30000E+00  1.00000E+00  7.68826E-03  4.4961E-04   55.23       17.09              
+#
+# Average deviation:                                                3348.       116.9       99.57    
+#
+# Full reference:
+#Yu.E.Titarenko,  V.F.Batyaev,  A.Yu.Titarenko, M.A.Butko,  K.V.Pavlov,  S.N.Florya,  R.S.Tikhonov, V.M.Zhivun,  A.V.Ignatyuk,
+# S.G.Mashnik,  S.Leray, A.Boudard,  J.Cugnon,  D.Mancusi,  Y.Yariv,  K.Nishihara, N.Matsuda,  H.Kumawat,
+# G.Mank,  W.Gudowski
+#Jour. Yadernaya Fizika Vol.74, p.574, 2011
+#Measurement and simulation of the cross sections for nuclide production in W-nat and Ta-181 targets irradiated with 0.04- to 2.6-GeV protons.
+#
+#
+# Quality information:
+#
+# Quality  A0904136 : T2
+# Date     A0904136 : 05-01-2018
+# Reaction A0904136 : NP:    5 E-range:   46.0    -   249.     MeV 74-W-0(P,X)75-RE-179,IND,SIG        pdf: y
+# Paper    A0904136 : Yu.E.Titarenko+ Jour. Yadernaya Fizika Vol.74, p.574, 2011 Measurement and simulation of the cross sections for nuclide production in W-nat
+# Action   A0904136 : 
+# Comment  A0904136 : Evaluation        N=     5 F=  3.348E+03 chi-2=   117.     D=   99.6     mb T=  2.825E-02 mb E=   99.6     K1= 3.348E+03 K2= 1.000E+35
+# Comment  A0904136 : TALYS             N=     5 F=  2.349E+03 chi-2=   117.     D=   99.6     mb T=  4.325E-02 mb E=   99.6     K1= 2.349E+03 K2= 1.000E+35
+# Comment  A0904136 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   99.6     K1=  0.00     K2=  0.00
+# Comment  A0904136 : eaf.2010          N=     1 F=  5.349E+03 chi-2=   148.     D=   219.     mb T=  4.094E-02 mb E=   99.6     K1= 5.349E+03 K2= 1.000E+35
+# Comment  A0904136 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   99.6     K1=  0.00     K2=  0.00
+# Comment  A0904136 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   99.6     K1=  0.00     K2=  0.00
+# Comment  A0904136 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   99.6     K1=  0.00     K2=  0.00
+# Comment  A0904136 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   99.6     K1=  0.00     K2=  0.00
+# Comment  A0904136 : tendl.2017        N=     4 F=  5.378E+03 chi-2=   132.     D=   120.     mb T=  1.898E-02 mb E=   99.6     K1= 5.378E+03 K2= 1.000E+35

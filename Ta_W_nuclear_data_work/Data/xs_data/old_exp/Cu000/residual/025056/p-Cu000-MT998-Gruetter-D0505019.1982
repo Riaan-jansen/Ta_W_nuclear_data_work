@@ -1,0 +1,52 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  25
+# Final A     :  56
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0505019 
+# X4 code     : 29-CU-0(P,X)25-MN-56,CUM,SIG
+# Author      : Gruetter                 
+# Year        : 1982
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.98000E+01  7.45000E-01  0.00000E+00  3.40000E-01  1.98115E-01  0.2659       0.000      0.5469              
+  6.97000E+01  7.50000E-01  0.00000E+00  3.40000E-01  1.96314E-01  0.2618       0.000      0.5537              
+  6.97000E+01  7.21000E-01  0.00000E+00  3.40000E-01  1.96314E-01  0.2723       0.000      0.5247              
+  6.76000E+01  6.35000E-01  0.00000E+00  3.40000E-01  1.58487E-01  0.2496       0.000      0.4765              
+  6.51000E+01  5.03000E-01  0.00000E+00  3.40000E-01  1.13454E-01  0.2256       0.000      0.3895              
+  6.51000E+01  5.44000E-01  3.30000E-02  3.40000E-01  1.13454E-01  0.2086       170.2      0.4305              
+  6.07000E+01  3.60000E-01  0.00000E+00  3.40000E-01  4.98925E-02  0.1386       0.000      0.3101              
+  5.85000E+01  3.00000E-01  1.80000E-02  3.40000E-01  3.05197E-02  0.1017       224.1      0.2695              
+  5.55000E+01  2.20000E-01  2.00000E-02  3.40000E-01  1.18823E-02  5.4011E-02   108.3      0.2081              
+#
+# Average deviation:                                                6.112       55.85      0.4122    
+#
+# Full reference:
+#A.Gruetter
+#Jour. Nuclear Physics, Section A Vol.383, p.98, 1982
+#Excitation functions for radioactive isotope produced by proton bombardment of Cu and Al in the energy range of 16 to 70 MeV
+#
+#
+# Quality information:
+#
+# Quality  D0505019 : T2
+# Date     D0505019 : 05-01-2018
+# Reaction D0505019 : NP:    9 E-range:   55.5    -   69.8     MeV 29-CU-0(P,X)25-MN-56,CUM,SIG        pdf: y
+# Paper    D0505019 : A.Gruetter Jour. Nuclear Physics, Section A Vol.383, p.98, 1982 Excitation functions for radioactive isotope produced by proton bombardment
+# Action   D0505019 : 
+# Comment  D0505019 : Evaluation        N=     9 F=   6.11     chi-2=   55.8     D=  0.412     mb T=  0.119     mb E=  0.531     K1=  6.11     K2= 1.198E+08
+# Comment  D0505019 : TALYS             N=     9 F=   6.11     chi-2=   55.8     D=  0.412     mb T=  0.119     mb E=  0.531     K1=  6.11     K2= 1.198E+08
+# Comment  D0505019 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.531     K1=  0.00     K2=  0.00
+# Comment  D0505019 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.531     K1=  0.00     K2=  0.00
+# Comment  D0505019 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.531     K1=  0.00     K2=  0.00
+# Comment  D0505019 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.531     K1=  0.00     K2=  0.00
+# Comment  D0505019 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.531     K1=  0.00     K2=  0.00
+# Comment  D0505019 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.531     K1=  0.00     K2=  0.00
+# Comment  D0505019 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.531     K1=  0.00     K2=  0.00

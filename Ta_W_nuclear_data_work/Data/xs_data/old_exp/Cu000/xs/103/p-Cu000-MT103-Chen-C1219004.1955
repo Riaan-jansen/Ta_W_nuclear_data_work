@@ -1,0 +1,33 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,p)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  103
+# X4 ID       : C1219004 
+# X4 code     : 29-CU-0(P,INL)29-CU-0,,SIG
+# Author      : Chen                     
+# Year        : 1955
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.00000E+02  7.28000E+02  1.70000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#F.F.Chen, C.P.Leavitt, A.M.Shapiro
+#Jour. Physical Review Vol.99, p.857, 1955
+#Attenuation Cross Sections for 860-Mev Protons
+#
+# Quality information:
+#
+# Quality  C1219004 :   
+# Date     C1219004 : 05-01-2018
+# Reaction C1219004 : NP:    1 E-range:   800.    -   800.     MeV 29-CU-0(P,INL)29-CU-0,,SIG          pdf: n
+# Paper    C1219004 : F.F.Chen+ Jour. Physical Review Vol.99, p.857, 1955 Attenuation Cross Sections for 860-Mev Protons
+# Action   C1219004 : 
+# Comment  C1219004 : 

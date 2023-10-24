@@ -1,0 +1,41 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : A02710111
+# X4 code     : 73-TA-181(P,N)74-W-181,,SIG,,,EXP
+# Author      : Zhuravlev                
+# Year        : 1984
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.22000E+01  1.15100E+03  0.00000E+00  2.00000E-01  6.53533E+01  5.6780E-02   70.44       1086.              
+#
+# Average deviation:                                                18.38       70.44       1086.    
+#
+# Full reference:
+#B.V.Zhuravlev,  O.V.Grusha,  S.P.Ivanova,  V.I.Trykova, Yu.N.Shubin
+#Jour. Yadernaya Fizika Vol.39, p.264, 1984
+#Analysis of neutron spectre in 22-MeV proton interactions with nuclei.
+#
+# Quality information:
+#
+# Quality  A02710111: T2
+# Date     A02710111: 05-01-2018
+# Reaction A02710111: NP:    1 E-range:   22.2    -   22.2     MeV 73-TA-181(P,N)74-W-181,,SIG,,,EXP   pdf: y
+# Paper    A02710111: B.V.Zhuravlev+ Jour. Yadernaya Fizika Vol.39, p.264, 1984 Analysis of neutron spectre in 22-MeV proton interactions with nuclei.
+# Action   A02710111: 
+# Comment  A02710111: Evaluation        N=     1 F=   18.4     chi-2=   70.4     D=  1.086E+03 mb T=   65.4     mb E=  1.151E+03 K1=  18.4     K2= 2.139E+17
+# Comment  A02710111: TALYS             N=     1 F=   27.0     chi-2=   0.00     D=  1.108E+03 mb T=   42.7     mb E=  1.151E+03 K1=  27.0     K2= 1.245E+23
+# Comment  A02710111: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.151E+03 K1=  0.00     K2=  0.00
+# Comment  A02710111: eaf.2010          N=     1 F=   16.1     chi-2=   88.0     D=  1.080E+03 mb T=   71.3     mb E=  1.151E+03 K1=  16.1     K2= 8.042E+14
+# Comment  A02710111: endfb8.0          N=     1 F=   22.1     chi-2=   91.2     D=  1.099E+03 mb T=   52.0     mb E=  1.151E+03 K1=  22.1     K2= 4.072E+19
+# Comment  A02710111: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.151E+03 K1=  0.00     K2=  0.00
+# Comment  A02710111: jeff3.3           N=     1 F=   15.2     chi-2=   87.3     D=  1.075E+03 mb T=   75.7     mb E=  1.151E+03 K1=  15.2     K2= 1.388E+14
+# Comment  A02710111: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.151E+03 K1=  0.00     K2=  0.00
+# Comment  A02710111: tendl.2017        N=     1 F=   13.5     chi-2=   85.8     D=  1.066E+03 mb T=   85.1     mb E=  1.151E+03 K1=  13.5     K2= 5.148E+12

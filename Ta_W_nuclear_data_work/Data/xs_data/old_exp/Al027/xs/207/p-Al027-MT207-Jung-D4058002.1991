@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xa)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  207
+# X4 ID       : D4058002 
+# X4 code     : 13-AL-27(P,X)2-HE-4,,SIG
+# Author      : Jung                     
+# Year        : 1991
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.60000E+00  2.20000E+02  5.00000E+01  4.00000E-01
+  1.57000E+01  1.50000E+02  8.00000E+01  3.00000E-01
+  2.38000E+01  2.80000E+02  1.00000E+02  2.00000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#P.Jung
+#Conf. Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 p.352, 1991
+#Cross sections for the production of helium and long- living radioactive isotopes by protons and deuterons
+#
+# Quality information:
+#
+# Quality  D4058002 :   
+# Date     D4058002 : 05-01-2018
+# Reaction D4058002 : NP:    3 E-range:   7.60    -   23.8     MeV 13-AL-27(P,X)2-HE-4,,SIG            pdf: n
+# Paper    D4058002 : P.Jung Conf. Conf.on Nucl.Data for Sci.and Technol.,Juelich 1991 p.352, 1991 Cross sections for the production of helium and long- living ra
+# Action   D4058002 : 
+# Comment  D4058002 : 

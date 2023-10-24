@@ -1,0 +1,30 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xa)
+# E-inc       :   72.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : C
+# MF          :    6
+# MT          :  207
+# X4 ID       : O0567010 
+# X4 code     : 13-AL-27(P,X)2-HE-4,,DA/DE
+# Author      : Lewandowski              
+# Year        : 1982
+# Data points :      9
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.40000E+01  8.92000E-08  2.05100E-09  0.00000E+00  1.56999E+01
+  3.40000E+01  8.99000E-08  2.06700E-09  0.00000E+00  2.09001E+01
+  3.40000E+01  6.21000E-08  1.42800E-09  0.00000E+00  3.33000E+01
+  3.40000E+01  4.51000E-08  1.03700E-09  0.00000E+00  4.39001E+01
+  3.40000E+01  2.69000E-08  6.18700E-10  0.00000E+00  5.41001E+01
+  3.40000E+01  1.95000E-08  4.48500E-10  0.00000E+00  6.55001E+01
+  3.40000E+01  5.75000E-09  1.32200E-10  0.00000E+00  9.55001E+01
+  3.40000E+01  2.53000E-09  5.81900E-11  0.00000E+00  1.15600E+02
+  3.40000E+01  1.47000E-09  3.38100E-11  0.00000E+00  1.47400E+02
+# Full reference:
+#Z.Lewandowski, E.Loeffler, R.Wagner, H.H.Mueller, W.Reichart, P.Schober
+#Jour. Nuclear Physics, Section A Vol.389, p.247, 1982
+#Analyzing Power in the Continuum of (P,AX) And (P,HE3X) Reactions on C-12,Al-27,Ni-58,Zr-90,Bi-209 at E(P)=72 MeV.
+#

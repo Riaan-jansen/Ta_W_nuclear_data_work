@@ -1,0 +1,33 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : O0340035 
+# X4 code     : 74-W-0(P,NON),,SIG,,,EXP
+# Author      : Kirkby                   
+# Year        : 1966
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  9.93000E+01  1.73300E+03  4.85240E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#P.Kirkby, W.T.Link
+#Jour. Canadian Journal of Physics Vol.44, p.1847, 1966
+#Faraday-Cup Measurement of Proton Total Reaction Cross Sections at 100 MeV.
+#
+# Quality information:
+#
+# Quality  O0340035 :   
+# Date     O0340035 : 05-01-2018
+# Reaction O0340035 : NP:    1 E-range:   99.3    -   99.3     MeV 74-W-0(P,NON),,SIG,,,EXP            pdf: n
+# Paper    O0340035 : P.Kirkby+ Jour. Canadian Journal of Physics Vol.44, p.1847, 1966 Faraday-Cup Measurement of Proton Total Reaction Cross Sections at 100 MeV.
+# Action   O0340035 : 
+# Comment  O0340035 : 

@@ -1,0 +1,47 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  73
+# Final A     : 176
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D4363014 
+# X4 code     : 74-W-0(P,X)73-TA-176,CUM,SIG
+# Author      : Tarkanyi                 
+# Year        : 2017
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.49000E+01  4.28200E+01  5.57000E+00  2.00000E-01  1.69924E-02  3.9683E-04   59.05       42.80              
+  6.35000E+01  2.75300E+01  3.87000E+00  2.70000E-01  1.57010E-02  5.7033E-04   50.55       27.51              
+  6.22000E+01  1.99900E+01  2.80000E+00  3.40000E-01  1.45019E-02  7.2546E-04   50.90       19.98              
+  6.07000E+01  1.34000E+01  1.88000E+00  4.10000E-01  1.31184E-02  9.7898E-04   50.70       13.39              
+#
+# Average deviation:                                                1591.       52.80       25.92    
+#
+# Full reference:
+#F.Tarkanyi, F.Ditroi, S.Takacs, A.Hermanne
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.391, p.27, 2017
+#New measurements of excitation functions of 186W(p,x) nuclear reactions up to 65 MeV. Production of a 178W/178mTa generator
+#
+#
+# Quality information:
+#
+# Quality  D4363014 : T2
+# Date     D4363014 : 05-01-2018
+# Reaction D4363014 : NP:    4 E-range:   60.7    -   64.9     MeV 74-W-0(P,X)73-TA-176,CUM,SIG        pdf: y
+# Paper    D4363014 : F.Tarkanyi+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.391, p.27, 2017 New measurements of excitation functions of 186W(p,x) n
+# Action   D4363014 : 
+# Comment  D4363014 : Evaluation        N=     4 F=  1.591E+03 chi-2=   52.8     D=   25.9     mb T=  1.508E-02 mb E=   25.9     K1= 1.591E+03 K2= 1.000E+35
+# Comment  D4363014 : TALYS             N=     4 F=  1.591E+03 chi-2=   52.8     D=   25.9     mb T=  1.508E-02 mb E=   25.9     K1= 1.591E+03 K2= 1.000E+35
+# Comment  D4363014 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  D4363014 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  D4363014 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  D4363014 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  D4363014 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  D4363014 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  D4363014 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00

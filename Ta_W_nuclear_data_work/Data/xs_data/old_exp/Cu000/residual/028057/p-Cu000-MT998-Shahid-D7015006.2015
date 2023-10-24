@@ -1,0 +1,48 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  28
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D7015006 
+# X4 code     : 29-CU-0(P,X)28-NI-57,,SIG
+# Author      : Shahid                   
+# Year        : 2015
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.30000E+01  2.80000E-01  7.00000E-02  2.00000E-01  3.05291E-01   1.090      0.1305      2.5291E-02          
+  4.16000E+01  1.80000E-01  5.00000E-02  2.00000E-01  1.80532E-01   1.003      1.1320E-04  5.3199E-04          
+  4.01000E+01  1.70000E-01  6.00000E-02  2.00000E-01  4.68619E-02  0.2757       4.212      0.1231              
+  3.87000E+01  1.40000E-01  5.00000E-02  2.00000E-01  2.80835E-02  0.2006       5.010      0.1119              
+  3.71000E+01  1.10000E-01  5.00000E-02  2.00000E-01  1.59393E-02  0.1449       3.539      9.4061E-02          
+#
+# Average deviation:                                                3.537       2.578      7.0988E-02
+#
+# Full reference:
+#M.Shahid,  K.Kim,  H.Naik,  M.Zaman,  S.C.Yang,  G.N.Kim
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.342, p.305, 2015
+#Measurement of excitation functions in proton induced reactions on natural copper from their threshold to 43 MeV
+#
+#
+# Quality information:
+#
+# Quality  D7015006 : T2
+# Date     D7015006 : 05-01-2018
+# Reaction D7015006 : NP:    5 E-range:   37.1    -   43.0     MeV 29-CU-0(P,X)28-NI-57,,SIG           pdf: y
+# Paper    D7015006 : M.Shahid+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.342, p.305, 2015 Measurement of excitation functions in proton induced re
+# Action   D7015006 : 
+# Comment  D7015006 : Evaluation        N=     5 F=   3.54     chi-2=   2.58     D=  7.099E-02 mb T=  0.115     mb E=  0.176     K1=  3.54     K2=  82.9
+# Comment  D7015006 : TALYS             N=     5 F=   3.54     chi-2=   2.58     D=  7.099E-02 mb T=  0.115     mb E=  0.176     K1=  3.54     K2=  82.9
+# Comment  D7015006 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.176     K1=  0.00     K2=  0.00
+# Comment  D7015006 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.176     K1=  0.00     K2=  0.00
+# Comment  D7015006 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.176     K1=  0.00     K2=  0.00
+# Comment  D7015006 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.176     K1=  0.00     K2=  0.00
+# Comment  D7015006 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.176     K1=  0.00     K2=  0.00
+# Comment  D7015006 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.176     K1=  0.00     K2=  0.00
+# Comment  D7015006 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.176     K1=  0.00     K2=  0.00

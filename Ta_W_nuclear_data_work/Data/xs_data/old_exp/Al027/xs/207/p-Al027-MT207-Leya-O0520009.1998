@@ -1,0 +1,37 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xa)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  207
+# X4 ID       : O0520009 
+# X4 code     : 13-AL-27(P,X)2-HE-4,CUM,SIG
+# Author      : Leya                     
+# Year        : 1998
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.15000E+01  1.99000E+02  1.10000E+01  4.00000E-01
+  1.37000E+02  1.96000E+02  1.10000E+01  1.00000E+00
+  1.79000E+02  1.98000E+02  1.10000E+01  1.00000E+00
+  3.97000E+02  2.70000E+02  1.50000E+01  1.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#I.Leya, H.Busemann, H.Baur, R.Wieler, M.Gloris, S.Neumann, R.Michel, F.Sudbrock, U.Herpers
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.145, p.449, 1998
+#Cross sections for the proton-induced production of He and Ne isotopes from magnesium, aluminum and silicon.
+#
+# Quality information:
+#
+# Quality  O0520009 :   
+# Date     O0520009 : 05-01-2018
+# Reaction O0520009 : NP:    4 E-range:   41.5    -   397.     MeV 13-AL-27(P,X)2-HE-4,CUM,SIG         pdf: n
+# Paper    O0520009 : I.Leya+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.145, p.449, 1998 Cross sections for the proton-induced production of He and
+# Action   O0520009 : 
+# Comment  O0520009 : 

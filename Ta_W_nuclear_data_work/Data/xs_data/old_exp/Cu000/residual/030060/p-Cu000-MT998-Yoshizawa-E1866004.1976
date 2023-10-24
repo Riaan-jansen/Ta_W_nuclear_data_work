@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  60
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : E1866004 
+# X4 code     : 29-CU-0(P,X)30-ZN-60,,SIG
+# Author      : Yoshizawa                
+# Year        : 1976
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.73800E+01  2.35000E-01  2.43900E-01  0.00000E+00  1.19930E-02  5.1034E-02  0.8360      0.2230              
+#
+# Average deviation:                                                19.59      0.8360      0.2230    
+#
+# Full reference:
+#Y.Yoshizawa,  H.Noma,  T.Horiguchi,  T.Katoh,  S.Amemiya, M.Itoh,  K.Hisatake,  M.Sekikawa,  K.Chida
+#
+#Jour. Nuclear Instrum.and Methods in Physics Res. Vol.134, Issue.1, p.93, 1976
+#Isotope separator on-line at INS FM cyclotron
+#
+# Quality information:
+#
+# Quality  E1866004 : T2
+# Date     E1866004 : 05-01-2018
+# Reaction E1866004 : NP:    1 E-range:   47.4    -   47.4     MeV 29-CU-0(P,X)30-ZN-60,,SIG           pdf: y
+# Paper    E1866004 : Y.Yoshizawa+ Jour. Nuclear Instrum.and Methods in Physics Res. Vol.134, Issue.1, p.93, 1976 Isotope separator on-line at INS FM cyclotron
+# Action   E1866004 : 
+# Comment  E1866004 : Evaluation        N=     1 F=   19.6     chi-2=  0.836     D=  0.223     mb T=  1.199E-02 mb E=  0.235     K1=  19.6     K2= 4.167E+05
+# Comment  E1866004 : TALYS             N=     1 F=   19.6     chi-2=  0.836     D=  0.223     mb T=  1.199E-02 mb E=  0.235     K1=  19.6     K2= 4.167E+05
+# Comment  E1866004 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.235     K1=  0.00     K2=  0.00
+# Comment  E1866004 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.235     K1=  0.00     K2=  0.00
+# Comment  E1866004 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.235     K1=  0.00     K2=  0.00
+# Comment  E1866004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.235     K1=  0.00     K2=  0.00
+# Comment  E1866004 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.235     K1=  0.00     K2=  0.00
+# Comment  E1866004 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.235     K1=  0.00     K2=  0.00
+# Comment  E1866004 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.235     K1=  0.00     K2=  0.00

@@ -1,0 +1,23 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xa)
+# E-inc       :   72.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  207
+# X4 ID       : O0002037 
+# X4 code     : 13-AL-27(P,X)2-HE-4,,DA/DE,,,EXP
+# Author      : Kozlowski                
+# Year        : 1987
+# Data points :      3
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.01000E+01  1.50000E-08  3.90000E-09  0.00000E+00  1.50000E+02
+  4.05000E+01  2.00000E-09  5.20000E-10  0.00000E+00  1.50000E+02
+  5.03000E+01  2.20000E-10  5.72000E-11  0.00000E+00  1.50000E+02
+# Full reference:
+#M.Kozlowski, H.H.Muller, R.Wagner, K.Czerski
+#Jour. Nuclear Physics, Section A Vol.462, p.554, 1987
+#STUDY OF THE THERMALIZATION PROCESS IN 72 MEV (P,HE3) AND (P,A) INCLUSIVE REACTIONS.

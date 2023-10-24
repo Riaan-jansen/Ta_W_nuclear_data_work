@@ -1,0 +1,47 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  28
+# Final A     :  56
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C2243012 
+# X4 code     : 29-CU-0(P,X)28-NI-56,CUM,SIG
+# Author      : Graves                   
+# Year        : 2016
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.94000E+01  8.24000E-02  5.60000E-03  6.00000E-01  5.42371E-02  0.6582       25.29      2.8163E-02          
+  7.86000E+01  8.78000E-02  7.70000E-03  9.00000E-01  5.12346E-02  0.5835       22.55      3.6565E-02          
+  6.91000E+01  7.62000E-02  9.10000E-03  1.10000E+00  4.62016E-02  0.6063       10.87      2.9998E-02          
+  5.86000E+01  1.69000E-02  2.50000E-03  1.40000E+00  2.09182E-02   1.238       2.583      4.0182E-03          
+#
+# Average deviation:                                                1.547       15.32      2.4686E-02
+#
+# Full reference:
+#S.A.Graves, P.A.Ellison, T.E.Barnhart, H.F.Valdovinos, E.R.Birnbaum, F.M.Nortier, R.J.Nickles, J.W.Engle
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.386, p.44, 2016
+#Nuclear excitation functions of proton-induced reactions (Ep = 35-90 MeV) from Fe, Cu, and Al
+#
+# Quality information:
+#
+# Quality  C2243012 : T1
+# Date     C2243012 : 05-01-2018
+# Reaction C2243012 : NP:    4 E-range:   58.6    -   89.4     MeV 29-CU-0(P,X)28-NI-56,CUM,SIG        pdf: y
+# Paper    C2243012 : S.A.Graves+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.386, p.44, 2016 Nuclear excitation functions of proton-induced reaction
+# Action   C2243012 : 
+# Comment  C2243012 : Evaluation        N=     4 F=   1.55     chi-2=   15.3     D=  2.469E-02 mb T=  4.315E-02 mb E=  6.583E-02 K1=  1.55     K2=  3.37
+# Comment  C2243012 : TALYS             N=     4 F=   1.55     chi-2=   15.3     D=  2.469E-02 mb T=  4.315E-02 mb E=  6.583E-02 K1=  1.55     K2=  3.37
+# Comment  C2243012 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  6.583E-02 K1=  0.00     K2=  0.00
+# Comment  C2243012 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  6.583E-02 K1=  0.00     K2=  0.00
+# Comment  C2243012 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  6.583E-02 K1=  0.00     K2=  0.00
+# Comment  C2243012 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  6.583E-02 K1=  0.00     K2=  0.00
+# Comment  C2243012 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  6.583E-02 K1=  0.00     K2=  0.00
+# Comment  C2243012 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  6.583E-02 K1=  0.00     K2=  0.00
+# Comment  C2243012 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  6.583E-02 K1=  0.00     K2=  0.00

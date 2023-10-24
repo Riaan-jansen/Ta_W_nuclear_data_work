@@ -1,0 +1,50 @@
+# Target Z    :  74
+# Target A    : 186
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : D0380008 
+# X4 code     : 74-W-186(P,N)75-RE-186,,SIG
+# Author      : XiaodongZhangg           
+# Year        : 1999
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.50000E+00  8.27000E+00  1.60000E+00  0.00000E+00  2.73388E+01   3.306       142.0       19.07              
+  9.20000E+00  1.19000E+01  1.80000E+00  0.00000E+00  4.73214E+01   3.977       387.2       35.42              
+  1.08000E+01  7.49000E+00  1.59000E+00  0.00000E+00  3.94124E+01   5.262       403.1       31.92              
+  1.23000E+01  7.41000E+00  1.57000E+00  0.00000E+00  3.75013E+01   5.061       367.4       30.09              
+  1.38000E+01  3.86000E+00  1.08000E+00  0.00000E+00  4.00142E+01   10.37       1121.       36.15              
+  1.48000E+01  4.15000E+00  1.37000E+00  0.00000E+00  4.20518E+01   10.13       765.4       37.90              
+  1.64000E+01  3.39000E+00  1.12000E+00  0.00000E+00  4.44122E+01   13.10       1342.       41.02              
+  1.78000E+01  3.27000E+00  1.14000E+00  0.00000E+00  4.54104E+01   13.89       1366.       42.14              
+#
+# Average deviation:                                                7.644       736.7       34.22    
+#
+# Full reference:
+#Xiaodong Zhang, Wenxin Lp, Kemin Fang, Weiyu He, Rong Sheng, Duanzi Ying, Weiqing Hu
+#
+#Jour. Radiochimica Acta Vol.86, p.11, 1999
+#Excitation functions for natW(p,xn)181-186Re reactions and production of no-carrier-added 186Re via 186W(p,n)186Re Reaction
+#
+#
+# Quality information:
+#
+# Quality  D0380008 : T2
+# Date     D0380008 : 05-01-2018
+# Reaction D0380008 : NP:    8 E-range:   7.50    -   17.8     MeV 74-W-186(P,N)75-RE-186,,SIG         pdf: y
+# Paper    D0380008 : Xiaodong Zhang+ Jour. Radiochimica Acta Vol.86, p.11, 1999 Excitation functions for natW(p,xn)181-186Re reactions and production of no-carri
+# Action   D0380008 : 
+# Comment  D0380008 : Evaluation        N=     8 F=   7.64     chi-2=   737.     D=   34.2     mb T=   40.4     mb E=   6.22     K1=  7.64     K2= 8.154E+04
+# Comment  D0380008 : TALYS             N=     8 F=   7.64     chi-2=   737.     D=   34.2     mb T=   40.4     mb E=   6.22     K1=  7.64     K2= 8.154E+04
+# Comment  D0380008 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.22     K1=  0.00     K2=  0.00
+# Comment  D0380008 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.22     K1=  0.00     K2=  0.00
+# Comment  D0380008 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.22     K1=  0.00     K2=  0.00
+# Comment  D0380008 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.22     K1=  0.00     K2=  0.00
+# Comment  D0380008 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.22     K1=  0.00     K2=  0.00
+# Comment  D0380008 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.22     K1=  0.00     K2=  0.00
+# Comment  D0380008 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.22     K1=  0.00     K2=  0.00

@@ -1,0 +1,35 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  205
+# X4 ID       : E1854004 
+# X4 code     : 29-CU-0(P,X)1-H-3,,SIG
+# Author      : Noguchi                  
+# Year        : 1991
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.20000E+04  1.56000E+02  2.40000E+01  0.00000E+00
+  1.20000E+04  1.57000E+02  3.00000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#M.Noguchi,  T.Miura,  K.Kondo,  T.Suzuki,  Y.Oki, M.Takasaki,  K.H.Tanaka,  M.Ieiri
+#
+#Jour. Applied Radiation and Isotopes Vol.42, Issue.6, p.577, 1991
+#Production cross sections of Tritium in high energy nuclear reactions with 12 GeV protons
+#
+# Quality information:
+#
+# Quality  E1854004 :   
+# Date     E1854004 : 05-01-2018
+# Reaction E1854004 : NP:    2 E-range:  1.200E+04-  1.200E+04 MeV 29-CU-0(P,X)1-H-3,,SIG              pdf: n
+# Paper    E1854004 : M.Noguchi+ Jour. Applied Radiation and Isotopes Vol.42, Issue.6, p.577, 1991 Production cross sections of Tritium in high energy nuclear rea
+# Action   E1854004 : 
+# Comment  E1854004 : 

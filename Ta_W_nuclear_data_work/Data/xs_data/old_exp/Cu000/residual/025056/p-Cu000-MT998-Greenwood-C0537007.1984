@@ -1,0 +1,47 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  25
+# Final A     :  56
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0537007 
+# X4 code     : 29-CU-0(P,X)25-MN-56,CUM,SIG
+# Author      : Greenwood                
+# Year        : 1984
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.00000E+02  2.37000E+00  1.18500E-01  0.00000E+00  3.91606E+00   1.652       829.5       3.043              
+  2.50000E+02  2.89000E+00  1.44500E-01  0.00000E+00  9.09592E-01  0.3147       187.8       1.980              
+  3.00000E+02  2.80000E+00  1.40000E-01  0.00000E+00  9.25363E-01  0.3305       179.3       1.875              
+  3.50000E+02  2.94000E+00  1.47000E-01  0.00000E+00  9.02890E-01  0.3071       192.0       2.037              
+  4.50000E+02  2.92000E+00  1.46000E-01  0.00000E+00  8.70027E-01  0.2980       197.1       2.050              
+#
+# Average deviation:                                                3.127       317.2       2.197    
+#
+# Full reference:
+#L.R.Greenwood, R.K.Smither
+#Prog. U.S. Dept.of Energy, Fusion Energy Series No.0046,18, p.11, 1984
+#Measurement of Cu spallation cross sections at IPNS
+#
+# Quality information:
+#
+# Quality  C0537007 : T2
+# Date     C0537007 : 05-01-2018
+# Reaction C0537007 : NP:    5 E-range:   200.    -   450.     MeV 29-CU-0(P,X)25-MN-56,CUM,SIG        pdf: y
+# Paper    C0537007 : L.R.Greenwood+ Prog. U.S. Dept.of Energy, Fusion Energy Series No.0046,18, p.11, 1984 Measurement of Cu spallation cross sections at IPNS
+# Action   C0537007 : 
+# Comment  C0537007 : Evaluation        N=     5 F=   3.13     chi-2=   317.     D=   2.20     mb T=   1.50     mb E=   2.78     K1=  3.13     K2= 1.923E+03
+# Comment  C0537007 : TALYS             N=     5 F=   3.11     chi-2=   183.     D=   1.89     mb T=  0.896     mb E=   2.78     K1=  3.11     K2= 1.788E+03
+# Comment  C0537007 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.78     K1=  0.00     K2=  0.00
+# Comment  C0537007 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.78     K1=  0.00     K2=  0.00
+# Comment  C0537007 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.78     K1=  0.00     K2=  0.00
+# Comment  C0537007 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.78     K1=  0.00     K2=  0.00
+# Comment  C0537007 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.78     K1=  0.00     K2=  0.00
+# Comment  C0537007 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.78     K1=  0.00     K2=  0.00
+# Comment  C0537007 : tendl.2017        N=     1 F=   2.94     chi-2=  1.500E+03 D=   4.59     mb T=   6.96     mb E=   2.78     K1=  2.94     K2=  888.

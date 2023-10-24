@@ -1,0 +1,52 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  62
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C2048004 
+# X4 code     : 29-CU-0(P,X)30-ZN-62,,SIG
+# Author      : Jost                     
+# Year        : 2013
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.53400E+01  1.92000E+01  2.00000E+00  4.90000E-01  1.15870E+02   6.035       2775.       97.77              
+  2.03700E+01  6.10000E+01  6.50000E+00  3.80000E-01  5.20939E+01  0.8540       3.361       8.906              
+  2.22900E+01  6.89000E+01  7.30000E+00  3.30000E-01  4.82075E+01  0.6997       9.132       20.69              
+  2.31500E+01  7.17000E+01  7.60000E+00  3.10000E-01  4.65312E+01  0.6490       12.08       25.17              
+  2.40700E+01  7.17000E+01  7.60000E+00  3.30000E-01  4.49193E+01  0.6265       13.59       26.78              
+  2.51000E+01  6.89000E+01  7.30000E+00  2.80000E-01  4.28139E+01  0.6214       14.20       26.09              
+  2.70800E+01  5.73000E+01  6.10000E+00  2.60000E-01  3.75957E+01  0.6561       14.27       19.70              
+  2.99000E+01  3.74000E+01  4.00000E+00  1.90000E-01  3.32950E+01  0.8902       12.90       11.47              
+  3.30100E+01  2.17000E+01  2.30000E+00  1.20000E-01  2.12360E+01  0.9786       14.14       8.168              
+  3.48500E+01  1.79000E+01  1.90000E+00  3.00000E-02  2.00189E+01   1.118       21.49       6.966              
+#
+# Average deviation:                                                2.043       289.0       25.17    
+#
+# Full reference:
+#C.U.Jost, J.R.Griswold, S.H.Bruffey, S.Mirzadeh, D.W.Stracener, C.L.Williams
+#Rept. Conf.proceedings by Am.Inst.of Phys. No.1525, p.520, 2013
+#Measurement Of Cross Sections For The 232Th(p,4n)229Pa Reaction At Low Proton Energies
+#
+# Quality information:
+#
+# Quality  C2048004 : T1
+# Date     C2048004 : 05-01-2018
+# Reaction C2048004 : NP:   10 E-range:   15.3    -   34.8     MeV 29-CU-0(P,X)30-ZN-62,,SIG           pdf: y
+# Paper    C2048004 : C.U.Jost+ Rept. Conf.proceedings by Am.Inst.of Phys. No.1525, p.520, 2013 Measurement Of Cross Sections For The 232Th(p,4n)229Pa Reaction At
+# Action   C2048004 : 
+# Comment  C2048004 : Evaluation        N=    10 F=   2.04     chi-2=   289.     D=   25.2     mb T=   46.3     mb E=   49.6     K1=  2.04     K2=  90.5
+# Comment  C2048004 : TALYS             N=    10 F=   1.70     chi-2=   14.4     D=   19.9     mb T=   29.7     mb E=   49.6     K1=  1.70     K2=  4.90
+# Comment  C2048004 : cendl3.1          N=     1 F=   5.91     chi-2=  2.218E+03 D=   94.2     mb T=   113.     mb E=   49.6     K1=  5.91     K2= 2.236E+05
+# Comment  C2048004 : eaf.2010          N=    10 F=   2.08     chi-2=   377.     D=   26.9     mb T=   51.9     mb E=   49.6     K1=  2.08     K2=  150.
+# Comment  C2048004 : endfb8.0          N=     8 F=   2.64     chi-2=   478.     D=   42.4     mb T=   44.9     mb E=   49.6     K1=  2.64     K2=  395.
+# Comment  C2048004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   49.6     K1=  0.00     K2=  0.00
+# Comment  C2048004 : jeff3.3           N=     8 F=   2.11     chi-2=   423.     D=   27.6     mb T=   58.3     mb E=   49.6     K1=  2.11     K2=  206.
+# Comment  C2048004 : jendl4.0          N=     1 F=   6.88     chi-2=  3.182E+03 D=   113.     mb T=   132.     mb E=   49.6     K1=  6.88     K2= 2.210E+06
+# Comment  C2048004 : tendl.2017        N=    10 F=   1.91     chi-2=   341.     D=   18.9     mb T=   57.6     mb E=   49.6     K1=  1.91     K2=  117.

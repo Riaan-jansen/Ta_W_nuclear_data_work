@@ -1,0 +1,28 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   35.190 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  7.53000)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :  651
+# X4 ID       : E1255029 
+# X4 code     : 13-AL-27(P,D)13-AL-26,PAR,DA
+# Author      : Peterson                 
+# Year        : 1988
+# Data points :      6
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  1.51100E+01  6.14600E-03  1.11100E-03
+  2.21570E+01  1.07900E-02  2.41100E-03
+  2.75991E+01  6.45600E-03  9.69900E-04
+  3.32660E+01  3.35800E-03  6.13900E-04
+  4.36301E+01  3.85800E-03  1.11500E-03
+  5.71901E+01  2.95400E-03  7.55100E-04
+# Full reference:
+#P.J.Peterson, M.Yasue, M.H.Tanaka, T.Hasegawa, N.Nisimura, H.Ohnuma, H.Shimizu, K.Ieki, H.Toyokawa,
+#M.Iwase, J.Iimura, S.I.Hayakawa
+#Jour. Physical Review, Part C, Nuclear Physics Vol.38, p.2026, 1988
+#FORBIDDEN (P,D) PICKUP TO STRETCHED STATES OF 26AL

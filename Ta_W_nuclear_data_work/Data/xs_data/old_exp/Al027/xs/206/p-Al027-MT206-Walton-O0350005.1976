@@ -1,0 +1,55 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xh)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  206
+# X4 ID       : O0350005 
+# X4 code     : 13-AL-27(P,X)2-HE-3,IND,SIG
+# Author      : Walton                   
+# Year        : 1976
+# Data points :     22
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.59000E+01  3.50000E-01  5.95000E-02  7.00000E-01
+  1.63000E+01  1.06000E-01  1.16600E-02  5.00000E-01
+  1.80000E+01  1.15000E+00  1.38000E-01  7.00000E-01
+  1.92000E+01  1.73000E+00  1.55700E-01  6.00000E-01
+  2.03000E+01  2.10000E+00  3.99000E-01  7.00000E-01
+  2.11000E+01  2.50000E+00  3.00000E-01  5.00000E-01
+  2.25000E+01  2.90000E+00  4.06000E-01  7.00000E-01
+  2.29000E+01  5.60000E+00  7.84000E-01  7.00000E-01
+  2.36000E+01  3.70000E+00  4.07000E-01  7.00000E-01
+  2.54000E+01  4.10000E+00  6.97000E-01  7.00000E-01
+  2.70000E+01  5.10000E+00  8.16000E-01  7.00000E-01
+  3.00000E+01  8.20000E+00  1.39400E+00  1.10000E+00
+  3.07000E+01  9.70000E+00  2.23100E+00  1.10000E+00
+  3.10000E+01  7.50000E+00  8.25000E-01  1.00000E+00
+  3.31000E+01  9.10000E+00  2.09300E+00  1.20000E+00
+  3.37000E+01  5.30000E+00  2.12000E+00  9.00000E-01
+  3.60000E+01  1.05000E+01  1.89000E+00  1.20000E+00
+  3.77000E+01  6.90000E+00  9.66000E-01  1.20000E+00
+  3.88000E+01  8.00000E+00  1.04000E+00  1.00000E+00
+  3.97000E+01  1.50000E+01  4.05000E+00  1.60000E+00
+  4.18000E+01  8.90000E+00  8.90000E-01  1.00000E+00
+  4.37000E+01  5.60000E+00  2.24000E+00  7.00000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#J.R.Walton, D.Heymann, A.Yaniv, D.Edgerley, M.W.Rowe
+#Jour. Journal of Geophysical Research Vol.81, p.5689, 1976
+#Cross sections for He and Ne isotopes in natural Mg,Al, and Si,He isotopes in Ca-F(2),Ar isotopes in natural Ca and radionuclides in natural Al,Si,Ti,Cr and stainless
+#steel induced by 12-To 45-MeV protons.
+#
+# Quality information:
+#
+# Quality  O0350005 :   
+# Date     O0350005 : 05-01-2018
+# Reaction O0350005 : NP:   22 E-range:   15.9    -   43.7     MeV 13-AL-27(P,X)2-HE-3,IND,SIG         pdf: n
+# Paper    O0350005 : J.R.Walton+ Jour. Journal of Geophysical Research Vol.81, p.5689, 1976 Cross sections for He and Ne isotopes in natural Mg,Al, and Si,He iso
+# Action   O0350005 : 
+# Comment  O0350005 : 

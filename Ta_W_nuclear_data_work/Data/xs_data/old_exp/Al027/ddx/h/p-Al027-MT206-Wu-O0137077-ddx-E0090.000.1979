@@ -1,0 +1,29 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xh)
+# E-inc       :   90.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  206
+# X4 ID       : O0137077 
+# X4 code     : 13-AL-27(P,X)2-HE-3,,DA/DE
+# Author      : Wu                       
+# Year        : 1979
+# Data points :      9
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.26300E+01  7.63100E-08  7.63100E-09  0.00000E+00  6.00001E+01
+  1.93600E+01  4.48500E-08  4.48500E-09  0.00000E+00  6.00001E+01
+  2.80800E+01  2.23300E-08  2.23300E-09  0.00000E+00  6.00001E+01
+  3.79900E+01  1.14800E-08  1.14800E-09  0.00000E+00  6.00001E+01
+  4.74900E+01  5.34800E-09  5.34800E-10  0.00000E+00  6.00001E+01
+  5.58100E+01  2.57600E-09  2.57600E-10  0.00000E+00  6.00001E+01
+  6.29300E+01  1.28300E-09  1.28300E-10  0.00000E+00  6.00001E+01
+  6.80700E+01  6.83500E-10  6.83500E-11  0.00000E+00  6.00001E+01
+  7.31600E+01  1.88000E-10  1.88000E-11  0.00000E+00  6.00001E+01
+# Full reference:
+#J.R.Wu, C.C.Chang, H.D.Holmgren
+#Jour. Physical Review, Part C, Nuclear Physics Vol.19, p.698, 1979
+#Charge-particle spectra-90 MeV protons on Al-27,Ni-58, Zr-90 and Bi-209

@@ -1,0 +1,62 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O17280022
+# X4 code     : 13-AL-27(P,X)11-NA-24,,SIG
+# Author      : Titarenko                
+# Year        : 2004
+# Data points :     19
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.60600E+03  1.08700E+01  9.20000E-01  8.00000E+00
+  1.59900E+03  1.25900E+01  1.03000E+00  4.00000E+00
+  1.19400E+03  1.32600E+01  1.01000E+00  3.00000E+00
+  7.99000E+02  1.34000E+01  1.04000E+00  2.00000E+00  4.42039E+00  0.3299       74.55       8.980              
+  5.99000E+02  1.30900E+01  9.20000E-01  2.00000E+00  5.27195E+00  0.4027       72.21       7.818              
+  3.99000E+02  1.20100E+01  8.50000E-01  2.00000E+00  6.27234E+00  0.5223       45.57       5.738              
+  2.49000E+02  1.06500E+01  7.20000E-01  1.00000E+00  6.40171E+00  0.6011       34.81       4.248              
+  1.49000E+02  1.10200E+01  7.90000E-01  1.00000E+00  7.40178E+00  0.6717       20.98       3.618              
+  9.87000E+01  1.17300E+01  8.00000E-01  8.00000E-01  9.00735E+00  0.7679       11.58       2.723              
+  6.82000E+01  1.17400E+01  8.50000E-01  8.00000E-01  9.53071E+00  0.8118       6.756       2.209              
+  6.81000E+01  1.17400E+01  8.50000E-01  8.00000E-01  9.52437E+00  0.8113       6.794       2.216              
+  6.79000E+01  1.17000E+01  8.50000E-01  8.00000E-01  9.51170E+00  0.8130       6.628       2.188              
+  6.78000E+01  1.10900E+01  8.00000E-01  8.00000E-01  9.50536E+00  0.8571       3.924       1.585              
+  6.71000E+01  1.16900E+01  8.40000E-01  9.00000E-01  9.46100E+00  0.8093       7.041       2.229              
+  3.70000E+01  8.24000E-01  6.50000E-02  1.10000E+00  8.52381E-01   1.034      0.1907      2.8381E-02          
+  3.69000E+01  8.04000E-01  6.40000E-02  1.10000E+00  8.28029E-01   1.030      0.1410      2.4029E-02          
+  3.69000E+01  7.96000E-01  6.40000E-02  1.10000E+00  8.28029E-01   1.040      0.2505      3.2029E-02          
+  3.63000E+01  7.03000E-01  6.00000E-02  1.20000E+00  6.81913E-01  0.9700      0.1235      2.1087E-02          
+  3.55000E+01  5.64000E-01  5.50000E-02  1.30000E+00  4.87092E-01  0.8636       1.955      7.6908E-02          
+#
+# Average deviation:                                                1.563       18.34       2.733    
+#
+# Full reference:
+#Yu.E.Titarenko
+#Rept. Internat.Science and Technology Center, Reports No.2002, 2004
+#Experimental and theoretical studies of the yields of residual product nuclei produced in thin Pb and Bi targets irradiated by 40-2600 MeV protons.
+#
+#
+# Quality information:
+#
+# Quality  O17280022: T1
+# Date     O17280022: 05-01-2018
+# Reaction O17280022: NP:   19 E-range:   35.5    -  2.606E+03 MeV 13-AL-27(P,X)11-NA-24,,SIG          pdf: y
+# Paper    O17280022: Yu.E.Titarenko Rept. Internat.Science and Technology Center, Reports No.2002, 2004 Experimental and theoretical studies of the yields of res
+# Action   O17280022: 
+# Comment  O17280022: Evaluation        N=    16 F=   1.56     chi-2=   18.3     D=   2.73     mb T=   5.62     mb E=   8.96     K1=  1.56     K2=  7.26
+# Comment  O17280022: TALYS             N=    16 F=   1.56     chi-2=   18.3     D=   2.73     mb T=   5.62     mb E=   8.96     K1=  1.56     K2=  7.26
+# Comment  O17280022: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.96     K1=  0.00     K2=  0.00
+# Comment  O17280022: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.96     K1=  0.00     K2=  0.00
+# Comment  O17280022: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.96     K1=  0.00     K2=  0.00
+# Comment  O17280022: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.96     K1=  0.00     K2=  0.00
+# Comment  O17280022: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.96     K1=  0.00     K2=  0.00
+# Comment  O17280022: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.96     K1=  0.00     K2=  0.00
+# Comment  O17280022: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.96     K1=  0.00     K2=  0.00

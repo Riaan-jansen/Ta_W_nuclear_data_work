@@ -1,0 +1,36 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   2
+# Final A     :   6
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0243003 
+# X4 code     : 13-AL-27(P,X)2-HE-6,,SIG
+# Author      : Rowland                  
+# Year        : 1958
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.00000E+03  1.10000E+00  0.00000E+00  0.00000E+00
+  1.90000E+03  1.30000E+00  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#F.S.Rowland, R.L.Wolfgang
+#Jour. Physical Review Vol.110, p.175, 1958
+#PRODUCTION OF HE-6 BY HIGH-ENERGY PROTONS
+#
+# Quality information:
+#
+# Quality  C0243003 :   
+# Date     C0243003 : 05-01-2018
+# Reaction C0243003 : NP:    2 E-range:  1.000E+03-  1.900E+03 MeV 13-AL-27(P,X)2-HE-6,,SIG            pdf: n
+# Paper    C0243003 : F.S.Rowland+ Jour. Physical Review Vol.110, p.175, 1958 PRODUCTION OF HE-6 BY HIGH-ENERGY PROTONS
+# Action   C0243003 : 
+# Comment  C0243003 : 

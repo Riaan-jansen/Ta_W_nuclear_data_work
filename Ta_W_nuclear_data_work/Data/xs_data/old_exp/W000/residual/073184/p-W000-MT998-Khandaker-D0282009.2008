@@ -1,0 +1,51 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  73
+# Final A     : 184
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0282009 
+# X4 code     : 74-W-0(P,X)73-TA-184,CUM,SIG
+# Author      : Khandaker                
+# Year        : 2008
+# Data points :     16
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.61000E+00  1.30000E-01  6.00000E-02  0.00000E+00
+  1.08000E+01  2.20000E-01  6.00000E-02  0.00000E+00
+  1.30000E+01  1.30000E+00  2.20000E-01  0.00000E+00
+  1.59000E+01  1.92000E+00  3.00000E-01  0.00000E+00
+  1.89500E+01  2.21000E+00  3.80000E-01  0.00000E+00
+  2.15900E+01  2.51000E+00  4.30000E-01  0.00000E+00
+  2.34400E+01  1.87000E+00  3.90000E-01  0.00000E+00
+  2.57500E+01  1.97000E+00  3.80000E-01  0.00000E+00
+  2.80000E+01  1.99000E+00  3.30000E-01  0.00000E+00
+  3.00200E+01  2.22000E+00  3.90000E-01  0.00000E+00
+  3.15400E+01  2.22000E+00  3.50000E-01  0.00000E+00
+  3.33900E+01  2.33000E+00  3.90000E-01  0.00000E+00
+  3.52300E+01  2.75000E+00  3.80000E-01  0.00000E+00
+  3.69500E+01  2.75000E+00  4.20000E-01  0.00000E+00
+  3.82500E+01  2.23000E+00  3.30000E-01  0.00000E+00
+  3.98600E+01  1.58000E+00  3.60000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#M.U.Khandaker,  M.S.Uddin,  K.Kim,  M.W.Lee,  K.S.Kim, Y.S.Lee,  G.N.Kim,  Y.S.Cho,  Y.O.Lee
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.266, p.1021, 2008
+#Excitation functions of proton induced nuclear reactions on natW up to 40 MeV
+#
+# Quality information:
+#
+# Quality  D0282009 :   
+# Date     D0282009 : 05-01-2018
+# Reaction D0282009 : NP:   16 E-range:   6.61    -   39.9     MeV 74-W-0(P,X)73-TA-184,CUM,SIG        pdf: n
+# Paper    D0282009 : M.U.Khandaker+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.266, p.1021, 2008 Excitation functions of proton induced nuclear rea
+# Action   D0282009 : 
+# Comment  D0282009 : 

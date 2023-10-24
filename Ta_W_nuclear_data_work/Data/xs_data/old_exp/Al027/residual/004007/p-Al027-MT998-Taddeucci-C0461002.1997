@@ -1,0 +1,45 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0461002 
+# X4 code     : 13-AL-27(P,X)4-BE-7,,SIG
+# Author      : Taddeucci                
+# Year        : 1997
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.95000E+02  3.60000E+00  1.00000E-01  0.00000E+00  3.69695E+00   1.027      0.9399      9.6947E-02          
+  7.95000E+02  5.30000E+00  2.00000E-01  0.00000E+00  2.80213E+00  0.5287       156.0       2.498              
+#
+# Average deviation:                                                1.570       78.46       1.297    
+#
+# Full reference:
+#T.N.Taddeucci, J.Ullmann, L.J.Rybarcyk, G.W.Butler, T.E.Ward
+#Jour. Physical Review, Part C, Nuclear Physics Vol.55, p.1551, 1997
+#Total cross sections for production of 7Be, 22Na, and 24Na in p + 7Li and p + 27Al reactions at 495 and 795 MeV.
+#
+#
+# Quality information:
+#
+# Quality  C0461002 : T1
+# Date     C0461002 : 05-01-2018
+# Reaction C0461002 : NP:    2 E-range:   495.    -   795.     MeV 13-AL-27(P,X)4-BE-7,,SIG            pdf: y
+# Paper    C0461002 : T.N.Taddeucci+ Jour. Physical Review, Part C, Nuclear Physics Vol.55, p.1551, 1997 Total cross sections for production of 7Be, 22Na, and 24N
+# Action   C0461002 : 
+# Comment  C0461002 : Evaluation        N=     2 F=   1.57     chi-2=   78.5     D=   1.30     mb T=   3.25     mb E=   4.45     K1=  1.57     K2=  9.36
+# Comment  C0461002 : TALYS             N=     2 F=   1.57     chi-2=   78.5     D=   1.30     mb T=   3.25     mb E=   4.45     K1=  1.57     K2=  9.36
+# Comment  C0461002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.45     K1=  0.00     K2=  0.00
+# Comment  C0461002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.45     K1=  0.00     K2=  0.00
+# Comment  C0461002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.45     K1=  0.00     K2=  0.00
+# Comment  C0461002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.45     K1=  0.00     K2=  0.00
+# Comment  C0461002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.45     K1=  0.00     K2=  0.00
+# Comment  C0461002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.45     K1=  0.00     K2=  0.00
+# Comment  C0461002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.45     K1=  0.00     K2=  0.00

@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  62
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0244006 
+# X4 code     : 29-CU-63(P,X)29-CU-62,,SIG
+# Author      : Markowitz                
+# Year        : 1958
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.00000E+02  7.30000E+01  7.30000E+00  0.00000E+00  2.80893E+01  0.3848       37.85       44.91              
+  4.00000E+02  6.40000E+01  6.40000E+00  0.00000E+00  2.80893E+01  0.4389       31.48       35.91              
+  3.00000E+03  6.60000E+01  6.60000E+00  0.00000E+00
+#
+# Average deviation:                                                2.439       34.67       40.41    
+#
+# Full reference:
+#S.S.Markowitz, F.S.Rowland, G.Friedlander
+#Jour. Physical Review Vol.112, p.1295, 1958
+#(p,pn) reactions at proton energies from 0.3 to 3.0 BeV
+#
+# Quality information:
+#
+# Quality  C0244006 : T1
+# Date     C0244006 : 05-01-2018
+# Reaction C0244006 : NP:    3 E-range:   400.    -  3.000E+03 MeV 29-CU-63(P,X)29-CU-62,,SIG          pdf: y
+# Paper    C0244006 : S.S.Markowitz+ Jour. Physical Review Vol.112, p.1295, 1958 (p,pn) reactions at proton energies from 0.3 to 3.0 BeV
+# Action   C0244006 : 
+# Comment  C0244006 : Evaluation        N=     2 F=   2.44     chi-2=   34.7     D=   40.4     mb T=   28.1     mb E=   67.7     K1=  2.44     K2=  33.9
+# Comment  C0244006 : TALYS             N=     2 F=   2.44     chi-2=   34.7     D=   40.4     mb T=   28.1     mb E=   67.7     K1=  2.44     K2=  33.9
+# Comment  C0244006 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   67.7     K1=  0.00     K2=  0.00
+# Comment  C0244006 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   67.7     K1=  0.00     K2=  0.00
+# Comment  C0244006 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   67.7     K1=  0.00     K2=  0.00
+# Comment  C0244006 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   67.7     K1=  0.00     K2=  0.00
+# Comment  C0244006 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   67.7     K1=  0.00     K2=  0.00
+# Comment  C0244006 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   67.7     K1=  0.00     K2=  0.00
+# Comment  C0244006 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   67.7     K1=  0.00     K2=  0.00

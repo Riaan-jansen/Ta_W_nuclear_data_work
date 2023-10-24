@@ -1,0 +1,49 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,np)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   28
+# X4 ID       : C0699002 
+# X4 code     : 29-CU-65(P,N+P)29-CU-64,,SIG
+# Author      : Merz                     
+# Year        : 1962
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.30000E+01  1.40000E+02  2.10000E+01  0.00000E+00  7.90195E+01  0.5644       17.58       63.52              
+  8.50000E+01  1.16000E+02  1.74000E+01  0.00000E+00  6.74589E+01  0.5815       16.94       52.65              
+  1.05000E+02  1.04000E+02  1.56000E+01  0.00000E+00  5.17866E+01  0.4979       17.32       52.21              
+  1.23000E+02  8.82000E+01  1.32300E+01  0.00000E+00  4.24166E+01  0.4809       17.35       45.78              
+  1.68000E+02  6.72000E+01  1.00800E+01  0.00000E+00  2.90456E+01  0.4322       18.22       38.15              
+  2.10000E+02  6.41000E+01  9.61500E+00  0.00000E+00  3.82515E+01  0.5967       7.227       25.85              
+  2.54000E+02  5.73000E+01  8.59500E+00  0.00000E+00  3.58035E+01  0.6248       6.255       21.50              
+  3.00000E+02  5.40000E+01  8.10000E+00  0.00000E+00  3.41713E+01  0.6328       5.993       19.83              
+  4.00000E+02  4.99000E+01  7.48500E+00  0.00000E+00  3.25408E+01  0.6521       5.379       17.36              
+#
+# Average deviation:                                                3.119       12.47       37.43    
+#
+# Full reference:
+#E.R.Merz, A.A.Caretto
+#Jour. Physical Review Vol.126, p.1173, 1962
+#Recoil Behavior of the Cu65(p,pn)Cu64 Reaction
+#
+# Quality information:
+#
+# Quality  C0699002 : T1
+# Date     C0699002 : 05-01-2018
+# Reaction C0699002 : NP:    9 E-range:   73.0    -   400.     MeV 29-CU-65(P,N+P)29-CU-64,,SIG        pdf: y
+# Paper    C0699002 : E.R.Merz+ Jour. Physical Review Vol.126, p.1173, 1962 Recoil Behavior of the Cu65(p,pn)Cu64 Reaction
+# Action   C0699002 : 
+# Comment  C0699002 : Evaluation        N=     9 F=   3.12     chi-2=   12.5     D=   37.4     mb T=   45.6     mb E=   82.3     K1=  3.12     K2= 1.874E+03
+# Comment  C0699002 : TALYS             N=     9 F=   1.40     chi-2=   3.36     D=   15.4     mb T=   68.4     mb E=   82.3     K1=  1.40     K2=  2.09
+# Comment  C0699002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   82.3     K1=  0.00     K2=  0.00
+# Comment  C0699002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   82.3     K1=  0.00     K2=  0.00
+# Comment  C0699002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   82.3     K1=  0.00     K2=  0.00
+# Comment  C0699002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   82.3     K1=  0.00     K2=  0.00
+# Comment  C0699002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   82.3     K1=  0.00     K2=  0.00
+# Comment  C0699002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   82.3     K1=  0.00     K2=  0.00
+# Comment  C0699002 : tendl.2017        N=     5 F=   7.91     chi-2=   33.9     D=   90.2     mb T=   12.9     mb E=   82.3     K1=  7.91     K2= 1.519E+06

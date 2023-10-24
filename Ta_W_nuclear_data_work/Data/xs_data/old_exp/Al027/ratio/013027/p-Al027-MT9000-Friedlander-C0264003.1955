@@ -1,0 +1,30 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       :  198
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9000
+# X4 ID       : C0264003 
+# X4 code     : (13-AL-27(P,X)11-NA-22,,SIG)/(13-AL-27(P,N+3P)11-NA-24,,SIG)
+# Author      : Friedlander              
+# Year        : 1955
+# Data points :      8
+#    E(MeV)      ratio        dratio      dE(MeV)
+  3.90000E+02  1.89000E+00  1.89000E-01  0.00000E+00
+  6.00000E+02  1.78000E+00  1.78000E-01  0.00000E+00
+  1.00000E+03  1.59000E+00  1.59000E-01  0.00000E+00
+  1.40000E+03  1.87000E+00  1.87000E-01  0.00000E+00
+  1.60000E+03  1.38000E+00  1.38000E-01  0.00000E+00
+  1.80000E+03  1.81000E+00  1.81000E-01  0.00000E+00
+  2.20000E+03  1.37000E+00  1.37000E-01  0.00000E+00
+  3.00000E+03  1.66000E+00  1.66000E-01  0.00000E+00
+# Full reference:
+#G.Friedlander, J.Hudis, R.L.Wolfgang
+#Jour. Physical Review Vol.99, p.263, 1955
+#DISINTEGRATION OF ALUMINUM BY PROTONS IN THE ENERGY RANGE 0.4 TO 3.0 BEV

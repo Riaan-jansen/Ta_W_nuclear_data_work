@@ -1,0 +1,43 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   6
+# Final A     :  11
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0250016 
+# X4 code     : 13-AL-27(P,X)6-C-11,,SIG
+# Author      : Marquez                  
+# Year        : 1952
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.20000E+02  2.80000E+00  1.40000E-01  0.00000E+00  4.17587E+00   1.491       96.58       1.376              
+#
+# Average deviation:                                                1.491       96.58       1.376    
+#
+# Full reference:
+#L.Marquez
+#Jour. Physical Review Vol.86, p.405, 1952
+#THE YIELD OF F-18 FROM MEDIUM AND HEAVY ELEMENTS WITH 420-MEV PROTONS
+#
+# Quality information:
+#
+# Quality  C0250016 : T1
+# Date     C0250016 : 05-01-2018
+# Reaction C0250016 : NP:    1 E-range:   420.    -   420.     MeV 13-AL-27(P,X)6-C-11,,SIG            pdf: y
+# Paper    C0250016 : L.Marquez Jour. Physical Review Vol.86, p.405, 1952 THE YIELD OF F-18 FROM MEDIUM AND HEAVY ELEMENTS WITH 420-MEV PROTONS
+# Action   C0250016 : 
+# Comment  C0250016 : Evaluation        N=     1 F=   1.49     chi-2=   96.6     D=   1.38     mb T=   4.18     mb E=   2.80     K1=  1.49     K2=  3.73
+# Comment  C0250016 : TALYS             N=     1 F=   1.49     chi-2=   96.6     D=   1.38     mb T=   4.18     mb E=   2.80     K1=  1.49     K2=  3.73
+# Comment  C0250016 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.80     K1=  0.00     K2=  0.00
+# Comment  C0250016 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.80     K1=  0.00     K2=  0.00
+# Comment  C0250016 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.80     K1=  0.00     K2=  0.00
+# Comment  C0250016 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.80     K1=  0.00     K2=  0.00
+# Comment  C0250016 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.80     K1=  0.00     K2=  0.00
+# Comment  C0250016 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.80     K1=  0.00     K2=  0.00
+# Comment  C0250016 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.80     K1=  0.00     K2=  0.00

@@ -1,0 +1,32 @@
+# Target Z    :  74
+# Target A    : 184
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   51.700 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  1.16000)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :  701
+# X4 ID       : O0373025 
+# X4 code     : 74-W-184(P,T)74-W-182,PAR,DA,,,EXP
+# Author      : Sugiyama                 
+# Year        : 1971
+# Data points :     10
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  5.29983E+00  4.10000E-02  0.00000E+00
+  9.29991E+00  3.10000E-02  0.00000E+00
+  1.49000E+01  2.77000E-02  2.49300E-03
+  1.93999E+01  7.50000E-03  8.25000E-04
+  2.51000E+01  4.20000E-03  5.04000E-04
+  2.99001E+01  7.60000E-03  8.36000E-04
+  3.47000E+01  2.30000E-03  3.91000E-04
+  3.99000E+01  2.40000E-03  4.08000E-04
+  4.53001E+01  4.10000E-03  6.15000E-04
+  4.99000E+01  1.82000E-03  2.73000E-04
+# Full reference:
+#Y.Sugiyama, J.Kokame, T.Suehiro, Y.Saji, H.Ogata, A.Stricker, I.Nonaka, Y.Ishizaki
+#
+#Jour. Journal of the Physical Society of Japan Vol.30, p.602, 1971
+#The (P,T) Reaction on Even-Even Deformed Nuclei.

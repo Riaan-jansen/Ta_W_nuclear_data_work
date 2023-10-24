@@ -1,0 +1,36 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xd)
+# E-inc       :  190.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  204
+# X4 ID       : C1824033 
+# X4 code     : 13-AL-27(P,X)1-H-2,,DA/DE
+# Author      : Bailey                   
+# Year        : 1956
+# Data points :     15
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.80000E+00  2.61000E-07  0.00000E+00  0.00000E+00  9.00000E+01
+  2.60000E+00  1.66000E-07  0.00000E+00  0.00000E+00  9.00000E+01
+  3.60000E+00  3.81000E-07  0.00000E+00  0.00000E+00  9.00000E+01
+  4.60000E+00  3.41000E-07  0.00000E+00  0.00000E+00  9.00000E+01
+  5.50000E+00  2.98000E-07  0.00000E+00  0.00000E+00  9.00000E+01
+  7.00000E+00  1.74000E-07  0.00000E+00  0.00000E+00  9.00000E+01
+  9.00000E+00  1.56000E-07  0.00000E+00  0.00000E+00  9.00000E+01
+  1.10000E+01  1.23000E-07  0.00000E+00  0.00000E+00  9.00000E+01
+  1.30000E+01  1.37000E-07  0.00000E+00  0.00000E+00  9.00000E+01
+  1.50000E+01  1.18000E-07  0.00000E+00  0.00000E+00  9.00000E+01
+  1.75000E+01  7.40000E-08  0.00000E+00  0.00000E+00  9.00000E+01
+  2.10000E+01  8.00000E-08  0.00000E+00  0.00000E+00  9.00000E+01
+  2.50000E+01  4.20000E-08  0.00000E+00  0.00000E+00  9.00000E+01
+  3.30000E+01  4.20000E-08  0.00000E+00  0.00000E+00  9.00000E+01
+  4.60000E+01  1.90000E-08  0.00000E+00  0.00000E+00  9.00000E+01
+# Full reference:
+#L.E.Bailey
+#Rept. U.C., Lawrence Rad.Lab. (Berkeley and Livermore) No.3334, 1956
+#Angle and energy distributions of charged particles from the high -energy nuclear bombardment of various elements
+#

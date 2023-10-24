@@ -1,0 +1,41 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  64
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C2243009 
+# X4 code     : 29-CU-0(P,X)29-CU-64,,SIG
+# Author      : Graves                   
+# Year        : 2016
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.94000E+01  3.74000E+01  2.80000E+00  6.00000E-01
+  7.86000E+01  4.05000E+01  4.00000E+00  9.00000E-01
+  6.91000E+01  4.13000E+01  5.30000E+00  1.10000E+00
+  5.86000E+01  4.82000E+01  6.10000E+00  1.40000E+00
+  4.80000E+01  5.29000E+01  5.40000E+00  1.60000E+00
+  3.51000E+01  6.87000E+01  6.40000E+00  1.90000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#S.A.Graves, P.A.Ellison, T.E.Barnhart, H.F.Valdovinos, E.R.Birnbaum, F.M.Nortier, R.J.Nickles, J.W.Engle
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.386, p.44, 2016
+#Nuclear excitation functions of proton-induced reactions (Ep = 35-90 MeV) from Fe, Cu, and Al
+#
+# Quality information:
+#
+# Quality  C2243009 :   
+# Date     C2243009 : 05-01-2018
+# Reaction C2243009 : NP:    6 E-range:   35.1    -   89.4     MeV 29-CU-0(P,X)29-CU-64,,SIG           pdf: n
+# Paper    C2243009 : S.A.Graves+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.386, p.44, 2016 Nuclear excitation functions of proton-induced reaction
+# Action   C2243009 : 
+# Comment  C2243009 : 

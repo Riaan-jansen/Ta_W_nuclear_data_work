@@ -1,0 +1,28 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9000
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9001
+# X4 ID       : O0584024R
+# X4 code     : (29-CU-0(P,X)19-K-43,CUM,SIG)/(29-CU-0(P,X)19-K-42,IND,SIG)
+# Author      : Chackett                 
+# Year        : 1965
+# Data points :      6
+#    E(MeV)      ratio        dratio      dE(MeV)
+  5.90000E+02  4.00000E-01  0.00000E+00  0.00000E+00
+  5.90000E+02  3.90000E-01  0.00000E+00  0.00000E+00
+  1.83000E+04  4.10000E-01  0.00000E+00  0.00000E+00
+  1.83000E+04  4.05000E-01  0.00000E+00  0.00000E+00
+  1.83000E+04  4.30000E-01  0.00000E+00  0.00000E+00
+  1.83000E+04  4.20000E-01  0.00000E+00  0.00000E+00
+# Full reference:
+#K.F.Chackett
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.27, p.2493, 1965
+#Yields of Potassium Isotopes in High Energy Bombardment Of Vanadium, Iron, Cobalt, Nickel, Copper and Zinc.

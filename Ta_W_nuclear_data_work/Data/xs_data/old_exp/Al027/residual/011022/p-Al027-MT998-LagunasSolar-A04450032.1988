@@ -1,0 +1,61 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A04450032
+# X4 code     : 13-AL-27(P,X)11-NA-22,,SIG,,,EXP
+# Author      : LagunasSolar             
+# Year        : 1988
+# Data points :     18
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.66000E+01  2.46000E+01  2.21400E+00  0.00000E+00  1.91459E+01  0.7783       7.673       5.454              
+  6.48000E+01  2.15000E+01  1.93500E+00  0.00000E+00  1.94580E+01  0.9050       3.311       2.868              
+  6.30000E+01  2.43000E+01  2.18700E+00  0.00000E+00  1.99849E+01  0.8224       5.769       4.315              
+  6.11000E+01  2.51000E+01  2.25900E+00  0.00000E+00  2.05411E+01  0.8184       5.993       4.559              
+  5.92000E+01  2.61000E+01  2.34900E+00  0.00000E+00  2.34492E+01  0.8984       4.500       3.932              
+  5.72000E+01  2.76000E+01  2.48400E+00  0.00000E+00  2.43157E+01  0.8810       4.989       4.281              
+  5.52000E+01  2.98000E+01  2.68200E+00  0.00000E+00  2.51080E+01  0.8426       5.925       4.699              
+  5.32000E+01  3.22000E+01  2.89800E+00  0.00000E+00  2.59944E+01  0.8073       7.071       6.206              
+  5.10000E+01  3.47000E+01  3.12300E+00  0.00000E+00  2.70300E+01  0.7790       8.267       7.670              
+  4.89000E+01  3.80000E+01  3.42000E+00  0.00000E+00  2.77604E+01  0.7305       10.63       10.24              
+  4.68000E+01  4.04000E+01  3.63600E+00  0.00000E+00  2.85446E+01  0.7065       12.03       11.86              
+  4.45000E+01  4.26000E+01  3.83400E+00  0.00000E+00  2.92965E+01  0.6877       13.55       13.30              
+  4.21000E+01  4.05000E+01  3.64500E+00  0.00000E+00  2.91115E+01  0.7188       12.26       11.39              
+  3.95000E+01  3.51000E+01  3.15900E+00  0.00000E+00  2.88216E+01  0.8211       10.45       9.579              
+  3.68000E+01  2.55000E+01  2.29500E+00  0.00000E+00  2.76411E+01   1.084       26.72       9.531              
+  3.40000E+01  1.30000E+01  1.17000E+00  0.00000E+00  2.67585E+01   2.058       318.2       16.87              
+  3.11000E+01  3.20000E+00  2.88000E-01  0.00000E+00  2.61320E+01   8.166      1.0922E+04   23.12              
+  2.79000E+01  2.00000E-01  1.80000E-02  0.00000E+00  4.52411E+01   226.2      8.5966E+06   45.08              
+#
+# Average deviation:                                                3.753      4.7822E+05   10.83    
+#
+# Full reference:
+#M.C.Lagunas-Solar, O.F.Carvacho, R.R.Cima
+#Jour. Applied Radiation and Isotopes Vol.39, p.41, 1988
+#CYCLOTRON PRODUTION OF PET RADIONULIDES- F-18 (109.77 MIN,BETA+ 96.9 PER CENT,EC 3.1 PER CENT) FROM HIGH-ENERGY PROTONS ON METALLIC ALUMINUM TARGETS.
+#
+#
+# Quality information:
+#
+# Quality  A04450032: T2
+# Date     A04450032: 05-01-2018
+# Reaction A04450032: NP:   18 E-range:   27.9    -   66.6     MeV 13-AL-27(P,X)11-NA-22,,SIG,,,EXP    pdf: y
+# Paper    A04450032: M.C.Lagunas-Solar+ Jour. Applied Radiation and Isotopes Vol.39, p.41, 1988 CYCLOTRON PRODUTION OF PET RADIONULIDES- F-18 (109.77 MIN,BETA+ 9
+# Action   A04450032: 
+# Comment  A04450032: Evaluation        N=    18 F=   3.75     chi-2=  4.782E+05 D=   10.8     mb T=   26.4     mb E=   26.9     K1=  3.75     K2= 2.045E+29
+# Comment  A04450032: TALYS             N=    18 F=   1.39     chi-2=   8.24     D=   5.66     mb T=   21.3     mb E=   26.9     K1=  1.39     K2=  2.66
+# Comment  A04450032: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   26.9     K1=  0.00     K2=  0.00
+# Comment  A04450032: eaf.2010          N=    14 F=   5.56     chi-2=  6.646E+05 D=   13.6     mb T=   37.3     mb E=   26.9     K1=  5.56     K2= 1.000E+35
+# Comment  A04450032: endfb8.0          N=     1 F=   160.     chi-2=  3.122E+06 D=   31.8     mb T=   32.0     mb E=   26.9     K1=  160.     K2= 1.000E+35
+# Comment  A04450032: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   26.9     K1=  0.00     K2=  0.00
+# Comment  A04450032: jeff3.3           N=     1 F=   287.     chi-2=  1.011E+07 D=   57.2     mb T=   57.4     mb E=   26.9     K1=  287.     K2= 1.000E+35
+# Comment  A04450032: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   26.9     K1=  0.00     K2=  0.00
+# Comment  A04450032: tendl.2017        N=    18 F=   4.74     chi-2=  1.138E+06 D=   15.4     mb T=   24.3     mb E=   26.9     K1=  4.74     K2= 1.000E+35

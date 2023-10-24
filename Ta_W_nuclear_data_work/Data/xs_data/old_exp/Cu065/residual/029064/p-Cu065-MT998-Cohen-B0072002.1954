@@ -1,0 +1,55 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  64
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0072002 
+# X4 code     : 29-CU-65(P,X)29-CU-64,IND,SIG,,,EXP
+# Author      : Cohen                    
+# Year        : 1954
+# Data points :     13
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.22000E+01  2.10000E+00  0.00000E+00  0.00000E+00  2.23567E+02   106.5      1.3078E+06   221.6              
+  1.30000E+01  8.00000E+00  0.00000E+00  0.00000E+00  2.32824E+02   29.10      9.2730E+04   225.2              
+  1.40000E+01  2.80000E+01  0.00000E+00  0.00000E+00  2.21987E+02   7.928       5555.       194.0              
+  1.50000E+01  7.90000E+01  0.00000E+00  0.00000E+00  1.89584E+02   2.400       231.6       110.7              
+  1.60000E+01  1.55000E+02  0.00000E+00  0.00000E+00  1.56269E+02   1.008      0.6045       14.82              
+  1.70000E+01  2.36000E+02  0.00000E+00  0.00000E+00  1.32250E+02  0.5604       18.82       103.7              
+  1.80000E+01  3.17000E+02  0.00000E+00  0.00000E+00  1.19563E+02  0.3772       38.58       197.4              
+  1.90000E+01  4.05000E+02  0.00000E+00  0.00000E+00  1.13641E+02  0.2806       51.36       291.4              
+  2.00000E+01  4.80000E+02  0.00000E+00  0.00000E+00  1.11354E+02  0.2320       58.67       368.6              
+  2.10000E+01  5.48000E+02  0.00000E+00  0.00000E+00  1.22776E+02  0.2240       59.56       425.2              
+  2.20000E+01  5.87000E+02  0.00000E+00  0.00000E+00  1.26092E+02  0.2148       61.70       460.9              
+  2.30000E+01  6.09000E+02  0.00000E+00  0.00000E+00  1.26753E+02  0.2081       63.02       482.2              
+  2.35000E+01  6.27000E+02  0.00000E+00  0.00000E+00  1.27242E+02  0.2029       63.77       499.8              
+#
+# Average deviation:                                                8.072      1.0821E+05   276.6    
+#
+# Full reference:
+#B.L.Cohen,  E.Newman,  R.A.Charpie,  T.H.Handley
+#Jour. Physical Review Vol.94, p.620, 1954
+#(P,PN) And (P,AN) Excitation Functions.
+#
+# Quality information:
+#
+# Quality  B0072002 : T2
+# Date     B0072002 : 05-01-2018
+# Reaction B0072002 : NP:   13 E-range:   12.2    -   23.5     MeV 29-CU-65(P,X)29-CU-64,IND,SIG,,,EXP pdf: y
+# Paper    B0072002 : B.L.Cohen+ Jour. Physical Review Vol.94, p.620, 1954 (P,PN) And (P,AN) Excitation Functions.
+# Action   B0072002 : 
+# Comment  B0072002 : Evaluation        N=    13 F=   8.07     chi-2=  1.082E+05 D=   277.     mb T=   154.     mb E=   314.     K1=  8.07     K2= 6.690E+20
+# Comment  B0072002 : TALYS             N=    13 F=   1.51     chi-2=   0.00     D=   120.     mb T=   195.     mb E=   314.     K1=  1.51     K2=  3.03
+# Comment  B0072002 : cendl3.1          N=     9 F=   10.6     chi-2=  2.212E+05 D=   219.     mb T=   167.     mb E=   314.     K1=  10.6     K2= 2.246E+28
+# Comment  B0072002 : eaf.2010          N=    13 F=   9.51     chi-2=  1.173E+05 D=   308.     mb T=   144.     mb E=   314.     K1=  9.51     K2= 9.400E+21
+# Comment  B0072002 : endfb8.0          N=    13 F=   10.9     chi-2=  1.200E+05 D=   319.     mb T=   132.     mb E=   314.     K1=  10.9     K2= 3.812E+22
+# Comment  B0072002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   314.     K1=  0.00     K2=  0.00
+# Comment  B0072002 : jeff3.3           N=    13 F=   9.14     chi-2=  1.047E+05 D=   302.     mb T=   142.     mb E=   314.     K1=  9.14     K2= 1.222E+21
+# Comment  B0072002 : jendl4.0          N=     9 F=   10.3     chi-2=  2.273E+05 D=   215.     mb T=   185.     mb E=   314.     K1=  10.3     K2= 3.835E+28
+# Comment  B0072002 : tendl.2017        N=    13 F=   8.82     chi-2=  1.049E+05 D=   299.     mb T=   145.     mb E=   314.     K1=  8.82     K2= 9.895E+20

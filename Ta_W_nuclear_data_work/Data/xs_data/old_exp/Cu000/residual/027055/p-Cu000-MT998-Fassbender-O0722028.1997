@@ -1,0 +1,50 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  55
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0722028 
+# X4 code     : 29-CU-CMP(P,X)27-CO-55,CUM,SIG
+# Author      : Fassbender               
+# Year        : 1997
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.50800E+02  2.50000E+00  6.00000E-01  0.00000E+00  2.35381E+00  0.9415      5.9365E-02  0.1462              
+  2.54600E+02  1.80000E+00  4.00000E-01  0.00000E+00  2.25454E+00   1.253       1.291      0.4545              
+  2.14900E+02  1.90000E+00  4.00000E-01  0.00000E+00  2.18343E+00   1.149      0.5021      0.2834              
+  1.74600E+02  1.90000E+00  3.00000E-01  0.00000E+00  2.28293E+00   1.202       1.629      0.3829              
+  1.30700E+02  1.80000E+00  3.00000E-01  0.00000E+00  2.21868E+00   1.233       1.948      0.4187              
+  1.30500E+02  1.80000E+00  3.00000E-01  0.00000E+00  2.21556E+00   1.231       1.919      0.4156              
+  7.90000E+01  1.50000E+00  2.00000E-01  0.00000E+00  5.82665E-01  0.3884       21.04      0.9173              
+#
+# Average deviation:                                                1.483       4.055      0.4312    
+#
+# Full reference:
+#M.Fassbender,  Yu.N.Shubin,  V.P.Lunev,  S.M.Qaim
+#Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997
+#Experimental studies and nuclear model calculations on the formation of radioactive products in interactions of medium energy protons with copper, zinc
+#and brass:  estimation of collimator activation in proton therapy facilities.
+#
+# Quality information:
+#
+# Quality  O0722028 : T1
+# Date     O0722028 : 05-01-2018
+# Reaction O0722028 : NP:    7 E-range:   79.0    -   351.     MeV 29-CU-CMP(P,X)27-CO-55,CUM,SIG      pdf: y
+# Paper    O0722028 : M.Fassbender+ Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997 Experimental studies and nuclear model calculations on the formation
+# Action   O0722028 : 
+# Comment  O0722028 : Evaluation        N=     7 F=   1.48     chi-2=   4.06     D=  0.431     mb T=   2.01     mb E=   1.89     K1=  1.48     K2=  3.68
+# Comment  O0722028 : TALYS             N=     7 F=   1.48     chi-2=   4.06     D=  0.431     mb T=   2.01     mb E=   1.89     K1=  1.48     K2=  3.68
+# Comment  O0722028 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.89     K1=  0.00     K2=  0.00
+# Comment  O0722028 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.89     K1=  0.00     K2=  0.00
+# Comment  O0722028 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.89     K1=  0.00     K2=  0.00
+# Comment  O0722028 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.89     K1=  0.00     K2=  0.00
+# Comment  O0722028 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.89     K1=  0.00     K2=  0.00
+# Comment  O0722028 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.89     K1=  0.00     K2=  0.00
+# Comment  O0722028 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.89     K1=  0.00     K2=  0.00

@@ -1,0 +1,34 @@
+# Target Z    :  74
+# Target A    : 184
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,f)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   18
+# X4 ID       : O0617004T
+# X4 code     : 74-W-184(P,F),,SIG,,,EXP
+# Author      : Andronenko               
+# Year        : 1984
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.00000E+03  2.50000E+01  5.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#L.N.Andronenko, A.A.Kotov, M.M.Nesterov, V.F.Petrov, N.A.Tarasov, L.A.Vaishnene, W.Neubert
+#
+#Jour. Zeitschrift fuer Physik A, Hadrons and Nuclei Vol.318, p.97, 1984
+#Fission Studies of Highly Excited Nuclei.
+#
+# Quality information:
+#
+# Quality  O0617004T:   
+# Date     O0617004T: 05-01-2018
+# Reaction O0617004T: NP:    1 E-range:  1.000E+03-  1.000E+03 MeV 74-W-184(P,F),,SIG,,,EXP            pdf: n
+# Paper    O0617004T: L.N.Andronenko+ Jour. Zeitschrift fuer Physik A, Hadrons and Nuclei Vol.318, p.97, 1984 Fission Studies of Highly Excited Nuclei.
+# Action   O0617004T: 
+# Comment  O0617004T: 

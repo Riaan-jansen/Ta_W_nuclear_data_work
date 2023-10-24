@@ -1,0 +1,48 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  73
+# Final A     : 177
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1100010 
+# X4 code     : 74-W-0(P,X)73-TA-177,CUM,SIG
+# Author      : Miah                     
+# Year        : 2002
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.21000E+01  9.92000E+01  3.67000E+00  9.04000E-01  1.24203E-02  1.2520E-04   730.4       99.19              
+  5.54000E+01  1.26100E+02  5.41300E+00  8.70000E-01  1.58868E-02  1.2599E-04   542.6       126.1              
+  5.86000E+01  1.43600E+02  5.23300E+00  8.33000E-01  1.95624E-02  1.3623E-04   752.8       143.6              
+  6.32000E+01  1.87800E+02  7.69900E+00  7.59000E-01  2.45837E-02  1.3090E-04   594.9       187.8              
+  6.61000E+01  1.94200E+02  8.49400E+00  7.12000E-01  2.74938E-02  1.4157E-04   522.6       194.2              
+  6.89000E+01  1.97800E+02  7.20800E+00  6.62000E-01  3.00141E-02  1.5174E-04   752.8       197.8              
+#
+# Average deviation:                                                7411.       649.3       158.1    
+#
+# Full reference:
+#M.H.Miah,  J.Kuhnhenn,  U.Herpers,  R.Michel,  P.Kubik
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.369, 2002
+#Production of residual nuclides by proton-induced reactions oh target W at an energy of 72 MeV.
+#
+# Quality information:
+#
+# Quality  O1100010 : T2
+# Date     O1100010 : 05-01-2018
+# Reaction O1100010 : NP:    6 E-range:   52.1    -   68.9     MeV 74-W-0(P,X)73-TA-177,CUM,SIG        pdf: y
+# Paper    O1100010 : M.H.Miah+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.369, 2002 Production of residual nuclides by proton-induced reaction
+# Action   O1100010 : 
+# Comment  O1100010 : Evaluation        N=     6 F=  7.411E+03 chi-2=   649.     D=   158.     mb T=  2.166E-02 mb E=   158.     K1= 7.411E+03 K2= 1.000E+35
+# Comment  O1100010 : TALYS             N=     6 F=  7.411E+03 chi-2=   649.     D=   158.     mb T=  2.166E-02 mb E=   158.     K1= 7.411E+03 K2= 1.000E+35
+# Comment  O1100010 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   158.     K1=  0.00     K2=  0.00
+# Comment  O1100010 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   158.     K1=  0.00     K2=  0.00
+# Comment  O1100010 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   158.     K1=  0.00     K2=  0.00
+# Comment  O1100010 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   158.     K1=  0.00     K2=  0.00
+# Comment  O1100010 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   158.     K1=  0.00     K2=  0.00
+# Comment  O1100010 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   158.     K1=  0.00     K2=  0.00
+# Comment  O1100010 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   158.     K1=  0.00     K2=  0.00

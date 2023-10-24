@@ -1,0 +1,20 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (n, )
+# Quantity    : Resonance Parameters
+# Frame       : L
+# MF          :  402
+# MT          : 6031
+# X4 ID       : D0385007 
+# X4 code     : 13-AL-27(P,G),,WID
+# Author      : Kennedy                  
+# Year        : 1977
+# Data points :      1
+#    E(eV)        par         dpar         dE(eV)
+  2.04940E+00  2.60000E+03  3.00000E+02  7.00000E-04
+# Full reference:
+#D.L.Kennedy, J.C.P.Heggie, P.J.Davies, H.H.Bolotin
+#Jour. Nuclear Instrum.and Methods in Physics Res. Vol.140, p.519, 1977
+#The 2046 keV 27Al(p,gamma)28Si resonance-capture reaction as a gamma-ray intensity calibration standard

@@ -1,0 +1,44 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   6
+# Final A     :  16
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C02360092
+# X4 code     : 13-AL-27(P,X)6-C-16,,SIG
+# Author      : Dostrovsky               
+# Year        : 1965
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.00000E+03  5.00000E-02  0.00000E+00  0.00000E+00  4.15236E-03  8.3047E-02   0.000      4.5848E-02          
+  2.80000E+03  6.54000E-02  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                12.04       0.000      4.5848E-02
+#
+# Full reference:
+#I.Dostrovsky, R.Davis Jr, A.M.Poskanzer, P.L.Reeder
+#Jour. Physical Review Vol.139, p.B1513, 1965
+#Cross Sections for the Production of Li9, C16, and N17 in Irradiations with GeV-Energy Protons
+#
+# Quality information:
+#
+# Quality  C02360092: T2
+# Date     C02360092: 05-01-2018
+# Reaction C02360092: NP:    2 E-range:  1.000E+03-  2.800E+03 MeV 13-AL-27(P,X)6-C-16,,SIG            pdf: y
+# Paper    C02360092: I.Dostrovsky+ Jour. Physical Review Vol.139, p.B1513, 1965 Cross Sections for the Production of Li9, C16, and N17 in Irradiations with GeV-E
+# Action   C02360092: 
+# Comment  C02360092: Evaluation        N=     1 F=   12.0     chi-2=   0.00     D=  4.585E-02 mb T=  4.152E-03 mb E=  5.770E-02 K1=  12.0     K2= 2.552E+11
+# Comment  C02360092: TALYS             N=     1 F=   12.0     chi-2=   0.00     D=  4.585E-02 mb T=  4.152E-03 mb E=  5.770E-02 K1=  12.0     K2= 2.552E+11
+# Comment  C02360092: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.770E-02 K1=  0.00     K2=  0.00
+# Comment  C02360092: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.770E-02 K1=  0.00     K2=  0.00
+# Comment  C02360092: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.770E-02 K1=  0.00     K2=  0.00
+# Comment  C02360092: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.770E-02 K1=  0.00     K2=  0.00
+# Comment  C02360092: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.770E-02 K1=  0.00     K2=  0.00
+# Comment  C02360092: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.770E-02 K1=  0.00     K2=  0.00
+# Comment  C02360092: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  5.770E-02 K1=  0.00     K2=  0.00

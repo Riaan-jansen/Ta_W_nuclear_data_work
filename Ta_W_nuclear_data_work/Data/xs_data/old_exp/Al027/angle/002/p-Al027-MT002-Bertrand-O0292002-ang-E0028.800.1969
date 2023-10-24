@@ -1,0 +1,41 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,el)
+# E-inc       :   28.800 MeV
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :    2
+# X4 ID       : O0292002 
+# X4 code     : 13-AL-27(P,EL)13-AL-27,,DA,,,EXP
+# Author      : Bertrand                 
+# Year        : 1969
+# Data points :     20
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  1.10001E+01  3.24000E+03  6.48000E+00
+  3.00000E+01  1.69000E+02  6.76000E-01
+  6.00001E+01  3.80000E+01  1.90000E-01
+  1.19999E+01  2.00210E+03  2.00210E+00
+  1.50000E+01  1.46370E+03  2.92740E+00
+  2.08001E+01  3.34100E+02  1.67050E+00
+  2.50000E+01  1.36620E+02  1.09300E+00
+  3.00000E+01  4.92600E+01  9.85200E-02
+  3.50000E+01  2.68200E+01  1.07280E-01
+  4.00000E+01  2.27400E+01  9.09600E-02
+  4.50001E+01  2.16300E+01  6.48900E-02
+  5.00000E+01  6.71000E+00  4.69700E-02
+  5.50001E+01  2.98000E+00  3.27800E-02
+  6.00001E+01  2.33000E+00  3.96100E-02
+  6.50001E+01  1.49000E+00  2.23500E-02
+  7.00001E+01  1.05000E+00  1.89000E-02
+  7.50001E+01  5.23000E-01  8.36800E-03
+  8.20001E+01  2.21000E-01  6.18800E-03
+  9.00000E+01  1.36000E-01  6.93600E-03
+  1.10000E+02  4.60000E-02  3.68000E-03
+# Full reference:
+#F.E.Bertrand, R.W.Peelle
+#Rept. Oak Ridge National Lab. Reports No.4455, 1969
+#Tabulated Cross Sections For Hydrogen and Helium Particles Produced by 62 MeV and 29 MeV Protons on 27-Al.
+#

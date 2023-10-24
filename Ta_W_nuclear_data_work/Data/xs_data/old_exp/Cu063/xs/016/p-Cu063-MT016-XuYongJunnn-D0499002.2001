@@ -1,0 +1,43 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,2n)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   16
+# X4 ID       : D0499002 
+# X4 code     : 29-CU-63(P,2N)30-ZN-62,,SIG
+# Author      : XuYongJunnn              
+# Year        : 2001
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.29000E+01  1.01000E+02  4.00000E+00  1.00000E-01  6.39397E+01  0.6331       85.84       37.06              
+#
+# Average deviation:                                                1.580       85.84       37.06    
+#
+# Full reference:
+#Xu Yong-Jun,  Wang Rong,  Yu Wei-Xiang,  Han Xiao-Gang, Cui Bao-Qun,  Qin Jiu-Chang,  Xu Guo-Ji,  Zhu Sheng-Yun
+#
+#Jour. Atomic Energy Science and Technology Vol.35, Issue.6, p.547, 2001
+#Cross section measurements for production of perturbed angular correlation probe nuclei at HI-13 tandem accelerator
+#
+#
+# Quality information:
+#
+# Quality  D0499002 : T2
+# Date     D0499002 : 05-01-2018
+# Reaction D0499002 : NP:    1 E-range:   22.9    -   22.9     MeV 29-CU-63(P,2N)30-ZN-62,,SIG         pdf: y
+# Paper    D0499002 : Xu Yong-Jun+ Jour. Atomic Energy Science and Technology Vol.35, Issue.6, p.547, 2001 Cross section measurements for production of perturbed
+# Action   D0499002 : 
+# Comment  D0499002 : Evaluation        N=     1 F=   1.58     chi-2=   85.8     D=   37.1     mb T=   63.9     mb E=   101.     K1=  1.58     K2=  6.10
+# Comment  D0499002 : TALYS             N=     1 F=   1.58     chi-2=   85.8     D=   37.1     mb T=   63.9     mb E=   101.     K1=  1.58     K2=  6.10
+# Comment  D0499002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   101.     K1=  0.00     K2=  0.00
+# Comment  D0499002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   101.     K1=  0.00     K2=  0.00
+# Comment  D0499002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   101.     K1=  0.00     K2=  0.00
+# Comment  D0499002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   101.     K1=  0.00     K2=  0.00
+# Comment  D0499002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   101.     K1=  0.00     K2=  0.00
+# Comment  D0499002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   101.     K1=  0.00     K2=  0.00
+# Comment  D0499002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   101.     K1=  0.00     K2=  0.00

@@ -1,0 +1,36 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  24
+# Final A     :  48
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0477070 
+# X4 code     : 29-CU-0(P,X)24-CR-48,IND,SIG
+# Author      : Kozma                    
+# Year        : 1990
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.65000E+03  3.50000E-01  4.00000E-02  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#P.Kozma,  B.Tumendemberel,  D.Chultem
+#Jour. Czechoslovak Journal of Physics Vol.40, p.29, 1990
+#Nuclear reactions of medium and heavy target nuclei with high-energy projectiles.Spallation of Mn-55, Co-59,Ni-natural and Cu-natural by 3.65 A*GeV C-12
+#ions and 3.65 GeV protons.
+#
+# Quality information:
+#
+# Quality  A0477070 :   
+# Date     A0477070 : 05-01-2018
+# Reaction A0477070 : NP:    1 E-range:  3.650E+03-  3.650E+03 MeV 29-CU-0(P,X)24-CR-48,IND,SIG        pdf: n
+# Paper    A0477070 : P.Kozma+ Jour. Czechoslovak Journal of Physics Vol.40, p.29, 1990 Nuclear reactions of medium and heavy target nuclei with high-energy proje
+# Action   A0477070 : 
+# Comment  A0477070 : 

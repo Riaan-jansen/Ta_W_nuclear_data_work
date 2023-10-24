@@ -1,0 +1,32 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9000
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9000
+# X4 ID       : O1921003 
+# X4 code     : (13-AL-27(P,X)9-F-18,,SIG)/(13-AL-27(P,X)11-NA-24,,SIG)
+# Author      : Chackett                 
+# Year        : 1956
+# Data points :     10
+#    E(MeV)      ratio        dratio      dE(MeV)
+  2.02650E+02  5.50000E-01  0.00000E+00  0.00000E+00
+  3.08790E+02  5.91000E-01  0.00000E+00  0.00000E+00
+  3.49150E+02  7.60000E-01  0.00000E+00  0.00000E+00
+  4.18930E+02  7.09000E-01  0.00000E+00  0.00000E+00
+  5.68960E+02  6.88000E-01  0.00000E+00  0.00000E+00
+  6.46720E+02  7.79000E-01  0.00000E+00  0.00000E+00
+  7.57800E+02  6.61000E-01  0.00000E+00  0.00000E+00
+  8.38190E+02  7.80000E-01  0.00000E+00  0.00000E+00
+  9.50600E+02  6.94000E-01  0.00000E+00  0.00000E+00
+  1.00110E+03  6.98000E-01  0.00000E+00  0.00000E+00
+# Full reference:
+#G.A.Chackett, K.F.Chackett, P.Reasbeck,  J.L.Symonds, J.Warren
+#Jour. Proc.Physical Society (London), Section A Vol.69, p.43, 1956
+#Excitation functions up to 980 MeV for proton-induced reactions in Al-27, relative to C-12(p,n+p)C-11.

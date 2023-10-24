@@ -1,0 +1,35 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  12
+# Final A     :  28
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C02910021
+# X4 code     : 29-CU-0(P,X)12-MG-28,,SIG
+# Author      : Crespo                   
+# Year        : 1963
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.00000E+02  4.90000E-02  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#V.P.Crespo, J.M.Alexander, E.K.Hyde
+#Jour. Physical Review Vol.131, p.1765, 1963
+#Ejection of Large Fragments in High-Energy Nuclear Reactions
+#
+# Quality information:
+#
+# Quality  C02910021:   
+# Date     C02910021: 05-01-2018
+# Reaction C02910021: NP:    1 E-range:   700.    -   700.     MeV 29-CU-0(P,X)12-MG-28,,SIG           pdf: n
+# Paper    C02910021: V.P.Crespo+ Jour. Physical Review Vol.131, p.1765, 1963 Ejection of Large Fragments in High-Energy Nuclear Reactions
+# Action   C02910021: 
+# Comment  C02910021: 

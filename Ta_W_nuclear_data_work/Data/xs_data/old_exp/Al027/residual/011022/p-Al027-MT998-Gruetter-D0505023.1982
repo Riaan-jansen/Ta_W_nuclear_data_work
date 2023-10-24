@@ -1,0 +1,56 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0505023 
+# X4 code     : 13-AL-27(P,X)11-NA-22,CUM,SIG
+# Author      : Gruetter                 
+# Year        : 1982
+# Data points :     13
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.85000E+01  2.09000E+01  6.27000E-01  3.40000E-01  2.15899E+01   1.033       1.211      0.6899              
+  6.37000E+01  2.22000E+01  6.66000E-01  3.40000E-01  2.27260E+01   1.024      0.6238      0.5260              
+  6.00000E+01  2.42000E+01  7.26000E-01  3.40000E-01  2.40712E+01  0.9947      3.1475E-02  0.1288              
+  5.40000E+01  2.88000E+01  8.64000E-01  3.40000E-01  2.71916E+01  0.9442       3.465       1.608              
+  5.08000E+01  3.28000E+01  9.84000E-01  3.40000E-01  2.89462E+01  0.8825       15.34       3.854              
+  4.74000E+01  3.73000E+01  1.11900E+00  3.40000E-01  2.92760E+01  0.7849       51.42       8.024              
+  4.43000E+01  3.89000E+01  1.16700E+00  3.40000E-01  2.82890E+01  0.7272       82.67       10.61              
+  4.38000E+01  3.86000E+01  1.15800E+00  3.40000E-01  2.76558E+01  0.7165       89.32       10.94              
+  4.05000E+01  3.62000E+01  1.08600E+00  3.40000E-01  2.34766E+01  0.6485       137.3       12.72              
+  3.65000E+01  2.44000E+01  7.32000E-01  3.40000E-01  1.39924E+01  0.5735       202.2       10.41              
+  3.43000E+01  1.55500E+01  4.66500E-01  3.40000E-01  8.89320E+00  0.5719       203.6       6.657              
+  3.20000E+01  7.29000E+00  2.18700E-01  3.40000E-01  4.60238E+00  0.6313       151.0       2.688              
+  2.96000E+01  2.29000E+00  6.87000E-02  3.40000E-01  7.16959E-01  0.3131       524.3       1.573              
+#
+# Average deviation:                                                1.572       112.5       5.418    
+#
+# Full reference:
+#A.Gruetter
+#Jour. Nuclear Physics, Section A Vol.383, p.98, 1982
+#Excitation functions for radioactive isotope produced by proton bombardment of Cu and Al in the energy range of 16 to 70 MeV
+#
+#
+# Quality information:
+#
+# Quality  D0505023 : T1
+# Date     D0505023 : 05-01-2018
+# Reaction D0505023 : NP:   13 E-range:   29.6    -   68.5     MeV 13-AL-27(P,X)11-NA-22,CUM,SIG       pdf: y
+# Paper    D0505023 : A.Gruetter Jour. Nuclear Physics, Section A Vol.383, p.98, 1982 Excitation functions for radioactive isotope produced by proton bombardment
+# Action   D0505023 : 
+# Comment  D0505023 : Evaluation        N=    13 F=   1.57     chi-2=   112.     D=   5.42     mb T=   20.1     mb E=   25.3     K1=  1.57     K2=  22.9
+# Comment  D0505023 : TALYS             N=    13 F=   1.57     chi-2=   112.     D=   5.42     mb T=   20.1     mb E=   25.3     K1=  1.57     K2=  22.9
+# Comment  D0505023 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.3     K1=  0.00     K2=  0.00
+# Comment  D0505023 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.3     K1=  0.00     K2=  0.00
+# Comment  D0505023 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.3     K1=  0.00     K2=  0.00
+# Comment  D0505023 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.3     K1=  0.00     K2=  0.00
+# Comment  D0505023 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.3     K1=  0.00     K2=  0.00
+# Comment  D0505023 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.3     K1=  0.00     K2=  0.00
+# Comment  D0505023 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.3     K1=  0.00     K2=  0.00

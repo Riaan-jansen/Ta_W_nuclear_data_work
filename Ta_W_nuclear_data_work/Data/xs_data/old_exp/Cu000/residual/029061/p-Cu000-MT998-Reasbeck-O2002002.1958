@@ -1,0 +1,43 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  61
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O2002002 
+# X4 code     : 29-CU-0(P,X)29-CU-61,,SIG
+# Author      : Reasbeck                 
+# Year        : 1958
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  9.80000E+02  1.02000E+01  1.40000E+00  0.00000E+00  8.51995E+00  0.8353       1.440       1.680              
+#
+# Average deviation:                                                1.197       1.440       1.680    
+#
+# Full reference:
+#P.Reasbeck,  J.E.Warren
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.7, p.343, 1958
+#Radiochemical studies of the interaction of copper with 980 MeV protons.
+#
+# Quality information:
+#
+# Quality  O2002002 : T1
+# Date     O2002002 : 05-01-2018
+# Reaction O2002002 : NP:    1 E-range:   980.    -   980.     MeV 29-CU-0(P,X)29-CU-61,,SIG           pdf: y
+# Paper    O2002002 : P.Reasbeck+ Jour. Journal of Inorganic and Nuclear Chemistry Vol.7, p.343, 1958 Radiochemical studies of the interaction of copper with 980
+# Action   O2002002 : 
+# Comment  O2002002 : Evaluation        N=     1 F=   1.20     chi-2=   1.44     D=   1.68     mb T=   8.52     mb E=   10.2     K1=  1.20     K2=  1.32
+# Comment  O2002002 : TALYS             N=     1 F=   1.20     chi-2=   1.44     D=   1.68     mb T=   8.52     mb E=   10.2     K1=  1.20     K2=  1.32
+# Comment  O2002002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  O2002002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  O2002002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  O2002002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  O2002002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  O2002002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  O2002002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00

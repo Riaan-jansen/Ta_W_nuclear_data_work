@@ -1,0 +1,33 @@
+# Target Z    :  29
+# Target A    :  64
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : O1947004 
+# X4 code     : 29-CU-64(P,NON),,SIG
+# Author      : Cassels                  
+# Year        : 1954
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.34000E+02  7.52000E+02  6.80000E+01  4.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#J.M.Cassels,  J.D.Lawson
+#Jour. Proc.Physical Society (London), Section A Vol.67, p.125, 1954
+#Absorption cross sections for 134 MeV protons.
+#
+# Quality information:
+#
+# Quality  O1947004 :   
+# Date     O1947004 : 05-01-2018
+# Reaction O1947004 : NP:    1 E-range:   134.    -   134.     MeV 29-CU-64(P,NON),,SIG                pdf: n
+# Paper    O1947004 : J.M.Cassels+ Jour. Proc.Physical Society (London), Section A Vol.67, p.125, 1954 Absorption cross sections for 134 MeV protons.
+# Action   O1947004 : 
+# Comment  O1947004 : 

@@ -1,0 +1,43 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  61
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0284002 
+# X4 code     : 29-CU-0(P,X)29-CU-61,,SIG
+# Author      : Batzel                   
+# Year        : 1951
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.40000E+02  2.30000E+01  0.00000E+00  0.00000E+00  1.40466E+01  0.6107       0.000       8.953              
+#
+# Average deviation:                                                1.637       0.000       8.953    
+#
+# Full reference:
+#R.E.Batzel, D.R.Miller, G.T.Seaborg
+#Jour. Physical Review Vol.84, p.671, 1951
+#THE HIGH ENERGY SPALLATION PRODUCTS OF COPPER
+#
+# Quality information:
+#
+# Quality  C0284002 : T1
+# Date     C0284002 : 05-01-2018
+# Reaction C0284002 : NP:    1 E-range:   340.    -   340.     MeV 29-CU-0(P,X)29-CU-61,,SIG           pdf: y
+# Paper    C0284002 : R.E.Batzel+ Jour. Physical Review Vol.84, p.671, 1951 THE HIGH ENERGY SPALLATION PRODUCTS OF COPPER
+# Action   C0284002 : 
+# Comment  C0284002 : Evaluation        N=     1 F=   1.64     chi-2=   0.00     D=   8.95     mb T=   14.0     mb E=   23.0     K1=  1.64     K2=  3.82
+# Comment  C0284002 : TALYS             N=     1 F=   1.64     chi-2=   0.00     D=   8.95     mb T=   14.0     mb E=   23.0     K1=  1.64     K2=  3.82
+# Comment  C0284002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.0     K1=  0.00     K2=  0.00
+# Comment  C0284002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.0     K1=  0.00     K2=  0.00
+# Comment  C0284002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.0     K1=  0.00     K2=  0.00
+# Comment  C0284002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.0     K1=  0.00     K2=  0.00
+# Comment  C0284002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.0     K1=  0.00     K2=  0.00
+# Comment  C0284002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.0     K1=  0.00     K2=  0.00
+# Comment  C0284002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.0     K1=  0.00     K2=  0.00

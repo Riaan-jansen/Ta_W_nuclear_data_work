@@ -1,0 +1,39 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   13.610 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  0.00000)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :  840
+# X4 ID       : E2039029 
+# X4 code     : 13-AL-27(P,A)12-MG-24,PAR,DA
+# Author      : Ogata                    
+# Year        : 1960
+# Data points :     16
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  2.15001E+01  2.58600E-01  8.70000E-03
+  3.21000E+01  1.14600E-01  5.90000E-03
+  4.27001E+01  1.21700E-01  6.10000E-03
+  5.33001E+01  1.34900E-01  6.40000E-03
+  6.37001E+01  8.40000E-02  4.70000E-03
+  7.40001E+01  8.36000E-02  4.70000E-03
+  8.42001E+01  9.03000E-02  5.00000E-03
+  9.43001E+01  1.05700E-01  5.40000E-03
+  1.04200E+02  7.59000E-02  4.70000E-03
+  1.14000E+02  6.01000E-02  4.20000E-03
+  1.23700E+02  6.20000E-02  4.30000E-03
+  1.33300E+02  9.19000E-02  5.30000E-03
+  1.42700E+02  9.29000E-02  5.90000E-03
+  1.52100E+02  9.74000E-02  6.10000E-03
+  1.61500E+02  9.74000E-02  6.10000E-03
+  1.70700E+02  1.55300E-01  7.80000E-03
+# Full reference:
+#H.Ogata,  H.Itoh,  Y.Masuda,  K.Takamatsu,  M.Kawashima, A.Masaike,  I.Kumabe
+#
+#Jour. Journal of the Physical Society of Japan Vol.15, Issue.10, p.1719, 1960
+#Energy dependence of angular distributions of the reaction 27Al(p,a)24Mg in the energy region between 10.5 and 14.5 MeV
+#

@@ -1,0 +1,44 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xh)
+# E-inc       :  392.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  206
+# X4 ID       : E2007063 
+# X4 code     : 13-AL-27(P,X)2-HE-3,,DA/DE
+# Author      : Uozumi                   
+# Year        : 2007
+# Data points :     22
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.30000E+01  6.47300E-08  1.74800E-09  0.00000E+00  7.50001E+01
+  1.50000E+01  5.61400E-08  1.62800E-09  0.00000E+00  7.50001E+01
+  1.70000E+01  5.18400E-08  1.56400E-09  0.00000E+00  7.50001E+01
+  1.90000E+01  4.78500E-08  1.50300E-09  0.00000E+00  7.50001E+01
+  2.10000E+01  4.18500E-08  1.40500E-09  0.00000E+00  7.50001E+01
+  2.30000E+01  3.96800E-08  1.36800E-09  0.00000E+00  7.50001E+01
+  2.50000E+01  3.39900E-08  1.26600E-09  0.00000E+00  7.50001E+01
+  2.70000E+01  3.10700E-08  1.21100E-09  0.00000E+00  7.50001E+01
+  2.90000E+01  2.89000E-08  1.16800E-09  0.00000E+00  7.50001E+01
+  3.10000E+01  2.55400E-08  1.09800E-09  0.00000E+00  7.50001E+01
+  3.30000E+01  2.25500E-08  1.03100E-09  0.00000E+00  7.50001E+01
+  3.50000E+01  2.23000E-08  1.02600E-09  0.00000E+00  7.50001E+01
+  3.70000E+01  1.98400E-08  9.67900E-10  0.00000E+00  7.50001E+01
+  3.90000E+01  1.93700E-08  9.56300E-10  0.00000E+00  7.50001E+01
+  4.10000E+01  1.88400E-08  9.43200E-10  0.00000E+00  7.50001E+01
+  4.30000E+01  1.57400E-08  8.61900E-10  0.00000E+00  7.50001E+01
+  4.50000E+01  1.48100E-08  8.36300E-10  0.00000E+00  7.50001E+01
+  4.70000E+01  1.30200E-08  7.84000E-10  0.00000E+00  7.50001E+01
+  4.90000E+01  1.23800E-08  7.64400E-10  0.00000E+00  7.50001E+01
+  5.10000E+01  1.22800E-08  7.61500E-10  0.00000E+00  7.50001E+01
+  5.30000E+01  1.07600E-08  7.12800E-10  0.00000E+00  7.50001E+01
+  5.50000E+01  1.07300E-08  7.11900E-10  0.00000E+00  7.50001E+01
+# Full reference:
+#Y.Uozumi,  P.Evtoukhovitch,  H.Fukuda,  M.Imamura, H.Iwamoto,  V.Kalinikov,  W.Kallies,  N.Khumutov,  T.Kin,
+#N.Koba,  Y.Koba,  N.Kuchinski,  A.Moisenko,  D.Mzavia, M.Nakano,  V.Samoilov,  Z.Tsamalaidze,  G.Wakabayashi,
+#Y.Yamashita
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.A Vol.571, Issue.3, p.743, 2007
+#Magnitude factor systematics of Kalbach phenomenology for reactions emitting helium and lithium ions

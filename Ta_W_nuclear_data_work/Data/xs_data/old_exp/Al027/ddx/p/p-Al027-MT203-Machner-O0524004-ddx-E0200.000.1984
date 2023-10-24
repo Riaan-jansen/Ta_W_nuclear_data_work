@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xp)
+# E-inc       :  200.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  203
+# X4 ID       : O0524004 
+# X4 code     : 13-AL-27(P,X)1-H-1,EM,DA/DE
+# Author      : Machner                  
+# Year        : 1984
+# Data points :     14
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.40000E+02  1.10000E-06  6.60000E-08  0.00000E+00  1.74001E+01
+  1.40000E+02  9.50000E-07  5.70000E-08  0.00000E+00  2.84001E+01
+  1.40000E+02  1.76000E-07  1.05600E-08  0.00000E+00  5.27001E+01
+  1.40000E+02  6.70000E-09  4.02000E-10  0.00000E+00  9.28001E+01
+  1.00000E+02  8.60000E-07  5.16000E-08  0.00000E+00  1.42999E+01
+  1.00000E+02  7.70000E-07  4.62000E-08  0.00000E+00  2.44001E+01
+  1.00000E+02  4.39000E-07  2.63400E-08  0.00000E+00  5.06000E+01
+  1.00000E+02  3.93000E-08  2.35800E-09  0.00000E+00  8.89001E+01
+  1.00000E+02  2.89000E-09  1.73400E-10  0.00000E+00  1.20600E+02
+  6.00000E+01  7.30000E-07  4.38000E-08  0.00000E+00  1.58000E+01
+  6.00000E+01  6.30000E-07  3.78000E-08  0.00000E+00  2.67001E+01
+  6.00000E+01  6.00000E-07  3.60000E-08  0.00000E+00  5.11001E+01
+  6.00000E+01  1.21000E-07  7.26000E-09  0.00000E+00  8.97001E+01
+  6.00000E+01  2.43000E-08  1.45800E-09  0.00000E+00  1.21700E+02
+# Full reference:
+#H.Machner,  D.Protic,  G.Riepe,  J.P.Didelez, N.Frascaria,  E.Gerlic,  E.Hourani,  M.Morlet
+#
+#Jour. Physics Letters,Section B Vol.138, p.39, 1984
+#Quasi-Free Scattering and Exciton Model Analysis At 200 MeV.

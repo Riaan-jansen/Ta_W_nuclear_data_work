@@ -1,0 +1,41 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xn)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  201
+# X4 ID       : A0068002 
+# X4 code     : 13-AL-27(P,X)0-NN-1,PAR,SIG
+# Author      : Biryukov                 
+# Year        : 1980
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.20000E+01  1.94000E+02  1.30000E+01  2.00000E-01  7.16163E+01  0.3692       89.47       122.4              
+#
+# Average deviation:                                                2.794       89.47       122.4    
+#
+# Full reference:
+#N.S.Biryukov, B.V.Zhuravlev, A.P.Rudenko, O.A.Salnikov, V.I.Trykova
+#Jour. Yadernaya Fizika Vol.31, Issue.3, p.561, 1980
+#Direct and equilibrium processes in (p,n) reactions at proton energy of 22.2 MeV
+#
+# Quality information:
+#
+# Quality  A0068002 : T2
+# Date     A0068002 : 05-01-2018
+# Reaction A0068002 : NP:    1 E-range:   22.0    -   22.0     MeV 13-AL-27(P,X)0-NN-1,PAR,SIG         pdf: y
+# Paper    A0068002 : N.S.Biryukov+ Jour. Yadernaya Fizika Vol.31, Issue.3, p.561, 1980 Direct and equilibrium processes in (p,n) reactions at proton energy of 22
+# Action   A0068002 : 
+# Comment  A0068002 : Evaluation        N=     1 F=   2.79     chi-2=   89.5     D=   122.     mb T=   71.6     mb E=   194.     K1=  2.79     K2=  298.
+# Comment  A0068002 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   194.     K1=  0.00     K2=  0.00
+# Comment  A0068002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   194.     K1=  0.00     K2=  0.00
+# Comment  A0068002 : eaf.2010          N=     1 F=   2.69     chi-2=   87.9     D=   122.     mb T=   72.1     mb E=   194.     K1=  2.69     K2=  159.
+# Comment  A0068002 : endfb8.0          N=     1 F=   3.68     chi-2=   118.     D=   141.     mb T=   52.7     mb E=   194.     K1=  3.68     K2= 4.255E+03
+# Comment  A0068002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   194.     K1=  0.00     K2=  0.00
+# Comment  A0068002 : jeff3.3           N=     1 F=   2.54     chi-2=   81.7     D=   118.     mb T=   76.5     mb E=   194.     K1=  2.54     K2=  95.2
+# Comment  A0068002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   194.     K1=  0.00     K2=  0.00
+# Comment  A0068002 : tendl.2017        N=     1 F=   2.28     chi-2=   70.0     D=   109.     mb T=   85.2     mb E=   194.     K1=  2.28     K2=  39.8

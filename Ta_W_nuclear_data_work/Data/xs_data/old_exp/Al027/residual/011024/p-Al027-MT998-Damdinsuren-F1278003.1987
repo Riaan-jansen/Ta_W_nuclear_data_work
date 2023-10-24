@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : F1278003 
+# X4 code     : 13-AL-27(P,X)11-NA-24,,SIG
+# Author      : Damdinsuren              
+# Year        : 1987
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.65000E+03  8.30000E+00  7.00000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Ts.Damdinsuren, V.M.Dyachenko, A.Duka-Zoiomi, Ya.Kliman, P.Kozma, B.Tumendemberel
+#Prog. Joint Inst. for Nucl. Res., Dubna Reports No.87, p.932, 1987
+#Total cross section measurement of the Al-27(12C,X)Na-24 reaction at 3.65 GeV/nucleon.
+#
+# Quality information:
+#
+# Quality  F1278003 :   
+# Date     F1278003 : 05-01-2018
+# Reaction F1278003 : NP:    1 E-range:  3.650E+03-  3.650E+03 MeV 13-AL-27(P,X)11-NA-24,,SIG          pdf: n
+# Paper    F1278003 : Ts.Damdinsuren+ Prog. Joint Inst. for Nucl. Res., Dubna Reports No.87, p.932, 1987 Total cross section measurement of the Al-27(12C,X)Na-24
+# Action   F1278003 : 
+# Comment  F1278003 : 

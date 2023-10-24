@@ -1,0 +1,43 @@
+# Target Z    :  74
+# Target A    : 184
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,el)
+# E-inc       :   16.000 MeV
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :    2
+# X4 ID       : O0246025 
+# X4 code     : 74-W-184(P,EL)74-W-184,,DA,,RTH,EXP
+# Author      : Kruse                    
+# Year        : 1971
+# Data points :     23
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  5.45001E+01  4.38688E+02  3.82580E+00
+  5.90001E+01  2.71688E+02  2.85990E+00
+  6.49001E+01  1.64325E+02  2.02870E+00
+  6.94001E+01  1.06469E+02  1.60100E+00
+  7.39001E+01  7.87730E+01  1.28780E+00
+  7.93001E+01  6.66040E+01  1.01430E+00
+  8.38001E+01  5.81880E+01  8.45340E-01
+  8.83001E+01  5.23870E+01  7.14360E-01
+  9.28001E+01  4.01500E+01  6.11410E-01
+  9.73001E+01  3.23880E+01  5.29500E-01
+  1.04100E+02  1.99330E+01  4.34900E-01
+  1.08600E+02  1.47570E+01  3.86630E-01
+  1.13100E+02  1.32420E+01  3.46960E-01
+  1.17600E+02  1.19890E+01  3.14120E-01
+  1.24300E+02  9.85920E+00  2.75140E-01
+  1.27900E+02  1.12280E+01  2.58110E-01
+  1.33300E+02  1.08470E+01  2.36670E-01
+  1.37800E+02  9.50700E+00  2.21950E-01
+  1.42300E+02  8.97940E+00  2.09630E-01
+  1.48200E+02  6.91200E+00  1.96550E-01
+  1.52900E+02  5.74170E+00  1.88250E-01
+  1.58100E+02  8.29480E+00  1.80980E-01
+  1.62600E+02  6.19350E+00  1.76120E-01
+# Full reference:
+#T.Kruse, W.Makofske, H.Ogata, W.Savin, M.Slagowitz, M.Williams
+#Jour. Nuclear Physics, Section A Vol.169, p.177, 1971
+#Elastic and Inelastic Proton Scattering from Heavy Collective Nuclei.

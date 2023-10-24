@@ -1,0 +1,36 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  17
+# Final A     :  40
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B00850111
+# X4 code     : 29-CU-0(P,X)17-CL-40,CUM,SIG,,,EXP
+# Author      : Cline                    
+# Year        : 1971
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.90000E+02  1.10000E-01  3.00000E-02  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#J.E.Cline,  E.B.Nieschmidt
+#Jour. Nuclear Physics, Section A Vol.169, p.437, 1971
+#Measurements of spallation cross sections for 590 MeV protons on thin targets of copper, nickel, iron and aluminum
+#
+#
+# Quality information:
+#
+# Quality  B00850111:   
+# Date     B00850111: 05-01-2018
+# Reaction B00850111: NP:    1 E-range:   590.    -   590.     MeV 29-CU-0(P,X)17-CL-40,CUM,SIG,,,EXP  pdf: n
+# Paper    B00850111: J.E.Cline+ Jour. Nuclear Physics, Section A Vol.169, p.437, 1971 Measurements of spallation cross sections for 590 MeV protons on thin targe
+# Action   B00850111: 
+# Comment  B00850111: 

@@ -1,0 +1,45 @@
+# Target Z    :  74
+# Target A    : 186
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  73
+# Final A     : 178
+# Final state : 1
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1021004 
+# X4 code     : 74-W-186(P,X)73-TA-178-M1,IND,SIG
+# Author      : Titarenko                
+# Year        : 2003
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.00000E+02  1.65000E+01  1.20000E+00  0.00000E+00  2.69672E+01   1.634       76.08       10.47              
+  8.00000E+02  1.31000E+01  2.90000E+00  0.00000E+00  2.90447E+01   2.217       30.23       15.94              
+  1.60000E+03  1.05000E+01  1.30000E+00  0.00000E+00
+#
+# Average deviation:                                                1.938       53.16       13.21    
+#
+# Full reference:
+#Yu.E.Titarenko
+#Rept. USSR report to the I.N.D.C. No.434, p.65, 2003
+#Experimental yields for W-186 irradiated with 0.2, 0.8, 1.6-GeV protons.
+#
+# Quality information:
+#
+# Quality  O1021004 : T1
+# Date     O1021004 : 05-01-2018
+# Reaction O1021004 : NP:    3 E-range:   200.    -  1.600E+03 MeV 74-W-186(P,X)73-TA-178-M1,IND,SIG   pdf: y
+# Paper    O1021004 : Yu.E.Titarenko Rept. USSR report to the I.N.D.C. No.434, p.65, 2003 Experimental yields for W-186 irradiated with 0.2, 0.8, 1.6-GeV protons.
+# Action   O1021004 : 
+# Comment  O1021004 : Evaluation        N=     2 F=   1.94     chi-2=   53.2     D=   13.2     mb T=   28.0     mb E=   13.4     K1=  1.94     K2=  6.04
+# Comment  O1021004 : TALYS             N=     2 F=   1.94     chi-2=   53.2     D=   13.2     mb T=   28.0     mb E=   13.4     K1=  1.94     K2=  6.04
+# Comment  O1021004 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.4     K1=  0.00     K2=  0.00
+# Comment  O1021004 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.4     K1=  0.00     K2=  0.00
+# Comment  O1021004 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.4     K1=  0.00     K2=  0.00
+# Comment  O1021004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.4     K1=  0.00     K2=  0.00
+# Comment  O1021004 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.4     K1=  0.00     K2=  0.00
+# Comment  O1021004 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.4     K1=  0.00     K2=  0.00
+# Comment  O1021004 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   13.4     K1=  0.00     K2=  0.00

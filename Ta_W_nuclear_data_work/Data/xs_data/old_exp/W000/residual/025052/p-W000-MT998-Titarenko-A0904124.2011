@@ -1,0 +1,40 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  25
+# Final A     :  52
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0904124 
+# X4 code     : 74-W-0(P,X)25-MN-52,CUM,SIG
+# Author      : Titarenko                
+# Year        : 2011
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.19900E+03  1.21000E-01  1.20000E-02  3.00000E+00
+  1.59900E+03  1.61000E-01  2.10000E-02  4.00000E+00
+  2.60500E+03  3.25000E-01  3.10000E-02  8.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Yu.E.Titarenko,  V.F.Batyaev,  A.Yu.Titarenko, M.A.Butko,  K.V.Pavlov,  S.N.Florya,  R.S.Tikhonov, V.M.Zhivun,  A.V.Ignatyuk,
+# S.G.Mashnik,  S.Leray, A.Boudard,  J.Cugnon,  D.Mancusi,  Y.Yariv,  K.Nishihara, N.Matsuda,  H.Kumawat,
+# G.Mank,  W.Gudowski
+#Jour. Yadernaya Fizika Vol.74, p.574, 2011
+#Measurement and simulation of the cross sections for nuclide production in W-nat and Ta-181 targets irradiated with 0.04- to 2.6-GeV protons.
+#
+#
+# Quality information:
+#
+# Quality  A0904124 :   
+# Date     A0904124 : 05-01-2018
+# Reaction A0904124 : NP:    3 E-range:  1.199E+03-  2.605E+03 MeV 74-W-0(P,X)25-MN-52,CUM,SIG         pdf: n
+# Paper    A0904124 : Yu.E.Titarenko+ Jour. Yadernaya Fizika Vol.74, p.574, 2011 Measurement and simulation of the cross sections for nuclide production in W-nat
+# Action   A0904124 : 
+# Comment  A0904124 : 

@@ -1,0 +1,59 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  61
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D7015004 
+# X4 code     : 29-CU-0(P,X)29-CU-61,CUM,SIG
+# Author      : Shahid                   
+# Year        : 2015
+# Data points :     16
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.30000E+01  1.25000E+02  8.10000E+00  2.00000E-01  9.16942E+01  0.7336       16.91       33.31              
+  4.16000E+01  1.35800E+02  8.70000E+00  2.00000E-01  9.88155E+01  0.7277       18.07       36.98              
+  4.01000E+01  1.48300E+02  9.50000E+00  2.00000E-01  1.06445E+02  0.7178       19.41       41.85              
+  3.87000E+01  1.56600E+02  1.01000E+01  2.00000E-01  1.14920E+02  0.7338       17.03       41.68              
+  3.71000E+01  1.57400E+02  1.01000E+01  2.00000E-01  1.24724E+02  0.7924       10.47       32.68              
+  3.55000E+01  1.53500E+02  9.90000E+00  2.00000E-01  1.34528E+02  0.8764       3.673       18.97              
+  3.39000E+01  1.47600E+02  9.50000E+00  2.00000E-01  1.29660E+02  0.8785       3.566       17.94              
+  3.22000E+01  1.21700E+02  7.80000E+00  3.00000E-01  1.17401E+02  0.9647      0.3038       4.299              
+  3.04000E+01  9.67000E+01  6.30000E+00  3.00000E-01  1.04421E+02   1.080       1.502       7.721              
+  2.85000E+01  5.62000E+01  3.70000E+00  3.00000E-01  7.26839E+01   1.293       19.85       16.48              
+  2.66000E+01  2.79000E+01  2.00000E+00  3.00000E-01  3.68599E+01   1.321       20.07       8.960              
+  2.45000E+01  1.04000E+01  1.10000E+00  3.00000E-01  1.02770E+01  0.9882      1.2507E-02  0.1230              
+  2.23000E+01  3.10000E+00  8.00000E-01  3.00000E-01  1.13774E+00  0.3670       6.016       1.962              
+  1.99000E+01  5.10000E+00  8.00000E-01  4.00000E-01  9.86242E-02  1.9338E-02   39.08       5.001              
+  1.73000E+01  1.70000E+00  5.00000E-01  4.00000E-01  1.86789E-02  1.0988E-02   11.31       1.681              
+  1.43000E+01  3.20000E+00  4.00000E-01  5.00000E-01
+#
+# Average deviation:                                                4.867       12.48       17.98    
+#
+# Full reference:
+#M.Shahid,  K.Kim,  H.Naik,  M.Zaman,  S.C.Yang,  G.N.Kim
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.342, p.305, 2015
+#Measurement of excitation functions in proton induced reactions on natural copper from their threshold to 43 MeV
+#
+#
+# Quality information:
+#
+# Quality  D7015004 : T2
+# Date     D7015004 : 05-01-2018
+# Reaction D7015004 : NP:   16 E-range:   14.3    -   43.0     MeV 29-CU-0(P,X)29-CU-61,CUM,SIG        pdf: y
+# Paper    D7015004 : M.Shahid+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.342, p.305, 2015 Measurement of excitation functions in proton induced re
+# Action   D7015004 : 
+# Comment  D7015004 : Evaluation        N=    15 F=   4.87     chi-2=   12.5     D=   18.0     mb T=   76.2     mb E=   84.4     K1=  4.87     K2= 8.402E+11
+# Comment  D7015004 : TALYS             N=    15 F=   4.87     chi-2=   12.5     D=   18.0     mb T=   76.2     mb E=   84.4     K1=  4.87     K2= 8.402E+11
+# Comment  D7015004 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   84.4     K1=  0.00     K2=  0.00
+# Comment  D7015004 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   84.4     K1=  0.00     K2=  0.00
+# Comment  D7015004 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   84.4     K1=  0.00     K2=  0.00
+# Comment  D7015004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   84.4     K1=  0.00     K2=  0.00
+# Comment  D7015004 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   84.4     K1=  0.00     K2=  0.00
+# Comment  D7015004 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   84.4     K1=  0.00     K2=  0.00
+# Comment  D7015004 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   84.4     K1=  0.00     K2=  0.00

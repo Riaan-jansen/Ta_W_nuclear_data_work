@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : D0646007 
+# X4 code     : 29-CU-65(P,N)30-ZN-65,,SIG
+# Author      : Ivascu                   
+# Year        : 2010
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.14000E+00  2.14860E+02  1.47370E+01  1.10000E-01  2.90677E+02   1.353       26.47       75.82              
+  5.23000E+00  2.57760E+02  1.76670E+01  1.00000E-01  3.02025E+02   1.172       6.278       44.27              
+#
+# Average deviation:                                                1.273       16.37       60.04    
+#
+# Full reference:
+#M.Ivascu,  I.Cata-Danil,  D.Filipescu,  L.Stroe, T.Glodariu,  D.Bucurescu,  G.Cata-Danil,  D.Deleanu, D.G.Ghita,
+# N.Marginean,  R.Marginean,  C.Mihai, S.Pascu,  T.Sava,  G.Suliman,  N.V.Zamfir
+#
+#Jour. Romanian Journal of Physics Vol.55, p.1006, 2010
+#Astrophysical S factor for proton capture on 147Sm and 149Sm
+#
+# Quality information:
+#
+# Quality  D0646007 : T1
+# Date     D0646007 : 05-01-2018
+# Reaction D0646007 : NP:    2 E-range:   5.14    -   5.23     MeV 29-CU-65(P,N)30-ZN-65,,SIG          pdf: y
+# Paper    D0646007 : M.Ivascu+ Jour. Romanian Journal of Physics Vol.55, p.1006, 2010 Astrophysical S factor for proton capture on 147Sm and 149Sm
+# Action   D0646007 : 
+# Comment  D0646007 : Evaluation        N=     2 F=   1.27     chi-2=   16.4     D=   60.0     mb T=   296.     mb E=   236.     K1=  1.27     K2=  1.77
+# Comment  D0646007 : TALYS             N=     2 F=   1.27     chi-2=   16.4     D=   60.0     mb T=   296.     mb E=   236.     K1=  1.27     K2=  1.77
+# Comment  D0646007 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0646007 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0646007 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0646007 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0646007 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0646007 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00
+# Comment  D0646007 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   236.     K1=  0.00     K2=  0.00

@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  19
+# Final A     :  43
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0584024A
+# X4 code     : 29-CU-0(P,X)19-K-43,CUM,SIG
+# Author      : Chackett                 
+# Year        : 1965
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.90000E+02  4.40000E-01  0.00000E+00  0.00000E+00  1.89840E-02  4.3145E-02   0.000      0.4210              
+  1.83000E+04  1.10000E+00  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                23.18       0.000      0.4210    
+#
+# Full reference:
+#K.F.Chackett
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.27, p.2493, 1965
+#Yields of Potassium Isotopes in High Energy Bombardment Of Vanadium, Iron, Cobalt, Nickel, Copper and Zinc.
+#
+# Quality information:
+#
+# Quality  O0584024A: T2
+# Date     O0584024A: 05-01-2018
+# Reaction O0584024A: NP:    2 E-range:   590.    -  1.830E+04 MeV 29-CU-0(P,X)19-K-43,CUM,SIG         pdf: y
+# Paper    O0584024A: K.F.Chackett Jour. Journal of Inorganic and Nuclear Chemistry Vol.27, p.2493, 1965 Yields of Potassium Isotopes in High Energy Bombardment O
+# Action   O0584024A: 
+# Comment  O0584024A: Evaluation        N=     1 F=   23.2     chi-2=   0.00     D=  0.421     mb T=  1.898E-02 mb E=  0.770     K1=  23.2     K2= 2.369E+20
+# Comment  O0584024A: TALYS             N=     1 F=   23.2     chi-2=   0.00     D=  0.421     mb T=  1.898E-02 mb E=  0.770     K1=  23.2     K2= 2.369E+20
+# Comment  O0584024A: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.770     K1=  0.00     K2=  0.00
+# Comment  O0584024A: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.770     K1=  0.00     K2=  0.00
+# Comment  O0584024A: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.770     K1=  0.00     K2=  0.00
+# Comment  O0584024A: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.770     K1=  0.00     K2=  0.00
+# Comment  O0584024A: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.770     K1=  0.00     K2=  0.00
+# Comment  O0584024A: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.770     K1=  0.00     K2=  0.00
+# Comment  O0584024A: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.770     K1=  0.00     K2=  0.00

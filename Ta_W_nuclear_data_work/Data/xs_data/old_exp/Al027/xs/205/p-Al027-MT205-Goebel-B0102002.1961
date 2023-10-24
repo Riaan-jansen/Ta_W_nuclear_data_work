@@ -1,0 +1,33 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  205
+# X4 ID       : B0102002 
+# X4 code     : 13-AL-27(P,X)1-H-3,,SIG
+# Author      : Goebel                   
+# Year        : 1961
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.50000E+04  6.70000E+01  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#K.Goebel,  J.Zaehringer
+#Jour. Zeitschrift fuer Naturforschung, Section A Vol.16, p.231, 1961
+#Production of tritium and isotopes of rare gases in irradiations of Fe and Cu with protons of 25 GeV.
+#
+# Quality information:
+#
+# Quality  B0102002 :   
+# Date     B0102002 : 05-01-2018
+# Reaction B0102002 : NP:    1 E-range:  2.500E+04-  2.500E+04 MeV 13-AL-27(P,X)1-H-3,,SIG             pdf: n
+# Paper    B0102002 : K.Goebel+ Jour. Zeitschrift fuer Naturforschung, Section A Vol.16, p.231, 1961 Production of tritium and isotopes of rare gases in irradiati
+# Action   B0102002 : 
+# Comment  B0102002 : 

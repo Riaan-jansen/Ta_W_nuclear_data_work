@@ -1,0 +1,47 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  60
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1342003 
+# X4 code     : 29-CU-0(P,X)27-CO-60,IND,SIG
+# Author      : Titarenko                
+# Year        : 2003
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.00000E+02  1.26000E+01  1.00000E+00  0.00000E+00  4.10034E+00  0.3254       72.24       8.500              
+  2.60000E+03  1.02000E+01  7.00000E-01  0.00000E+00
+#
+# Average deviation:                                                3.073       72.24       8.500    
+#
+# Full reference:
+#Yu.E.Titarenko,  V.F.Batyaev,  V.M.Zhivun, A.B.Koldobsky,  Yu.V.Trebukhovsky,  E.I.Karpikhin, R.D.Mulambetov,  S.V.Mulambetova,  Yu.A.Nekrasov,
+#A.Yu.Titarenko,  K.A.Lipatov,  B.Yu.Sharkov,  A.A.Golubev, A.D.Fertman,  V.I.Turtikov,  A.V.Kantsyrev,  I.V.Roudskoy, G.N.Smirnov,
+# V.S.Barashenkov, K.K.Gudima,  M.I.Baznat, S.G.Mashnik,  R.E.Prael
+#Conf. Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 p.59, 2003
+#Nuclide production cross sections for Co-59 and Cu-nat irradiated with 0.2-GeV and 2.6-GeV protons and 0.2-GeV/nucleon carbon ions.
+#
+#
+# Quality information:
+#
+# Quality  O1342003 : T2
+# Date     O1342003 : 05-01-2018
+# Reaction O1342003 : NP:    2 E-range:   200.    -  2.600E+03 MeV 29-CU-0(P,X)27-CO-60,IND,SIG        pdf: y
+# Paper    O1342003 : Yu.E.Titarenko+ Conf. Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 p.59, 2003 Nuclide production cross sections for Co-59 and Cu-nat
+# Action   O1342003 : 
+# Comment  O1342003 : Evaluation        N=     1 F=   3.07     chi-2=   72.2     D=   8.50     mb T=   4.10     mb E=   11.4     K1=  3.07     K2=  346.
+# Comment  O1342003 : TALYS             N=     1 F=   3.07     chi-2=   72.2     D=   8.50     mb T=   4.10     mb E=   11.4     K1=  3.07     K2=  346.
+# Comment  O1342003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.4     K1=  0.00     K2=  0.00
+# Comment  O1342003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.4     K1=  0.00     K2=  0.00
+# Comment  O1342003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.4     K1=  0.00     K2=  0.00
+# Comment  O1342003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.4     K1=  0.00     K2=  0.00
+# Comment  O1342003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.4     K1=  0.00     K2=  0.00
+# Comment  O1342003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.4     K1=  0.00     K2=  0.00
+# Comment  O1342003 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.4     K1=  0.00     K2=  0.00

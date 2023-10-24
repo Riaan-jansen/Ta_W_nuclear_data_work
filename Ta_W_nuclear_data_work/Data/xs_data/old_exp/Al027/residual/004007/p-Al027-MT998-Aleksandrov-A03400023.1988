@@ -1,0 +1,57 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A03400023
+# X4 code     : 13-AL-27(P,X)4-BE-7,IND,SIG
+# Author      : Aleksandrov              
+# Year        : 1988
+# Data points :     15
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.00000E+01  1.10000E-01  2.00000E-02  1.80000E+00  3.99917E+01   363.6      4.3722E+06   39.88              
+  3.60000E+01  1.40000E-01  2.60000E-02  1.30000E+00  3.46740E+01   247.7      1.8951E+06   34.53              
+  4.00000E+01  2.50000E-01  4.70000E-02  1.80000E+00  3.21891E+01   128.8      4.8668E+05   31.94              
+  4.50000E+01  2.30000E-01  4.00000E-02  1.60000E+00  2.93610E+01   127.7      5.5008E+05   29.13              
+  5.00000E+01  3.00000E-01  6.00000E-02  1.40000E+00  2.64779E+01   88.26      1.9869E+05   26.18              
+  5.50000E+01  4.00000E-01  7.60000E-02  1.30000E+00  2.44560E+01   61.14      1.0525E+05   24.06              
+  6.00000E+01  4.50000E-01  8.10000E-02  1.20000E+00  2.25946E+01   50.21      7.8461E+04   22.14              
+  6.50000E+01  5.60000E-01  1.10000E-01  1.10000E+00  1.65455E+01   29.55      2.1119E+04   15.99              
+  7.00000E+01  6.80000E-01  1.30000E-01  9.00000E-01  1.59088E+01   23.40      1.3723E+04   15.23              
+  7.50000E+01  7.10000E-01  1.30000E-01  2.20000E+00  1.52348E+01   21.46      1.2483E+04   14.52              
+  8.00000E+01  7.40000E-01  1.40000E-01  2.00000E+00  1.51208E+01   20.43      1.0551E+04   14.38              
+  8.50000E+01  6.70000E-01  1.30000E-01  1.90000E+00  1.48074E+01   22.10      1.1826E+04   14.14              
+  9.00000E+01  7.70000E-01  1.40000E-01  1.80000E+00  7.24793E+00   9.413       4820.       7.246              
+  9.50000E+01  7.90000E-01  1.50000E-01  1.70000E+00  7.05776E+00   8.934       3958.       7.055              
+  9.90000E+01  9.90000E-01  1.90000E-01  1.50000E+00  6.90563E+00   6.975       2289.       6.902              
+#
+# Average deviation:                                                71.26      5.1782E+05   20.22    
+#
+# Full reference:
+#V.N.Aleksandrov, M.P.Semenova, V.G.Semenova
+#Jour. Atomnaya Energiya Vol.64, p.445, 1988
+#Cross section production of radionuclides in (p,x) reaction an Al and Si.
+#
+# Quality information:
+#
+# Quality  A03400023: T2
+# Date     A03400023: 05-01-2018
+# Reaction A03400023: NP:   15 E-range:   30.0    -   99.0     MeV 13-AL-27(P,X)4-BE-7,IND,SIG         pdf: y
+# Paper    A03400023: V.N.Aleksandrov+ Jour. Atomnaya Energiya Vol.64, p.445, 1988 Cross section production of radionuclides in (p,x) reaction an Al and Si.
+# Action   A03400023: 
+# Comment  A03400023: Evaluation        N=    15 F=   71.3     chi-2=  5.178E+05 D=   20.2     mb T=   20.6     mb E=  0.519     K1=  71.3     K2= 1.000E+35
+# Comment  A03400023: TALYS             N=     3 F=   298.     chi-2=   28.2     D=  0.847     mb T=  2.957E-03 mb E=  0.519     K1=  298.     K2= 1.000E+35
+# Comment  A03400023: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.519     K1=  0.00     K2=  0.00
+# Comment  A03400023: eaf.2010          N=     7 F=   158.     chi-2=  1.654E+06 D=   36.9     mb T=   37.1     mb E=  0.519     K1=  158.     K2= 1.000E+35
+# Comment  A03400023: endfb8.0          N=     1 F=   266.     chi-2=  2.132E+06 D=   29.2     mb T=   29.3     mb E=  0.519     K1=  266.     K2= 1.000E+35
+# Comment  A03400023: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.519     K1=  0.00     K2=  0.00
+# Comment  A03400023: jeff3.3           N=     1 F=   482.     chi-2=  6.998E+06 D=   52.9     mb T=   53.0     mb E=  0.519     K1=  482.     K2= 1.000E+35
+# Comment  A03400023: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.519     K1=  0.00     K2=  0.00
+# Comment  A03400023: tendl.2017        N=    15 F=   45.7     chi-2=  2.332E+05 D=   18.0     mb T=   18.5     mb E=  0.519     K1=  45.7     K2= 1.000E+35

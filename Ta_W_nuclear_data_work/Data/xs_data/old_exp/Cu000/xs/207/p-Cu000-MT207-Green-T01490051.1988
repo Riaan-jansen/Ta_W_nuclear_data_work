@@ -1,0 +1,33 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xa)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  207
+# X4 ID       : T01490051
+# X4 code     : 29-CU-0(P,X)2-HE-4,,SIG
+# Author      : Green                    
+# Year        : 1988
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.50000E+02  4.62000E+02  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#S.L.Green, W.V.Green, F.H.Hegedus, M.Victoria, W.F.Sommer, B.M.Oliver
+#Jour. Journal of Nuclear Materials Vol.155-157, p.1350, 1988
+#Production of Helium by Medium Energy (600 and 800 MeV) Protons.
+#
+# Quality information:
+#
+# Quality  T01490051:   
+# Date     T01490051: 05-01-2018
+# Reaction T01490051: NP:    1 E-range:   750.    -   750.     MeV 29-CU-0(P,X)2-HE-4,,SIG             pdf: n
+# Paper    T01490051: S.L.Green+ Jour. Journal of Nuclear Materials Vol.155-157, p.1350, 1988 Production of Helium by Medium Energy (600 and 800 MeV) Protons.
+# Action   T01490051: 
+# Comment  T01490051: 

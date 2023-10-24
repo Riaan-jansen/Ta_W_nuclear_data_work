@@ -1,0 +1,38 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  64
+# Final A     : 148
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C1225002 
+# X4 code     : 73-TA-181(P,X)64-GD-148,CUM,SIG
+# Author      : Kelley                   
+# Year        : 2005
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.00000E+02  1.52000E+01  4.00000E+00  0.00000E+00
+  8.00000E+02  2.97000E+01  7.60000E+00  0.00000E+00
+  8.00000E+02  2.76000E+01  1.70000E+00  0.00000E+00
+  8.00000E+02  2.86000E+01  7.30000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#K.C.Kelley, N.E.Hertel, E.J.Pitcher, M.Devlin, S.G.Mashnik
+#Jour. Nuclear Physics, Section A Vol.760, p.225, 2005
+#148Gd production cross section measurements for 600- and 800-MeV protons on tantalum, tungsten, and gold
+#
+# Quality information:
+#
+# Quality  C1225002 :   
+# Date     C1225002 : 05-01-2018
+# Reaction C1225002 : NP:    4 E-range:   600.    -   800.     MeV 73-TA-181(P,X)64-GD-148,CUM,SIG     pdf: n
+# Paper    C1225002 : K.C.Kelley+ Jour. Nuclear Physics, Section A Vol.760, p.225, 2005 148Gd production cross section measurements for 600- and 800-MeV protons o
+# Action   C1225002 : 
+# Comment  C1225002 : 

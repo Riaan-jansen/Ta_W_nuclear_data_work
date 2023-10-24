@@ -1,0 +1,23 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9000
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9000
+# X4 ID       : C02910022
+# X4 code     : (29-CU-0(P,X)12-MG-28,,SIG)/(29-CU-0(P,X)11-NA-24,,SIG)
+# Author      : Crespo                   
+# Year        : 1963
+# Data points :      1
+#    E(MeV)      ratio        dratio      dE(MeV)
+  7.00000E+02  1.20000E-01  0.00000E+00  0.00000E+00
+# Full reference:
+#V.P.Crespo, J.M.Alexander, E.K.Hyde
+#Jour. Physical Review Vol.131, p.1765, 1963
+#Ejection of Large Fragments in High-Energy Nuclear Reactions

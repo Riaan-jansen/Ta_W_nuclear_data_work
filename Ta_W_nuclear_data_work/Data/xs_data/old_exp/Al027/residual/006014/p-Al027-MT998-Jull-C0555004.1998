@@ -1,0 +1,47 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   6
+# Final A     :  14
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0555004 
+# X4 code     : 13-AL-27(P,X)6-C-14,CUM,SIG
+# Author      : Jull                     
+# Year        : 1998
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.75000E+01  2.83000E-01  1.60000E-02  0.00000E+00  8.12006E+00   28.69      4.9666E+05   8.107              
+  6.00000E+01  1.12000E-01  7.00000E-03  0.00000E+00  1.50636E+01   134.5      7.2091E+06   15.03              
+  5.25000E+01  4.10000E-02  3.00000E-03  0.00000E+00  2.55260E+01   622.6      7.5498E+07   25.48              
+  4.57000E+01  1.37000E-01  8.00000E-03  0.00000E+00  2.89234E+01   211.1      1.3412E+07   28.79              
+  4.02000E+01  8.80000E-02  5.00000E-03  0.00000E+00  3.20667E+01   364.4      4.3041E+07   31.98              
+#
+# Average deviation:                                                204.1      2.7931E+07   21.88    
+#
+# Full reference:
+#A.J.T.Jull, S.Cloudt, D.J.Donahue, J.M.Sisterson, R.C.Reedy, J.Masarik
+#Jour. Geochimica et Cosmochimica Acta Vol.62, p.3025, 1998
+#14C depth profiles in Apollo 15 and 17 core and lunar rock 68815
+#
+# Quality information:
+#
+# Quality  C0555004 : T2
+# Date     C0555004 : 05-01-2018
+# Reaction C0555004 : NP:    5 E-range:   40.2    -   67.5     MeV 13-AL-27(P,X)6-C-14,CUM,SIG         pdf: y
+# Paper    C0555004 : A.J.T.Jull+ Jour. Geochimica et Cosmochimica Acta Vol.62, p.3025, 1998 14C depth profiles in Apollo 15 and 17 core and lunar rock 68815
+# Action   C0555004 : 
+# Comment  C0555004 : Evaluation        N=     5 F=   204.     chi-2=  2.793E+07 D=   21.9     mb T=   21.9     mb E=  0.132     K1=  204.     K2= 1.000E+35
+# Comment  C0555004 : TALYS             N=     2 F=   38.3     chi-2=   266.     D=  0.190     mb T=  7.388E-03 mb E=  0.132     K1=  38.3     K2= 1.000E+35
+# Comment  C0555004 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.132     K1=  0.00     K2=  0.00
+# Comment  C0555004 : eaf.2010          N=     4 F=   387.     chi-2=  5.048E+07 D=   33.0     mb T=   33.1     mb E=  0.132     K1=  387.     K2= 1.000E+35
+# Comment  C0555004 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.132     K1=  0.00     K2=  0.00
+# Comment  C0555004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.132     K1=  0.00     K2=  0.00
+# Comment  C0555004 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.132     K1=  0.00     K2=  0.00
+# Comment  C0555004 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.132     K1=  0.00     K2=  0.00
+# Comment  C0555004 : tendl.2017        N=     5 F=   193.     chi-2=  1.692E+07 D=   20.3     mb T=   20.4     mb E=  0.132     K1=  193.     K2= 1.000E+35

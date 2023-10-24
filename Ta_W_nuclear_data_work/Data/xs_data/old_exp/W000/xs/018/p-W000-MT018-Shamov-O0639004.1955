@@ -1,0 +1,34 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,f)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   18
+# X4 ID       : O0639004 
+# X4 code     : 74-W-0(P,F),,SIG,,,EXP
+# Author      : Shamov                   
+# Year        : 1955
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.60000E+02  4.00000E+00  1.60000E+00  0.00000E+00
+  6.60000E+02  1.00000E+01  3.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#V.P.Shamov
+#Jour. Doklady Akademii Nauk Vol.103, p.593, 1955
+#The Mechanism of Heavy Nuclei Fission at High Excitation Energies
+#
+# Quality information:
+#
+# Quality  O0639004 :   
+# Date     O0639004 : 05-01-2018
+# Reaction O0639004 : NP:    2 E-range:   460.    -   660.     MeV 74-W-0(P,F),,SIG,,,EXP              pdf: n
+# Paper    O0639004 : V.P.Shamov Jour. Doklady Akademii Nauk Vol.103, p.593, 1955 The Mechanism of Heavy Nuclei Fission at High Excitation Energies
+# Action   O0639004 : 
+# Comment  O0639004 : 

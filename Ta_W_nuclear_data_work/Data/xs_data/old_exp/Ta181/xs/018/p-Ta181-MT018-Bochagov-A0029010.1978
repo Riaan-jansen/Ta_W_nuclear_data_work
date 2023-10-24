@@ -1,0 +1,35 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,f)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   18
+# X4 ID       : A0029010 
+# X4 code     : 73-TA-181(P,F),,SIG
+# Author      : Bochagov                 
+# Year        : 1978
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.00000E+03  2.70000E+01  1.50000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#B.A.Bochagov,  V.S.Bychenkov,  V.D.Dmitriev, S.P.Mal'cev,  A.I.Obukhov,  N.A.Perfilov,  V.A.Udod, O.E.Shigaev
+#
+#Jour. Yadernaya Fizika Vol.28, p.572, 1978
+#Measurement of fission cross-sections by bombarding U-238, U-235, Th-232, Bi-209, Pb-206-Pb-208, Au-197, Ta-181, Yb and Sm with 1 GeV protons
+#
+#
+# Quality information:
+#
+# Quality  A0029010 :   
+# Date     A0029010 : 05-01-2018
+# Reaction A0029010 : NP:    1 E-range:  1.000E+03-  1.000E+03 MeV 73-TA-181(P,F),,SIG                 pdf: n
+# Paper    A0029010 : B.A.Bochagov+ Jour. Yadernaya Fizika Vol.28, p.572, 1978 Measurement of fission cross-sections by bombarding U-238, U-235, Th-232, Bi-209, P
+# Action   A0029010 : 
+# Comment  A0029010 : 

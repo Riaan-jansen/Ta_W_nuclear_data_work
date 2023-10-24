@@ -1,0 +1,55 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : P0016003 
+# X4 code     : 13-AL-27(P,X)4-BE-7,,SIG
+# Author      : Furukawa                 
+# Year        : 1965
+# Data points :     21
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.51000E+01  3.50000E-01  0.00000E+00  0.00000E+00
+  5.44000E+01  3.20000E-01  0.00000E+00  0.00000E+00
+  5.36000E+01  3.50000E-01  0.00000E+00  0.00000E+00
+  5.21000E+01  3.10000E-01  0.00000E+00  0.00000E+00
+  5.05000E+01  3.10000E-01  3.00000E-02  0.00000E+00
+  4.89000E+01  2.80000E-01  0.00000E+00  0.00000E+00
+  4.72000E+01  2.60000E-01  0.00000E+00  0.00000E+00
+  4.55000E+01  2.30000E-01  0.00000E+00  0.00000E+00
+  4.37000E+01  2.10000E-01  0.00000E+00  0.00000E+00
+  4.19000E+01  1.70000E-01  0.00000E+00  0.00000E+00
+  4.10000E+01  1.60000E-01  0.00000E+00  0.00000E+00
+  4.00000E+01  1.50000E-01  2.00000E-02  0.00000E+00
+  3.91000E+01  1.20000E-01  0.00000E+00  0.00000E+00
+  3.71000E+01  1.00000E-01  0.00000E+00  0.00000E+00
+  3.61000E+01  9.20000E-02  0.00000E+00  0.00000E+00
+  3.51000E+01  6.90000E-02  0.00000E+00  0.00000E+00
+  3.40000E+01  7.00000E-02  0.00000E+00  0.00000E+00
+  3.18000E+01  4.60000E-02  0.00000E+00  0.00000E+00
+  3.07000E+01  2.70000E-02  4.00000E-03  0.00000E+00
+  2.95000E+01  1.60000E-02  0.00000E+00  0.00000E+00
+  2.82000E+01  4.00000E-03  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#M.Furukawa, S.Kume, M.Ogawa
+#Jour. Nuclear Physics Vol.69, p.362, 1965
+#Excitation functions for the formation of 7Be and 22Na in proton induced reactions on 27Al
+#
+# Quality information:
+#
+# Quality  P0016003 :   
+# Date     P0016003 : 05-01-2018
+# Reaction P0016003 : NP:   21 E-range:   28.2    -   55.1     MeV 13-AL-27(P,X)4-BE-7,,SIG            pdf: n
+# Paper    P0016003 : M.Furukawa+ Jour. Nuclear Physics Vol.69, p.362, 1965 Excitation functions for the formation of 7Be and 22Na in proton induced reactions on
+# Action   P0016003 : 
+# Comment  P0016003 : 

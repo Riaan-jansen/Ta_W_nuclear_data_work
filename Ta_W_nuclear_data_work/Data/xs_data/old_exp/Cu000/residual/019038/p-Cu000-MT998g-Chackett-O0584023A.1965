@@ -1,0 +1,35 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  19
+# Final A     :  38
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0584023A
+# X4 code     : 29-CU-0(P,X)19-K-38-G,IND,SIG
+# Author      : Chackett                 
+# Year        : 1965
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.83000E+04  2.20000E-01  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#K.F.Chackett
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.27, p.2493, 1965
+#Yields of Potassium Isotopes in High Energy Bombardment Of Vanadium, Iron, Cobalt, Nickel, Copper and Zinc.
+#
+# Quality information:
+#
+# Quality  O0584023A:   
+# Date     O0584023A: 05-01-2018
+# Reaction O0584023A: NP:    1 E-range:  1.830E+04-  1.830E+04 MeV 29-CU-0(P,X)19-K-38-G,IND,SIG       pdf: n
+# Paper    O0584023A: K.F.Chackett Jour. Journal of Inorganic and Nuclear Chemistry Vol.27, p.2493, 1965 Yields of Potassium Isotopes in High Energy Bombardment O
+# Action   O0584023A: 
+# Comment  O0584023A: 

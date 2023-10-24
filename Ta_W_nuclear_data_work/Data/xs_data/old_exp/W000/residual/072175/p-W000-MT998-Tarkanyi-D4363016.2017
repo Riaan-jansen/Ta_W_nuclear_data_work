@@ -1,0 +1,45 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  72
+# Final A     : 175
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D4363016 
+# X4 code     : 74-W-0(P,X)72-HF-175,CUM,SIG
+# Author      : Tarkanyi                 
+# Year        : 2017
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.49000E+01  9.08000E+00  1.03000E+00  2.00000E-01
+  6.35000E+01  8.80000E+00  1.00000E+00  2.70000E-01
+  6.22000E+01  7.69000E+00  8.80000E-01  3.40000E-01
+  6.07000E+01  7.47000E+00  8.80000E-01  4.10000E-01
+  5.93000E+01  4.53000E+00  5.10000E-01  4.80000E-01
+  5.78000E+01  4.40000E+00  5.10000E-01  5.50000E-01
+  5.63000E+01  6.05000E+00  6.90000E-01  6.30000E-01
+  5.48000E+01  5.21000E+00  6.60000E-01  7.10000E-01
+  5.32000E+01  3.04000E+00  4.40000E-01  7.80000E-01
+  5.16000E+01  2.80000E+00  3.40000E-01  8.70000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#F.Tarkanyi, F.Ditroi, S.Takacs, A.Hermanne
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.391, p.27, 2017
+#New measurements of excitation functions of 186W(p,x) nuclear reactions up to 65 MeV. Production of a 178W/178mTa generator
+#
+#
+# Quality information:
+#
+# Quality  D4363016 :   
+# Date     D4363016 : 05-01-2018
+# Reaction D4363016 : NP:   10 E-range:   51.6    -   64.9     MeV 74-W-0(P,X)72-HF-175,CUM,SIG        pdf: n
+# Paper    D4363016 : F.Tarkanyi+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.391, p.27, 2017 New measurements of excitation functions of 186W(p,x) n
+# Action   D4363016 : 
+# Comment  D4363016 : 

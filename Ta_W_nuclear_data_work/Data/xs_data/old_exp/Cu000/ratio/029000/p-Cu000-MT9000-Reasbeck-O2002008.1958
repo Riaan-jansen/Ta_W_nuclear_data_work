@@ -1,0 +1,23 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9000
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9000
+# X4 ID       : O2002008 
+# X4 code     : (29-CU-0(P,X)24-CR-49,,SIG)/(29-CU-0(P,X)29-CU-61,,SIG)
+# Author      : Reasbeck                 
+# Year        : 1958
+# Data points :      1
+#    E(MeV)      ratio        dratio      dE(MeV)
+  9.80000E+02  3.00000E-01  4.50000E-02  0.00000E+00
+# Full reference:
+#P.Reasbeck,  J.E.Warren
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.7, p.343, 1958
+#Radiochemical studies of the interaction of copper with 980 MeV protons.

@@ -1,0 +1,37 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0722012 
+# X4 code     : 29-CU-0(P,X)11-NA-22,CUM,SIG
+# Author      : Fassbender               
+# Year        : 1997
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.57000E+02  3.75000E-03  8.00000E-04  0.00000E+00
+  1.35300E+02  1.44000E-03  3.00000E-04  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#M.Fassbender,  Yu.N.Shubin,  V.P.Lunev,  S.M.Qaim
+#Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997
+#Experimental studies and nuclear model calculations on the formation of radioactive products in interactions of medium energy protons with copper, zinc
+#and brass:  estimation of collimator activation in proton therapy facilities.
+#
+# Quality information:
+#
+# Quality  O0722012 :   
+# Date     O0722012 : 05-01-2018
+# Reaction O0722012 : NP:    2 E-range:   135.    -   257.     MeV 29-CU-0(P,X)11-NA-22,CUM,SIG        pdf: n
+# Paper    O0722012 : M.Fassbender+ Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997 Experimental studies and nuclear model calculations on the formation
+# Action   O0722012 : 
+# Comment  O0722012 : 

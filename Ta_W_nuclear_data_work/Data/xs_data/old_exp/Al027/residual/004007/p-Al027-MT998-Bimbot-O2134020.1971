@@ -1,0 +1,45 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O2134020 
+# X4 code     : 13-AL-27(P,X)4-BE-7,,SIG
+# Author      : Bimbot                   
+# Year        : 1971
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.00000E+01  3.00000E-01  6.00000E-02  5.00000E+00
+  1.00000E+02  5.80000E-01  1.80000E-01  5.00000E+00  4.08615E-03  7.0451E-03   10.24      0.5759              
+  1.53000E+02  1.18000E+00  1.50000E-01  3.00000E+00  8.84110E-02  7.4925E-02   52.96       1.092              
+#
+# Average deviation:                                                52.15       31.60      0.8338    
+#
+# Full reference:
+#R.Bimbot,  H.Gauvin
+#Jour. Comptes Rendus, Serie B, Physique Vol.273, p.1054, 1971
+#Spallation reactions of light nuclei induced by protons from 50, 100 to 153 MeV.
+#
+# Quality information:
+#
+# Quality  O2134020 : T2
+# Date     O2134020 : 05-01-2018
+# Reaction O2134020 : NP:    3 E-range:   50.0    -   153.     MeV 13-AL-27(P,X)4-BE-7,,SIG            pdf: y
+# Paper    O2134020 : R.Bimbot+ Jour. Comptes Rendus, Serie B, Physique Vol.273, p.1054, 1971 Spallation reactions of light nuclei induced by protons from 50, 100
+# Action   O2134020 : 
+# Comment  O2134020 : Evaluation        N=     2 F=   52.2     chi-2=   31.6     D=  0.834     mb T=  4.625E-02 mb E=  0.687     K1=  52.2     K2= 2.565E+33
+# Comment  O2134020 : TALYS             N=     2 F=   52.2     chi-2=   31.6     D=  0.834     mb T=  4.625E-02 mb E=  0.687     K1=  52.2     K2= 2.565E+33
+# Comment  O2134020 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.687     K1=  0.00     K2=  0.00
+# Comment  O2134020 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.687     K1=  0.00     K2=  0.00
+# Comment  O2134020 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.687     K1=  0.00     K2=  0.00
+# Comment  O2134020 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.687     K1=  0.00     K2=  0.00
+# Comment  O2134020 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.687     K1=  0.00     K2=  0.00
+# Comment  O2134020 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.687     K1=  0.00     K2=  0.00
+# Comment  O2134020 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.687     K1=  0.00     K2=  0.00

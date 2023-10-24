@@ -1,0 +1,35 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  53
+# Final A     : 124
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0468083 
+# X4 code     : 73-TA-181(P,X)53-I-124,IND,SIG
+# Author      : Rudstam                  
+# Year        : 1966
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.80000E+04  3.40000E-01  3.00000E-02  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#G.Rudstam, G.Sorensen
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.28, p.771, 1966
+#Fission and Spallation Yields in the Iodine Region.
+#
+# Quality information:
+#
+# Quality  O0468083 :   
+# Date     O0468083 : 05-01-2018
+# Reaction O0468083 : NP:    1 E-range:  1.800E+04-  1.800E+04 MeV 73-TA-181(P,X)53-I-124,IND,SIG      pdf: n
+# Paper    O0468083 : G.Rudstam+ Jour. Journal of Inorganic and Nuclear Chemistry Vol.28, p.771, 1966 Fission and Spallation Yields in the Iodine Region.
+# Action   O0468083 : 
+# Comment  O0468083 : 

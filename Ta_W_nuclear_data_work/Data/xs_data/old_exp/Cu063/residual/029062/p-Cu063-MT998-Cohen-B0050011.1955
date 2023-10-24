@@ -1,0 +1,43 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  62
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0050011 
+# X4 code     : 29-CU-63(P,X)29-CU-62,,SIG,,,EXP
+# Author      : Cohen                    
+# Year        : 1955
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.15000E+01  5.90000E+02  0.00000E+00  0.00000E+00  1.79111E+02  0.3036       61.37       415.7              
+#
+# Average deviation:                                                6.574       61.37       415.7    
+#
+# Full reference:
+#B.L.Cohen,  E.Newman
+#Jour. Physical Review Vol.99, p.718, 1955
+#(P,PN) And (P,2N) Cross Sections in Medium Weight Elements.
+#
+# Quality information:
+#
+# Quality  B0050011 : T2
+# Date     B0050011 : 05-01-2018
+# Reaction B0050011 : NP:    1 E-range:   21.5    -   21.5     MeV 29-CU-63(P,X)29-CU-62,,SIG,,,EXP    pdf: y
+# Paper    B0050011 : B.L.Cohen+ Jour. Physical Review Vol.99, p.718, 1955 (P,PN) And (P,2N) Cross Sections in Medium Weight Elements.
+# Action   B0050011 : 
+# Comment  B0050011 : Evaluation        N=     1 F=   6.57     chi-2=   61.4     D=   416.     mb T=   179.     mb E=   590.     K1=  6.57     K2= 1.403E+07
+# Comment  B0050011 : TALYS             N=     1 F=   1.02     chi-2=   0.00     D=   12.0     mb T=   602.     mb E=   590.     K1=  1.02     K2=  1.02
+# Comment  B0050011 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   590.     K1=  0.00     K2=  0.00
+# Comment  B0050011 : eaf.2010          N=     1 F=   7.91     chi-2=   76.3     D=   515.     mb T=   74.6     mb E=   590.     K1=  7.91     K2= 3.275E+07
+# Comment  B0050011 : endfb8.0          N=     1 F=   10.8     chi-2=   82.4     D=   536.     mb T=   54.4     mb E=   590.     K1=  10.8     K2= 2.093E+10
+# Comment  B0050011 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   590.     K1=  0.00     K2=  0.00
+# Comment  B0050011 : jeff3.3           N=     1 F=   7.49     chi-2=   75.1     D=   511.     mb T=   78.8     mb E=   590.     K1=  7.49     K2= 1.254E+07
+# Comment  B0050011 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   590.     K1=  0.00     K2=  0.00
+# Comment  B0050011 : tendl.2017        N=     1 F=   6.88     chi-2=   73.1     D=   504.     mb T=   85.7     mb E=   590.     K1=  6.88     K2= 3.033E+06

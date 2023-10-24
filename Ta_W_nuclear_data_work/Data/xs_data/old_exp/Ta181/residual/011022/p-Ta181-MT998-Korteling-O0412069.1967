@@ -1,0 +1,35 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0412069 
+# X4 code     : 73-TA-181(P,X)11-NA-22,CUM,SIG
+# Author      : Korteling                
+# Year        : 1967
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.00000E+02  6.18000E-03  5.70000E-04  5.00000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.G.Korteling, A.A.Caretto
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.29, p.2863, 1967
+#Systematics of Na-24 and Na-22 Production with 400 MeV Protons.
+#
+# Quality information:
+#
+# Quality  O0412069 :   
+# Date     O0412069 : 05-01-2018
+# Reaction O0412069 : NP:    1 E-range:   400.    -   400.     MeV 73-TA-181(P,X)11-NA-22,CUM,SIG      pdf: n
+# Paper    O0412069 : R.G.Korteling+ Jour. Journal of Inorganic and Nuclear Chemistry Vol.29, p.2863, 1967 Systematics of Na-24 and Na-22 Production with 400 MeV
+# Action   O0412069 : 
+# Comment  O0412069 : 

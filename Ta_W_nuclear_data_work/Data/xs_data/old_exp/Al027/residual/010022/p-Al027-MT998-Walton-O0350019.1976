@@ -1,0 +1,60 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  10
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0350019 
+# X4 code     : (13-AL-27(P,X)10-NE-22,,SIG)=((13-AL-27(P,X)10-NE-22,IND,SIG
+# Author      : Walton                   
+# Year        : 1976
+# Data points :     17
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.60000E+01  1.10000E-02  1.10000E-02  7.00000E-01
+  1.81000E+01  2.70000E-02  7.02000E-03  6.00000E-01
+  1.93000E+01  2.70000E-02  2.70000E-02  6.00000E-01
+  2.03000E+01  1.01000E-01  2.32300E-02  1.00000E+00
+  2.11000E+01  3.60000E-03  3.60000E-03  5.00000E-01
+  2.25000E+01  3.30000E-02  2.64000E-02  6.00000E-01
+  2.30000E+01  3.30000E-03  3.30000E-03  9.00000E-01
+  2.38000E+01  3.60000E-02  2.52000E-02  5.00000E-01
+  2.70000E+01  6.00000E-01  1.50000E-01  1.20000E+00  3.17115E-01  0.5285       3.557      0.2829              
+  3.00000E+01  6.30000E+00  1.07100E+00  1.10000E+00  2.81102E+00  0.4462       10.61       3.489              
+  3.06000E+01  5.00000E+00  6.00000E-01  1.00000E+00  3.71500E+00  0.7430       4.587       1.285              
+  3.11000E+01  1.00000E+01  2.60000E+00  1.20000E+00  4.46832E+00  0.4468       4.527       5.532              
+  3.32000E+01  1.75000E+01  2.97500E+00  1.00000E+00  7.63226E+00  0.4361       11.00       9.868              
+  3.60000E+01  5.60000E+01  1.00800E+01  1.60000E+00  1.10054E+01  0.1965       19.93       44.99              
+  3.78000E+01  5.40000E+01  9.18000E+00  1.20000E+00  1.21955E+01  0.2258       20.74       41.80              
+  3.97000E+01  7.80000E+01  1.48200E+01  1.20000E+00  1.34517E+01  0.1725       18.97       64.55              
+  4.20000E+01  7.20000E+01  1.51200E+01  1.40000E+00  1.39831E+01  0.1942       14.72       58.02              
+#
+# Average deviation:                                                3.345       12.07       25.54    
+#
+# Full reference:
+#J.R.Walton, D.Heymann, A.Yaniv, D.Edgerley, M.W.Rowe
+#Jour. Journal of Geophysical Research Vol.81, p.5689, 1976
+#Cross sections for He and Ne isotopes in natural Mg,Al, and Si,He isotopes in Ca-F(2),Ar isotopes in natural Ca and radionuclides in natural Al,Si,Ti,Cr and stainless
+#steel induced by 12-To 45-MeV protons.
+#
+# Quality information:
+#
+# Quality  O0350019 : T2
+# Date     O0350019 : 05-01-2018
+# Reaction O0350019 : NP:   17 E-range:   16.0    -   42.0     MeV (13-AL-27(P,X)10-NE-22,,SIG)=((13-A pdf: y
+# Paper    O0350019 : J.R.Walton+ Jour. Journal of Geophysical Research Vol.81, p.5689, 1976 Cross sections for He and Ne isotopes in natural Mg,Al, and Si,He iso
+# Action   O0350019 : 
+# Comment  O0350019 : Evaluation        N=     9 F=   3.34     chi-2=   12.1     D=   25.5     mb T=   7.73     mb E=   17.6     K1=  3.34     K2=  224.
+# Comment  O0350019 : TALYS             N=     9 F=   3.34     chi-2=   12.1     D=   25.5     mb T=   7.73     mb E=   17.6     K1=  3.34     K2=  224.
+# Comment  O0350019 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.6     K1=  0.00     K2=  0.00
+# Comment  O0350019 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.6     K1=  0.00     K2=  0.00
+# Comment  O0350019 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.6     K1=  0.00     K2=  0.00
+# Comment  O0350019 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.6     K1=  0.00     K2=  0.00
+# Comment  O0350019 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.6     K1=  0.00     K2=  0.00
+# Comment  O0350019 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.6     K1=  0.00     K2=  0.00
+# Comment  O0350019 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.6     K1=  0.00     K2=  0.00

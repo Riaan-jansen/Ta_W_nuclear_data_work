@@ -1,0 +1,51 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,3n)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   17
+# X4 ID       : B0054009 
+# X4 code     : 29-CU-65(P,3N)30-ZN-63,,SIG,,,EXP
+# Author      : Meadows                  
+# Year        : 1953
+# Data points :     11
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.98000E+01  9.30000E+01  0.00000E+00  0.00000E+00  5.80811E+01  0.6245       17.09       34.92              
+  3.36000E+01  1.36000E+02  0.00000E+00  0.00000E+00  4.96484E+01  0.3651       36.38       86.35              
+  3.81000E+01  1.65000E+02  0.00000E+00  0.00000E+00  4.06162E+01  0.2462       42.73       124.4              
+  4.36000E+01  8.90000E+01  0.00000E+00  0.00000E+00  2.96654E+01  0.3333       29.41       59.33              
+  5.41000E+01  4.30000E+01  0.00000E+00  0.00000E+00  2.09792E+01  0.4879       13.05       22.02              
+  5.92000E+01  3.10000E+01  0.00000E+00  0.00000E+00  1.89613E+01  0.6117       6.312       12.04              
+  6.51000E+01  3.00000E+01  0.00000E+00  0.00000E+00  1.28204E+01  0.4273       10.08       17.18              
+  6.91000E+01  2.60000E+01  0.00000E+00  0.00000E+00  1.20712E+01  0.4643       7.362       13.93              
+  7.97000E+01  1.60000E+01  0.00000E+00  0.00000E+00  1.06536E+01  0.6658      0.1486       5.346              
+  8.94000E+01  1.70000E+01  0.00000E+00  0.00000E+00  9.74872E+00  0.5735       1.054       7.251              
+  9.92000E+01  1.30000E+01  0.00000E+00  0.00000E+00  8.93877E+00  0.6876      0.1856       4.853              
+#
+# Average deviation:                                                2.603       14.89       35.24    
+#
+# Full reference:
+#J.W.Meadows
+#Jour. Physical Review Vol.91, p.885, 1953
+#Excitation Functions For Proton-Induced Reactions With Copper
+#
+# Quality information:
+#
+# Quality  B0054009 : T2
+# Date     B0054009 : 05-01-2018
+# Reaction B0054009 : NP:   11 E-range:   29.8    -   99.2     MeV 29-CU-65(P,3N)30-ZN-63,,SIG,,,EXP   pdf: y
+# Paper    B0054009 : J.W.Meadows Jour. Physical Review Vol.91, p.885, 1953 Excitation Functions For Proton-Induced Reactions With Copper
+# Action   B0054009 : 
+# Comment  B0054009 : Evaluation        N=    11 F=   2.60     chi-2=   14.9     D=   35.2     mb T=   24.7     mb E=   59.9     K1=  2.60     K2=  158.
+# Comment  B0054009 : TALYS             N=    11 F=   2.82     chi-2=   0.00     D=   33.4     mb T=   26.5     mb E=   59.9     K1=  2.82     K2=  125.
+# Comment  B0054009 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   59.9     K1=  0.00     K2=  0.00
+# Comment  B0054009 : eaf.2010          N=     6 F=   2.34     chi-2=   27.2     D=   53.7     mb T=   39.2     mb E=   59.9     K1=  2.34     K2=  56.7
+# Comment  B0054009 : endfb8.0          N=     1 F=   3.15     chi-2=   46.5     D=   63.4     mb T=   29.6     mb E=   59.9     K1=  3.15     K2=  229.
+# Comment  B0054009 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   59.9     K1=  0.00     K2=  0.00
+# Comment  B0054009 : jeff3.3           N=     1 F=   1.74     chi-2=   18.0     D=   39.5     mb T=   53.5     mb E=   59.9     K1=  1.74     K2=  4.94
+# Comment  B0054009 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   59.9     K1=  0.00     K2=  0.00
+# Comment  B0054009 : tendl.2017        N=    11 F=   2.56     chi-2=   25.4     D=   35.7     mb T=   24.4     mb E=   59.9     K1=  2.56     K2=  402.

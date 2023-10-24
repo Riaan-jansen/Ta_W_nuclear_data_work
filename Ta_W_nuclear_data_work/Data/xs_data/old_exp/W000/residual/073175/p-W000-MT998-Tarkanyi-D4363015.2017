@@ -1,0 +1,48 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  73
+# Final A     : 175
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D4363015 
+# X4 code     : 74-W-0(P,X)73-TA-175,CUM,SIG
+# Author      : Tarkanyi                 
+# Year        : 2017
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.49000E+01  8.46000E+00  1.52000E+00  2.00000E-01  1.12838E-02  1.3338E-03   30.90       8.449              
+  6.35000E+01  8.57000E+00  1.50000E+00  2.70000E-01  1.05333E-02  1.2291E-03   32.56       8.559              
+  6.22000E+01  6.20000E+00  1.14000E+00  3.40000E-01  9.83634E-03  1.5865E-03   29.48       6.190              
+  6.07000E+01  5.84000E+00  7.10000E-01  4.10000E-01  9.03217E-03  1.5466E-03   67.45       5.831              
+  5.93000E+01  7.60000E-01  3.00000E-01  4.80000E-01  8.55927E-03  1.1262E-02   6.274      0.7514              
+#
+# Average deviation:                                                493.5       33.33       5.956    
+#
+# Full reference:
+#F.Tarkanyi, F.Ditroi, S.Takacs, A.Hermanne
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.391, p.27, 2017
+#New measurements of excitation functions of 186W(p,x) nuclear reactions up to 65 MeV. Production of a 178W/178mTa generator
+#
+#
+# Quality information:
+#
+# Quality  D4363015 : T2
+# Date     D4363015 : 05-01-2018
+# Reaction D4363015 : NP:    5 E-range:   59.3    -   64.9     MeV 74-W-0(P,X)73-TA-175,CUM,SIG        pdf: y
+# Paper    D4363015 : F.Tarkanyi+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.391, p.27, 2017 New measurements of excitation functions of 186W(p,x) n
+# Action   D4363015 : 
+# Comment  D4363015 : Evaluation        N=     5 F=   493.     chi-2=   33.3     D=   5.96     mb T=  9.849E-03 mb E=   5.97     K1=  493.     K2= 1.000E+35
+# Comment  D4363015 : TALYS             N=     5 F=   493.     chi-2=   33.3     D=   5.96     mb T=  9.849E-03 mb E=   5.97     K1=  493.     K2= 1.000E+35
+# Comment  D4363015 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.97     K1=  0.00     K2=  0.00
+# Comment  D4363015 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.97     K1=  0.00     K2=  0.00
+# Comment  D4363015 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.97     K1=  0.00     K2=  0.00
+# Comment  D4363015 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.97     K1=  0.00     K2=  0.00
+# Comment  D4363015 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.97     K1=  0.00     K2=  0.00
+# Comment  D4363015 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.97     K1=  0.00     K2=  0.00
+# Comment  D4363015 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.97     K1=  0.00     K2=  0.00

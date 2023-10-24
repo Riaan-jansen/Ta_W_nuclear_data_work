@@ -1,0 +1,33 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  205
+# X4 ID       : D0628005 
+# X4 code     : 13-AL-27(P,X)1-H-3,,SIG
+# Author      : Goebel                   
+# Year        : 1964
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.50000E+04  7.10000E+01  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#K.Goebel,  H.Schultes,  J.Zaehringer
+#Rept. CERN Europ. Org. for Nuclear Res. Reports No.64, p.12, 1964
+#Production cross-sections of tritium and rare gases in various target elements
+#
+# Quality information:
+#
+# Quality  D0628005 :   
+# Date     D0628005 : 05-01-2018
+# Reaction D0628005 : NP:    1 E-range:  2.500E+04-  2.500E+04 MeV 13-AL-27(P,X)1-H-3,,SIG             pdf: n
+# Paper    D0628005 : K.Goebel+ Rept. CERN Europ. Org. for Nuclear Res. Reports No.64, p.12, 1964 Production cross-sections of tritium and rare gases in various t
+# Action   D0628005 : 
+# Comment  D0628005 : 

@@ -1,0 +1,49 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  56
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0073002 
+# X4 code     : 29-CU-0(P,X)27-CO-56,CUM,SIG,,,EXP
+# Author      : Williams                 
+# Year        : 1967
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.23000E+01  1.20000E+00  0.00000E+00  0.00000E+00  1.19892E+01   9.991      1.3312E+04   11.24              
+  5.31000E+01  1.80000E+00  0.00000E+00  0.00000E+00  1.18525E+01   6.585       5329.       10.81              
+  5.43000E+01  2.40000E+00  0.00000E+00  0.00000E+00  1.16722E+01   4.863       2651.       10.29              
+  5.54000E+01  3.50000E+00  0.00000E+00  0.00000E+00  1.16198E+01   3.320       1043.       9.650              
+  5.60000E+01  4.60000E+00  0.00000E+00  0.00000E+00  1.16342E+01   2.529       506.0       9.091              
+  5.71000E+01  6.00000E+00  0.00000E+00  0.00000E+00  1.16470E+01   1.941       227.1       8.259              
+  5.83000E+01  8.10000E+00  0.00000E+00  0.00000E+00  1.16507E+01   1.438       78.89       7.150              
+#
+# Average deviation:                                                4.735       3307.       9.500    
+#
+# Full reference:
+#I.R.Williams,  C.B.Fulmer
+#Jour. Physical Review Vol.162, p.1055, 1967
+#Excitation Functions For Radioactive Isotopes Produced By Protons Below 60 MeV on Al, Fe, and Cu
+#
+# Quality information:
+#
+# Quality  B0073002 : T2
+# Date     B0073002 : 05-01-2018
+# Reaction B0073002 : NP:    7 E-range:   52.3    -   58.3     MeV 29-CU-0(P,X)27-CO-56,CUM,SIG,,,EXP  pdf: y
+# Paper    B0073002 : I.R.Williams+ Jour. Physical Review Vol.162, p.1055, 1967 Excitation Functions For Radioactive Isotopes Produced By Protons Below 60 MeV on
+# Action   B0073002 : 
+# Comment  B0073002 : Evaluation        N=     7 F=   4.73     chi-2=  3.307E+03 D=   9.50     mb T=   11.7     mb E=   3.94     K1=  4.73     K2= 9.962E+05
+# Comment  B0073002 : TALYS             N=     7 F=   2.80     chi-2=   0.00     D=   2.58     mb T=   1.36     mb E=   3.94     K1=  2.80     K2=  93.5
+# Comment  B0073002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.94     K1=  0.00     K2=  0.00
+# Comment  B0073002 : eaf.2010          N=     7 F=   7.05     chi-2=  7.216E+03 D=   16.7     mb T=   20.6     mb E=   3.94     K1=  7.05     K2= 3.733E+08
+# Comment  B0073002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.94     K1=  0.00     K2=  0.00
+# Comment  B0073002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.94     K1=  0.00     K2=  0.00
+# Comment  B0073002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.94     K1=  0.00     K2=  0.00
+# Comment  B0073002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   3.94     K1=  0.00     K2=  0.00
+# Comment  B0073002 : tendl.2017        N=     7 F=   4.67     chi-2=  2.704E+03 D=   9.22     mb T=   13.2     mb E=   3.94     K1=  4.67     K2= 3.384E+05

@@ -1,0 +1,196 @@
+Submitted on Sunday, 30 May, 2021 - 08:54 Submitted by anonymous user: 94.2.227.55 Submitted values are:
+
+  ==SECTION A: PRELIMINARY INFORMATION==
+      ==1. Personal details==
+          ==1a. Principal Investigator==
+            Name: Steven Lilley
+            Institution: ISIS neutron and muon source, STFC
+            Email: steven.lilley@stfc.ac.uk
+            Phone number: 07746663234
+            Will the PI be undertaking experimental work? Yes
+            
+        
+          ==1b. Team Members==
+              ==First team member (in addition to PI) - if any==
+                Name: Lina Quintieri
+                Position (e.g. student, postdoctoral research
+    associate,
+            staff,
+                other): staff
+                Institution: ISIS neutron and muon source, STFC
+                
+            
+              ==Second team member (in addition to PI) - if any==
+                Name: Jack Tweddle
+                Position (e.g. student, postdoctoral research
+    associate,
+            staff,
+                other): Student
+                Institution: University of Bath / ISIS neutron and
+    muon
+            source,
+                STFC
+                
+            
+              ==Third team member (in addition to PI) - if any==
+              Name:  
+              Institution:  
+            
+            
+            
+        
+        
+    
+    2. Please list other funding sources your research group have
+    obtained for the project area: The ISIS neutronics group has an
+    active experimental nuclear data program focusing on neutron
+    cross sections and thermal scattering law development for
+    moderators.  Members of the group have previously performed cross
+    section measurements at the ASP facility, Aldermaston, at ISIS
+    using the Vesuvio instrument and at the LENS facility in Indiana.
+    The group has extensive experience of performing benchmarking and
+    validation work including involvement in NEA WPEC sub groups and
+    IAEA CRPs. This would be a slightly new area in as much as being
+    proton induced reactions but the methodology and techniques
+    required are very similar.   The group is mostly funded through
+    the ISIS core budget. A separate UK Nuclear Data Network proposal
+    may be submitted in the current call (deadline 2nd July 2021) to
+    support the purchase of X-ray detectors/electronics to improve
+    efficiency in the 10-100 keV region, which may be used in the
+    future for subsequent nuclear data work at the high flux facility
+    and cyclotron. Such an improvement would lead to further cross
+    sections being measurable.
+    3. Evidence that the proposed research for which you are applying
+    for NNUF funding has been discussed and validated by the NNUF
+    facility partner:
+    https://nnuf.ac.uk/system/files/nnuf/webform/emails.docx
+      ==Please note== 
+    
+      ==4. Estimate of expenses (travel; subsistence; sample
+    transport costs; costs associated with equipment hire off-site
+    e.g. transport of kit, insurance etc.)==
+        Please upload estimate/quote documentation here:
+       
+    https://nnuf.ac.uk/system/files/nnuf/webform/expenses_doc.docx
+        Feel free to add any further information re expenses in this
+    free
+        text field if you wish.:
+        Expenses are expected to be considerably less than the
+    maximum if
+        COVID-19 restriction are still in place.
+        Samples will be purchased by STFC ISIS facility.
+        
+    
+    
+
+  ==SECTION B: EXPERIMENT INFORMATION==
+    1. Experiment title: Proton cross section measurements on
+    Tantalum and Tungsten
+    2. Experimental details (500 words maximum):
+    High quality validated nuclear data is crucial for many
+    applications, it underpins our ability to design nuclear
+    facilities be that fission, fusion or accelerator based systems. 
+    Historically nuclear data has focused on reactions of interest to
+    the fission industry but there is increasing use of accelerators
+    both for science and medical purposes.  In this work we propose
+    to perform proton cross section measurements on Ta and W in the
+    range of 10-36 MeV at the MC40 cyclotron at Birmingham.
+    This energy range is interesting because it spans the traditional
+    change from evaluated nuclear data libraries, e.g. ENDFB up to 20
+    MeV, to physics models although some more recent libraries such
+    as TENDL stretch to 200 MeV.   Ta and W are of interest as they
+    are used in fusion reactors and as targets in spallation neutron
+    facilities. In particular there are many compact neutron sources
+    under development including laser driven sources, which typically
+    use proton energies in the range 14 MeV-100 MeV, including the
+    High Brilliance Source in Germany.  Some of the Ta and W reaction
+    products also have potential uses as medical isotopes, e.g. W178
+    for use in SPECT.
+    An examination of Exfor and the literature shows several
+    measurable reactions although many reactions do not have data
+    points covering the full energy range possible at MC40 or have
+    discrepant data between experimental data sets or with
+    evaluations.   Several key target reactions have been identified
+    as possible to measure with discrepancies are:
+    •	181Ta(p,n)181W
+    •	181Ta(p,3n)179W
+    •	181Ta(p,4n)178W
+    •	186W(p,n)186Re
+    •	182W(p,2n)181Re
+    These reactions have been judged measurable based on half-life,
+    decay emissions, magnitude of the expected cross section and
+    previous measurements using a similar technique. 
+    The experiments use a stack of high purity foils of the target
+    material, which will be irradiated by the MC40 proton beam at
+    100nA for approximately 1 hour. Then the decay radiation from the
+    activation products will be measured using HPGe or X-ray
+    detectors as appropriate. These measurements may be repeated at
+    several decay times to reduce statistical and systematic errors
+    for longer lived products as the short lived radionuclides decay.
+     Whilst the experimental procedure is relatively straight-forward
+    the challenge is to make high quality measurements by minimising
+    all the uncertainties and careful calculation/measurement of all
+    the correction factors such as coincidence summing,
+    self-shielding, accurate knowledge of the incoming proton flux
+    etc. The MC40 cyclotron is a good choice for these experiments as
+    it has very good energy resolution (via a bespoke
+    silicon-detector-based beam-energy measurement system), quick
+    access to the sample and has recently performed similar
+    experiments on europium. It also has a well defined procedure for
+    determining the proton flux hence helping to minimise this
+    particular uncertainty.    
+    It is expected that students from both ISIS and the University of
+    Birmingham would be involved in the project, helping to train
+    them in nuclear data methods.  The project will help to develop
+    the breadth of the UK nuclear data capability, which has recently
+    seen reinvestment through AFCP at NNL, UKNDN and UKAEA fusion
+    research.
+    
+    3. Which facility/facilities are you applying to access? High
+    Flux Accelerator-Driven Neutron Facility (existing cyclotron)
+    4. What equipment will you be using at the facility/facilities
+    you have selected in the previous question? MC40 cyclotron and
+    associated detectors (HPGe & Si detectors)
+    5. Data you expect to obtain (200 words maximum):
+    In terms of raw data we expect to obtain decay photon spectra
+    from HPGe or Si detectors at multiple decay times and for
+    multiple sample foils representing different proton energies. We
+    would also record associated MC40 parameters e.g. proton energy,
+    current, flux data.  We would also record calibration data for
+    the detectors and efficiency parameters.
+    This will be used to derive reaction cross sections. 
+    The expectation is that, if the experiments are successful &
+    following careful analysis of the uncertainties, the results
+    would be published in a relevant journal and that an entry would
+    be prepared for inclusion in Exfor.
+    
+    6. Specimen description (200 words maximum): High purity foils
+    (99.99%) of Ta and W are available in different thicknesses as
+    standard products from suppliers such as Advent or Goodfellow. 
+    7. Specimen preparation: Minimal sample preparation is needed
+    beyond cutting the foils to appropriate size for the beam.
+    8. Instrument time:
+    3 days beam time split into 3 session separated by 2-4 weeks. 
+    Following each irradiation experiment there will also be several
+    (3) days of decay spectra measurement for the different foils.
+    From the cyclotron team’s experience with such measurements, to
+    optimise target foil handling and counting, along with attempting
+    a number of initial beam-energies, three days of beam time will
+    be required.
+    
+    9. Special requirements: No additional special requirements
+    10. Requested timeline: Access during university summer break is
+    preferred as this allows access to more detectors some of which
+    are used in teaching laboratories during term time.
+    11. Please state whether you are applying for access to take
+    place at a future date (for example to enable time for sample
+    preparation): No
+    12. Are samples radioactive? No
+    
+
+13. Does your application constitute a resubmission (i.e. are you resubmitting an application which was previously rejected)? No 14. Have you/your team had previous access granted to the same facility/facilities under earlier rounds of the NNUF access scheme? No SECTION C: PROGRAMME RELEVANCE: This project directly fits within the core priorities of the industrial strategy via clean growth and ageing society due to supporting fusion reactor materials, accelerator technology & potential use of radiopharmaceuticals.  It also indirectly fits in to future materials research due to the relevance to neutron sources and their use to investigate a wide range of materials from bio membranes to catalysts. It is also complementary to the UKNDN and AFCP nuclear data work.
+Please confirm that your contact at the facility has seen and approved the application form you are about to submit: Yes, my contact at the facility has seen and approved this application form.
+Please confirm that both you and the team members on behalf of whom you are submitting this application have viewed the privacy notice.: Yes, all team members listed on this application have viewed the privacy notice.
+
+
+

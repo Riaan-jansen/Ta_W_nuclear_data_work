@@ -1,0 +1,43 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0073018 
+# X4 code     : 13-AL-27(P,X)4-BE-7,,SIG,,,EXP
+# Author      : Williams                 
+# Year        : 1967
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.14000E+01  5.50000E-01  0.00000E+00  0.00000E+00  1.73443E+01   31.54       0.000       16.79              
+#
+# Average deviation:                                                31.54       0.000       16.79    
+#
+# Full reference:
+#I.R.Williams,  C.B.Fulmer
+#Jour. Physical Review Vol.162, p.1055, 1967
+#Excitation Functions For Radioactive Isotopes Produced By Protons Below 60 MeV on Al, Fe, and Cu
+#
+# Quality information:
+#
+# Quality  B0073018 : T2
+# Date     B0073018 : 05-01-2018
+# Reaction B0073018 : NP:    1 E-range:   61.4    -   61.4     MeV 13-AL-27(P,X)4-BE-7,,SIG,,,EXP      pdf: y
+# Paper    B0073018 : I.R.Williams+ Jour. Physical Review Vol.162, p.1055, 1967 Excitation Functions For Radioactive Isotopes Produced By Protons Below 60 MeV on
+# Action   B0073018 : 
+# Comment  B0073018 : Evaluation        N=     1 F=   31.5     chi-2=   0.00     D=   16.8     mb T=   17.3     mb E=  0.550     K1=  31.5     K2= 1.711E+26
+# Comment  B0073018 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.550     K1=  0.00     K2=  0.00
+# Comment  B0073018 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.550     K1=  0.00     K2=  0.00
+# Comment  B0073018 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.550     K1=  0.00     K2=  0.00
+# Comment  B0073018 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.550     K1=  0.00     K2=  0.00
+# Comment  B0073018 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.550     K1=  0.00     K2=  0.00
+# Comment  B0073018 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.550     K1=  0.00     K2=  0.00
+# Comment  B0073018 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.550     K1=  0.00     K2=  0.00
+# Comment  B0073018 : tendl.2017        N=     1 F=   31.5     chi-2=   0.00     D=   16.8     mb T=   17.3     mb E=  0.550     K1=  31.5     K2= 1.711E+26

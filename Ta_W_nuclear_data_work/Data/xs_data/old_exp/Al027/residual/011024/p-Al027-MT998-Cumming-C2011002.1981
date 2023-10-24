@@ -1,0 +1,44 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C2011002 
+# X4 code     : 13-AL-27(P,X)11-NA-24,,SIG
+# Author      : Cumming                  
+# Year        : 1981
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.10000E+02  1.09400E+01  2.40000E-01  0.00000E+00  4.37139E+00  0.3996       749.1       6.569              
+  2.80000E+04  7.92000E+00  1.80000E-01  0.00000E+00
+#
+# Average deviation:                                                2.503       749.1       6.569    
+#
+# Full reference:
+#J.B.Cumming, V.Agoritsas, R.Witkover
+#Jour. Nuclear Instrum.and Methods in Physics Res. Vol.180, p.37, 1981
+#Absolute cross sections for the 27Al(p,3pn)24Na reaction at 28 and 0.8 GeV
+#
+# Quality information:
+#
+# Quality  C2011002 : T1
+# Date     C2011002 : 05-01-2018
+# Reaction C2011002 : NP:    2 E-range:   810.    -  2.800E+04 MeV 13-AL-27(P,X)11-NA-24,,SIG          pdf: y
+# Paper    C2011002 : J.B.Cumming+ Jour. Nuclear Instrum.and Methods in Physics Res. Vol.180, p.37, 1981 Absolute cross sections for the 27Al(p,3pn)24Na reaction
+# Action   C2011002 : 
+# Comment  C2011002 : Evaluation        N=     1 F=   2.50     chi-2=   749.     D=   6.57     mb T=   4.37     mb E=   9.43     K1=  2.50     K2= 2.095E+03
+# Comment  C2011002 : TALYS             N=     1 F=   2.50     chi-2=   749.     D=   6.57     mb T=   4.37     mb E=   9.43     K1=  2.50     K2= 2.095E+03
+# Comment  C2011002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.43     K1=  0.00     K2=  0.00
+# Comment  C2011002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.43     K1=  0.00     K2=  0.00
+# Comment  C2011002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.43     K1=  0.00     K2=  0.00
+# Comment  C2011002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.43     K1=  0.00     K2=  0.00
+# Comment  C2011002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.43     K1=  0.00     K2=  0.00
+# Comment  C2011002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.43     K1=  0.00     K2=  0.00
+# Comment  C2011002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.43     K1=  0.00     K2=  0.00

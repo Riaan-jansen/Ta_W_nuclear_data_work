@@ -1,0 +1,35 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C02860023
+# X4 code     : 29-CU-0(P,X)11-NA-24,,SIG
+# Author      : Caretto                  
+# Year        : 1958
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.50000E+03  4.60000E+00  1.15000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#A.A.Caretto, J.Hudis, G.Friedlander
+#Jour. Physical Review Vol.110, p.1130, 1958
+#PRODUCTION OF F-18 AND NA-24 IN IRRADIATIONS OF VARIOUS TARGETS WITH PROTONS BETWEEN 1 AND 6 BEV
+#
+# Quality information:
+#
+# Quality  C02860023:   
+# Date     C02860023: 05-01-2018
+# Reaction C02860023: NP:    1 E-range:  4.500E+03-  4.500E+03 MeV 29-CU-0(P,X)11-NA-24,,SIG           pdf: n
+# Paper    C02860023: A.A.Caretto+ Jour. Physical Review Vol.110, p.1130, 1958 PRODUCTION OF F-18 AND NA-24 IN IRRADIATIONS OF VARIOUS TARGETS WITH PROTONS BETWEE
+# Action   C02860023: 
+# Comment  C02860023: 

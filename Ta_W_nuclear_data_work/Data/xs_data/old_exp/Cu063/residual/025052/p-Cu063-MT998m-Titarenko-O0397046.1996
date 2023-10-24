@@ -1,0 +1,37 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  25
+# Final A     :  52
+# Final state : 1
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0397046 
+# X4 code     : 29-CU-63(P,X)25-MN-52-M,CUM,SIG
+# Author      : Titarenko                
+# Year        : 1996
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.50000E+03  1.21000E+01  1.30000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Yu.E.Titarenko, E.I.Karpikhin, A.F.Smolyakov, M.M.Igumnov, O.V.Shvedov, N.V.Stepanov, V.D.Kazarizki, V.F.Batyaev, S.G.Mashnik,
+#T.A.Gabriehl
+#Conf. Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 p.184, 1996
+#Experimental and calculative research of radioactive nuclei formation-products of target and constructional materials of electronuclear facilities irradiated by
+#protons with energies 1.5 GeV and 130 MeV.
+#
+# Quality information:
+#
+# Quality  O0397046 :   
+# Date     O0397046 : 05-01-2018
+# Reaction O0397046 : NP:    1 E-range:  1.500E+03-  1.500E+03 MeV 29-CU-63(P,X)25-MN-52-M,CUM,SIG     pdf: n
+# Paper    O0397046 : Yu.E.Titarenko+ Conf. Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 p.184, 1996 Experimental and calculative research of radioactive
+# Action   O0397046 : 
+# Comment  O0397046 : 

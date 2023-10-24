@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  61
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0418050 
+# X4 code     : 29-CU-0(P,X)29-CU-61,CUM,SIG
+# Author      : Orth                     
+# Year        : 1978
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.00000E+02  2.50000E+01  3.00000E+00  0.00000E+00  1.62543E+01  0.6502       8.499       8.746              
+  3.50000E+02  2.00000E+01  3.00000E+00  0.00000E+00  1.39019E+01  0.6951       4.132       6.098              
+#
+# Average deviation:                                                1.490       6.315       7.422    
+#
+# Full reference:
+#C.J.Orth, B.J.Dropesky, R.A.Williams, G.C.Giesler, J.Hudis
+#Jour. Physical Review, Part C, Nuclear Physics Vol.18, p.1426, 1978
+#Pion-induced spallation of copper across the (3,3) resonance.
+#
+# Quality information:
+#
+# Quality  O0418050 : T1
+# Date     O0418050 : 05-01-2018
+# Reaction O0418050 : NP:    2 E-range:   200.    -   350.     MeV 29-CU-0(P,X)29-CU-61,CUM,SIG        pdf: y
+# Paper    O0418050 : C.J.Orth+ Jour. Physical Review, Part C, Nuclear Physics Vol.18, p.1426, 1978 Pion-induced spallation of copper across the (3,3) resonance.
+# Action   O0418050 : 
+# Comment  O0418050 : Evaluation        N=     2 F=   1.49     chi-2=   6.32     D=   7.42     mb T=   15.1     mb E=   22.5     K1=  1.49     K2=  2.40
+# Comment  O0418050 : TALYS             N=     2 F=   1.49     chi-2=   6.32     D=   7.42     mb T=   15.1     mb E=   22.5     K1=  1.49     K2=  2.40
+# Comment  O0418050 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.5     K1=  0.00     K2=  0.00
+# Comment  O0418050 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.5     K1=  0.00     K2=  0.00
+# Comment  O0418050 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.5     K1=  0.00     K2=  0.00
+# Comment  O0418050 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.5     K1=  0.00     K2=  0.00
+# Comment  O0418050 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.5     K1=  0.00     K2=  0.00
+# Comment  O0418050 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.5     K1=  0.00     K2=  0.00
+# Comment  O0418050 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.5     K1=  0.00     K2=  0.00

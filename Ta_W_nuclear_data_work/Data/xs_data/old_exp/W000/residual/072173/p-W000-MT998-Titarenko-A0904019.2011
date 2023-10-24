@@ -1,0 +1,47 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  72
+# Final A     : 173
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0904019 
+# X4 code     : 74-W-0(P,X)72-HF-173,CUM,SIG
+# Author      : Titarenko                
+# Year        : 2011
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.80000E+01  7.53000E-01  8.40000E-02  1.00000E+00  1.93962E-02  2.5759E-02   76.27      0.7336              
+  9.90000E+01  2.29000E+01  2.00000E+00  1.00000E+00  1.65689E-02  7.2353E-04   130.9       22.88              
+#
+# Average deviation:                                                308.2       103.6       11.81    
+#
+# Full reference:
+#Yu.E.Titarenko,  V.F.Batyaev,  A.Yu.Titarenko, M.A.Butko,  K.V.Pavlov,  S.N.Florya,  R.S.Tikhonov, V.M.Zhivun,  A.V.Ignatyuk,
+# S.G.Mashnik,  S.Leray, A.Boudard,  J.Cugnon,  D.Mancusi,  Y.Yariv,  K.Nishihara, N.Matsuda,  H.Kumawat,
+# G.Mank,  W.Gudowski
+#Jour. Yadernaya Fizika Vol.74, p.574, 2011
+#Measurement and simulation of the cross sections for nuclide production in W-nat and Ta-181 targets irradiated with 0.04- to 2.6-GeV protons.
+#
+#
+# Quality information:
+#
+# Quality  A0904019 : T2
+# Date     A0904019 : 05-01-2018
+# Reaction A0904019 : NP:    2 E-range:   68.0    -   99.0     MeV 74-W-0(P,X)72-HF-173,CUM,SIG        pdf: y
+# Paper    A0904019 : Yu.E.Titarenko+ Jour. Yadernaya Fizika Vol.74, p.574, 2011 Measurement and simulation of the cross sections for nuclide production in W-nat
+# Action   A0904019 : 
+# Comment  A0904019 : Evaluation        N=     2 F=   308.     chi-2=   104.     D=   11.8     mb T=  1.798E-02 mb E=   11.8     K1=  308.     K2= 1.000E+35
+# Comment  A0904019 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.8     K1=  0.00     K2=  0.00
+# Comment  A0904019 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.8     K1=  0.00     K2=  0.00
+# Comment  A0904019 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.8     K1=  0.00     K2=  0.00
+# Comment  A0904019 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.8     K1=  0.00     K2=  0.00
+# Comment  A0904019 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.8     K1=  0.00     K2=  0.00
+# Comment  A0904019 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.8     K1=  0.00     K2=  0.00
+# Comment  A0904019 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.8     K1=  0.00     K2=  0.00
+# Comment  A0904019 : tendl.2017        N=     2 F=   308.     chi-2=   104.     D=   11.8     mb T=  1.798E-02 mb E=   11.8     K1=  308.     K2= 1.000E+35

@@ -1,0 +1,52 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0131002 
+# X4 code     : 13-AL-27(P,X)11-NA-24,CUM,SIG,,,EXP
+# Author      : Hogan                    
+# Year        : 1978
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.03000E+01  6.90000E-02  1.00000E-02  1.60000E+00  2.18939E+01   317.3      7.1589E+06   21.82              
+  4.51000E+01  8.60000E-01  9.00000E-02  1.80000E+00  2.05608E+01   23.91      6.9340E+04   19.70              
+  5.22000E+01  4.10000E+00  4.00000E-01  2.50000E+00  1.90782E+01   4.653       2072.       14.98              
+  5.54000E+01  5.30000E+00  2.00000E-01  2.20000E+00  1.85939E+01   3.508       6554.       13.29              
+  6.02000E+01  8.70000E+00  5.00000E-01  2.00000E+00  1.30798E+01   1.503       158.8       4.531              
+  6.99000E+01  9.80000E+00  4.00000E-01  1.50000E+00  1.27800E+01   1.304       117.2       3.142              
+  8.04000E+01  1.01000E+01  4.00000E-01  1.50000E+00  1.23499E+01   1.223       78.76       2.746              
+  8.50000E+01  1.09000E+01  6.00000E-01  1.00000E+00  1.21619E+01   1.116       23.86       2.645              
+  9.03000E+01  9.90000E+00  6.00000E-01  1.00000E+00  1.19391E+01   1.206       29.36       2.532              
+  1.00500E+02  9.50000E+00  7.00000E-01  1.00000E+00  1.13038E+01   1.190       18.16       2.376              
+#
+# Average deviation:                                                7.685      7.2373E+05   8.777    
+#
+# Full reference:
+#J.J.Hogan,  E.Gadioli
+#Jour. Nuovo Cimento A Vol.45, p.341, 1978
+#Production of Na-24 from Al-27 by (35-100) MeV protons.
+#
+# Quality information:
+#
+# Quality  B0131002 : T2
+# Date     B0131002 : 05-01-2018
+# Reaction B0131002 : NP:   10 E-range:   40.3    -   101.     MeV 13-AL-27(P,X)11-NA-24,CUM,SIG,,,EXP pdf: y
+# Paper    B0131002 : J.J.Hogan+ Jour. Nuovo Cimento A Vol.45, p.341, 1978 Production of Na-24 from Al-27 by (35-100) MeV protons.
+# Action   B0131002 : 
+# Comment  B0131002 : Evaluation        N=    10 F=   7.68     chi-2=  7.237E+05 D=   8.78     mb T=   15.4     mb E=   6.92     K1=  7.68     K2= 1.000E+35
+# Comment  B0131002 : TALYS             N=    10 F=   3.00     chi-2=  2.638E+03 D=   1.07     mb T=   7.34     mb E=   6.92     K1=  3.00     K2= 4.268E+05
+# Comment  B0131002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.92     K1=  0.00     K2=  0.00
+# Comment  B0131002 : eaf.2010          N=     4 F=   49.7     chi-2=  3.880E+06 D=   31.2     mb T=   33.8     mb E=   6.92     K1=  49.7     K2= 1.000E+35
+# Comment  B0131002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.92     K1=  0.00     K2=  0.00
+# Comment  B0131002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.92     K1=  0.00     K2=  0.00
+# Comment  B0131002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.92     K1=  0.00     K2=  0.00
+# Comment  B0131002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.92     K1=  0.00     K2=  0.00
+# Comment  B0131002 : tendl.2017        N=    10 F=   9.57     chi-2=  6.164E+05 D=   11.0     mb T=   17.9     mb E=   6.92     K1=  9.57     K2= 1.000E+35

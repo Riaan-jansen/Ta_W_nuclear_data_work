@@ -1,0 +1,38 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  21
+# Final A     :  46
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1342005 
+# X4 code     : 29-CU-0(P,X)21-SC-46,IND,SIG
+# Author      : Titarenko                
+# Year        : 2003
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.60000E+03  6.81000E+00  4.40000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Yu.E.Titarenko,  V.F.Batyaev,  V.M.Zhivun, A.B.Koldobsky,  Yu.V.Trebukhovsky,  E.I.Karpikhin, R.D.Mulambetov,  S.V.Mulambetova,  Yu.A.Nekrasov,
+#A.Yu.Titarenko,  K.A.Lipatov,  B.Yu.Sharkov,  A.A.Golubev, A.D.Fertman,  V.I.Turtikov,  A.V.Kantsyrev,  I.V.Roudskoy, G.N.Smirnov,
+# V.S.Barashenkov, K.K.Gudima,  M.I.Baznat, S.G.Mashnik,  R.E.Prael
+#Conf. Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 p.59, 2003
+#Nuclide production cross sections for Co-59 and Cu-nat irradiated with 0.2-GeV and 2.6-GeV protons and 0.2-GeV/nucleon carbon ions.
+#
+#
+# Quality information:
+#
+# Quality  O1342005 :   
+# Date     O1342005 : 05-01-2018
+# Reaction O1342005 : NP:    1 E-range:  2.600E+03-  2.600E+03 MeV 29-CU-0(P,X)21-SC-46,IND,SIG        pdf: n
+# Paper    O1342005 : Yu.E.Titarenko+ Conf. Int.Meet.on Nucl.Appl.of Accel.Tech., San Diego 2003 p.59, 2003 Nuclide production cross sections for Co-59 and Cu-nat
+# Action   O1342005 : 
+# Comment  O1342005 : 

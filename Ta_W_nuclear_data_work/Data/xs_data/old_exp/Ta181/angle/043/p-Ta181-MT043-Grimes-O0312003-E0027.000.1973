@@ -1,0 +1,37 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   27.000 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  0.00000)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :   43
+# X4 ID       : O0312003 
+# X4 code     : 73-TA-181(P,N)74-W-181,PAR,DA,,,EXP
+# Author      : Grimes                   
+# Year        : 1973
+# Data points :     16
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  8.60015E+00  2.01000E+00  2.61300E-01
+  1.66001E+01  1.54000E+00  1.54000E-01
+  1.67001E+01  1.30000E+00  5.20000E-01
+  2.41000E+01  2.54000E+00  2.03200E-01
+  3.16000E+01  2.31000E+00  1.84800E-01
+  3.21000E+01  2.09000E+00  2.09000E-01
+  4.55001E+01  9.50000E-01  1.23500E-01
+  5.35001E+01  9.60000E-01  1.34400E-01
+  5.41001E+01  6.90000E-01  1.10400E-01
+  6.10001E+01  8.90000E-01  8.90000E-02
+  6.90001E+01  5.20000E-01  8.84000E-02
+  7.01001E+01  5.90000E-01  8.85000E-02
+  8.24001E+01  4.20000E-01  1.09200E-01
+  9.95001E+01  3.80000E-01  9.12000E-02
+  1.13400E+02  2.80000E-01  7.00000E-02
+  1.28900E+02  1.90000E-01  7.60000E-02
+# Full reference:
+#S.M.Grimes, J.D.Anderson, J.C.Davis, W.H.Dunlop, C.Wong
+#Jour. Physical Review Letters Vol.30, p.992, 1973
+#Cross Sections Measurements For the (P,N) Analog Transition in Ta-181,Au-197 and Bi-209.

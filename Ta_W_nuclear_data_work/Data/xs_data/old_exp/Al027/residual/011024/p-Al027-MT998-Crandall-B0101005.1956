@@ -1,0 +1,43 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0101005 
+# X4 code     : 13-AL-27(P,X)11-NA-24,CUM,SIG,,,EXP
+# Author      : Crandall                 
+# Year        : 1956
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.50000E+02  1.11000E+01  2.00000E-01  0.00000E+00  6.46276E+00  0.5822       537.6       4.637              
+#
+# Average deviation:                                                1.718       537.6       4.637    
+#
+# Full reference:
+#W.E.Crandall,  G.P.Millburn,  R.V.Pyle,  W.Birnbaum
+#Jour. Physical Review Vol.101, p.329, 1956
+#C-12(X,XN)C-11 and Al-27(X,X2PN)Na-24 Cross Sections At High Energies
+#
+# Quality information:
+#
+# Quality  B0101005 : T1
+# Date     B0101005 : 05-01-2018
+# Reaction B0101005 : NP:    1 E-range:   350.    -   350.     MeV 13-AL-27(P,X)11-NA-24,CUM,SIG,,,EXP pdf: y
+# Paper    B0101005 : W.E.Crandall+ Jour. Physical Review Vol.101, p.329, 1956 C-12(X,XN)C-11 and Al-27(X,X2PN)Na-24 Cross Sections At High Energies
+# Action   B0101005 : 
+# Comment  B0101005 : Evaluation        N=     1 F=   1.72     chi-2=   538.     D=   4.64     mb T=   6.46     mb E=   11.1     K1=  1.72     K2=  31.7
+# Comment  B0101005 : TALYS             N=     1 F=   1.72     chi-2=   538.     D=   4.64     mb T=   6.46     mb E=   11.1     K1=  1.72     K2=  31.7
+# Comment  B0101005 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.1     K1=  0.00     K2=  0.00
+# Comment  B0101005 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.1     K1=  0.00     K2=  0.00
+# Comment  B0101005 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.1     K1=  0.00     K2=  0.00
+# Comment  B0101005 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.1     K1=  0.00     K2=  0.00
+# Comment  B0101005 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.1     K1=  0.00     K2=  0.00
+# Comment  B0101005 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.1     K1=  0.00     K2=  0.00
+# Comment  B0101005 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.1     K1=  0.00     K2=  0.00

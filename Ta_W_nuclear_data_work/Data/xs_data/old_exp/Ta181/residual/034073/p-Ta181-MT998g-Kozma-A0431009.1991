@@ -1,0 +1,35 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  34
+# Final A     :  73
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0431009 
+# X4 code     : 73-TA-181(P,X)34-SE-73-G,CUM,SIG,,,EXP
+# Author      : Kozma                    
+# Year        : 1991
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.65000E+03  1.00000E+00  2.00000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#P.Kozma, C.Damdinsuren, D.Chultem, B.Tumendemberel
+#Jour. Jour. of Physics, Part G (Nucl.and Part.Phys.) Vol.17, p.675, 1991
+#Nuclear Reactions of Tantalum with 3.65 a*GeV C-12- Ions and 3.65 GeV Protons.
+#
+# Quality information:
+#
+# Quality  A0431009 :   
+# Date     A0431009 : 05-01-2018
+# Reaction A0431009 : NP:    1 E-range:  3.650E+03-  3.650E+03 MeV 73-TA-181(P,X)34-SE-73-G,CUM,SIG,,, pdf: n
+# Paper    A0431009 : P.Kozma+ Jour. Jour. of Physics, Part G (Nucl.and Part.Phys.) Vol.17, p.675, 1991 Nuclear Reactions of Tantalum with 3.65 a*GeV C-12- Ions a
+# Action   A0431009 : 
+# Comment  A0431009 : 

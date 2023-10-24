@@ -1,0 +1,43 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,el)
+# E-inc       :   55.000 MeV
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :    2
+# X4 ID       : O0447013 
+# X4 code     : 73-TA-181(P,EL)73-TA-181,,DA
+# Author      : Kamitsubo                
+# Year        : 1967
+# Data points :     22
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  2.87000E+01  7.60000E+02  3.80000E+01
+  3.13001E+01  4.55000E+02  2.27500E+01
+  3.24000E+01  3.14000E+02  1.57000E+01
+  3.41000E+01  1.98000E+02  9.90000E+00
+  3.64001E+01  1.25000E+02  6.25000E+00
+  3.78001E+01  1.67000E+02  8.35000E+00
+  4.11000E+01  2.22000E+02  1.11000E+01
+  4.51000E+01  1.72000E+02  8.60000E+00
+  4.74001E+01  1.15000E+02  5.75000E+00
+  4.98000E+01  7.70000E+01  3.85000E+00
+  5.09001E+01  5.44000E+01  2.72000E+00
+  5.21001E+01  4.45000E+01  2.22500E+00
+  5.49001E+01  4.33000E+01  2.16500E+00
+  5.86001E+01  3.54000E+01  1.77000E+00
+  6.10001E+01  2.65000E+01  1.32500E+00
+  6.37001E+01  1.83000E+01  9.15000E-01
+  6.73001E+01  1.22000E+01  6.10000E-01
+  7.20001E+01  1.06000E+01  5.30000E-01
+  7.62001E+01  8.00000E+00  4.00000E-01
+  7.99001E+01  5.47000E+00  2.73500E-01
+  8.45001E+01  3.88000E+00  1.94000E-01
+  9.03001E+01  2.83000E+00  1.41500E-01
+# Full reference:
+#H.Kamitsubo, H.Ohnuma, K.Ono, A.Uchida, M.Imaizumi, S.Kobayashi, M.Sekiguchi
+#
+#Jour. Journal of the Physical Society of Japan Vol.22, p.19, 1967
+#Elastic Scattering of 55 MeV Protons from Heavy Nuclei.

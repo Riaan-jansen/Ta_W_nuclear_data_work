@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0505014 
+# X4 code     : 29-CU-0(P,X)27-CO-57,CUM,SIG
+# Author      : Gruetter                 
+# Year        : 1982
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.86000E+01  1.64000E+00  4.92000E-02  3.40000E-01  2.62953E+00   1.603       404.5      0.9895              
+  3.69000E+01  6.41000E-01  1.92300E-02  3.40000E-01  1.44964E+00   2.262       1768.      0.8086              
+#
+# Average deviation:                                                1.948       1086.      0.8991    
+#
+# Full reference:
+#A.Gruetter
+#Jour. Nuclear Physics, Section A Vol.383, p.98, 1982
+#Excitation functions for radioactive isotope produced by proton bombardment of Cu and Al in the energy range of 16 to 70 MeV
+#
+#
+# Quality information:
+#
+# Quality  D0505014 : T1
+# Date     D0505014 : 05-01-2018
+# Reaction D0505014 : NP:    2 E-range:   36.9    -   38.6     MeV 29-CU-0(P,X)27-CO-57,CUM,SIG        pdf: y
+# Paper    D0505014 : A.Gruetter Jour. Nuclear Physics, Section A Vol.383, p.98, 1982 Excitation functions for radioactive isotope produced by proton bombardment
+# Action   D0505014 : 
+# Comment  D0505014 : Evaluation        N=     2 F=   1.95     chi-2=  1.086E+03 D=  0.899     mb T=   2.04     mb E=   1.14     K1=  1.95     K2=  59.4
+# Comment  D0505014 : TALYS             N=     2 F=   1.95     chi-2=  1.086E+03 D=  0.899     mb T=   2.04     mb E=   1.14     K1=  1.95     K2=  59.4
+# Comment  D0505014 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.14     K1=  0.00     K2=  0.00
+# Comment  D0505014 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.14     K1=  0.00     K2=  0.00
+# Comment  D0505014 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.14     K1=  0.00     K2=  0.00
+# Comment  D0505014 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.14     K1=  0.00     K2=  0.00
+# Comment  D0505014 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.14     K1=  0.00     K2=  0.00
+# Comment  D0505014 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.14     K1=  0.00     K2=  0.00
+# Comment  D0505014 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.14     K1=  0.00     K2=  0.00

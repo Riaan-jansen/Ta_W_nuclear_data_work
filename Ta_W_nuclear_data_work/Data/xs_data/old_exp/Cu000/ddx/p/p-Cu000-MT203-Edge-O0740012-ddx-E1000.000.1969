@@ -1,0 +1,24 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xp)
+# E-inc       : 1000.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  203
+# X4 ID       : O0740012 
+# X4 code     : 29-CU-0(P,X)1-H-1,EM,DA/DE
+# Author      : Edge                     
+# Year        : 1969
+# Data points :      4
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.92000E+01  4.21000E-07  0.00000E+00  0.00000E+00  3.20000E+01
+  1.76100E+02  5.34000E-07  0.00000E+00  0.00000E+00  3.20000E+01
+  3.54100E+02  4.50000E-07  0.00000E+00  0.00000E+00  3.20000E+01
+  8.24500E+02  5.43000E-08  4.88700E-09  0.00000E+00  3.20000E+01
+# Full reference:
+#R.D.Edge,  D.H.Tompkins,  J.W.Glenn
+#Jour. Physical Review Vol.183, p.849, 1969
+#Proton Production from Nuclei Bombarded by Protons of 1, 2 and 3 Bev.

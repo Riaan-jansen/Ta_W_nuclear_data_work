@@ -1,0 +1,34 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xp)
+# E-inc       :  200.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  203
+# X4 ID       : O0534003 
+# X4 code     : 13-AL-27(P,X)1-H-1,EM,DA/DE
+# Author      : Foertsch                 
+# Year        : 1988
+# Data points :     13
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.30000E+01  7.00000E-07  4.00000E-08  0.00000E+00  2.00001E+01
+  2.75000E+01  7.60000E-07  4.00000E-08  0.00000E+00  2.00001E+01
+  4.24000E+01  7.60000E-07  4.00000E-08  0.00000E+00  2.00001E+01
+  5.69000E+01  7.60000E-07  4.00000E-08  0.00000E+00  2.00001E+01
+  7.28000E+01  8.30000E-07  3.00000E-08  0.00000E+00  2.00001E+01
+  8.73000E+01  8.70000E-07  4.00000E-08  0.00000E+00  2.00001E+01
+  1.03200E+02  8.90000E-07  5.00000E-08  0.00000E+00  2.00001E+01
+  1.17900E+02  1.06000E-06  5.00000E-08  0.00000E+00  2.00001E+01
+  1.32100E+02  1.23000E-06  6.00000E-08  0.00000E+00  2.00001E+01
+  1.47700E+02  1.44000E-06  5.00000E-08  0.00000E+00  2.00001E+01
+  1.62500E+02  1.33000E-06  5.00000E-08  0.00000E+00  2.00001E+01
+  1.78000E+02  1.04000E-06  5.00000E-08  0.00000E+00  2.00001E+01
+  1.92500E+02  7.10000E-07  4.00000E-08  0.00000E+00  2.00001E+01
+# Full reference:
+#S.V.Foertsch,  A.A.Cowley,  J.V.Pilcher,  D.M.Whittal, J.J.Lawrie,  J.C.Van Staden,  E.Friedland
+#
+#Jour. Nuclear Physics, Section A Vol.485, p.258, 1988
+#Continuum Yields from C-12(P,P`) At Incident Proton Energies  of 90 and 200 MeV.

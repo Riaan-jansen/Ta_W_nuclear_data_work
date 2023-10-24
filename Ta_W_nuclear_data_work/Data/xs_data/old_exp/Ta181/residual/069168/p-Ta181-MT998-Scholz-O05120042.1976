@@ -1,0 +1,45 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  69
+# Final A     : 168
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O05120042
+# X4 code     : 73-TA-181(P,X)69-TM-168,IND,SIG
+# Author      : Scholz                   
+# Year        : 1976
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.90000E+02  7.80000E-01  3.90000E-01  0.00000E+00  1.46061E-01  0.1873       2.642      0.6339              
+  5.90000E+02  8.00000E-01  2.50000E-01  0.00000E+00  1.46061E-01  0.1826       6.842      0.6539              
+#
+# Average deviation:                                                5.409       4.742      0.6439    
+#
+# Full reference:
+#K.L.Scholz, V.J.Sodd, J.W.Blue
+#Jour. Applied Radiation and Isotopes Vol.27, p.263, 1976
+#Production of Thulium-167 For Medical Use by Irradiation of Lutetium,Hafnium,Tantalum and Tundsten With 590-MeV Protons.
+#
+#
+# Quality information:
+#
+# Quality  O05120042: T2
+# Date     O05120042: 05-01-2018
+# Reaction O05120042: NP:    2 E-range:   590.    -   590.     MeV 73-TA-181(P,X)69-TM-168,IND,SIG     pdf: y
+# Paper    O05120042: K.L.Scholz+ Jour. Applied Radiation and Isotopes Vol.27, p.263, 1976 Production of Thulium-167 For Medical Use by Irradiation of Lutetium,Ha
+# Action   O05120042: 
+# Comment  O05120042: Evaluation        N=     2 F=   5.41     chi-2=   4.74     D=  0.644     mb T=  0.146     mb E=  0.790     K1=  5.41     K2=  395.
+# Comment  O05120042: TALYS             N=     2 F=   5.41     chi-2=   4.74     D=  0.644     mb T=  0.146     mb E=  0.790     K1=  5.41     K2=  395.
+# Comment  O05120042: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.790     K1=  0.00     K2=  0.00
+# Comment  O05120042: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.790     K1=  0.00     K2=  0.00
+# Comment  O05120042: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.790     K1=  0.00     K2=  0.00
+# Comment  O05120042: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.790     K1=  0.00     K2=  0.00
+# Comment  O05120042: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.790     K1=  0.00     K2=  0.00
+# Comment  O05120042: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.790     K1=  0.00     K2=  0.00
+# Comment  O05120042: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.790     K1=  0.00     K2=  0.00

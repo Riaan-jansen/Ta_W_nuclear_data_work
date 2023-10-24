@@ -1,0 +1,51 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  61
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A03510022
+# X4 code     : 29-CU-0(P,X)29-CU-61,,SIG
+# Author      : Aleksandrov              
+# Year        : 1987
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.20000E+01  1.10000E+01  2.10000E+00  2.80000E+00  3.97152E+01   3.610       286.8       32.94              
+  3.00000E+01  1.60000E+02  3.00000E+01  2.10000E+00  4.24372E+01  0.2652       16.39       117.6              
+  3.60000E+01  1.50000E+02  2.90000E+01  1.30000E+00  5.98107E+01  0.3987       12.76       90.19              
+  5.00000E+01  6.10000E+01  1.10000E+01  2.10000E+00  3.55266E+01  0.5824       10.34       31.44              
+  5.90000E+01  6.60000E+01  1.30000E+01  1.20000E+00  3.03350E+01  0.4596       10.03       35.66              
+  7.00000E+01  5.70000E+01  1.10000E+01  9.00000E-01  3.11053E+01  0.5457       8.881       25.89              
+  7.90000E+01  4.40000E+01  8.30000E+00  2.20000E+00  2.80678E+01  0.6379       8.177       17.59              
+  8.90000E+01  5.00000E+01  9.30000E+00  1.90000E+00  2.51068E+01  0.5021       9.779       24.89              
+  9.80000E+01  4.60000E+01  8.60000E+00  1.50000E+00  2.28975E+01  0.4978       9.606       23.10              
+#
+# Average deviation:                                                3.868       41.42       44.36    
+#
+# Full reference:
+#V.N.Aleksandrov, M.P.Semyonova, V.G.Semyonov
+#Jour. Atomnaya Energiya Vol.62, p.411, 1987
+#Excitation functions for radionuclides produced by (p,x)-reactions of copper and nickel.
+#
+# Quality information:
+#
+# Quality  A03510022: T2
+# Date     A03510022: 05-01-2018
+# Reaction A03510022: NP:    9 E-range:   22.0    -   98.0     MeV 29-CU-0(P,X)29-CU-61,,SIG           pdf: y
+# Paper    A03510022: V.N.Aleksandrov+ Jour. Atomnaya Energiya Vol.62, p.411, 1987 Excitation functions for radionuclides produced by (p,x)-reactions of copper an
+# Action   A03510022: 
+# Comment  A03510022: Evaluation        N=     9 F=   3.87     chi-2=   41.4     D=   44.4     mb T=   35.0     mb E=   71.7     K1=  3.87     K2= 4.345E+03
+# Comment  A03510022: TALYS             N=     9 F=   3.01     chi-2=   3.69     D=   14.5     mb T=   59.5     mb E=   71.7     K1=  3.01     K2= 2.340E+05
+# Comment  A03510022: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   71.7     K1=  0.00     K2=  0.00
+# Comment  A03510022: eaf.2010          N=     5 F=   3.99     chi-2=   80.5     D=   73.6     mb T=   31.6     mb E=   71.7     K1=  3.99     K2=  356.
+# Comment  A03510022: endfb8.0          N=     2 F=   5.41     chi-2=   84.1     D=   82.6     mb T=   28.3     mb E=   71.7     K1=  5.41     K2= 1.315E+04
+# Comment  A03510022: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   71.7     K1=  0.00     K2=  0.00
+# Comment  A03510022: jeff3.3           N=     2 F=   4.58     chi-2=   207.     D=   82.6     mb T=   44.8     mb E=   71.7     K1=  4.58     K2=  907.
+# Comment  A03510022: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   71.7     K1=  0.00     K2=  0.00
+# Comment  A03510022: tendl.2017        N=     9 F=   5.64     chi-2=   74.4     D=   64.3     mb T=   18.0     mb E=   71.7     K1=  5.64     K2= 1.076E+04

@@ -1,0 +1,41 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xn)
+# E-inc       : 3000.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  201
+# X4 ID       : E1762035 
+# X4 code     : 13-AL-27(P,X)0-NN-1,,DA/DE
+# Author      : Ishibashi                
+# Year        : 1997
+# Data points :     19
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.25000E+00  3.61000E-06  1.58800E-06  0.00000E+00  9.00000E+01
+  1.75000E+00  5.72500E-06  1.81800E-06  0.00000E+00  9.00000E+01
+  2.50000E+00  8.45600E-06  2.36700E-06  0.00000E+00  9.00000E+01
+  3.50000E+00  3.75300E-06  9.54100E-07  0.00000E+00  9.00000E+01
+  4.50000E+00  3.21700E-06  8.15600E-07  0.00000E+00  9.00000E+01
+  5.50000E+00  2.55200E-06  6.54100E-07  0.00000E+00  9.00000E+01
+  7.00000E+00  2.12300E-06  5.34900E-07  0.00000E+00  9.00000E+01
+  9.00000E+00  1.55200E-06  3.98400E-07  0.00000E+00  9.00000E+01
+  1.25000E+01  1.06800E-06  2.71100E-07  0.00000E+00  9.00000E+01
+  1.75000E+01  7.35100E-07  1.90700E-07  0.00000E+00  9.00000E+01
+  2.50000E+01  5.94700E-07  1.51100E-07  0.00000E+00  9.00000E+01
+  3.50000E+01  6.29900E-07  1.61600E-07  0.00000E+00  9.00000E+01
+  4.50000E+01  5.12200E-07  1.32400E-07  0.00000E+00  9.00000E+01
+  5.50000E+01  3.58700E-07  9.65300E-08  0.00000E+00  9.00000E+01
+  7.00000E+01  2.44800E-07  6.57600E-08  0.00000E+00  9.00000E+01
+  9.00000E+01  1.83000E-07  5.76200E-08  0.00000E+00  9.00000E+01
+  1.25000E+02  7.60800E-08  2.96800E-08  0.00000E+00  9.00000E+01
+  1.75000E+02  6.04200E-08  2.35500E-08  0.00000E+00  9.00000E+01
+  2.50000E+02  3.61900E-08  1.37200E-08  0.00000E+00  9.00000E+01
+# Full reference:
+#K.Ishibashi,  H.Takada,  T.Nakamoto,  N.Shigyo, K.Maehata,  N.Matsufuji,  S.Meigo,  S.Chiba,  M.Numajiri,
+#Y.Watanabe,  T.Nakamura
+#Jour. Jour. of Nuclear Science and Technology Vol.34, Issue.6, p.529, 1997
+#Measurement of neutron-production double-differential cross sections for nuclear spallation reaction induced by 0.8, 1.5 and 3.0 GeV protons
+#

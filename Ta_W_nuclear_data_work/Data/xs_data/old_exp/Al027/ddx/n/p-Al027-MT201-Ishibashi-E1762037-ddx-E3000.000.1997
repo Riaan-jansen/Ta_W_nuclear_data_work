@@ -1,0 +1,39 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xn)
+# E-inc       : 3000.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  201
+# X4 ID       : E1762037 
+# X4 code     : 13-AL-27(P,X)0-NN-1,,DA/DE
+# Author      : Ishibashi                
+# Year        : 1997
+# Data points :     17
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.25000E+00  4.23000E-06  1.41500E-06  0.00000E+00  1.50000E+02
+  1.75000E+00  4.27000E-06  1.42200E-06  0.00000E+00  1.50000E+02
+  2.50000E+00  5.15100E-06  1.49100E-06  0.00000E+00  1.50000E+02
+  3.50000E+00  3.03600E-06  7.93400E-07  0.00000E+00  1.50000E+02
+  4.50000E+00  2.24700E-06  5.98300E-07  0.00000E+00  1.50000E+02
+  5.50000E+00  2.50000E-06  6.47000E-07  0.00000E+00  1.50000E+02
+  7.00000E+00  1.58800E-06  4.13200E-07  0.00000E+00  1.50000E+02
+  9.00000E+00  1.20800E-06  3.22500E-07  0.00000E+00  1.50000E+02
+  1.25000E+01  8.60700E-07  2.27800E-07  0.00000E+00  1.50000E+02
+  1.75000E+01  6.77800E-07  1.83200E-07  0.00000E+00  1.50000E+02
+  2.50000E+01  4.14700E-07  1.11900E-07  0.00000E+00  1.50000E+02
+  3.50000E+01  2.50000E-07  8.03400E-08  0.00000E+00  1.50000E+02
+  4.50000E+01  1.95200E-07  7.28500E-08  0.00000E+00  1.50000E+02
+  5.50000E+01  1.64500E-07  6.52100E-08  0.00000E+00  1.50000E+02
+  7.00000E+01  1.29000E-07  4.49000E-08  0.00000E+00  1.50000E+02
+  9.00000E+01  9.55700E-08  3.28100E-08  0.00000E+00  1.50000E+02
+  1.25000E+02  6.32200E-08  2.50600E-08  0.00000E+00  1.50000E+02
+# Full reference:
+#K.Ishibashi,  H.Takada,  T.Nakamoto,  N.Shigyo, K.Maehata,  N.Matsufuji,  S.Meigo,  S.Chiba,  M.Numajiri,
+#Y.Watanabe,  T.Nakamura
+#Jour. Jour. of Nuclear Science and Technology Vol.34, Issue.6, p.529, 1997
+#Measurement of neutron-production double-differential cross sections for nuclear spallation reaction induced by 0.8, 1.5 and 3.0 GeV protons
+#

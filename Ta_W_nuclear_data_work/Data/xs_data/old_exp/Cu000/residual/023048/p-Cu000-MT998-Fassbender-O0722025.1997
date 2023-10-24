@@ -1,0 +1,50 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  23
+# Final A     :  48
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0722025 
+# X4 code     : 29-CU-CMP(P,X)23-V-48,CUM,SIG
+# Author      : Fassbender               
+# Year        : 1997
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.50800E+02  6.80000E+00  1.60000E+00  0.00000E+00  8.23664E+00   1.211      0.8062       1.437              
+  2.54600E+02  2.90000E+00  6.00000E-01  0.00000E+00  1.02817E+01   3.545       151.4       7.382              
+  2.14900E+02  2.60000E+00  5.00000E-01  0.00000E+00  8.68059E+00   3.339       147.9       6.081              
+  1.74600E+02  2.30000E+00  4.00000E-01  0.00000E+00  3.37235E+00   1.466       7.187       1.072              
+  1.30700E+02  8.00000E-01  1.00000E-01  0.00000E+00  2.59693E-01  0.3246       29.19      0.5403              
+  1.25000E+02  5.00000E-01  1.00000E-01  0.00000E+00  1.76546E-01  0.3531       10.46      0.3235              
+  7.90000E+01  2.00000E-01  3.00000E-02  0.00000E+00
+#
+# Average deviation:                                                2.625       57.82       2.806    
+#
+# Full reference:
+#M.Fassbender,  Yu.N.Shubin,  V.P.Lunev,  S.M.Qaim
+#Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997
+#Experimental studies and nuclear model calculations on the formation of radioactive products in interactions of medium energy protons with copper, zinc
+#and brass:  estimation of collimator activation in proton therapy facilities.
+#
+# Quality information:
+#
+# Quality  O0722025 : T1
+# Date     O0722025 : 05-01-2018
+# Reaction O0722025 : NP:    7 E-range:   79.0    -   351.     MeV 29-CU-CMP(P,X)23-V-48,CUM,SIG       pdf: y
+# Paper    O0722025 : M.Fassbender+ Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997 Experimental studies and nuclear model calculations on the formation
+# Action   O0722025 : 
+# Comment  O0722025 : Evaluation        N=     6 F=   2.62     chi-2=   57.8     D=   2.81     mb T=   5.17     mb E=   2.30     K1=  2.62     K2=  33.8
+# Comment  O0722025 : TALYS             N=     6 F=   2.62     chi-2=   57.8     D=   2.81     mb T=   5.17     mb E=   2.30     K1=  2.62     K2=  33.8
+# Comment  O0722025 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.30     K1=  0.00     K2=  0.00
+# Comment  O0722025 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.30     K1=  0.00     K2=  0.00
+# Comment  O0722025 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.30     K1=  0.00     K2=  0.00
+# Comment  O0722025 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.30     K1=  0.00     K2=  0.00
+# Comment  O0722025 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.30     K1=  0.00     K2=  0.00
+# Comment  O0722025 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.30     K1=  0.00     K2=  0.00
+# Comment  O0722025 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.30     K1=  0.00     K2=  0.00

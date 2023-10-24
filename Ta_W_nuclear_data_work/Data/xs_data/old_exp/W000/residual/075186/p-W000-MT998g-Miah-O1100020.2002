@@ -1,0 +1,38 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 186
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1100020 
+# X4 code     : 74-W-0(P,X)75-RE-186-G,IND,SIG
+# Author      : Miah                     
+# Year        : 2002
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.21000E+01  3.27100E+00  7.82300E-01  9.04000E-01
+  5.54000E+01  2.88300E+00  2.51600E-01  8.70000E-01
+  5.86000E+01  2.90800E+00  1.91200E-01  8.33000E-01
+  6.89000E+01  2.05200E+00  7.36500E-02  6.62000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#M.H.Miah,  J.Kuhnhenn,  U.Herpers,  R.Michel,  P.Kubik
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.369, 2002
+#Production of residual nuclides by proton-induced reactions oh target W at an energy of 72 MeV.
+#
+# Quality information:
+#
+# Quality  O1100020 :   
+# Date     O1100020 : 05-01-2018
+# Reaction O1100020 : NP:    4 E-range:   52.1    -   68.9     MeV 74-W-0(P,X)75-RE-186-G,IND,SIG      pdf: n
+# Paper    O1100020 : M.H.Miah+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.369, 2002 Production of residual nuclides by proton-induced reaction
+# Action   O1100020 : 
+# Comment  O1100020 : 

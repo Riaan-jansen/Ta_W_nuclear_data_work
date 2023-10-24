@@ -1,0 +1,26 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9000
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9000
+# X4 ID       : F1319005 
+# X4 code     : (13-AL-27(P,X)11-NA-22,,SIG)/(13-AL-27(P,X)11-NA-24,,SIG)
+# Author      : Krupnyi                  
+# Year        : 2000
+# Data points :      3
+#    E(MeV)      ratio        dratio      dE(MeV)
+  3.70000E+01  4.78900E+01  7.18000E+00  2.50000E-03
+  7.30000E+01  2.14000E+00  3.10000E-01  2.50000E-03
+  1.00000E+02  1.87000E+00  3.20000E-01  2.50000E-03
+# Full reference:
+#G.I.Krupnyi, D.V.Snitko, A.A.Yanovich
+#Jour. Atomnaya Energiya Vol.89, Issue.5, p.418, 2000
+#Cross sections of the reactions 27Al(p,spall)7Be, 27Al(p,3p3n)22Na and 27Al(p,3pn)24Na in the proton energy range 37 MeV - 70 GeV.
+#

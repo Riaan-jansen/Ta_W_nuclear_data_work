@@ -1,0 +1,54 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  70
+# Final A     : 166
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099043 
+# X4 code     : 74-W-0(P,X)70-YB-166,CUM,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :     18
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.39000E+02  6.88400E-01  1.47100E-01  1.45100E+00
+  1.54000E+02  1.08000E+00  1.70300E-01  1.29000E+00
+  1.59000E+02  1.92400E+00  3.23000E-01  1.25000E+00
+  1.63000E+02  2.83900E+00  4.23000E-01  1.20000E+00
+  1.70000E+02  2.73200E+00  3.30800E-01  1.11000E+00
+  1.72000E+02  3.24200E+00  5.37500E-01  1.08900E+00
+  2.35000E+02  2.16600E+01  2.65800E+00  1.29900E+00
+  2.54000E+02  2.39600E+01  2.68500E+00  1.72000E+00
+  2.60000E+02  2.19500E+01  2.30700E+00  1.08000E+00
+  3.34000E+02  3.45500E+01  4.04500E+00  1.68000E+00
+  5.59000E+02  5.08600E+01  5.28600E+00  1.48000E+00
+  7.64000E+02  4.68500E+01  5.45600E+00  1.45000E+00
+  9.88000E+02  4.09700E+01  4.69000E+00  1.01000E+00
+  1.16000E+03  3.49400E+01  4.12400E+00  1.36600E+00
+  1.38000E+03  3.27700E+01  3.46700E+00  1.01600E+00
+  1.57000E+03  2.90700E+01  3.72700E+00  1.29000E+00
+  2.58000E+03  2.27300E+01  4.45100E+00  1.00200E+00
+  2.59000E+03  1.53800E+01  1.78000E+00  1.01000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099043 :   
+# Date     O1099043 : 05-01-2018
+# Reaction O1099043 : NP:   18 E-range:   139.    -  2.590E+03 MeV 74-W-0(P,X)70-YB-166,CUM,SIG        pdf: n
+# Paper    O1099043 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099043 : 
+# Comment  O1099043 : 

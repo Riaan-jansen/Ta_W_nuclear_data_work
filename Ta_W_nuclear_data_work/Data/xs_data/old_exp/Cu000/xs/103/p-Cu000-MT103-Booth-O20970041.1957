@@ -1,0 +1,33 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,p)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  103
+# X4 ID       : O20970041
+# X4 code     : 29-CU-0(P,INL)29-CU-0,,SIG
+# Author      : Booth                    
+# Year        : 1957
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  9.00000E+02  7.40000E+02  5.20000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#N.E.Booth,  B.Ledley,  D.Walker,  D.H.White
+#Jour. Proc.Physical Society (London), Section A Vol.70, p.209, 1957
+#Nuclear cross sections for 900 MeV protons.
+#
+# Quality information:
+#
+# Quality  O20970041:   
+# Date     O20970041: 05-01-2018
+# Reaction O20970041: NP:    1 E-range:   900.    -   900.     MeV 29-CU-0(P,INL)29-CU-0,,SIG          pdf: n
+# Paper    O20970041: N.E.Booth+ Jour. Proc.Physical Society (London), Section A Vol.70, p.209, 1957 Nuclear cross sections for 900 MeV protons.
+# Action   O20970041: 
+# Comment  O20970041: 

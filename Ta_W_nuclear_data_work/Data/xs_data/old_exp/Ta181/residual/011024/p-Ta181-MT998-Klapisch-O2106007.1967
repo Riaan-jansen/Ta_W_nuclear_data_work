@@ -1,0 +1,36 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O2106007 
+# X4 code     : 73-TA-181(P,X)11-NA-24,,SIG
+# Author      : Klapisch                 
+# Year        : 1967
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.00000E+03  1.50000E+00  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Klapisch,  J.Chaumont,  C.Philippe,  I.Amarel, R.Fergeau,  M.Salome,  R.Bernas
+#
+#Jour. Nuclear Instrum.and Methods in Physics Res. Vol.53, p.216, 1967
+#Online mass spectrometer for the study of very short periods of isotopes produced by nuclear reactions.
+#
+# Quality information:
+#
+# Quality  O2106007 :   
+# Date     O2106007 : 05-01-2018
+# Reaction O2106007 : NP:    1 E-range:  3.000E+03-  3.000E+03 MeV 73-TA-181(P,X)11-NA-24,,SIG         pdf: n
+# Paper    O2106007 : R.Klapisch+ Jour. Nuclear Instrum.and Methods in Physics Res. Vol.53, p.216, 1967 Online mass spectrometer for the study of very short perio
+# Action   O2106007 : 
+# Comment  O2106007 : 

@@ -1,0 +1,39 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0284106 
+# X4 code     : 29-CU-0(P,X)4-BE-7,,SIG
+# Author      : Schiekel                 
+# Year        : 1996
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.26000E+02  2.88000E-01  1.14000E-01  1.80000E+00
+  2.71000E+02  5.44000E-01  1.36000E-01  1.28000E+00
+  3.38000E+02  7.33000E-01  1.53000E-01  1.74000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Th.Schiekel,  F.Sudbrock,  U.Herpers,  M.Gloris, H.-J.Lange,  I.Leya,  R.Michel,  B.Dittrich-Hannen, H.-A.Synal,
+# M.Suter,  P.W.Kubik,  M.Blann,  D.Filges
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.114, p.91, 1996
+#Nuclide production by proton-induced reactions on elements (6<=Z<=296) in the energy range from 200 MeV to 400 MeV.
+#
+#
+# Quality information:
+#
+# Quality  O0284106 :   
+# Date     O0284106 : 05-01-2018
+# Reaction O0284106 : NP:    3 E-range:   226.    -   338.     MeV 29-CU-0(P,X)4-BE-7,,SIG             pdf: n
+# Paper    O0284106 : Th.Schiekel+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.114, p.91, 1996 Nuclide production by proton-induced reactions on elem
+# Action   O0284106 : 
+# Comment  O0284106 : 

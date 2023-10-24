@@ -1,0 +1,43 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  64
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0050012 
+# X4 code     : 29-CU-65(P,X)29-CU-64,,SIG,,,EXP
+# Author      : Cohen                    
+# Year        : 1955
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.15000E+01  5.00000E+02  0.00000E+00  0.00000E+00  1.24374E+02  0.2487       58.28       375.6              
+#
+# Average deviation:                                                5.731       58.28       375.6    
+#
+# Full reference:
+#B.L.Cohen,  E.Newman
+#Jour. Physical Review Vol.99, p.718, 1955
+#(P,PN) And (P,2N) Cross Sections in Medium Weight Elements.
+#
+# Quality information:
+#
+# Quality  B0050012 : T2
+# Date     B0050012 : 05-01-2018
+# Reaction B0050012 : NP:    1 E-range:   21.5    -   21.5     MeV 29-CU-65(P,X)29-CU-64,,SIG,,,EXP    pdf: y
+# Paper    B0050012 : B.L.Cohen+ Jour. Physical Review Vol.99, p.718, 1955 (P,PN) And (P,2N) Cross Sections in Medium Weight Elements.
+# Action   B0050012 : 
+# Comment  B0050012 : Evaluation        N=     1 F=   5.73     chi-2=   58.3     D=   376.     mb T=   124.     mb E=   500.     K1=  5.73     K2= 1.027E+06
+# Comment  B0050012 : TALYS             N=     1 F=   1.52     chi-2=   0.00     D=   172.     mb T=   328.     mb E=   500.     K1=  1.52     K2=  2.86
+# Comment  B0050012 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   500.     K1=  0.00     K2=  0.00
+# Comment  B0050012 : eaf.2010          N=     1 F=   6.70     chi-2=   72.4     D=   425.     mb T=   74.6     mb E=   500.     K1=  6.70     K2= 1.952E+06
+# Comment  B0050012 : endfb8.0          N=     1 F=   9.19     chi-2=   79.4     D=   446.     mb T=   54.4     mb E=   500.     K1=  9.19     K2= 5.874E+08
+# Comment  B0050012 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   500.     K1=  0.00     K2=  0.00
+# Comment  B0050012 : jeff3.3           N=     1 F=   6.35     chi-2=   71.0     D=   421.     mb T=   78.8     mb E=   500.     K1=  6.35     K2= 8.377E+05
+# Comment  B0050012 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   500.     K1=  0.00     K2=  0.00
+# Comment  B0050012 : tendl.2017        N=     1 F=   5.83     chi-2=   68.7     D=   414.     mb T=   85.7     mb E=   500.     K1=  5.83     K2= 2.403E+05

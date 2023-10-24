@@ -1,0 +1,33 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : O0743003 
+# X4 code     : 13-AL-27(P,NON),,SIG
+# Author      : Menet                    
+# Year        : 1969
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.00000E+01  4.91000E+02  2.60000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#J.J.Menet,  E.E.Gross,  J.J.Malanify,  A.Zucker
+#Jour. Physical Review Letters Vol.22, p.1128, 1969
+#Total Reaction Cross-Section Measurements with 60-MeV Proton.
+#
+# Quality information:
+#
+# Quality  O0743003 :   
+# Date     O0743003 : 05-01-2018
+# Reaction O0743003 : NP:    1 E-range:   60.0    -   60.0     MeV 13-AL-27(P,NON),,SIG                pdf: n
+# Paper    O0743003 : J.J.Menet+ Jour. Physical Review Letters Vol.22, p.1128, 1969 Total Reaction Cross-Section Measurements with 60-MeV Proton.
+# Action   O0743003 : 
+# Comment  O0743003 : 

@@ -1,0 +1,51 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  56
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0505015 
+# X4 code     : 29-CU-0(P,X)27-CO-56,IND,SIG
+# Author      : Gruetter                 
+# Year        : 1982
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.98000E+01  1.21800E+01  3.65400E-01  3.40000E-01  6.24375E+00  0.5126       263.9       5.936              
+  6.97000E+01  1.23300E+01  3.69900E-01  3.40000E-01  6.22928E+00  0.5052       272.0       6.101              
+  6.97000E+01  1.18400E+01  3.55200E-01  3.40000E-01  6.22928E+00  0.5261       249.5       5.611              
+  6.76000E+01  1.11700E+01  3.35100E-01  3.40000E-01  5.92554E+00  0.5305       244.9       5.244              
+  6.51000E+01  9.31000E+00  2.79300E-01  3.40000E-01  5.56395E+00  0.5976       179.9       3.746              
+  6.51000E+01  9.69000E+00  2.90700E-01  3.40000E-01  5.56395E+00  0.5742       201.5       4.126              
+  6.07000E+01  5.57000E+00  1.67100E-01  3.40000E-01  3.85443E+00  0.6920       105.4       1.716              
+  5.85000E+01  3.58000E+00  1.07400E-01  3.40000E-01  2.80441E+00  0.7834       52.15      0.7756              
+#
+# Average deviation:                                                1.748       196.2       4.157    
+#
+# Full reference:
+#A.Gruetter
+#Jour. Nuclear Physics, Section A Vol.383, p.98, 1982
+#Excitation functions for radioactive isotope produced by proton bombardment of Cu and Al in the energy range of 16 to 70 MeV
+#
+#
+# Quality information:
+#
+# Quality  D0505015 : T1
+# Date     D0505015 : 05-01-2018
+# Reaction D0505015 : NP:    8 E-range:   58.5    -   69.8     MeV 29-CU-0(P,X)27-CO-56,IND,SIG        pdf: y
+# Paper    D0505015 : A.Gruetter Jour. Nuclear Physics, Section A Vol.383, p.98, 1982 Excitation functions for radioactive isotope produced by proton bombardment
+# Action   D0505015 : 
+# Comment  D0505015 : Evaluation        N=     8 F=   1.75     chi-2=   196.     D=   4.16     mb T=   5.30     mb E=   9.46     K1=  1.75     K2=  20.2
+# Comment  D0505015 : TALYS             N=     8 F=   1.75     chi-2=   196.     D=   4.16     mb T=   5.30     mb E=   9.46     K1=  1.75     K2=  20.2
+# Comment  D0505015 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.46     K1=  0.00     K2=  0.00
+# Comment  D0505015 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.46     K1=  0.00     K2=  0.00
+# Comment  D0505015 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.46     K1=  0.00     K2=  0.00
+# Comment  D0505015 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.46     K1=  0.00     K2=  0.00
+# Comment  D0505015 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.46     K1=  0.00     K2=  0.00
+# Comment  D0505015 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.46     K1=  0.00     K2=  0.00
+# Comment  D0505015 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.46     K1=  0.00     K2=  0.00

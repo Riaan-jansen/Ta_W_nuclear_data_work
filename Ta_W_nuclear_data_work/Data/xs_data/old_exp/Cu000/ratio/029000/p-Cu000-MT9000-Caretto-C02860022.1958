@@ -1,0 +1,27 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9000
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9000
+# X4 ID       : C02860022
+# X4 code     : (29-CU-0(P,X)11-NA-24,,SIG)/(29-CU-0(P,X)9-F-18,,SIG)
+# Author      : Caretto                  
+# Year        : 1958
+# Data points :      5
+#    E(MeV)      ratio        dratio      dE(MeV)
+  1.00000E+03  2.00000E+00  5.00000E-01  0.00000E+00
+  2.00000E+03  2.40000E+00  6.00000E-01  0.00000E+00
+  3.00000E+03  2.30000E+00  5.75000E-01  0.00000E+00
+  4.50000E+03  1.80000E+00  4.50000E-01  0.00000E+00
+  5.90000E+03  1.40000E+00  3.50000E-01  0.00000E+00
+# Full reference:
+#A.A.Caretto, J.Hudis, G.Friedlander
+#Jour. Physical Review Vol.110, p.1130, 1958
+#PRODUCTION OF F-18 AND NA-24 IN IRRADIATIONS OF VARIOUS TARGETS WITH PROTONS BETWEEN 1 AND 6 BEV

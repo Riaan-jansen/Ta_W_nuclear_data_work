@@ -1,0 +1,53 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : T0128002 
+# X4 code     : 13-AL-27(P,X)11-NA-24,CUM,SIG
+# Author      : Holub                    
+# Year        : 1977
+# Data points :     11
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.00000E+01  1.30000E+00  1.00000E-01  0.00000E+00  1.58296E+00   1.218       8.007      0.2830              
+  4.70000E+01  5.00000E+00  3.00000E-01  0.00000E+00  3.82831E+00  0.7657       15.25       1.172              
+  5.00000E+01  5.30000E+00  3.00000E-01  0.00000E+00  5.00123E+00  0.9436      0.9918      0.2988              
+  5.50000E+01  9.20000E+00  6.00000E-01  0.00000E+00  7.00557E+00  0.7615       13.38       2.194              
+  6.00000E+01  9.90000E+00  6.00000E-01  0.00000E+00  8.51660E+00  0.8603       5.316       1.383              
+  6.50000E+01  1.80000E+01  1.00000E+00  0.00000E+00  9.32792E+00  0.5182       75.20       8.672              
+  7.00000E+01  1.20000E+01  1.00000E+00  0.00000E+00  9.64478E+00  0.8037       5.547       2.355              
+  7.50000E+01  1.40000E+01  1.00000E+00  0.00000E+00  9.67337E+00  0.6910       18.72       4.327              
+  8.00000E+01  1.20000E+01  1.00000E+00  0.00000E+00  9.61163E+00  0.8010       5.704       2.388              
+  8.10000E+01  1.30000E+01  1.00000E+00  0.00000E+00  9.59261E+00  0.7379       11.61       3.407              
+  8.50000E+01  1.30000E+01  1.00000E+00  0.00000E+00  9.51654E+00  0.7320       12.13       3.483              
+#
+# Average deviation:                                                1.365       15.62       2.724    
+#
+# Full reference:
+#R.Holub, M.Fowler, L.Yaffe, A.Zeller
+#Jour. Nuclear Physics, Section A Vol.288, p.291, 1977
+#Formation of 24Na in `Fission-Like` Reactions
+#
+# Quality information:
+#
+# Quality  T0128002 : T1
+# Date     T0128002 : 05-01-2018
+# Reaction T0128002 : NP:   11 E-range:   40.0    -   85.0     MeV 13-AL-27(P,X)11-NA-24,CUM,SIG       pdf: y
+# Paper    T0128002 : R.Holub+ Jour. Nuclear Physics, Section A Vol.288, p.291, 1977 Formation of 24Na in `Fission-Like` Reactions
+# Action   T0128002 : 
+# Comment  T0128002 : Evaluation        N=    11 F=   1.37     chi-2=   15.6     D=   2.72     mb T=   7.57     mb E=   10.2     K1=  1.37     K2=  2.75
+# Comment  T0128002 : TALYS             N=    11 F=   1.37     chi-2=   15.6     D=   2.72     mb T=   7.57     mb E=   10.2     K1=  1.37     K2=  2.75
+# Comment  T0128002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  T0128002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  T0128002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  T0128002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  T0128002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  T0128002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00
+# Comment  T0128002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   10.2     K1=  0.00     K2=  0.00

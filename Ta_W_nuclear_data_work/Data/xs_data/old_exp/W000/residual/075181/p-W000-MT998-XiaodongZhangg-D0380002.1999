@@ -1,0 +1,54 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 181
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0380002 
+# X4 code     : 74-W-0(P,X)75-RE-181,,SIG
+# Author      : XiaodongZhangg           
+# Year        : 1999
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  9.20000E+00  2.40000E-01  7.00000E-02  0.00000E+00  1.51029E-03  6.2929E-03   11.61      0.2385              
+  1.08000E+01  1.36000E+01  1.20000E+00  0.00000E+00  1.24095E-03  9.1246E-05   128.4       13.60              
+  1.23000E+01  8.94000E+01  7.70000E+00  0.00000E+00  1.10178E-03  1.2324E-05   134.8       89.40              
+  1.38000E+01  1.37000E+02  1.20000E+01  0.00000E+00  1.16029E-03  8.4693E-06   130.3       137.0              
+  1.48000E+01  1.72000E+02  1.40000E+01  0.00000E+00  1.26015E-03  7.3265E-06   150.9       172.0              
+  1.64000E+01  2.19000E+02  1.80000E+01  0.00000E+00  1.43198E-03  6.5387E-06   148.0       219.0              
+  1.78000E+01  2.56000E+02  2.10000E+01  0.00000E+00  1.50901E-03  5.8946E-06   148.6       256.0              
+  1.93000E+01  2.94000E+02  2.40000E+01  0.00000E+00  1.40885E-03  4.7920E-06   150.1       294.0              
+  2.08000E+01  3.14000E+02  2.50000E+01  0.00000E+00  1.19187E-03  3.7958E-06   157.8       314.0              
+  2.22000E+01  3.08000E+02  2.50000E+01  0.00000E+00
+#
+# Average deviation:                                               6.6383E+04   128.9       166.1    
+#
+# Full reference:
+#Xiaodong Zhang, Wenxin Lp, Kemin Fang, Weiyu He, Rong Sheng, Duanzi Ying, Weiqing Hu
+#
+#Jour. Radiochimica Acta Vol.86, p.11, 1999
+#Excitation functions for natW(p,xn)181-186Re reactions and production of no-carrier-added 186Re via 186W(p,n)186Re Reaction
+#
+#
+# Quality information:
+#
+# Quality  D0380002 : T2
+# Date     D0380002 : 05-01-2018
+# Reaction D0380002 : NP:   10 E-range:   9.20    -   22.2     MeV 74-W-0(P,X)75-RE-181,,SIG           pdf: y
+# Paper    D0380002 : Xiaodong Zhang+ Jour. Radiochimica Acta Vol.86, p.11, 1999 Excitation functions for natW(p,xn)181-186Re reactions and production of no-carri
+# Action   D0380002 : 
+# Comment  D0380002 : Evaluation        N=     9 F=  6.638E+04 chi-2=   129.     D=   166.     mb T=  1.313E-03 mb E=   180.     K1= 6.638E+04 K2= 1.000E+35
+# Comment  D0380002 : TALYS             N=     9 F=  6.638E+04 chi-2=   129.     D=   166.     mb T=  1.313E-03 mb E=   180.     K1= 6.638E+04 K2= 1.000E+35
+# Comment  D0380002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   180.     K1=  0.00     K2=  0.00
+# Comment  D0380002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   180.     K1=  0.00     K2=  0.00
+# Comment  D0380002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   180.     K1=  0.00     K2=  0.00
+# Comment  D0380002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   180.     K1=  0.00     K2=  0.00
+# Comment  D0380002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   180.     K1=  0.00     K2=  0.00
+# Comment  D0380002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   180.     K1=  0.00     K2=  0.00
+# Comment  D0380002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   180.     K1=  0.00     K2=  0.00

@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  18
+# Final A     :  38
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0095041 
+# X4 code     : 29-CU-0(P,X)18-AR-38,CUM,SIG
+# Author      : Regnier                  
+# Year        : 1979
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.00000E+02  4.30000E+00  2.00000E-01  0.00000E+00  1.92120E+00  0.4468       141.5       2.379              
+  1.05000E+03  1.00000E+01  1.60000E+00  0.00000E+00
+  2.40000E+04  9.50000E+00  1.20000E+00  0.00000E+00
+#
+# Average deviation:                                                2.238       141.5       2.379    
+#
+# Full reference:
+#S.Regnier
+#Jour. Physical Review, Part C, Nuclear Physics Vol.20, p.1517, 1979
+#Production of argon isotopes by spallation of Sc,Ti, Fe,Co,Ni and Cu
+#
+# Quality information:
+#
+# Quality  O0095041 : T1
+# Date     O0095041 : 05-01-2018
+# Reaction O0095041 : NP:    3 E-range:   600.    -  2.400E+04 MeV 29-CU-0(P,X)18-AR-38,CUM,SIG        pdf: y
+# Paper    O0095041 : S.Regnier Jour. Physical Review, Part C, Nuclear Physics Vol.20, p.1517, 1979 Production of argon isotopes by spallation of Sc,Ti, Fe,Co,Ni
+# Action   O0095041 : 
+# Comment  O0095041 : Evaluation        N=     1 F=   2.24     chi-2=   141.     D=   2.38     mb T=   1.92     mb E=   7.93     K1=  2.24     K2=  69.0
+# Comment  O0095041 : TALYS             N=     1 F=   2.24     chi-2=   141.     D=   2.38     mb T=   1.92     mb E=   7.93     K1=  2.24     K2=  69.0
+# Comment  O0095041 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.93     K1=  0.00     K2=  0.00
+# Comment  O0095041 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.93     K1=  0.00     K2=  0.00
+# Comment  O0095041 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.93     K1=  0.00     K2=  0.00
+# Comment  O0095041 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.93     K1=  0.00     K2=  0.00
+# Comment  O0095041 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.93     K1=  0.00     K2=  0.00
+# Comment  O0095041 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.93     K1=  0.00     K2=  0.00
+# Comment  O0095041 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   7.93     K1=  0.00     K2=  0.00

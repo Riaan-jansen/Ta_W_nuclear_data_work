@@ -1,0 +1,39 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0722024 
+# X4 code     : 29-CU-CMP(P,X)4-BE-7,,SIG
+# Author      : Fassbender               
+# Year        : 1997
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.14000E+02  4.00000E-01  8.00000E-02  0.00000E+00
+  1.73900E+02  3.60000E-01  6.00000E-02  0.00000E+00
+  1.31300E+02  2.40000E-01  4.00000E-02  0.00000E+00
+  8.79000E+01  1.20000E-01  2.00000E-02  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#M.Fassbender,  Yu.N.Shubin,  V.P.Lunev,  S.M.Qaim
+#Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997
+#Experimental studies and nuclear model calculations on the formation of radioactive products in interactions of medium energy protons with copper, zinc
+#and brass:  estimation of collimator activation in proton therapy facilities.
+#
+# Quality information:
+#
+# Quality  O0722024 :   
+# Date     O0722024 : 05-01-2018
+# Reaction O0722024 : NP:    4 E-range:   87.9    -   214.     MeV 29-CU-CMP(P,X)4-BE-7,,SIG           pdf: n
+# Paper    O0722024 : M.Fassbender+ Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997 Experimental studies and nuclear model calculations on the formation
+# Action   O0722024 : 
+# Comment  O0722024 : 

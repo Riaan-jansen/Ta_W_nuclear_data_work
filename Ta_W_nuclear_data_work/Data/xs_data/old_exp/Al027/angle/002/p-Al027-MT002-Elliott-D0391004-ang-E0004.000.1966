@@ -1,0 +1,36 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,el)
+# E-inc       :    4.000 MeV
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :    2
+# X4 ID       : D0391004 
+# X4 code     : 13-AL-27(P,EL)13-AL-27,,DA
+# Author      : Elliott                  
+# Year        : 1966
+# Data points :     16
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  9.00000E+01  9.29200E+01  9.29200E+00
+  9.00000E+01  4.85600E+01  4.85600E+00
+  9.00000E+01  5.93800E+01  5.93800E+00
+  9.00000E+01  3.70400E+01  3.70400E+00
+  9.00000E+01  3.32200E+01  3.32200E+00
+  9.00000E+01  3.80000E+01  3.80000E+00
+  9.00000E+01  2.24600E+01  2.24600E+00
+  9.00000E+01  2.54700E+01  2.54700E+00
+  1.40000E+02  5.38200E+01  5.38200E+00
+  1.40000E+02  8.29000E+01  8.29000E+00
+  1.40000E+02  3.95300E+01  3.95300E+00
+  1.40000E+02  4.12200E+01  4.12200E+00
+  1.40000E+02  2.47100E+01  2.47100E+00
+  1.40000E+02  2.00200E+01  2.00200E+00
+  1.40000E+02  2.44700E+01  2.44700E+00
+  1.40000E+02  2.46100E+01  2.46100E+00
+# Full reference:
+#R.V.Elliott, R.H.Spear
+#Jour. Nuclear Physics Vol.84, p.209, 1966
+#Proton Scattering from 27Al in the Energy Range from 3.5 to 11.3 MeV

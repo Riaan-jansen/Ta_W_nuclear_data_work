@@ -1,0 +1,50 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  62
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D40830032
+# X4 code     : 29-CU-0(P,X)30-ZN-62,,SIG
+# Author      : Szelecsenyi              
+# Year        : 2001
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.49000E+01  6.30000E+00  8.00000E-01  2.00000E-01  1.12207E+01   1.781       37.83       4.921              
+  1.55000E+01  1.39000E+01  1.60000E+00  2.00000E-01  1.68193E+01   1.210       3.329       2.919              
+  1.61000E+01  2.07000E+01  2.40000E+00  2.00000E-01  2.21388E+01   1.070      0.3594       1.439              
+  1.66000E+01  2.80000E+01  3.20000E+00  1.00000E-01  2.56759E+01  0.9170      0.5275       2.324              
+  1.72000E+01  3.41000E+01  3.90000E+00  1.00000E-01  2.98266E+01  0.8747       1.201       4.273              
+  1.77000E+01  3.97000E+01  4.50000E+00  1.00000E-01  3.31291E+01  0.8345       2.132       6.571              
+#
+# Average deviation:                                                1.308       7.564       3.741    
+#
+# Full reference:
+#F.Szelecsenyi,  F.Tarkanyi,  S.Takacs,  A.Hermanne, M.Sonck,  Yu.Shubin,  M.G.Mustafa,  Zhuang Youxiang
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.174, p.47, 2001
+#Excitation function for the natTi(p,x)48V nuclear process: Evaluation and new measurements for practical applications
+#
+#
+# Quality information:
+#
+# Quality  D40830032: T1
+# Date     D40830032: 05-01-2018
+# Reaction D40830032: NP:    6 E-range:   14.9    -   17.7     MeV 29-CU-0(P,X)30-ZN-62,,SIG           pdf: y
+# Paper    D40830032: F.Szelecsenyi+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.174, p.47, 2001 Excitation function for the natTi(p,x)48V nuclear pr
+# Action   D40830032: 
+# Comment  D40830032: Evaluation        N=     6 F=   1.31     chi-2=   7.56     D=   3.74     mb T=   23.1     mb E=   23.8     K1=  1.31     K2=  1.94
+# Comment  D40830032: TALYS             N=     6 F=   1.31     chi-2=   7.56     D=   3.74     mb T=   23.1     mb E=   23.8     K1=  1.31     K2=  1.94
+# Comment  D40830032: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00
+# Comment  D40830032: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00
+# Comment  D40830032: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00
+# Comment  D40830032: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00
+# Comment  D40830032: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00
+# Comment  D40830032: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00
+# Comment  D40830032: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00

@@ -1,0 +1,52 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  63
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A03510024
+# X4 code     : 29-CU-0(P,X)30-ZN-63,,SIG
+# Author      : Aleksandrov              
+# Year        : 1987
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.10000E+01  3.80000E+02  7.00000E+01  4.20000E+00  1.67492E+02  0.4408       9.424       212.5              
+  2.20000E+01  1.40000E+02  2.40000E+01  2.80000E+00  4.59922E+01  0.3285       15.52       94.01              
+  3.00000E+01  6.00000E+01  1.10000E+01  2.10000E+00  2.61644E+01  0.4361       10.04       33.84              
+  3.60000E+01  4.60000E+01  8.90000E+00  1.30000E+00  2.09342E+01  0.4551       8.523       25.07              
+  5.00000E+01  1.50000E+01  2.50000E+00  2.10000E+00  1.48843E+01  0.9923       5.299       4.851              
+  5.90000E+01  1.80000E+01  3.20000E+00  1.20000E+00  1.26213E+01  0.7012       5.771       6.357              
+  7.00000E+01  9.20000E+00  1.70000E+00  9.00000E-01  7.69826E+00  0.8368       4.562       3.306              
+  7.90000E+01  5.30000E+00  1.10000E+00  2.20000E+00  6.94688E+00   1.311       12.53       3.528              
+  8.90000E+01  4.80000E+00  9.10000E-01  1.90000E+00  6.38166E+00   1.330       19.44       3.687              
+  9.80000E+01  3.10000E+00  5.90000E-01  1.50000E+00  5.89405E+00   1.901       61.95       3.709              
+#
+# Average deviation:                                                2.189       15.31       39.09    
+#
+# Full reference:
+#V.N.Aleksandrov, M.P.Semyonova, V.G.Semyonov
+#Jour. Atomnaya Energiya Vol.62, p.411, 1987
+#Excitation functions for radionuclides produced by (p,x)-reactions of copper and nickel.
+#
+# Quality information:
+#
+# Quality  A03510024: T1
+# Date     A03510024: 05-01-2018
+# Reaction A03510024: NP:   10 E-range:   11.0    -   98.0     MeV 29-CU-0(P,X)30-ZN-63,,SIG           pdf: y
+# Paper    A03510024: V.N.Aleksandrov+ Jour. Atomnaya Energiya Vol.62, p.411, 1987 Excitation functions for radionuclides produced by (p,x)-reactions of copper an
+# Action   A03510024: 
+# Comment  A03510024: Evaluation        N=    10 F=   2.19     chi-2=   15.3     D=   39.1     mb T=   31.5     mb E=   68.1     K1=  2.19     K2=  13.2
+# Comment  A03510024: TALYS             N=    10 F=   2.40     chi-2=   9.03     D=   35.0     mb T=   33.1     mb E=   68.1     K1=  2.40     K2=  23.4
+# Comment  A03510024: cendl3.1          N=     1 F=   2.61     chi-2=   11.2     D=   234.     mb T=   146.     mb E=   68.1     K1=  2.61     K2=  20.0
+# Comment  A03510024: eaf.2010          N=     6 F=   1.89     chi-2=   6.73     D=   60.3     mb T=   52.4     mb E=   68.1     K1=  1.89     K2=  6.67
+# Comment  A03510024: endfb8.0          N=     3 F=   3.04     chi-2=   13.8     D=   120.     mb T=   73.3     mb E=   68.1     K1=  3.04     K2=  63.0
+# Comment  A03510024: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   68.1     K1=  0.00     K2=  0.00
+# Comment  A03510024: jeff3.3           N=     3 F=   2.33     chi-2=   9.74     D=   116.     mb T=   77.2     mb E=   68.1     K1=  2.33     K2=  14.0
+# Comment  A03510024: jendl4.0          N=     1 F=   2.05     chi-2=   7.71     D=   194.     mb T=   186.     mb E=   68.1     K1=  2.05     K2=  6.37
+# Comment  A03510024: tendl.2017        N=    10 F=   2.25     chi-2=   22.9     D=   41.5     mb T=   30.4     mb E=   68.1     K1=  2.25     K2=  13.7

@@ -1,0 +1,50 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  23
+# Final A     :  48
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0537014 
+# X4 code     : 29-CU-0(P,X)23-V-48,CUM,SIG
+# Author      : Greenwood                
+# Year        : 1984
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.00000E+02  1.29000E-01  6.45000E-03  0.00000E+00  4.75621E+00   36.87      1.0551E+06   4.742              
+  1.50000E+02  9.76000E-01  4.88000E-02  0.00000E+00  3.89744E+00   3.993       7193.       2.932              
+  2.00000E+02  2.26000E+00  1.13000E-01  0.00000E+00  6.94470E+00   3.073       1719.       4.685              
+  2.50000E+02  3.80000E+00  1.90000E-01  0.00000E+00  1.02744E+01   2.704       1161.       6.474              
+  3.00000E+02  5.16000E+00  2.58000E-01  0.00000E+00  9.60723E+00   1.862       297.1       4.447              
+  3.50000E+02  6.27000E+00  3.13500E-01  0.00000E+00  8.25074E+00   1.316       39.92       1.981              
+  4.00000E+02  7.43000E+00  3.71500E-01  0.00000E+00  7.36965E+00  0.9919      2.6392E-02  6.0352E-02          
+  4.50000E+02  7.87000E+00  3.93500E-01  0.00000E+00  7.19250E+00  0.9139       2.964      0.6775              
+#
+# Average deviation:                                                4.154      1.3319E+05   3.250    
+#
+# Full reference:
+#L.R.Greenwood, R.K.Smither
+#Prog. U.S. Dept.of Energy, Fusion Energy Series No.0046,18, p.11, 1984
+#Measurement of Cu spallation cross sections at IPNS
+#
+# Quality information:
+#
+# Quality  C0537014 : T2
+# Date     C0537014 : 05-01-2018
+# Reaction C0537014 : NP:    8 E-range:   100.    -   450.     MeV 29-CU-0(P,X)23-V-48,CUM,SIG         pdf: y
+# Paper    C0537014 : L.R.Greenwood+ Prog. U.S. Dept.of Energy, Fusion Energy Series No.0046,18, p.11, 1984 Measurement of Cu spallation cross sections at IPNS
+# Action   C0537014 : 
+# Comment  C0537014 : Evaluation        N=     8 F=   4.15     chi-2=  1.332E+05 D=   3.25     mb T=   7.29     mb E=   4.24     K1=  4.15     K2= 1.785E+18
+# Comment  C0537014 : TALYS             N=     8 F=   2.63     chi-2=   441.     D=   2.30     mb T=   6.33     mb E=   4.24     K1=  2.63     K2= 2.852E+04
+# Comment  C0537014 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.24     K1=  0.00     K2=  0.00
+# Comment  C0537014 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.24     K1=  0.00     K2=  0.00
+# Comment  C0537014 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.24     K1=  0.00     K2=  0.00
+# Comment  C0537014 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.24     K1=  0.00     K2=  0.00
+# Comment  C0537014 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.24     K1=  0.00     K2=  0.00
+# Comment  C0537014 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.24     K1=  0.00     K2=  0.00
+# Comment  C0537014 : tendl.2017        N=     3 F=   16.5     chi-2=  7.086E+05 D=   6.64     mb T=   7.76     mb E=   4.24     K1=  16.5     K2= 1.000E+35

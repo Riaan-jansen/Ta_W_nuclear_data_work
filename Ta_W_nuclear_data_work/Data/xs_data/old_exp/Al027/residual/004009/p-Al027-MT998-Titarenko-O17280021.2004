@@ -1,0 +1,62 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   9
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O17280021
+# X4 code     : 13-AL-27(P,X)4-BE-9,,SIG
+# Author      : Titarenko                
+# Year        : 2004
+# Data points :     19
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.60600E+03  9.18000E+00  7.80000E-01  8.00000E+00
+  1.59900E+03  9.06000E+00  7.50000E-01  4.00000E+00
+  1.19400E+03  8.23000E+00  6.30000E-01  3.00000E+00
+  7.99000E+02  6.33000E+00  4.90000E-01  2.00000E+00  3.45406E+00  0.5457       34.45       2.876              
+  5.99000E+02  4.89000E+00  3.40000E-01  2.00000E+00  3.67107E+00  0.7507       12.85       1.219              
+  3.99000E+02  3.11000E+00  2.20000E-01  2.00000E+00  5.11303E+00   1.644       82.90       2.003              
+  2.49000E+02  1.79000E+00  1.20000E-01  1.00000E+00  2.93400E+00   1.639       90.88       1.144              
+  1.49000E+02  1.26000E+00  9.00000E-02  1.00000E+00  1.78668E-01  0.1418       144.4       1.081              
+  9.87000E+01  9.57000E-01  6.70000E-02  8.00000E-01  9.07461E-03  9.4824E-03   200.2      0.9479              
+  6.82000E+01  6.72000E-01  5.10000E-02  8.00000E-01
+  6.81000E+01  8.54000E-01  6.70000E-02  8.00000E-01
+  6.79000E+01  6.46000E-01  4.80000E-02  8.00000E-01
+  6.78000E+01  5.90000E-01  4.60000E-02  8.00000E-01
+  6.71000E+01  6.58000E-01  5.10000E-02  9.00000E-01
+  3.70000E+01  2.09000E-01  3.60000E-02  1.10000E+00
+  3.69000E+01  1.98000E-01  7.10000E-02  1.10000E+00
+  3.69000E+01  1.72000E-01  3.60000E-02  1.10000E+00
+  3.63000E+01  1.66000E-01  2.70000E-02  1.20000E+00
+  3.55000E+01  3.28000E-01  4.10000E-02  1.30000E+00
+#
+# Average deviation:                                                8.165       94.27       1.545    
+#
+# Full reference:
+#Yu.E.Titarenko
+#Rept. Internat.Science and Technology Center, Reports No.2002, 2004
+#Experimental and theoretical studies of the yields of residual product nuclei produced in thin Pb and Bi targets irradiated by 40-2600 MeV protons.
+#
+#
+# Quality information:
+#
+# Quality  O17280021: T2
+# Date     O17280021: 05-01-2018
+# Reaction O17280021: NP:   19 E-range:   35.5    -  2.606E+03 MeV 13-AL-27(P,X)4-BE-9,,SIG            pdf: y
+# Paper    O17280021: Yu.E.Titarenko Rept. Internat.Science and Technology Center, Reports No.2002, 2004 Experimental and theoretical studies of the yields of res
+# Action   O17280021: 
+# Comment  O17280021: Evaluation        N=     6 F=   8.16     chi-2=   94.3     D=   1.55     mb T=   2.56     mb E=   2.59     K1=  8.16     K2= 1.200E+32
+# Comment  O17280021: TALYS             N=     6 F=   8.16     chi-2=   94.3     D=   1.55     mb T=   2.56     mb E=   2.59     K1=  8.16     K2= 1.200E+32
+# Comment  O17280021: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.59     K1=  0.00     K2=  0.00
+# Comment  O17280021: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.59     K1=  0.00     K2=  0.00
+# Comment  O17280021: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.59     K1=  0.00     K2=  0.00
+# Comment  O17280021: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.59     K1=  0.00     K2=  0.00
+# Comment  O17280021: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.59     K1=  0.00     K2=  0.00
+# Comment  O17280021: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.59     K1=  0.00     K2=  0.00
+# Comment  O17280021: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.59     K1=  0.00     K2=  0.00

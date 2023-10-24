@@ -1,0 +1,23 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (n, )
+# Quantity    : Resonance Parameters
+# Frame       : L
+# MF          :  402
+# MT          : 6001
+# X4 ID       : F0659006 
+# X4 code     : 13-AL-27(P,0),,EN
+# Author      : Smulders                 
+# Year        : 1962
+# Data points :      4
+#    E(eV)        par         dpar         dE(eV)
+  0.00000E+00  2.02300E+05  9.00000E+05  0.00000E+00
+  0.00000E+00  6.32100E+05  5.00000E+05  0.00000E+00
+  0.00000E+00  6.79200E+05  5.00000E+05  0.00000E+00
+  0.00000E+00  7.31200E+05  5.00000E+05  0.00000E+00
+# Full reference:
+#P.J.M.Smulders, P.M.Endt
+#Jour. Physica (Utrecht) Vol.28, p.1093, 1962
+#Investigation of the Mg-24(a,g)Si-28 reaction and of some Al-27(p,g)Si-28 resonances.

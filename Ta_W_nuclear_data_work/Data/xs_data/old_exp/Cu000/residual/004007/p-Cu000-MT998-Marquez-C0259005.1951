@@ -1,0 +1,35 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0259005 
+# X4 code     : 29-CU-0(P,X)4-BE-7,,SIG
+# Author      : Marquez                  
+# Year        : 1951
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.35000E+02  5.70000E-01  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#L.Marquez, I.Perlman
+#Jour. Physical Review Vol.81, p.953, 1951
+#Observations on Lithium and Beryllium Nuclei Ejected from Heavy Nuclei by High Energy Particles
+#
+# Quality information:
+#
+# Quality  C0259005 :   
+# Date     C0259005 : 05-01-2018
+# Reaction C0259005 : NP:    1 E-range:   335.    -   335.     MeV 29-CU-0(P,X)4-BE-7,,SIG             pdf: n
+# Paper    C0259005 : L.Marquez+ Jour. Physical Review Vol.81, p.953, 1951 Observations on Lithium and Beryllium Nuclei Ejected from Heavy Nuclei by High Energy P
+# Action   C0259005 : 
+# Comment  C0259005 : 

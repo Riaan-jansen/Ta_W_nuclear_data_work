@@ -1,0 +1,41 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : C1217010 
+# X4 code     : 29-CU-63(P,NON),,SIG
+# Author      : Dicello                  
+# Year        : 1967
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.45000E+01  9.85000E+02  1.80000E+01  0.00000E+00  2.31803E+02  0.2353       1751.       753.2              
+#
+# Average deviation:                                                4.261       1751.       753.2    
+#
+# Full reference:
+#J.F.Dicello, G.J.Igo, M.L.Roush
+#Jour. Physical Review Vol.157, p.1001, 1967
+#Proton Total Reaction Cross Sections for 22 Isotopes of Ti, Fe, Ni, Cu, Zn, Zr, and Sn at 14.5 MeV
+#
+# Quality information:
+#
+# Quality  C1217010 : T2
+# Date     C1217010 : 05-01-2018
+# Reaction C1217010 : NP:    1 E-range:   14.5    -   14.5     MeV 29-CU-63(P,NON),,SIG                pdf: y
+# Paper    C1217010 : J.F.Dicello+ Jour. Physical Review Vol.157, p.1001, 1967 Proton Total Reaction Cross Sections for 22 Isotopes of Ti, Fe, Ni, Cu, Zn, Zr, and
+# Action   C1217010 : 
+# Comment  C1217010 : Evaluation        N=     1 F=   4.26     chi-2=  1.751E+03 D=   753.     mb T=   232.     mb E=   985.     K1=  4.26     K2= 2.912E+08
+# Comment  C1217010 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   985.     K1=  0.00     K2=  0.00
+# Comment  C1217010 : cendl3.1          N=     1 F=   4.82     chi-2=  1.882E+03 D=   781.     mb T=   204.     mb E=   985.     K1=  4.82     K2= 8.106E+09
+# Comment  C1217010 : eaf.2010          N=     1 F=   4.12     chi-2=  1.719E+03 D=   746.     mb T=   239.     mb E=   985.     K1=  4.12     K2= 1.177E+08
+# Comment  C1217010 : endfb8.0          N=     1 F=   4.02     chi-2=  1.691E+03 D=   740.     mb T=   245.     mb E=   985.     K1=  4.02     K2= 6.316E+07
+# Comment  C1217010 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   985.     K1=  0.00     K2=  0.00
+# Comment  C1217010 : jeff3.3           N=     1 F=   4.21     chi-2=  1.742E+03 D=   751.     mb T=   234.     mb E=   985.     K1=  4.21     K2= 2.032E+08
+# Comment  C1217010 : jendl4.0          N=     1 F=   4.18     chi-2=  1.734E+03 D=   749.     mb T=   236.     mb E=   985.     K1=  4.18     K2= 1.676E+08
+# Comment  C1217010 : tendl.2017        N=     1 F=   4.21     chi-2=  1.742E+03 D=   751.     mb T=   234.     mb E=   985.     K1=  4.21     K2= 2.032E+08

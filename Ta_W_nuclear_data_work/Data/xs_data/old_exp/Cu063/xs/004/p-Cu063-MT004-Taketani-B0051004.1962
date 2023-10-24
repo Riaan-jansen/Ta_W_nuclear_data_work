@@ -1,0 +1,46 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : B0051004 
+# X4 code     : 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP
+# Author      : Taketani                 
+# Year        : 1962
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.20000E+00  1.47000E+01  2.20000E+00  1.00000E-01  2.58222E+01   1.757       25.56       11.12              
+  4.73000E+00  8.14000E+01  4.90000E+00  1.00000E-01  9.42510E+01   1.158       6.878       12.85              
+  5.23000E+00  1.34000E+02  8.00000E+00  1.00000E-01  1.52527E+02   1.138       5.363       18.53              
+  5.67000E+00  1.93000E+02  1.20000E+01  1.00000E-01  1.97322E+02   1.022      0.1297       4.322              
+  6.11000E+00  2.12000E+02  1.30000E+01  1.00000E-01  2.35503E+02   1.111       3.269       23.50              
+  6.52000E+00  2.25000E+02  1.30000E+01  1.00000E-01  2.52592E+02   1.123       4.505       27.59              
+#
+# Average deviation:                                                1.286       7.617       16.32    
+#
+# Full reference:
+#H.Taketani,  W.P.Alford
+#Jour. Physical Review Vol.125, p.291, 1962
+#(P,N) Cross Sections on Ti-47, V-51, Cr-52, Co-59, And Cu-63 from 4 to 6.5 MeV
+#
+# Quality information:
+#
+# Quality  B0051004 : T1
+# Date     B0051004 : 05-01-2018
+# Reaction B0051004 : NP:    6 E-range:   4.20    -   6.52     MeV 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP    pdf: y
+# Paper    B0051004 : H.Taketani+ Jour. Physical Review Vol.125, p.291, 1962 (P,N) Cross Sections on Ti-47, V-51, Cr-52, Co-59, And Cu-63 from 4 to 6.5 MeV
+# Action   B0051004 : 
+# Comment  B0051004 : Evaluation        N=     6 F=   1.29     chi-2=   7.62     D=   16.3     mb T=   160.     mb E=   143.     K1=  1.29     K2=  1.81
+# Comment  B0051004 : TALYS             N=     6 F=   1.29     chi-2=   7.62     D=   16.3     mb T=   160.     mb E=   143.     K1=  1.29     K2=  1.81
+# Comment  B0051004 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   143.     K1=  0.00     K2=  0.00
+# Comment  B0051004 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   143.     K1=  0.00     K2=  0.00
+# Comment  B0051004 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   143.     K1=  0.00     K2=  0.00
+# Comment  B0051004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   143.     K1=  0.00     K2=  0.00
+# Comment  B0051004 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   143.     K1=  0.00     K2=  0.00
+# Comment  B0051004 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   143.     K1=  0.00     K2=  0.00
+# Comment  B0051004 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   143.     K1=  0.00     K2=  0.00

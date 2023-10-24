@@ -1,0 +1,39 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xp)
+# E-inc       :  300.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  203
+# X4 ID       : E1936013 
+# X4 code     : 13-AL-27(P,X)1-H-1,,DA/DE
+# Author      : Kin                      
+# Year        : 2005
+# Data points :     18
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.00000E+01  4.50500E-07  8.13400E-09  0.00000E+00  6.00001E+01
+  6.00000E+01  4.45100E-07  8.11200E-09  0.00000E+00  6.00001E+01
+  7.00000E+01  4.39200E-07  8.08500E-09  0.00000E+00  6.00001E+01
+  8.00000E+01  4.19000E-07  7.94200E-09  0.00000E+00  6.00001E+01
+  9.00000E+01  3.83300E-07  7.58500E-09  0.00000E+00  6.00001E+01
+  1.00000E+02  3.51800E-07  7.29700E-09  0.00000E+00  6.00001E+01
+  1.10000E+02  3.16400E-07  6.91100E-09  0.00000E+00  6.00001E+01
+  1.20000E+02  2.85100E-07  6.59300E-09  0.00000E+00  6.00001E+01
+  1.30000E+02  2.39700E-07  6.03000E-09  0.00000E+00  6.00001E+01
+  1.40000E+02  2.17600E-07  5.78600E-09  0.00000E+00  6.00001E+01
+  1.50000E+02  1.87500E-07  5.40500E-09  0.00000E+00  6.00001E+01
+  1.80000E+02  6.93700E-08  3.32300E-09  0.00000E+00  6.00001E+01
+  1.90000E+02  3.95900E-08  2.51400E-09  0.00000E+00  6.00001E+01
+  2.00000E+02  2.90600E-08  2.19400E-09  0.00000E+00  6.00001E+01
+  2.10000E+02  2.11200E-08  1.88100E-09  0.00000E+00  6.00001E+01
+  2.20000E+02  1.33400E-08  1.51500E-09  0.00000E+00  6.00001E+01
+  2.30000E+02  1.00400E-08  1.33200E-09  0.00000E+00  6.00001E+01
+  2.40000E+02  7.27900E-09  1.16900E-09  0.00000E+00  6.00001E+01
+# Full reference:
+#T.Kin,  F.Saiho,  S.Hohara,  K.Ikeda,  K.Ichikawa, Y.Yamashita,  M.Imamura,  G.Wakabayashi,  N.Ikeda,
+#Y.Uozumi,  M.Matoba,  M.Nakano,  N.Koori
+#Jour. Physical Review, Part C, Nuclear Physics Vol.72, Issue.1, p.014606, 2005
+#Proton production cross sections for reactions by 300- and 392-MeV protons on carbon, aluminum, and niobium

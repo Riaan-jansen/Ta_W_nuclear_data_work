@@ -1,0 +1,38 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,f)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   18
+# X4 ID       : O16970061
+# X4 code     : 74-W-0(P,F),,SIG
+# Author      : Smirnov                  
+# Year        : 2007
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.92000E+01  5.00000E-02  6.00000E-03  1.00000E+00
+  9.32000E+01  7.10000E-01  1.00000E-01  1.00000E+00
+  1.30500E+02  1.98000E+00  2.30000E-01  1.00000E+00
+  1.69600E+02  3.50000E+00  4.00000E-01  1.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#A.N.Smirnov, O.I.Batenkov,  V.P.Eismont,  N.P.Filatov, J.Blomgren,  H.Conde,  A.V.Prokofiev,  S.G.Mashnik
+#
+#Conf. Conf.on Nucl.Data for Sci. and Technology, Nice 2007 Vol.2, p.1095, 2007
+#Nucleon-induced fission cross-sections of tantalum and separated tungsten isotopes and compound nucleus effect in intermediate energy region.
+#
+#
+# Quality information:
+#
+# Quality  O16970061:   
+# Date     O16970061: 05-01-2018
+# Reaction O16970061: NP:    4 E-range:   59.2    -   170.     MeV 74-W-0(P,F),,SIG                    pdf: n
+# Paper    O16970061: A.N.Smirnov+ Conf. Conf.on Nucl.Data for Sci. and Technology, Nice 2007 Vol.2, p.1095, 2007 Nucleon-induced fission cross-sections of tantal
+# Action   O16970061: 
+# Comment  O16970061: 

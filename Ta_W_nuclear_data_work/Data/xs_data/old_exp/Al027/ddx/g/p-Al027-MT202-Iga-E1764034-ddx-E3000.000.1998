@@ -1,0 +1,40 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xg)
+# E-inc       : 3000.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  202
+# X4 ID       : E1764034 
+# X4 code     : 13-AL-27(P,X)0-G-0,,DA/DE
+# Author      : Iga                      
+# Year        : 1998
+# Data points :     18
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.20000E+00  1.62300E-05  4.59100E-06  0.00000E+00  6.00001E+01
+  1.60000E+00  1.79300E-05  5.12900E-06  0.00000E+00  6.00001E+01
+  2.00000E+00  1.59400E-05  4.53100E-06  0.00000E+00  6.00001E+01
+  2.40000E+00  6.54700E-06  1.97000E-06  0.00000E+00  6.00001E+01
+  2.80000E+00  5.65500E-06  1.73700E-06  0.00000E+00  6.00001E+01
+  3.25000E+00  4.38600E-06  1.38100E-06  0.00000E+00  6.00001E+01
+  3.75000E+00  3.79900E-06  2.25600E-06  0.00000E+00  6.00001E+01
+  4.25000E+00  3.42700E-06  2.16400E-06  0.00000E+00  6.00001E+01
+  4.75000E+00  2.34700E-06  1.62900E-06  0.00000E+00  6.00001E+01
+  5.50000E+00  2.04700E-06  8.55700E-07  0.00000E+00  6.00001E+01
+  6.50000E+00  1.77100E-06  7.09000E-07  0.00000E+00  6.00001E+01
+  7.50000E+00  7.75200E-07  8.08300E-07  0.00000E+00  6.00001E+01
+  9.00000E+00  1.69300E-07  8.81400E-07  0.00000E+00  6.00001E+01
+  1.20000E+01  4.71400E-07  2.96300E-07  0.00000E+00  6.00001E+01
+  1.70000E+01  8.08400E-07  1.31900E-06  0.00000E+00  6.00001E+01
+  2.50000E+01  3.17700E-06  4.26600E-06  0.00000E+00  6.00001E+01
+  3.50000E+01  3.12500E-06  2.82900E-06  0.00000E+00  6.00001E+01
+  5.00000E+01  2.52000E-06  4.86000E-06  0.00000E+00  6.00001E+01
+# Full reference:
+#K.Iga,  K.Ishibashi,  N.Shigyo,  N.Matsufuji, T.Nakamoto,  K.Maehata,  M.Numajiri,  S.Meigo,  H.Takada,
+#S.Chiba,  T.Nakamura,  Y.Watanabe
+#Jour. Jour. of Nuclear Science and Technology Vol.35, Issue.5, p.329, 1998
+#Measurement of gamma-ray production double-differential cross sections for the spallation reaction induced by 0.8, 1.5 and 3.0 GeV protons
+#

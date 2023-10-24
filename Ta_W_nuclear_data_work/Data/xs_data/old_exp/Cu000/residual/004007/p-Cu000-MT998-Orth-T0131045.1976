@@ -1,0 +1,37 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : T0131045 
+# X4 code     : 29-CU-0(P,X)4-BE-7,IND,SIG
+# Author      : Orth                     
+# Year        : 1976
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.90000E+02  2.00000E+00  1.50000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#C.J.Orth, H.A.O'brien Jr, M.E.Schillaci, B.J.Dropesky, J.E.Cline, E.B.Nieschmidt, R.L.Brodzinski
+#
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.38, p.13, 1976
+#Interlaboratory comparison of spallation-reaction cross sections for iron and copper with 590 MeV protons
+#
+#
+# Quality information:
+#
+# Quality  T0131045 :   
+# Date     T0131045 : 05-01-2018
+# Reaction T0131045 : NP:    1 E-range:   590.    -   590.     MeV 29-CU-0(P,X)4-BE-7,IND,SIG          pdf: n
+# Paper    T0131045 : C.J.Orth+ Jour. Journal of Inorganic and Nuclear Chemistry Vol.38, p.13, 1976 Interlaboratory comparison of spallation-reaction cross sectio
+# Action   T0131045 : 
+# Comment  T0131045 : 

@@ -1,0 +1,41 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : C1212016 
+# X4 code     : 29-CU-0(P,NON),,SIG
+# Author      : Makino                   
+# Year        : 1964
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.80000E+01  1.02400E+03  3.50000E+01  0.00000E+00  3.89787E+01  3.8065E-02   792.2       985.0              
+#
+# Average deviation:                                                28.18       792.2       985.0    
+#
+# Full reference:
+#M.Q.Makino, C.N.Waddell, R.M.Eisberg, J.Hestenes
+#Jour. Physics Letters Vol.9, p.178, 1964
+#Study of shell closure effect on proton total reaction cross sections
+#
+# Quality information:
+#
+# Quality  C1212016 : T2
+# Date     C1212016 : 05-01-2018
+# Reaction C1212016 : NP:    1 E-range:   28.0    -   28.0     MeV 29-CU-0(P,NON),,SIG                 pdf: y
+# Paper    C1212016 : M.Q.Makino+ Jour. Physics Letters Vol.9, p.178, 1964 Study of shell closure effect on proton total reaction cross sections
+# Action   C1212016 : 
+# Comment  C1212016 : Evaluation        N=     1 F=   28.2     chi-2=   792.     D=   985.     mb T=   39.0     mb E=  1.024E+03 K1=  28.2     K2= 1.000E+35
+# Comment  C1212016 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.024E+03 K1=  0.00     K2=  0.00
+# Comment  C1212016 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.024E+03 K1=  0.00     K2=  0.00
+# Comment  C1212016 : eaf.2010          N=     1 F=   27.0     chi-2=   794.     D=   986.     mb T=   37.9     mb E=  1.024E+03 K1=  27.0     K2= 1.000E+35
+# Comment  C1212016 : endfb8.0          N=     1 F=   46.5     chi-2=   820.     D=  1.002E+03 mb T=   22.0     mb E=  1.024E+03 K1=  46.5     K2= 1.000E+35
+# Comment  C1212016 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.024E+03 K1=  0.00     K2=  0.00
+# Comment  C1212016 : jeff3.3           N=     1 F=   25.9     chi-2=   791.     D=   984.     mb T=   39.5     mb E=  1.024E+03 K1=  25.9     K2= 1.000E+35
+# Comment  C1212016 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.024E+03 K1=  0.00     K2=  0.00
+# Comment  C1212016 : tendl.2017        N=     1 F=   18.2     chi-2=   764.     D=   968.     mb T=   56.4     mb E=  1.024E+03 K1=  18.2     K2= 1.732E+28

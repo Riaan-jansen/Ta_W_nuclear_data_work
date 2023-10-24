@@ -1,0 +1,37 @@
+# Target Z    :  74
+# Target A    : 182
+# Target state:  
+# Projectile  : p
+# Reaction    : Inelastic scattering
+# E-inc       :   65.000 MeV
+# E-exc       :  0.68042 MeV (EXFOR:  0.68100)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :  603
+# X4 ID       : E1090024 
+# X4 code     : 74-W-182(P,INL)74-W-182,PAR,DA
+# Author      : Ogawa                    
+# Year        : 1986
+# Data points :     14
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  4.02201E+01  8.00800E-02  9.29000E-03
+  4.42401E+01  7.68200E-02  6.61000E-03
+  4.62401E+01  6.36700E-02  6.09000E-03
+  4.82501E+01  5.77100E-02  2.98000E-03
+  5.02601E+01  4.62000E-02  4.11000E-03
+  5.22701E+01  3.56200E-02  2.00000E-03
+  5.42701E+01  2.81000E-02  1.56000E-03
+  5.82901E+01  2.80500E-02  1.54000E-03
+  6.02901E+01  3.16600E-02  1.86000E-03
+  6.23001E+01  2.83000E-02  1.48000E-03
+  6.43001E+01  2.45400E-02  1.33000E-03
+  6.63101E+01  2.10900E-02  1.03000E-03
+  6.83101E+01  1.67400E-02  1.04000E-03
+  7.03201E+01  1.49200E-02  9.20000E-04
+# Full reference:
+#H.Ogawa,  H.Sakaguchi,  M.Nakamura,  T.Noro,  H.Sakamoto, T.Ichihara,  M.Yosoi,  M.Ieiri,  N.Isshiki,
+# Y.Takeuchi, S.Kobayashi
+#Jour. Physical Review, Part C, Nuclear Physics Vol.33, Issue.3, p.834, 1986
+#Inelastic scattering of 65-MeV polarized protons from 178Hf, 180Hf, 182W, and 184W and multipole moments of the optical potential
+#

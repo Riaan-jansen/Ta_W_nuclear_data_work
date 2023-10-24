@@ -1,0 +1,59 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  69
+# Final A     : 168
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099130 
+# X4 code     : 73-TA-181(P,X)69-TM-168,IND,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :     15
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.37000E+02  7.96000E-02  2.14000E-02  2.00000E+00  1.79546E-02  0.2256       8.298      6.1645E-02          
+  1.48000E+02  1.19000E-01  2.70000E-02  1.00000E+00  3.18349E-02  0.2675       10.42      8.7165E-02          
+  1.56000E+02  1.42000E-01  3.40000E-02  1.00000E+00  4.28910E-02  0.3020       8.497      9.9109E-02          
+  1.64000E+02  2.10000E-01  3.50000E-02  1.00000E+00  5.21098E-02  0.2481       20.35      0.1579              
+  1.72000E+02  1.68000E-01  2.90000E-02  1.00000E+00  5.94281E-02  0.3537       14.02      0.1086              
+  2.56000E+02  5.55000E-01  9.30000E-02  1.00000E+00  1.28194E-01  0.2310       21.06      0.4268              
+  2.58000E+02  6.19000E-01  1.64000E-01  2.00000E+00  1.28824E-01  0.2081       8.933      0.4902              
+  3.37000E+02  7.83000E-01  1.32000E-01  2.00000E+00  1.62177E-01  0.2071       22.12      0.6208              
+  5.61000E+02  1.37000E+00  2.10000E-01  1.00000E+00  1.46535E-01  0.1070       33.94       1.223              
+  7.65000E+02  1.42000E+00  2.20000E-01  1.00000E+00  1.28782E-01  9.0691E-02   34.45       1.291              
+  9.86000E+02  1.51000E+00  2.10000E-01  1.00000E+00  1.12372E-01  7.4418E-02   44.29       1.398              
+  1.18000E+03  1.55000E+00  2.40000E-01  1.00000E+00
+  1.38000E+03  1.40000E+00  1.90000E-01  1.00000E+00
+  1.57000E+03  1.48000E+00  2.20000E-01  1.00000E+00
+  2.58000E+03  1.31000E+00  2.20000E-01  1.00000E+00
+#
+# Average deviation:                                                5.654       20.58      0.5422    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099130 : T2
+# Date     O1099130 : 05-01-2018
+# Reaction O1099130 : NP:   15 E-range:   137.    -  2.580E+03 MeV 73-TA-181(P,X)69-TM-168,IND,SIG     pdf: y
+# Paper    O1099130 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099130 : 
+# Comment  O1099130 : Evaluation        N=    11 F=   5.65     chi-2=   20.6     D=  0.542     mb T=  9.192E-02 mb E=  0.848     K1=  5.65     K2= 1.303E+05
+# Comment  O1099130 : TALYS             N=    11 F=   5.65     chi-2=   20.6     D=  0.542     mb T=  9.192E-02 mb E=  0.848     K1=  5.65     K2= 1.303E+05
+# Comment  O1099130 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.848     K1=  0.00     K2=  0.00
+# Comment  O1099130 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.848     K1=  0.00     K2=  0.00
+# Comment  O1099130 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.848     K1=  0.00     K2=  0.00
+# Comment  O1099130 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.848     K1=  0.00     K2=  0.00
+# Comment  O1099130 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.848     K1=  0.00     K2=  0.00
+# Comment  O1099130 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.848     K1=  0.00     K2=  0.00
+# Comment  O1099130 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.848     K1=  0.00     K2=  0.00

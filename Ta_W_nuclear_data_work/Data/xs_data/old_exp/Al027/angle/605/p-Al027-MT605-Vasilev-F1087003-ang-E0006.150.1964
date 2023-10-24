@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : Inelastic scattering
+# E-inc       :    6.150 MeV
+# E-exc       :  1.62032 MeV (EXFOR:  1.65000)
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :  605
+# X4 ID       : F1087003 
+# X4 code     : 13-AL-27(P,INL)13-AL-27,PAR,DA
+# Author      : Vasilev                  
+# Year        : 1964
+# Data points :     14
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  9.00000E+01  2.93760E-01  7.32900E-02
+  9.00000E+01  3.77640E-01  9.01000E-02
+  9.00000E+01  3.24760E-01  8.33200E-02
+  9.00000E+01  3.61780E-01  8.33500E-02
+  9.00000E+01  3.35460E-01  7.00300E-02
+  9.00000E+01  3.32380E-01  7.02000E-02
+  9.00000E+01  4.06030E-01  9.32800E-02
+  9.00000E+01  2.11160E-01  6.71100E-02
+  9.00000E+01  2.51110E-01  7.38300E-02
+  9.00000E+01  3.17970E-01  7.37900E-02
+  9.00000E+01  3.11050E-01  7.71800E-02
+  9.00000E+01  2.40370E-01  6.04000E-02
+  9.00000E+01  2.03310E-01  7.04700E-02
+  9.00000E+01  2.63520E-01  6.03100E-02
+# Full reference:
+#S.S.Vasil'ev, T.N.Mihaleva, D.L.Chuprunov
+#Jour. Zhurnal Eksperimental`noi i Teoret. Fiziki Vol.47, p.1585, 1964
+#Study of the (p,p`) reaction with excitation of 1.65 and 1.83 MeV levels in Al-27.

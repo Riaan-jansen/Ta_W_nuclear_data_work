@@ -1,0 +1,37 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : Inelastic scattering
+# E-inc       :   11.000 MeV
+# E-exc       :  2.01292 MeV (EXFOR:  2.01200)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :  608
+# X4 ID       : C2165117 
+# X4 code     : 29-CU-63(P,INL)29-CU-63,PAR,DA
+# Author      : Perey                    
+# Year        : 1968
+# Data points :     16
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  3.67001E+01  3.41000E-01  6.80000E-02
+  4.18001E+01  2.87000E-01  5.70000E-02
+  4.68001E+01  2.78000E-01  5.60000E-02
+  5.19001E+01  2.15000E-01  4.30000E-02
+  5.69001E+01  1.73000E-01  3.50000E-02
+  6.70001E+01  1.39000E-01  2.80000E-02
+  6.70001E+01  1.63000E-01  3.30000E-02
+  7.21001E+01  1.56000E-01  3.10000E-02
+  7.71001E+01  1.43000E-01  2.90000E-02
+  8.21001E+01  1.07000E-01  2.10000E-02
+  8.71001E+01  1.34000E-01  2.70000E-02
+  9.21001E+01  1.16000E-01  2.30000E-02
+  9.71002E+01  1.17000E-01  2.30000E-02
+  1.02100E+02  1.20000E-01  2.40000E-02
+  1.56500E+02  1.49000E-01  3.00000E-02
+  1.61400E+02  1.79000E-01  3.60000E-02
+# Full reference:
+#C.M.Perey, F.G.Perey, J.K.Dickens, R.J.Silva
+#Jour. Physical Review Vol.175, p.1460, 1968
+#11-MeV Proton Optical-Model Analysis

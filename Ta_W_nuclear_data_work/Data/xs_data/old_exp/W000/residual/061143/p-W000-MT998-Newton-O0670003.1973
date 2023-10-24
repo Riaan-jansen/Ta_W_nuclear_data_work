@@ -1,0 +1,35 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  61
+# Final A     : 143
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0670003 
+# X4 code     : 74-W-0(P,X)61-PM-143,CUM,SIG
+# Author      : Newton                   
+# Year        : 1973
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.40000E+04  1.60000E+01  2.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#G.W.A.Newton, V.J.Robinson, M.Skarestad, J.D.Hemingway
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.35, p.1435, 1973
+#Rare Earth Yields from Bombardment of Tungsten Targets With 24 GeV Protons.
+#
+# Quality information:
+#
+# Quality  O0670003 :   
+# Date     O0670003 : 05-01-2018
+# Reaction O0670003 : NP:    1 E-range:  2.400E+04-  2.400E+04 MeV 74-W-0(P,X)61-PM-143,CUM,SIG        pdf: n
+# Paper    O0670003 : G.W.A.Newton+ Jour. Journal of Inorganic and Nuclear Chemistry Vol.35, p.1435, 1973 Rare Earth Yields from Bombardment of Tungsten Targets W
+# Action   O0670003 : 
+# Comment  O0670003 : 

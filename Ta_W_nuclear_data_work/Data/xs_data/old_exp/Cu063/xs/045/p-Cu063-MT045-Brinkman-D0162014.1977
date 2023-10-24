@@ -1,0 +1,50 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,npa)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   45
+# X4 ID       : D0162014 
+# X4 code     : 29-CU-63(P,N+P+A)27-CO-58,,SIG
+# Author      : Brinkman                 
+# Year        : 1977
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.61070E+01  4.01950E+00  0.00000E+00  0.00000E+00  1.95331E-01  4.8596E-02   0.000       3.824              
+  3.04210E+01  8.19620E+00  0.00000E+00  0.00000E+00  9.76871E+00   1.192       0.000       1.573              
+  3.60180E+01  1.65360E+02  0.00000E+00  0.00000E+00  3.84890E+01  0.2328       0.000       126.9              
+  3.60390E+01  1.60380E+02  0.00000E+00  0.00000E+00  3.85485E+01  0.2404       0.000       121.8              
+  4.05600E+01  2.12770E+02  0.00000E+00  0.00000E+00  4.90655E+01  0.2306       0.000       163.7              
+  4.08230E+01  2.16660E+02  0.00000E+00  0.00000E+00  4.87342E+01  0.2249       0.000       167.9              
+  4.59750E+01  1.89320E+02  0.00000E+00  0.00000E+00  4.13592E+01  0.2185       0.000       148.0              
+  4.60950E+01  1.93760E+02  0.00000E+00  0.00000E+00  4.10992E+01  0.2121       0.000       152.7              
+  5.01260E+01  1.35320E+02  0.00000E+00  0.00000E+00  3.24843E+01  0.2401       0.000       102.8              
+  5.04250E+01  1.30910E+02  0.00000E+00  0.00000E+00  3.21240E+01  0.2454       0.000       98.79              
+#
+# Average deviation:                                                5.084       0.000       108.8    
+#
+# Full reference:
+#G.A.Brinkman, J.Helmer, L.Lindner
+#Jour. Radiochemical and Radioanalytical Letters Vol.28, p.9, 1977
+#Nickel and copper fiols as monitors for cyclotron beam intensities
+#
+# Quality information:
+#
+# Quality  D0162014 : T2
+# Date     D0162014 : 05-01-2018
+# Reaction D0162014 : NP:   10 E-range:   26.1    -   50.4     MeV 29-CU-63(P,N+P+A)27-CO-58,,SIG      pdf: y
+# Paper    D0162014 : G.A.Brinkman+ Jour. Radiochemical and Radioanalytical Letters Vol.28, p.9, 1977 Nickel and copper fiols as monitors for cyclotron beam inten
+# Action   D0162014 : 
+# Comment  D0162014 : Evaluation        N=    10 F=   5.08     chi-2=   0.00     D=   109.     mb T=   33.2     mb E=   142.     K1=  5.08     K2= 5.296E+06
+# Comment  D0162014 : TALYS             N=    10 F=   5.08     chi-2=   0.00     D=   109.     mb T=   33.2     mb E=   142.     K1=  5.08     K2= 5.296E+06
+# Comment  D0162014 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   142.     K1=  0.00     K2=  0.00
+# Comment  D0162014 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   142.     K1=  0.00     K2=  0.00
+# Comment  D0162014 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   142.     K1=  0.00     K2=  0.00
+# Comment  D0162014 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   142.     K1=  0.00     K2=  0.00
+# Comment  D0162014 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   142.     K1=  0.00     K2=  0.00
+# Comment  D0162014 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   142.     K1=  0.00     K2=  0.00
+# Comment  D0162014 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   142.     K1=  0.00     K2=  0.00

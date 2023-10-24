@@ -1,0 +1,39 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 184
+# Final state : 1
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0380006 
+# X4 code     : 74-W-0(P,X)75-RE-184-M,,SIG
+# Author      : XiaodongZhangg           
+# Year        : 1999
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.78000E+01  7.70000E+00  3.10000E+00  0.00000E+00
+  1.93000E+01  1.73000E+01  6.20000E+00  0.00000E+00
+  2.08000E+01  2.05000E+01  6.30000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Xiaodong Zhang, Wenxin Lp, Kemin Fang, Weiyu He, Rong Sheng, Duanzi Ying, Weiqing Hu
+#
+#Jour. Radiochimica Acta Vol.86, p.11, 1999
+#Excitation functions for natW(p,xn)181-186Re reactions and production of no-carrier-added 186Re via 186W(p,n)186Re Reaction
+#
+#
+# Quality information:
+#
+# Quality  D0380006 :   
+# Date     D0380006 : 05-01-2018
+# Reaction D0380006 : NP:    3 E-range:   17.8    -   20.8     MeV 74-W-0(P,X)75-RE-184-M,,SIG         pdf: n
+# Paper    D0380006 : Xiaodong Zhang+ Jour. Radiochimica Acta Vol.86, p.11, 1999 Excitation functions for natW(p,xn)181-186Re reactions and production of no-carri
+# Action   D0380006 : 
+# Comment  D0380006 : 

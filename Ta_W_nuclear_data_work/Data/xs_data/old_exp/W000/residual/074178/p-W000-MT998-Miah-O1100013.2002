@@ -1,0 +1,51 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  74
+# Final A     : 178
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1100013 
+# X4 code     : 74-W-0(P,X)74-W-178,CUM,SIG
+# Author      : Miah                     
+# Year        : 2002
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.21000E+01  1.75200E+02  5.86700E+00  9.04000E-01  2.59172E-01  1.4793E-03   889.1       174.9              
+  5.54000E+01  1.87500E+02  6.18800E+00  8.70000E-01  2.61422E-01  1.3943E-03   915.6       187.2              
+  5.86000E+01  1.81500E+02  6.53400E+00  8.33000E-01  2.62359E-01  1.4455E-03   769.4       181.2              
+  6.32000E+01  1.80700E+02  6.48600E+00  7.59000E-01  2.60707E-01  1.4428E-03   773.9       180.4              
+  6.61000E+01  1.90100E+02  9.35300E+00  7.12000E-01  2.58498E-01  1.3598E-03   412.0       189.8              
+  6.86000E+01  2.02400E+02  2.17700E+01  1.92400E+00  2.56111E-01  1.2654E-03   86.22       202.1              
+  6.89000E+01  2.02000E+02  7.38700E+00  6.62000E-01  2.55825E-01  1.2665E-03   745.9       201.7              
+  8.01000E+01  1.83800E+02  2.07300E+01  1.30000E+00  2.41876E-01  1.3160E-03   78.41       183.6              
+  8.42000E+01  1.75900E+02  1.87500E+01  1.83000E+00  2.35056E-01  1.3363E-03   87.77       175.7              
+#
+# Average deviation:                                                732.6       528.7       186.3    
+#
+# Full reference:
+#M.H.Miah,  J.Kuhnhenn,  U.Herpers,  R.Michel,  P.Kubik
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.369, 2002
+#Production of residual nuclides by proton-induced reactions oh target W at an energy of 72 MeV.
+#
+# Quality information:
+#
+# Quality  O1100013 : T2
+# Date     O1100013 : 05-01-2018
+# Reaction O1100013 : NP:    9 E-range:   52.1    -   84.2     MeV 74-W-0(P,X)74-W-178,CUM,SIG         pdf: y
+# Paper    O1100013 : M.H.Miah+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.369, 2002 Production of residual nuclides by proton-induced reaction
+# Action   O1100013 : 
+# Comment  O1100013 : Evaluation        N=     9 F=   733.     chi-2=   529.     D=   186.     mb T=  0.255     mb E=   187.     K1=  733.     K2= 1.000E+35
+# Comment  O1100013 : TALYS             N=     9 F=   733.     chi-2=   529.     D=   186.     mb T=  0.255     mb E=   187.     K1=  733.     K2= 1.000E+35
+# Comment  O1100013 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   187.     K1=  0.00     K2=  0.00
+# Comment  O1100013 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   187.     K1=  0.00     K2=  0.00
+# Comment  O1100013 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   187.     K1=  0.00     K2=  0.00
+# Comment  O1100013 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   187.     K1=  0.00     K2=  0.00
+# Comment  O1100013 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   187.     K1=  0.00     K2=  0.00
+# Comment  O1100013 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   187.     K1=  0.00     K2=  0.00
+# Comment  O1100013 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   187.     K1=  0.00     K2=  0.00

@@ -1,0 +1,54 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0394005 
+# X4 code     : 13-AL-27(P,X)11-NA-22,,SIG
+# Author      : Gauvin                   
+# Year        : 1962
+# Data points :     12
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.00000E+01  1.60000E+01  2.00000E+00  0.00000E+00  2.90739E+01   1.817       56.75       13.07              
+  5.00000E+01  4.00000E+01  2.00000E+00  0.00000E+00  2.74469E+01  0.6862       44.87       12.55              
+  6.00000E+01  3.60000E+01  2.00000E+00  0.00000E+00  2.30868E+01  0.6413       45.88       12.91              
+  7.00000E+01  2.80000E+01  1.50000E+00  0.00000E+00  1.86072E+01  0.6645       42.45       9.393              
+  8.00000E+01  2.40000E+01  1.50000E+00  0.00000E+00  1.83875E+01  0.7661       18.74       5.613              
+  8.50000E+01  2.20000E+01  1.00000E+00  0.00000E+00  1.84767E+01  0.8399       25.88       3.669              
+  9.00000E+01  2.20000E+01  1.00000E+00  0.00000E+00  1.85660E+01  0.8439       28.37       4.072              
+  1.00000E+02  2.15000E+01  1.00000E+00  0.00000E+00  1.82086E+01  0.8469       30.88       4.477              
+  1.10000E+02  2.00000E+01  1.00000E+00  0.00000E+00  1.73909E+01  0.8695       28.77       4.687              
+  1.20000E+02  1.90000E+01  1.00000E+00  0.00000E+00  1.65756E+01  0.8724       26.91       4.586              
+  1.30000E+02  1.90000E+01  1.00000E+00  0.00000E+00  1.57281E+01  0.8278       31.20       4.527              
+  1.50000E+02  1.80000E+01  1.00000E+00  0.00000E+00  1.42178E+01  0.7899       33.18       4.345              
+#
+# Average deviation:                                                1.494       34.49       6.992    
+#
+# Full reference:
+#H.Gauvin, M.Lefort, X.Tarrago
+#Jour. Nuclear Physics Vol.39, p.447, 1962
+#Emission of alpha particles from the spallation reactions
+#
+# Quality information:
+#
+# Quality  C0394005 : T1
+# Date     C0394005 : 05-01-2018
+# Reaction C0394005 : NP:   12 E-range:   40.0    -   150.     MeV 13-AL-27(P,X)11-NA-22,,SIG          pdf: y
+# Paper    C0394005 : H.Gauvin+ Jour. Nuclear Physics Vol.39, p.447, 1962 Emission of alpha particles from the spallation reactions
+# Action   C0394005 : 
+# Comment  C0394005 : Evaluation        N=    12 F=   1.49     chi-2=   34.5     D=   6.99     mb T=   19.6     mb E=   23.8     K1=  1.49     K2=  4.31
+# Comment  C0394005 : TALYS             N=    12 F=   1.23     chi-2=   9.21     D=   3.87     mb T=   22.4     mb E=   23.8     K1=  1.23     K2=  1.73
+# Comment  C0394005 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00
+# Comment  C0394005 : eaf.2010          N=     3 F=   1.75     chi-2=   57.8     D=   13.4     mb T=   33.0     mb E=   23.8     K1=  1.75     K2=  6.96
+# Comment  C0394005 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00
+# Comment  C0394005 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00
+# Comment  C0394005 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00
+# Comment  C0394005 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   23.8     K1=  0.00     K2=  0.00
+# Comment  C0394005 : tendl.2017        N=    12 F=   1.68     chi-2=   57.6     D=   9.98     mb T=   15.3     mb E=   23.8     K1=  1.68     K2=  7.31

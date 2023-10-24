@@ -1,0 +1,46 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :  10
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0196004 
+# X4 code     : 13-AL-27(P,X)4-BE-10,,SIG
+# Author      : Sisterson                
+# Year        : 1996
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.01600E+02  1.10000E-01  1.00000E-02  3.00000E+00  6.78403E+00   61.67      9.0548E+05   6.783              
+  1.30500E+02  1.60000E-01  1.00000E-02  2.00000E+00  5.59277E+00   34.95      6.0696E+05   5.584              
+  1.59400E+02  2.50000E-01  2.00000E-02  1.00000E+00  4.76763E+00   19.07      1.0690E+05   4.728              
+#
+# Average deviation:                                                44.14      5.3978E+05   5.698    
+#
+# Full reference:
+#J.M.Sisterson, K.Kim, A.Beverding, P.A.J.Englert, M.W.Caffee, J.Vincent, C.Castaneda, R.C.Reedy
+#
+#Conf. Conf.on Appl.of Accel.in Res.and Ind.,Denton,USA,1996 p.811, 1996
+#Measuring excitation functions needed to interpret cosmogenic nuclide production in lunar rocks.
+#
+# Quality information:
+#
+# Quality  C0196004 : T2
+# Date     C0196004 : 05-01-2018
+# Reaction C0196004 : NP:    3 E-range:   102.    -   159.     MeV 13-AL-27(P,X)4-BE-10,,SIG           pdf: y
+# Paper    C0196004 : J.M.Sisterson+ Conf. Conf.on Appl.of Accel.in Res.and Ind.,Denton,USA,1996 p.811, 1996 Measuring excitation functions needed to interpret co
+# Action   C0196004 : 
+# Comment  C0196004 : Evaluation        N=     3 F=   44.1     chi-2=  5.398E+05 D=   5.70     mb T=   5.71     mb E=  0.173     K1=  44.1     K2= 1.000E+35
+# Comment  C0196004 : TALYS             N=     3 F=   25.7     chi-2=   152.     D=  0.157     mb T=  1.660E-02 mb E=  0.173     K1=  25.7     K2= 1.000E+35
+# Comment  C0196004 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.173     K1=  0.00     K2=  0.00
+# Comment  C0196004 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.173     K1=  0.00     K2=  0.00
+# Comment  C0196004 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.173     K1=  0.00     K2=  0.00
+# Comment  C0196004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.173     K1=  0.00     K2=  0.00
+# Comment  C0196004 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.173     K1=  0.00     K2=  0.00
+# Comment  C0196004 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.173     K1=  0.00     K2=  0.00
+# Comment  C0196004 : tendl.2017        N=     3 F=   70.8     chi-2=  1.079E+06 D=   11.2     mb T=   11.4     mb E=  0.173     K1=  70.8     K2= 1.000E+35

@@ -1,0 +1,25 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9001
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9001
+# X4 ID       : O0095018 
+# X4 code     : (29-CU-0(P,X)18-AR-38,CUM,SIG)/(29-CU-0(P,X)18-AR-39,CUM,SIG
+# Author      : Regnier                  
+# Year        : 1979
+# Data points :      3
+#    E(MeV)      ratio        dratio      dE(MeV)
+  6.00000E+02  1.67000E+00  2.00000E-02  0.00000E+00
+  1.05000E+03  1.75000E+00  7.00000E-02  0.00000E+00
+  2.40000E+04  1.76000E+00  1.50000E-02  0.00000E+00
+# Full reference:
+#S.Regnier
+#Jour. Physical Review, Part C, Nuclear Physics Vol.20, p.1517, 1979
+#Production of argon isotopes by spallation of Sc,Ti, Fe,Co,Ni and Cu

@@ -1,0 +1,33 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  205
+# X4 ID       : C0836009 
+# X4 code     : 13-AL-27(P,X)1-H-3,,SIG
+# Author      : Currie                   
+# Year        : 1956
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.50000E+02  2.30000E+01  5.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#L.A.Currie, W.F.Libby, R.L.Woldgang
+#Jour. Physical Review Vol.101, p.1557, 1956
+#Tritium Production by High-Energy Protons
+#
+# Quality information:
+#
+# Quality  C0836009 :   
+# Date     C0836009 : 05-01-2018
+# Reaction C0836009 : NP:    1 E-range:   450.    -   450.     MeV 13-AL-27(P,X)1-H-3,,SIG             pdf: n
+# Paper    C0836009 : L.A.Currie+ Jour. Physical Review Vol.101, p.1557, 1956 Tritium Production by High-Energy Protons
+# Action   C0836009 : 
+# Comment  C0836009 : 

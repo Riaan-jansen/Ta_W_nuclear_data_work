@@ -1,0 +1,43 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O21290021
+# X4 code     : 13-AL-27(P,X)11-NA-22,,SIG
+# Author      : NguyenLongDen            
+# Year        : 1961
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.55000E+02  1.75000E+01  6.00000E-01  0.00000E+00  1.81366E+01   1.036       1.126      0.6366              
+#
+# Average deviation:                                                1.036       1.126      0.6366    
+#
+# Full reference:
+#M.Nguyen-Long-Den
+#Jour. Comptes Rendus Vol.253, p.2919, 1961
+#Production cross section of sodium by the reaction Al-27(p,3n+3p)11-Na-22 at 155 MeV.
+#
+# Quality information:
+#
+# Quality  O21290021: T1
+# Date     O21290021: 05-01-2018
+# Reaction O21290021: NP:    1 E-range:   155.    -   155.     MeV 13-AL-27(P,X)11-NA-22,,SIG          pdf: y
+# Paper    O21290021: M.Nguyen-Long-Den Jour. Comptes Rendus Vol.253, p.2919, 1961 Production cross section of sodium by the reaction Al-27(p,3n+3p)11-Na-22 at 15
+# Action   O21290021: 
+# Comment  O21290021: Evaluation        N=     1 F=   1.04     chi-2=   1.13     D=  0.637     mb T=   18.1     mb E=   17.5     K1=  1.04     K2=  1.05
+# Comment  O21290021: TALYS             N=     1 F=   1.04     chi-2=   1.13     D=  0.637     mb T=   18.1     mb E=   17.5     K1=  1.04     K2=  1.05
+# Comment  O21290021: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  O21290021: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  O21290021: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  O21290021: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  O21290021: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  O21290021: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  O21290021: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00

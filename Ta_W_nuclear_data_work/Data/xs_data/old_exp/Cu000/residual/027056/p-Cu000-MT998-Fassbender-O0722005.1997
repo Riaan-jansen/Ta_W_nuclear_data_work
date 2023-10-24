@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  56
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0722005 
+# X4 code     : 29-CU-0(P,X)27-CO-56,CUM,SIG
+# Author      : Fassbender               
+# Year        : 1997
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.54100E+02  9.60000E+00  1.10000E+00  0.00000E+00  1.09166E+01   1.137       1.433       1.317              
+  2.14400E+02  1.02000E+01  1.20000E+00  0.00000E+00  1.04936E+01   1.029      5.9867E-02  0.2936              
+#
+# Average deviation:                                                1.098      0.7462      0.8051    
+#
+# Full reference:
+#M.Fassbender,  Yu.N.Shubin,  V.P.Lunev,  S.M.Qaim
+#Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997
+#Experimental studies and nuclear model calculations on the formation of radioactive products in interactions of medium energy protons with copper, zinc
+#and brass:  estimation of collimator activation in proton therapy facilities.
+#
+# Quality information:
+#
+# Quality  O0722005 : T1
+# Date     O0722005 : 05-01-2018
+# Reaction O0722005 : NP:    2 E-range:   214.    -   254.     MeV 29-CU-0(P,X)27-CO-56,CUM,SIG        pdf: y
+# Paper    O0722005 : M.Fassbender+ Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997 Experimental studies and nuclear model calculations on the formation
+# Action   O0722005 : 
+# Comment  O0722005 : Evaluation        N=     2 F=   1.10     chi-2=  0.746     D=  0.805     mb T=   10.7     mb E=   9.90     K1=  1.10     K2=  1.15
+# Comment  O0722005 : TALYS             N=     2 F=   1.10     chi-2=  0.746     D=  0.805     mb T=   10.7     mb E=   9.90     K1=  1.10     K2=  1.15
+# Comment  O0722005 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.90     K1=  0.00     K2=  0.00
+# Comment  O0722005 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.90     K1=  0.00     K2=  0.00
+# Comment  O0722005 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.90     K1=  0.00     K2=  0.00
+# Comment  O0722005 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.90     K1=  0.00     K2=  0.00
+# Comment  O0722005 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.90     K1=  0.00     K2=  0.00
+# Comment  O0722005 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.90     K1=  0.00     K2=  0.00
+# Comment  O0722005 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.90     K1=  0.00     K2=  0.00

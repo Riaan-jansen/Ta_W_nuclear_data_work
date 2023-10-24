@@ -1,0 +1,52 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0394006 
+# X4 code     : 13-AL-27(P,X)11-NA-24,,SIG
+# Author      : Gauvin                   
+# Year        : 1962
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.00000E+01  7.00000E+00  1.00000E+00  0.00000E+00  1.79019E+01   2.557       179.2       10.90              
+  7.00000E+01  9.00000E+00  0.00000E+00  0.00000E+00  1.27768E+01   1.420       29.46       3.777              
+  8.00000E+01  1.00000E+01  5.00000E-01  0.00000E+00  1.23662E+01   1.237       52.75       2.755              
+  8.50000E+01  1.02000E+01  0.00000E+00  0.00000E+00  1.21619E+01   1.192       10.20       2.645              
+  9.00000E+01  1.05000E+01  0.00000E+00  0.00000E+00  1.19577E+01   1.139       7.234       2.536              
+  1.00000E+02  1.05000E+01  0.00000E+00  0.00000E+00  1.13383E+01   1.080       4.735       2.393              
+  1.10000E+02  1.03000E+01  0.00000E+00  0.00000E+00  1.06489E+01   1.034       2.724       2.055              
+  1.20000E+02  1.01000E+01  0.00000E+00  0.00000E+00  1.01286E+01   1.003       1.751       1.861              
+  1.30000E+02  9.80000E+00  0.00000E+00  0.00000E+00  9.56686E+00  0.9762       1.022       1.634              
+  1.50000E+02  9.60000E+00  5.00000E-01  0.00000E+00  8.62479E+00  0.8984       10.03       1.248              
+#
+# Average deviation:                                                1.472       29.91       3.181    
+#
+# Full reference:
+#H.Gauvin, M.Lefort, X.Tarrago
+#Jour. Nuclear Physics Vol.39, p.447, 1962
+#Emission of alpha particles from the spallation reactions
+#
+# Quality information:
+#
+# Quality  C0394006 : T1
+# Date     C0394006 : 05-01-2018
+# Reaction C0394006 : NP:   10 E-range:   60.0    -   150.     MeV 13-AL-27(P,X)11-NA-24,,SIG          pdf: y
+# Paper    C0394006 : H.Gauvin+ Jour. Nuclear Physics Vol.39, p.447, 1962 Emission of alpha particles from the spallation reactions
+# Action   C0394006 : 
+# Comment  C0394006 : Evaluation        N=    10 F=   1.47     chi-2=   29.9     D=   3.18     mb T=   11.7     mb E=   9.70     K1=  1.47     K2=  4.20
+# Comment  C0394006 : TALYS             N=    10 F=   1.18     chi-2=   2.27     D=   1.35     mb T=   8.78     mb E=   9.70     K1=  1.18     K2=  1.38
+# Comment  C0394006 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.70     K1=  0.00     K2=  0.00
+# Comment  C0394006 : eaf.2010          N=     1 F=   3.93     chi-2=   422.     D=   20.5     mb T=   27.5     mb E=   9.70     K1=  3.93     K2=  575.
+# Comment  C0394006 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.70     K1=  0.00     K2=  0.00
+# Comment  C0394006 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.70     K1=  0.00     K2=  0.00
+# Comment  C0394006 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.70     K1=  0.00     K2=  0.00
+# Comment  C0394006 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   9.70     K1=  0.00     K2=  0.00
+# Comment  C0394006 : tendl.2017        N=    10 F=   1.52     chi-2=   33.3     D=   4.05     mb T=   13.7     mb E=   9.70     K1=  1.52     K2=  3.62

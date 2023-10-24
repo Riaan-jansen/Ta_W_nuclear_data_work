@@ -1,0 +1,37 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  13
+# Final A     :  26
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0109010 
+# X4 code     : 13-AL-27(P,X)13-AL-26-G,IND,SIG
+# Author      : Shibata                  
+# Year        : 1993
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.20000E+04  2.01000E+01  1.60000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#S.Shibata, M.Imamura, H.Nagai, K.Kobayashi, K.Sakamoto, M.Furukawa, I.Fujiwara
+#
+#Jour. Physical Review, Part C, Nuclear Physics Vol.48, p.2617, 1993
+#Measurements of be-10 and Al-26 Production Cross Sections with 12 GeV Protons by Accelerator Mass Spectrometry.
+#
+#
+# Quality information:
+#
+# Quality  O0109010 :   
+# Date     O0109010 : 05-01-2018
+# Reaction O0109010 : NP:    1 E-range:  1.200E+04-  1.200E+04 MeV 13-AL-27(P,X)13-AL-26-G,IND,SIG     pdf: n
+# Paper    O0109010 : S.Shibata+ Jour. Physical Review, Part C, Nuclear Physics Vol.48, p.2617, 1993 Measurements of be-10 and Al-26 Production Cross Sections wit
+# Action   O0109010 : 
+# Comment  O0109010 : 

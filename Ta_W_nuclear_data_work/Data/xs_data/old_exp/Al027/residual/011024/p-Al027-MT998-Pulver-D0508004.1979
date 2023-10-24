@@ -1,0 +1,52 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0508004 
+# X4 code     : 13-AL-27(P,X)11-NA-24,CUM,SIG
+# Author      : Pulver                   
+# Year        : 1979
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.47820E+01  4.30600E-01  2.06000E-02  0.00000E+00  3.49450E-01  0.8115       15.52      8.1150E-02          
+  3.74860E+01  8.73740E-01  0.00000E+00  0.00000E+00  9.70735E-01   1.111       0.000      9.6995E-02          
+  4.40600E+01  2.84450E+00  0.00000E+00  0.00000E+00  2.77124E+00  0.9742       0.000      7.3259E-02          
+  4.50230E+01  2.94990E+00  0.00000E+00  0.00000E+00  3.05535E+00   1.036       0.000      0.1055              
+  4.95700E+01  5.75530E+00  0.00000E+00  0.00000E+00  4.83311E+00  0.8398       0.000      0.9222              
+  5.01660E+01  6.19830E+00  0.00000E+00  0.00000E+00  5.06777E+00  0.8176       0.000       1.131              
+  5.06880E+01  6.73870E+00  0.00000E+00  0.00000E+00  5.27703E+00  0.7831       0.000       1.462              
+  5.48350E+01  7.93970E+00  0.00000E+00  0.00000E+00  6.93943E+00  0.8740       0.000       1.000              
+  5.92730E+01  8.84190E+00  0.00000E+00  0.00000E+00  8.29690E+00  0.9384       0.000      0.5450              
+  7.11000E+01  1.03360E+01  0.00000E+00  0.00000E+00  9.65107E+00  0.9337       0.000      0.6849              
+#
+# Average deviation:                                                1.158       1.552      0.6101    
+#
+# Full reference:
+#P.Pulver
+#Thes. Thesis or dissertation Name.Pulver, 1979
+#No title.
+#
+# Quality information:
+#
+# Quality  D0508004 : N1
+# Date     D0508004 : 05-01-2018
+# Reaction D0508004 : NP:   10 E-range:   34.8    -   71.1     MeV 13-AL-27(P,X)11-NA-24,CUM,SIG       pdf: n
+# Paper    D0508004 : P.Pulver Thes. Thesis or dissertation Name.Pulver, 1979 No title.
+# Action   D0508004 : 
+# Comment  D0508004 : Evaluation        N=    10 F=   1.16     chi-2=   1.55     D=  0.610     mb T=   4.72     mb E=   5.29     K1=  1.16     K2=  1.32
+# Comment  D0508004 : TALYS             N=    10 F=   1.16     chi-2=   1.55     D=  0.610     mb T=   4.72     mb E=   5.29     K1=  1.16     K2=  1.32
+# Comment  D0508004 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.29     K1=  0.00     K2=  0.00
+# Comment  D0508004 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.29     K1=  0.00     K2=  0.00
+# Comment  D0508004 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.29     K1=  0.00     K2=  0.00
+# Comment  D0508004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.29     K1=  0.00     K2=  0.00
+# Comment  D0508004 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.29     K1=  0.00     K2=  0.00
+# Comment  D0508004 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.29     K1=  0.00     K2=  0.00
+# Comment  D0508004 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.29     K1=  0.00     K2=  0.00

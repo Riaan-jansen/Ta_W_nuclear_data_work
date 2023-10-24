@@ -1,0 +1,44 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0554007 
+# X4 code     : 13-AL-27(P,X)4-BE-7,,SIG
+# Author      : Izosimova                
+# Year        : 1978
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.60000E+02  4.80000E+00  5.00000E-01  0.00000E+00  2.97373E+00  0.6195       13.34       1.826              
+  1.00000E+03  6.20000E+00  6.00000E-01  0.00000E+00  2.62500E+00  0.4234       35.50       3.575              
+#
+# Average deviation:                                                2.005       24.42       2.701    
+#
+# Full reference:
+#E.S.Izosimova, A.A.Nosov, V.V.Smirnov, A.A.Rimskiy-Korsakov, Yu.P.Yakovlev
+#Prog. Khlopin Radiev. Inst., Leningrad Reports No.87, 1978
+#Be-7 Production Cross Sections in Light Nuclei Disintegration by Protons of 0.66 and 1.0 GeV.
+#
+# Quality information:
+#
+# Quality  O0554007 : N1
+# Date     O0554007 : 05-01-2018
+# Reaction O0554007 : NP:    2 E-range:   660.    -  1.000E+03 MeV 13-AL-27(P,X)4-BE-7,,SIG            pdf: n
+# Paper    O0554007 : E.S.Izosimova+ Prog. Khlopin Radiev. Inst., Leningrad Reports No.87, 1978 Be-7 Production Cross Sections in Light Nuclei Disintegration by P
+# Action   O0554007 : 
+# Comment  O0554007 : Evaluation        N=     2 F=   2.01     chi-2=   24.4     D=   2.70     mb T=   2.80     mb E=   5.50     K1=  2.01     K2=  12.4
+# Comment  O0554007 : TALYS             N=     2 F=   2.01     chi-2=   24.4     D=   2.70     mb T=   2.80     mb E=   5.50     K1=  2.01     K2=  12.4
+# Comment  O0554007 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.50     K1=  0.00     K2=  0.00
+# Comment  O0554007 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.50     K1=  0.00     K2=  0.00
+# Comment  O0554007 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.50     K1=  0.00     K2=  0.00
+# Comment  O0554007 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.50     K1=  0.00     K2=  0.00
+# Comment  O0554007 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.50     K1=  0.00     K2=  0.00
+# Comment  O0554007 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.50     K1=  0.00     K2=  0.00
+# Comment  O0554007 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.50     K1=  0.00     K2=  0.00

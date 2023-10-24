@@ -1,0 +1,35 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  19
+# Final A     :  42
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0270004 
+# X4 code     : 29-CU-0(P,X)19-K-42,,SIG
+# Author      : Porile                   
+# Year        : 1964
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.90000E+04  2.80000E+00  2.00000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#N.T.Porile, S.Tanaka
+#Jour. Physical Review Vol.135, p.B122, 1964
+#Formation of Sodium and Potassium Nuclides in the Bombardment of Light Elements with 29-GeV Protons
+#
+# Quality information:
+#
+# Quality  C0270004 :   
+# Date     C0270004 : 05-01-2018
+# Reaction C0270004 : NP:    1 E-range:  2.900E+04-  2.900E+04 MeV 29-CU-0(P,X)19-K-42,,SIG            pdf: n
+# Paper    C0270004 : N.T.Porile+ Jour. Physical Review Vol.135, p.B122, 1964 Formation of Sodium and Potassium Nuclides in the Bombardment of Light Elements with
+# Action   C0270004 : 
+# Comment  C0270004 : 

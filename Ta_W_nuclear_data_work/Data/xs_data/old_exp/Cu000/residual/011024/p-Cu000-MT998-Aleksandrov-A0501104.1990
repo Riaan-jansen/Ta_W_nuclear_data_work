@@ -1,0 +1,36 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0501104 
+# X4 code     : 29-CU-0(P,X)11-NA-24,CUM,SIG
+# Author      : Aleksandrov              
+# Year        : 1990
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.00000E+03  9.40000E-01  4.00000E-02  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Yu.V.Aleksandrov,  A.I.Bogdanov,  S.K.Vasil'ev, R.B.Ivanov,  M.A.Mikhaylova,  T.I.Popova, V.P.Prikhodtseva
+#
+#Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz. Vol.54, p.2249, 1990
+#The Radionuclide Production by 1 GeV Protons in the Middle Atomic Weight Elements.
+#
+# Quality information:
+#
+# Quality  A0501104 :   
+# Date     A0501104 : 05-01-2018
+# Reaction A0501104 : NP:    1 E-range:  1.000E+03-  1.000E+03 MeV 29-CU-0(P,X)11-NA-24,CUM,SIG        pdf: n
+# Paper    A0501104 : Yu.V.Aleksandrov+ Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz. Vol.54, p.2249, 1990 The Radionuclide Production by 1 GeV Protons in the Mid
+# Action   A0501104 : 
+# Comment  A0501104 : 

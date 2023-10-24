@@ -1,0 +1,24 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       :   18
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          :   18
+# X4 ID       : O0375004R
+# X4 code     : (74-W-0(P,F),,SIG)/(92-U-238(P,F),,SIG)
+# Author      : Kotov                    
+# Year        : 1974
+# Data points :      1
+#    E(MeV)      ratio        dratio      dE(MeV)
+  1.00000E+03  1.08000E-02  1.30000E-03  0.00000E+00
+# Full reference:
+#A.A.Kotov,  G.G.Semenchuk,  L.N.Andronenko, M.N.Andronenko,  B.L.Gorshkov,  G.G.Kovshevny, V.R.Reznik,  G.E.Solyakin
+#
+#Jour. Yadernaya Fizika Vol.19, p.756, 1974
+#Angular correlations of fragments from binary nuclear fission induced by 1 GeV protons.

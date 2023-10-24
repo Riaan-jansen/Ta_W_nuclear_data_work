@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  24
+# Final A     :  51
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0580020 
+# X4 code     : 29-CU-0(P,X)24-CR-51,CUM,SIG
+# Author      : Aleksandrov              
+# Year        : 1996
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.60000E+02  2.26000E+01  1.20000E+00  0.00000E+00  9.81172E+00  0.4341       113.6       12.79              
+#
+# Average deviation:                                                2.303       113.6       12.79    
+#
+# Full reference:
+#Yu.V.Aleksandrov, S.K.Vasilev,  R.B.Ivanov, M.A.Mikhailova, V.P.Prikhodtseva,  A.V.Saulsky, V.G.Eismont
+#
+#Conf. Conf.Nucl.Spectrosc.Nucl.Struct., Moscow, June 1996 p.219, 1996
+#Cross sections for the production of radionuclides in copper target irradiated with 660 MeV protons
+#
+# Quality information:
+#
+# Quality  A0580020 : T1
+# Date     A0580020 : 05-01-2018
+# Reaction A0580020 : NP:    1 E-range:   660.    -   660.     MeV 29-CU-0(P,X)24-CR-51,CUM,SIG        pdf: y
+# Paper    A0580020 : Yu.V.Aleksandrov+ Conf. Conf.Nucl.Spectrosc.Nucl.Struct., Moscow, June 1996 p.219, 1996 Cross sections for the production of radionuclides i
+# Action   A0580020 : 
+# Comment  A0580020 : Evaluation        N=     1 F=   2.30     chi-2=   114.     D=   12.8     mb T=   9.81     mb E=   22.6     K1=  2.30     K2=  67.8
+# Comment  A0580020 : TALYS             N=     1 F=   2.30     chi-2=   114.     D=   12.8     mb T=   9.81     mb E=   22.6     K1=  2.30     K2=  67.8
+# Comment  A0580020 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.6     K1=  0.00     K2=  0.00
+# Comment  A0580020 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.6     K1=  0.00     K2=  0.00
+# Comment  A0580020 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.6     K1=  0.00     K2=  0.00
+# Comment  A0580020 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.6     K1=  0.00     K2=  0.00
+# Comment  A0580020 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.6     K1=  0.00     K2=  0.00
+# Comment  A0580020 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.6     K1=  0.00     K2=  0.00
+# Comment  A0580020 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.6     K1=  0.00     K2=  0.00

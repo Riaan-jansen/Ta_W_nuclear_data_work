@@ -1,0 +1,31 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,el)
+# E-inc       :  424.000 MeV
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :    2
+# X4 ID       : O04550031
+# X4 code     : 13-AL-27(P,EL)13-AL-27,,DA
+# Author      : Heiberg                  
+# Year        : 1957
+# Data points :     11
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  6.39997E+00  1.88000E+03  9.00000E+01
+  8.29993E+00  7.74000E+02  2.30000E+01
+  9.79996E+00  2.22000E+02  2.00000E+00
+  1.04002E+01  1.89000E+02  2.00000E+00
+  1.16001E+01  5.18000E+01  2.10000E+00
+  1.22999E+01  3.38000E+01  2.60000E+00
+  1.35000E+01  2.21000E+01  9.00000E-01
+  1.39001E+01  2.35000E+01  1.70000E+00
+  1.48001E+01  2.27000E+01  1.10000E+00
+  1.59001E+01  2.94000E+01  1.10000E+00
+  1.85001E+01  1.70000E+01  9.00000E-01
+# Full reference:
+#E.Heiberg
+#Jour. Physical Review Vol.106, p.1271, 1957
+#Angular Distribution of 424-MeV Polarized Protons Elastically Scattered from Various Nuclei.

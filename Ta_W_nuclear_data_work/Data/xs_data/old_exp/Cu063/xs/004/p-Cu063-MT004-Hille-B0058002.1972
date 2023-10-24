@@ -1,0 +1,48 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : B0058002 
+# X4 code     : 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP
+# Author      : Hille                    
+# Year        : 1972
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.70000E+00  3.48000E+02  0.00000E+00  0.00000E+00  1.46508E+02  0.4210       37.08       201.5              
+  9.90000E+00  4.32000E+02  0.00000E+00  0.00000E+00  2.05908E+02  0.4766       28.15       226.1              
+  1.10000E+01  4.75000E+02  0.00000E+00  0.00000E+00  2.42146E+02  0.5098       23.87       232.9              
+  1.20000E+01  4.67000E+02  0.00000E+00  0.00000E+00  2.70664E+02  0.5796       17.55       196.3              
+  1.31000E+01  5.07000E+02  3.40000E+01  0.00000E+00  2.80323E+02  0.5529       45.21       226.7              
+  1.41000E+01  3.80000E+02  0.00000E+00  0.00000E+00  2.52667E+02  0.6649       10.26       127.3              
+  1.49000E+01  3.20000E+02  0.00000E+00  0.00000E+00  2.12485E+02  0.6640       9.722       107.5              
+  1.58000E+01  2.47000E+02  0.00000E+00  0.00000E+00  1.67686E+02  0.6789       8.471       79.31              
+#
+# Average deviation:                                                1.925       22.54       174.7    
+#
+# Full reference:
+#M.Hille,  P.Hille,  M.Uhl,  W.Weisz
+#Jour. Nuclear Physics, Section A Vol.198, p.625, 1972
+#Excitation Functions of (P,N) And (A,N) Reactions On Ni, Cu and Zn
+#
+# Quality information:
+#
+# Quality  B0058002 : T2
+# Date     B0058002 : 05-01-2018
+# Reaction B0058002 : NP:    8 E-range:   8.70    -   15.8     MeV 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP    pdf: y
+# Paper    B0058002 : M.Hille+ Jour. Nuclear Physics, Section A Vol.198, p.625, 1972 Excitation Functions of (P,N) And (A,N) Reactions On Ni, Cu and Zn
+# Action   B0058002 : 
+# Comment  B0058002 : Evaluation        N=     8 F=   1.92     chi-2=   22.5     D=   175.     mb T=   222.     mb E=   397.     K1=  1.92     K2=  14.3
+# Comment  B0058002 : TALYS             N=     8 F=   1.41     chi-2=   2.88     D=   109.     mb T=   288.     mb E=   397.     K1=  1.41     K2=  2.34
+# Comment  B0058002 : cendl3.1          N=     8 F=   2.38     chi-2=   31.2     D=   204.     mb T=   193.     mb E=   397.     K1=  2.38     K2=  90.6
+# Comment  B0058002 : eaf.2010          N=     8 F=   1.95     chi-2=   25.2     D=   184.     mb T=   213.     mb E=   397.     K1=  1.95     K2=  12.2
+# Comment  B0058002 : endfb8.0          N=     8 F=   1.86     chi-2=   23.6     D=   177.     mb T=   220.     mb E=   397.     K1=  1.86     K2=  8.73
+# Comment  B0058002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   397.     K1=  0.00     K2=  0.00
+# Comment  B0058002 : jeff3.3           N=     8 F=   2.01     chi-2=   27.2     D=   192.     mb T=   205.     mb E=   397.     K1=  2.01     K2=  13.7
+# Comment  B0058002 : jendl4.0          N=     8 F=   1.77     chi-2=   20.5     D=   165.     mb T=   232.     mb E=   397.     K1=  1.77     K2=  6.77
+# Comment  B0058002 : tendl.2017        N=     8 F=   2.01     chi-2=   27.3     D=   192.     mb T=   205.     mb E=   397.     K1=  2.01     K2=  14.0

@@ -1,0 +1,43 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0094002 
+# X4 code     : 13-AL-27(P,X)11-NA-24,CUM,SIG,,,EXP
+# Author      : Goebel                   
+# Year        : 1961
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.91000E+02  1.10000E+01  5.00000E-01  0.00000E+00  5.29188E+00  0.4811       130.3       5.708              
+#
+# Average deviation:                                                2.079       130.3       5.708    
+#
+# Full reference:
+#K.Goebel,  D.Harting,  J.C.Kluyver,  A.Kusumegi, H.Schultes
+#Jour. Nuclear Physics Vol.24, p.28, 1961
+#The C-12(P,PN)C-11 and Al-27(P,3PN)Na-24 cross sections at 591 MeV.
+#
+# Quality information:
+#
+# Quality  B0094002 : T1
+# Date     B0094002 : 05-01-2018
+# Reaction B0094002 : NP:    1 E-range:   591.    -   591.     MeV 13-AL-27(P,X)11-NA-24,CUM,SIG,,,EXP pdf: y
+# Paper    B0094002 : K.Goebel+ Jour. Nuclear Physics Vol.24, p.28, 1961 The C-12(P,PN)C-11 and Al-27(P,3PN)Na-24 cross sections at 591 MeV.
+# Action   B0094002 : 
+# Comment  B0094002 : Evaluation        N=     1 F=   2.08     chi-2=   130.     D=   5.71     mb T=   5.29     mb E=   11.0     K1=  2.08     K2=  38.0
+# Comment  B0094002 : TALYS             N=     1 F=   2.08     chi-2=   130.     D=   5.71     mb T=   5.29     mb E=   11.0     K1=  2.08     K2=  38.0
+# Comment  B0094002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.0     K1=  0.00     K2=  0.00
+# Comment  B0094002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.0     K1=  0.00     K2=  0.00
+# Comment  B0094002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.0     K1=  0.00     K2=  0.00
+# Comment  B0094002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.0     K1=  0.00     K2=  0.00
+# Comment  B0094002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.0     K1=  0.00     K2=  0.00
+# Comment  B0094002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.0     K1=  0.00     K2=  0.00
+# Comment  B0094002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.0     K1=  0.00     K2=  0.00

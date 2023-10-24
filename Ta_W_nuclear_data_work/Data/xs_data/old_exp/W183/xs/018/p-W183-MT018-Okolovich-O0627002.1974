@@ -1,0 +1,37 @@
+# Target Z    :  74
+# Target A    : 183
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,f)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   18
+# X4 ID       : O0627002 
+# X4 code     : 74-W-183(P,F),,SIG,,,EXP
+# Author      : Okolovich                
+# Year        : 1974
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.76000E+01  1.80000E-05  1.08000E-06  2.00000E-01
+  2.81000E+01  2.60000E-05  1.56000E-06  2.00000E-01
+  2.86000E+01  3.20000E-05  1.92000E-06  2.00000E-01
+  2.91000E+01  4.50000E-05  2.70000E-06  2.00000E-01
+  2.96000E+01  6.80000E-05  4.08000E-06  2.00000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#V.N.Okolovich, O.A.Zhukova, M.G.Itkis, S.I.Mul'gin
+#Rept. Inst. Nucl.Phys., Alma-Ata, preprints No.112, 1974
+#Fission of Some Subactinide Nuclei in the (P,F) Reaction.
+#
+# Quality information:
+#
+# Quality  O0627002 :   
+# Date     O0627002 : 05-01-2018
+# Reaction O0627002 : NP:    5 E-range:   27.6    -   29.6     MeV 74-W-183(P,F),,SIG,,,EXP            pdf: n
+# Paper    O0627002 : V.N.Okolovich+ Rept. Inst. Nucl.Phys., Alma-Ata, preprints No.112, 1974 Fission of Some Subactinide Nuclei in the (P,F) Reaction.
+# Action   O0627002 : 
+# Comment  O0627002 : 

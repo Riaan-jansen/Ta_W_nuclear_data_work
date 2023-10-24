@@ -1,0 +1,47 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D7003003 
+# X4 code     : 13-AL-27(P,X)11-NA-22,CUM,SIG
+# Author      : Khandaker                
+# Year        : 2011
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.34000E+01  1.45000E+01  5.90000E+00  4.00000E-01  7.21419E+00  0.4975       1.525       7.286              
+  3.41000E+01  1.74000E+01  8.79000E+00  4.00000E-01  8.52008E+00  0.4897       1.021       8.880              
+  3.45000E+01  2.32000E+01  8.96000E+00  4.00000E-01  9.26631E+00  0.3994       2.418       13.93              
+  3.65000E+01  3.19100E+01  9.01000E+00  3.00000E-01  1.39924E+01  0.4385       3.955       17.92              
+  3.83000E+01  3.84700E+01  6.36000E+00  3.00000E-01  1.85443E+01  0.4820       9.815       19.93              
+#
+# Average deviation:                                                2.184       3.747       13.59    
+#
+# Full reference:
+#M.U.Khandaker,  K.Kim,  M.W.Lee,  K.S.Kim,  G.N.Kim
+#Jour. Journal of the Korean Physical Society Vol.59, p.1821, 2011
+#Excitation functions for the 27Al(p,x)22,24Na nuclear reactions up to 40 MeV
+#
+# Quality information:
+#
+# Quality  D7003003 : T1
+# Date     D7003003 : 05-01-2018
+# Reaction D7003003 : NP:    5 E-range:   33.4    -   38.3     MeV 13-AL-27(P,X)11-NA-22,CUM,SIG       pdf: y
+# Paper    D7003003 : M.U.Khandaker+ Jour. Journal of the Korean Physical Society Vol.59, p.1821, 2011 Excitation functions for the 27Al(p,x)22,24Na nuclear react
+# Action   D7003003 : 
+# Comment  D7003003 : Evaluation        N=     5 F=   2.18     chi-2=   3.75     D=   13.6     mb T=   11.5     mb E=   25.1     K1=  2.18     K2=  5.70
+# Comment  D7003003 : TALYS             N=     5 F=   2.18     chi-2=   3.75     D=   13.6     mb T=   11.5     mb E=   25.1     K1=  2.18     K2=  5.70
+# Comment  D7003003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.1     K1=  0.00     K2=  0.00
+# Comment  D7003003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.1     K1=  0.00     K2=  0.00
+# Comment  D7003003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.1     K1=  0.00     K2=  0.00
+# Comment  D7003003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.1     K1=  0.00     K2=  0.00
+# Comment  D7003003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.1     K1=  0.00     K2=  0.00
+# Comment  D7003003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.1     K1=  0.00     K2=  0.00
+# Comment  D7003003 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.1     K1=  0.00     K2=  0.00

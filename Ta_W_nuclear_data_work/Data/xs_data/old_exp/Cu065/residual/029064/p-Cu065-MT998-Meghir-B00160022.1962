@@ -1,0 +1,51 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  64
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B00160022
+# X4 code     : 29-CU-65(P,X)29-CU-64,,SIG,,,EXP
+# Author      : Meghir                   
+# Year        : 1962
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.10000E+01  3.49000E+02  6.10000E+01  0.00000E+00  1.22776E+02  0.3518       16.21       226.2              
+  2.70000E+01  3.63000E+02  6.40000E+01  0.00000E+00  1.15227E+02  0.3174       18.23       247.8              
+  3.30000E+01  2.38000E+02  4.20000E+01  0.00000E+00  1.16638E+02  0.4901       15.70       147.4              
+  3.80000E+01  2.63000E+02  4.60000E+01  0.00000E+00  1.04285E+02  0.3965       16.70       158.7              
+  4.30000E+01  2.91000E+02  5.10000E+01  0.00000E+00  9.52187E+01  0.3272       17.97       195.8              
+  4.55000E+01  2.60000E+02  4.60000E+01  0.00000E+00  9.09166E+01  0.3497       17.14       169.1              
+  5.00000E+01  1.98000E+02  3.50000E+01  0.00000E+00  8.33739E+01  0.4211       16.03       114.6              
+  6.20000E+01  1.95000E+02  3.40000E+01  0.00000E+00  9.17356E+01  0.4704       14.03       103.3              
+  7.20000E+01  1.56000E+02  2.70000E+01  0.00000E+00  8.02343E+01  0.5143       13.60       75.77              
+#
+# Average deviation:                                                5.402       16.18       159.9    
+#
+# Full reference:
+#S.Meghir
+#Thes. Thesis or dissertation Name.Meghir, 1962
+#Excitation Functions of Some Monitor Reactions
+#
+# Quality information:
+#
+# Quality  B00160022: N2
+# Date     B00160022: 05-01-2018
+# Reaction B00160022: NP:    9 E-range:   21.0    -   72.0     MeV 29-CU-65(P,X)29-CU-64,,SIG,,,EXP    pdf: n
+# Paper    B00160022: S.Meghir Thes. Thesis or dissertation Name.Meghir, 1962 Excitation Functions of Some Monitor Reactions
+# Action   B00160022: 
+# Comment  B00160022: Evaluation        N=     9 F=   5.40     chi-2=   16.2     D=   160.     mb T=   100.     mb E=   257.     K1=  5.40     K2= 9.780E+04
+# Comment  B00160022: TALYS             N=     9 F=   1.15     chi-2=  0.554     D=   29.3     mb T=   236.     mb E=   257.     K1=  1.15     K2=  1.23
+# Comment  B00160022: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   257.     K1=  0.00     K2=  0.00
+# Comment  B00160022: eaf.2010          N=     7 F=   6.23     chi-2=   22.5     D=   234.     mb T=   46.6     mb E=   257.     K1=  6.23     K2= 3.256E+04
+# Comment  B00160022: endfb8.0          N=     2 F=   8.40     chi-2=   24.8     D=   311.     mb T=   44.7     mb E=   257.     K1=  8.40     K2= 2.375E+06
+# Comment  B00160022: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   257.     K1=  0.00     K2=  0.00
+# Comment  B00160022: jeff3.3           N=     2 F=   5.13     chi-2=   20.8     D=   285.     mb T=   70.8     mb E=   257.     K1=  5.13     K2= 4.015E+03
+# Comment  B00160022: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   257.     K1=  0.00     K2=  0.00
+# Comment  B00160022: tendl.2017        N=     9 F=   8.88     chi-2=   24.9     D=   221.     mb T=   35.6     mb E=   257.     K1=  8.88     K2= 7.239E+06

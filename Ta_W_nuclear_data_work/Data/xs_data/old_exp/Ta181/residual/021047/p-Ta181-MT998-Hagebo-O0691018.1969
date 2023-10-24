@@ -1,0 +1,35 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  21
+# Final A     :  47
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0691018 
+# X4 code     : 73-TA-181(P,X)21-SC-47,IND,SIG
+# Author      : Hagebo                   
+# Year        : 1969
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.82000E+04  3.16000E+00  2.30000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#E.Hagebo,  H.Ravn
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.31, p.897, 1969
+#Cross-Sections For the Formation of Sb and Sc Isotopes By Irradiation of Y, La, Ta and Au with 18.2 GeV.
+#
+# Quality information:
+#
+# Quality  O0691018 :   
+# Date     O0691018 : 05-01-2018
+# Reaction O0691018 : NP:    1 E-range:  1.820E+04-  1.820E+04 MeV 73-TA-181(P,X)21-SC-47,IND,SIG      pdf: n
+# Paper    O0691018 : E.Hagebo+ Jour. Journal of Inorganic and Nuclear Chemistry Vol.31, p.897, 1969 Cross-Sections For the Formation of Sb and Sc Isotopes By Irr
+# Action   O0691018 : 
+# Comment  O0691018 : 

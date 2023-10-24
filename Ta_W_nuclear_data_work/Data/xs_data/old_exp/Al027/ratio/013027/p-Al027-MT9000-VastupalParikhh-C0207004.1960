@@ -1,0 +1,26 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9000
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9000
+# X4 ID       : C0207004 
+# X4 code     : (13-AL-27(P,X)9-F-18,,SIG)/(13-AL-27(P,X)11-NA-24,,SIG)
+# Author      : VastupalParikhh          
+# Year        : 1960
+# Data points :      4
+#    E(MeV)      ratio        dratio      dE(MeV)
+  2.02000E+02  5.30000E-01  0.00000E+00  1.50000E+01
+  2.59000E+02  6.00000E-01  0.00000E+00  1.50000E+01
+  2.94000E+02  6.40000E-01  0.00000E+00  1.50000E+01
+  3.42000E+02  6.60000E-01  0.00000E+00  1.50000E+01
+# Full reference:
+#Vastupal Parikh
+#Jour. Nuclear Physics Vol.18, p.638, 1960
+#Cross-sections for Al27(p,3pn)Na24, Al27(p,5p5n)F18 and C12(p,3p3n)Be7 relative to C12(p,pn)C11

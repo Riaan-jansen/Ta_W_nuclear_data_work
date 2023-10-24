@@ -1,0 +1,48 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,4n)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   37
+# X4 ID       : B0038005 
+# X4 code     : 73-TA-181(P,4N)74-W-178,,SIG,,,EXP
+# Author      : Birattari                
+# Year        : 1971
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.80000E+01  1.42000E+02  1.50000E+01  0.00000E+00  1.10846E+02  0.7806       58.21       105.9              
+  3.04000E+01  3.82000E+02  3.80000E+01  0.00000E+00  2.22967E+02  0.5837       64.76       299.1              
+  3.21000E+01  5.75000E+02  5.70000E+01  0.00000E+00  2.50637E+02  0.4359       60.56       393.2              
+  3.46000E+01  6.97000E+02  6.90000E+01  0.00000E+00  2.92098E+02  0.4191       62.09       477.0              
+  3.63000E+01  7.72000E+02  7.80000E+01  0.00000E+00  2.68523E+02  0.3478       59.68       503.5              
+  3.85000E+01  7.40000E+02  8.00000E+01  0.00000E+00  2.17449E+02  0.2939       53.31       522.6              
+  4.20000E+01  4.72000E+02  4.90000E+01  0.00000E+00  1.46423E+02  0.3102       55.26       325.6              
+  4.42000E+01  3.56000E+02  4.10000E+01  0.00000E+00  1.06567E+02  0.2993       44.03       249.4              
+#
+# Average deviation:                                                9.080       57.24       359.5    
+#
+# Full reference:
+#C.Birattari,  E.Gadioli,  A.M.Grassi Strini,  G.Strini, G.Tagliaferri,  L.Zetta
+#Jour. Nuclear Physics, Section A Vol.166, p.605, 1971
+#(P,XN)Reactions Induced in Tm-169, Ta-181 and Bi-209 With 20 to 45 MeV Protons
+#
+# Quality information:
+#
+# Quality  B0038005 : T2
+# Date     B0038005 : 05-01-2018
+# Reaction B0038005 : NP:    8 E-range:   28.0    -   44.2     MeV 73-TA-181(P,4N)74-W-178,,SIG,,,EXP  pdf: y
+# Paper    B0038005 : C.Birattari+ Jour. Nuclear Physics, Section A Vol.166, p.605, 1971 (P,XN)Reactions Induced in Tm-169, Ta-181 and Bi-209 With 20 to 45 MeV Pr
+# Action   B0038005 : 
+# Comment  B0038005 : Evaluation        N=     8 F=   9.08     chi-2=   57.2     D=   360.     mb T=   202.     mb E=   517.     K1=  9.08     K2= 7.721E+12
+# Comment  B0038005 : TALYS             N=     8 F=   1.46     chi-2=   25.6     D=   123.     mb T=   546.     mb E=   517.     K1=  1.46     K2=  3.34
+# Comment  B0038005 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   517.     K1=  0.00     K2=  0.00
+# Comment  B0038005 : eaf.2010          N=     8 F=   11.2     chi-2=   73.3     D=   472.     mb T=   44.9     mb E=   517.     K1=  11.2     K2= 5.509E+11
+# Comment  B0038005 : endfb8.0          N=     1 F=   4.46     chi-2=   53.9     D=   110.     mb T=   31.9     mb E=   517.     K1=  4.46     K2= 5.857E+03
+# Comment  B0038005 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   517.     K1=  0.00     K2=  0.00
+# Comment  B0038005 : jeff3.3           N=     1 F=   2.48     chi-2=   32.0     D=   84.8     mb T=   57.2     mb E=   517.     K1=  2.48     K2=  34.1
+# Comment  B0038005 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   517.     K1=  0.00     K2=  0.00
+# Comment  B0038005 : tendl.2017        N=     8 F=   18.4     chi-2=   76.6     D=   485.     mb T=   31.9     mb E=   517.     K1=  18.4     K2= 8.944E+18

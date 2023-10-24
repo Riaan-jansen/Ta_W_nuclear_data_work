@@ -1,0 +1,54 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 181
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D4363008 
+# X4 code     : 74-W-0(P,X)75-RE-181,,SIG
+# Author      : Tarkanyi                 
+# Year        : 2017
+# Data points :     19
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.49000E+01  1.83750E+02  2.06600E+01  2.00000E-01
+  6.35000E+01  1.68940E+02  1.90100E+01  2.70000E-01
+  6.22000E+01  2.17360E+02  2.44400E+01  3.40000E-01
+  6.07000E+01  2.46170E+02  2.76600E+01  4.10000E-01
+  5.93000E+01  2.83930E+02  3.19200E+01  4.80000E-01
+  5.78000E+01  2.58780E+02  2.90700E+01  5.50000E-01
+  5.63000E+01  2.83090E+02  3.18100E+01  6.30000E-01
+  5.48000E+01  2.78070E+02  3.12500E+01  7.10000E-01
+  5.32000E+01  2.70440E+02  3.04000E+01  7.80000E-01
+  5.16000E+01  2.64240E+02  2.96900E+01  8.70000E-01
+  4.99000E+01  2.45010E+02  2.75300E+01  9.50000E-01
+  4.82000E+01  2.12590E+02  2.39000E+01  1.03000E+00
+  4.62000E+01  2.05200E+02  2.30700E+01  1.13000E+00
+  4.41000E+01  2.38800E+02  2.68400E+01  1.24000E+00
+  4.19000E+01  2.81570E+02  3.16400E+01  1.35000E+00
+  3.96000E+01  3.45290E+02  3.87800E+01  1.46000E+00
+  3.72000E+01  3.88970E+02  4.37000E+01  1.58000E+00
+  3.47000E+01  3.86550E+02  4.34300E+01  1.71000E+00
+  3.20000E+01  2.67530E+02  3.00400E+01  1.84000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#F.Tarkanyi, F.Ditroi, S.Takacs, A.Hermanne
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.391, p.27, 2017
+#New measurements of excitation functions of 186W(p,x) nuclear reactions up to 65 MeV. Production of a 178W/178mTa generator
+#
+#
+# Quality information:
+#
+# Quality  D4363008 :   
+# Date     D4363008 : 05-01-2018
+# Reaction D4363008 : NP:   19 E-range:   32.0    -   64.9     MeV 74-W-0(P,X)75-RE-181,,SIG           pdf: n
+# Paper    D4363008 : F.Tarkanyi+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.391, p.27, 2017 New measurements of excitation functions of 186W(p,x) n
+# Action   D4363008 : 
+# Comment  D4363008 : 

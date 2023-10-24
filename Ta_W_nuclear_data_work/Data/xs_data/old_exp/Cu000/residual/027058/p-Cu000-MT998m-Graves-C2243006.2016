@@ -1,0 +1,49 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  58
+# Final state : 1
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C2243006 
+# X4 code     : 29-CU-0(P,X)27-CO-58-M,,SIG
+# Author      : Graves                   
+# Year        : 2016
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.94000E+01  3.09000E+01  5.60000E+00  6.00000E-01  4.23225E+01   1.370       4.160       11.42              
+  7.86000E+01  2.72000E+01  6.80000E+00  9.00000E-01  3.49495E+01   1.285       1.299       7.750              
+  6.91000E+01  2.42000E+01  6.70000E+00  1.10000E+00  2.31355E+01  0.9560      2.5242E-02   1.064              
+  5.86000E+01  2.44000E+01  6.50000E+00  1.40000E+00  1.73977E+01  0.7130       1.161       7.002              
+  4.80000E+01  2.53000E+01  1.12000E+01  1.60000E+00  2.55725E+01   1.011      5.9219E-04  0.2726              
+  3.51000E+01  3.69000E+01  1.06000E+01  1.90000E+00  2.48238E+01  0.6727       1.298       12.08              
+#
+# Average deviation:                                                1.309       1.324       6.598    
+#
+# Full reference:
+#S.A.Graves, P.A.Ellison, T.E.Barnhart, H.F.Valdovinos, E.R.Birnbaum, F.M.Nortier, R.J.Nickles, J.W.Engle
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.386, p.44, 2016
+#Nuclear excitation functions of proton-induced reactions (Ep = 35-90 MeV) from Fe, Cu, and Al
+#
+# Quality information:
+#
+# Quality  C2243006 : T1
+# Date     C2243006 : 05-01-2018
+# Reaction C2243006 : NP:    6 E-range:   35.1    -   89.4     MeV 29-CU-0(P,X)27-CO-58-M,,SIG         pdf: y
+# Paper    C2243006 : S.A.Graves+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.386, p.44, 2016 Nuclear excitation functions of proton-induced reaction
+# Action   C2243006 : 
+# Comment  C2243006 : Evaluation        N=     6 F=   1.31     chi-2=   1.32     D=   6.60     mb T=   28.0     mb E=   28.1     K1=  1.31     K2=  1.55
+# Comment  C2243006 : TALYS             N=     6 F=   1.31     chi-2=   1.32     D=   6.60     mb T=   28.0     mb E=   28.1     K1=  1.31     K2=  1.55
+# Comment  C2243006 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   28.1     K1=  0.00     K2=  0.00
+# Comment  C2243006 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   28.1     K1=  0.00     K2=  0.00
+# Comment  C2243006 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   28.1     K1=  0.00     K2=  0.00
+# Comment  C2243006 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   28.1     K1=  0.00     K2=  0.00
+# Comment  C2243006 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   28.1     K1=  0.00     K2=  0.00
+# Comment  C2243006 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   28.1     K1=  0.00     K2=  0.00
+# Comment  C2243006 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   28.1     K1=  0.00     K2=  0.00

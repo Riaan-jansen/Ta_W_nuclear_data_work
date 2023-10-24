@@ -1,0 +1,58 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 181
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0282002 
+# X4 code     : 74-W-0(P,X)75-RE-181,,SIG
+# Author      : Khandaker                
+# Year        : 2008
+# Data points :     15
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.08000E+01  1.90000E+01  3.40000E+00  9.00000E-01  1.24095E-03  6.5313E-05   31.22       19.00              
+  1.30000E+01  1.57100E+02  1.30000E+01  8.00000E-01  1.10498E-03  7.0336E-06   146.0       157.1              
+  1.59000E+01  2.53800E+02  2.44000E+01  8.00000E-01  1.38281E-03  5.4484E-06   108.2       253.8              
+  1.89000E+01  3.33100E+02  2.60000E+01  7.00000E-01  1.45697E-03  4.3740E-06   164.1       333.1              
+  2.16000E+01  3.16700E+02  3.08000E+01  7.00000E-01  1.07240E-03  3.3862E-06   105.7       316.7              
+  2.34000E+01  2.84300E+02  2.32000E+01  7.00000E-01
+  2.58000E+01  2.25700E+02  2.34000E+01  6.00000E-01
+  2.80000E+01  2.36400E+02  2.08000E+01  6.00000E-01
+  3.00000E+01  2.66500E+02  2.63000E+01  5.00000E-01
+  3.15000E+01  3.01800E+02  2.93000E+01  5.00000E-01
+  3.34000E+01  3.73900E+02  3.56000E+01  5.00000E-01
+  3.52000E+01  4.41700E+02  3.38000E+01  4.00000E-01
+  3.69000E+01  3.79400E+02  3.62000E+01  4.00000E-01
+  3.83000E+01  3.53000E+02  2.76000E+01  3.00000E-01
+  3.99000E+01  3.29800E+02  3.18000E+01  3.00000E-01
+#
+# Average deviation:                                               1.2799E+05   111.1       215.9    
+#
+# Full reference:
+#M.U.Khandaker,  M.S.Uddin,  K.Kim,  M.W.Lee,  K.S.Kim, Y.S.Lee,  G.N.Kim,  Y.S.Cho,  Y.O.Lee
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.266, p.1021, 2008
+#Excitation functions of proton induced nuclear reactions on natW up to 40 MeV
+#
+# Quality information:
+#
+# Quality  D0282002 : T2
+# Date     D0282002 : 05-01-2018
+# Reaction D0282002 : NP:   15 E-range:   10.8    -   39.9     MeV 74-W-0(P,X)75-RE-181,,SIG           pdf: y
+# Paper    D0282002 : M.U.Khandaker+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.266, p.1021, 2008 Excitation functions of proton induced nuclear rea
+# Action   D0282002 : 
+# Comment  D0282002 : Evaluation        N=     5 F=  1.280E+05 chi-2=   111.     D=   216.     mb T=  1.252E-03 mb E=   285.     K1= 1.280E+05 K2= 1.000E+35
+# Comment  D0282002 : TALYS             N=     5 F=  1.280E+05 chi-2=   111.     D=   216.     mb T=  1.252E-03 mb E=   285.     K1= 1.280E+05 K2= 1.000E+35
+# Comment  D0282002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   285.     K1=  0.00     K2=  0.00
+# Comment  D0282002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   285.     K1=  0.00     K2=  0.00
+# Comment  D0282002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   285.     K1=  0.00     K2=  0.00
+# Comment  D0282002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   285.     K1=  0.00     K2=  0.00
+# Comment  D0282002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   285.     K1=  0.00     K2=  0.00
+# Comment  D0282002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   285.     K1=  0.00     K2=  0.00
+# Comment  D0282002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   285.     K1=  0.00     K2=  0.00

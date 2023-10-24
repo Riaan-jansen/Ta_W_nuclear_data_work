@@ -1,0 +1,47 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xa)
+# E-inc       :  392.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  207
+# X4 ID       : E2007064 
+# X4 code     : 13-AL-27(P,X)2-HE-4,,DA/DE
+# Author      : Uozumi                   
+# Year        : 2007
+# Data points :     25
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.30000E+01  3.13600E-07  3.84800E-09  0.00000E+00  7.50001E+01
+  1.50000E+01  2.58500E-07  3.49300E-09  0.00000E+00  7.50001E+01
+  1.70000E+01  2.09200E-07  3.14300E-09  0.00000E+00  7.50001E+01
+  1.90000E+01  1.73100E-07  2.85900E-09  0.00000E+00  7.50001E+01
+  2.10000E+01  1.36400E-07  2.53800E-09  0.00000E+00  7.50001E+01
+  2.30000E+01  1.12800E-07  2.30800E-09  0.00000E+00  7.50001E+01
+  2.50000E+01  9.40800E-08  2.10700E-09  0.00000E+00  7.50001E+01
+  2.70000E+01  7.92000E-08  1.93300E-09  0.00000E+00  7.50001E+01
+  2.90000E+01  6.65500E-08  1.77200E-09  0.00000E+00  7.50001E+01
+  3.10000E+01  5.51000E-08  1.61200E-09  0.00000E+00  7.50001E+01
+  3.30000E+01  4.99400E-08  1.53500E-09  0.00000E+00  7.50001E+01
+  3.50000E+01  4.53300E-08  1.46200E-09  0.00000E+00  7.50001E+01
+  3.70000E+01  3.61100E-08  1.30500E-09  0.00000E+00  7.50001E+01
+  3.90000E+01  3.35200E-08  1.25800E-09  0.00000E+00  7.50001E+01
+  4.10000E+01  3.06000E-08  1.20100E-09  0.00000E+00  7.50001E+01
+  4.30000E+01  2.57900E-08  1.10300E-09  0.00000E+00  7.50001E+01
+  4.50000E+01  2.20200E-08  1.01900E-09  0.00000E+00  7.50001E+01
+  4.70000E+01  2.02500E-08  9.77800E-10  0.00000E+00  7.50001E+01
+  4.90000E+01  1.69100E-08  8.93400E-10  0.00000E+00  7.50001E+01
+  5.10000E+01  1.45200E-08  8.28000E-10  0.00000E+00  7.50001E+01
+  5.30000E+01  1.14400E-08  7.34900E-10  0.00000E+00  7.50001E+01
+  5.50000E+01  1.10600E-08  7.22700E-10  0.00000E+00  7.50001E+01
+  5.70000E+01  1.10600E-08  7.22600E-10  0.00000E+00  7.50001E+01
+  5.90000E+01  9.38600E-09  6.65600E-10  0.00000E+00  7.50001E+01
+  6.10000E+01  7.88800E-09  6.10200E-10  0.00000E+00  7.50001E+01
+# Full reference:
+#Y.Uozumi,  P.Evtoukhovitch,  H.Fukuda,  M.Imamura, H.Iwamoto,  V.Kalinikov,  W.Kallies,  N.Khumutov,  T.Kin,
+#N.Koba,  Y.Koba,  N.Kuchinski,  A.Moisenko,  D.Mzavia, M.Nakano,  V.Samoilov,  Z.Tsamalaidze,  G.Wakabayashi,
+#Y.Yamashita
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.A Vol.571, Issue.3, p.743, 2007
+#Magnitude factor systematics of Kalbach phenomenology for reactions emitting helium and lithium ions

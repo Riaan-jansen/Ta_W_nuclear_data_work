@@ -1,0 +1,58 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  62
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D4088006 
+# X4 code     : 29-CU-0(P,X)30-ZN-62,,SIG
+# Author      : Hermanne                 
+# Year        : 1999
+# Data points :     15
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.42000E+01  5.95000E+00  9.10000E-01  1.10000E+00  4.31471E+00  0.7252       3.229       1.635              
+  1.58000E+01  1.53000E+01  1.90000E+00  1.00000E+00  1.95865E+01   1.280       5.090       4.287              
+  1.73000E+01  2.52000E+01  3.20000E+00  1.00000E+00  3.04871E+01   1.210       2.730       5.287              
+  1.87000E+01  3.76000E+01  4.60000E+00  9.00000E-01  3.87006E+01   1.029      5.7246E-02   1.101              
+  2.00000E+01  4.82000E+01  5.90000E+00  9.00000E-01  4.33378E+01  0.8991      0.6792       4.862              
+  2.19000E+01  5.62000E+01  6.80000E+00  8.00000E-01  4.56732E+01  0.8127       2.397       10.53              
+  2.36000E+01  6.46000E+01  7.50000E+00  8.00000E-01  4.30067E+01  0.6657       8.289       21.59              
+  2.52000E+01  6.50000E+01  7.50000E+00  7.00000E-01  3.65020E+01  0.5616       14.44       28.50              
+  2.67000E+01  5.89000E+01  6.80000E+00  6.00000E-01  2.93405E+01  0.4981       18.90       29.56              
+  2.81000E+01  4.81000E+01  5.70000E+00  6.00000E-01  2.29234E+01  0.4766       19.51       25.18              
+  2.95000E+01  3.84000E+01  4.60000E+00  6.00000E-01  1.86208E+01  0.4849       18.49       19.78              
+  3.08000E+01  3.31000E+01  4.00000E+00  5.00000E-01  1.60900E+01  0.4861       18.08       17.01              
+  3.22000E+01  2.59000E+01  3.20000E+00  4.00000E-01  1.43501E+01  0.5541       13.03       11.55              
+  3.35000E+01  2.13000E+01  2.80000E+00  5.00000E-01  1.27346E+01  0.5979       9.358       8.565              
+  3.47000E+01  1.88000E+01  2.60000E+00  5.00000E-01  1.12432E+01  0.5980       8.447       7.557              
+#
+# Average deviation:                                                1.644       9.515       13.13    
+#
+# Full reference:
+#A.Hermanne,  F.Szelecsenyi,  M.Sonck,  S.Takacs, F.Tarkanyi,  P.Van Den Winkel
+#Jour. Journal of Radioanalytical and Nuclear Chemistry Vol.240, p.623, 1999
+#New Cross Section Data on 68Zn(p,2n)67Ga and natZn(p,xn)67Ga Nuclear Reactions for the Development of a Reference Data Base
+#
+#
+# Quality information:
+#
+# Quality  D4088006 : T1
+# Date     D4088006 : 05-01-2018
+# Reaction D4088006 : NP:   15 E-range:   14.2    -   34.7     MeV 29-CU-0(P,X)30-ZN-62,,SIG           pdf: y
+# Paper    D4088006 : A.Hermanne+ Jour. Journal of Radioanalytical and Nuclear Chemistry Vol.240, p.623, 1999 New Cross Section Data on 68Zn(p,2n)67Ga and natZn(p
+# Action   D4088006 : 
+# Comment  D4088006 : Evaluation        N=    15 F=   1.64     chi-2=   9.51     D=   13.1     mb T=   25.8     mb E=   37.5     K1=  1.64     K2=  4.18
+# Comment  D4088006 : TALYS             N=    15 F=   1.64     chi-2=   9.51     D=   13.1     mb T=   25.8     mb E=   37.5     K1=  1.64     K2=  4.18
+# Comment  D4088006 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.5     K1=  0.00     K2=  0.00
+# Comment  D4088006 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.5     K1=  0.00     K2=  0.00
+# Comment  D4088006 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.5     K1=  0.00     K2=  0.00
+# Comment  D4088006 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.5     K1=  0.00     K2=  0.00
+# Comment  D4088006 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.5     K1=  0.00     K2=  0.00
+# Comment  D4088006 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.5     K1=  0.00     K2=  0.00
+# Comment  D4088006 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   37.5     K1=  0.00     K2=  0.00

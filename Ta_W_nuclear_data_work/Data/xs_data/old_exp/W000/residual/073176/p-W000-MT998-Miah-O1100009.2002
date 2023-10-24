@@ -1,0 +1,44 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  73
+# Final A     : 176
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1100009 
+# X4 code     : 74-W-0(P,X)73-TA-176,CUM,SIG
+# Author      : Miah                     
+# Year        : 2002
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.61000E+01  4.11500E+01  1.78700E+00  7.12000E-01  1.81132E-02  4.4017E-04   529.8       41.13              
+  6.89000E+01  1.10400E+02  3.64300E+00  6.62000E-01  2.07312E-02  1.8778E-04   918.0       110.4              
+#
+# Average deviation:                                                3517.       723.9       75.76    
+#
+# Full reference:
+#M.H.Miah,  J.Kuhnhenn,  U.Herpers,  R.Michel,  P.Kubik
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.369, 2002
+#Production of residual nuclides by proton-induced reactions oh target W at an energy of 72 MeV.
+#
+# Quality information:
+#
+# Quality  O1100009 : T2
+# Date     O1100009 : 05-01-2018
+# Reaction O1100009 : NP:    2 E-range:   66.1    -   68.9     MeV 74-W-0(P,X)73-TA-176,CUM,SIG        pdf: y
+# Paper    O1100009 : M.H.Miah+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.369, 2002 Production of residual nuclides by proton-induced reaction
+# Action   O1100009 : 
+# Comment  O1100009 : Evaluation        N=     2 F=  3.517E+03 chi-2=   724.     D=   75.8     mb T=  1.942E-02 mb E=   75.8     K1= 3.517E+03 K2= 1.000E+35
+# Comment  O1100009 : TALYS             N=     2 F=  3.517E+03 chi-2=   724.     D=   75.8     mb T=  1.942E-02 mb E=   75.8     K1= 3.517E+03 K2= 1.000E+35
+# Comment  O1100009 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   75.8     K1=  0.00     K2=  0.00
+# Comment  O1100009 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   75.8     K1=  0.00     K2=  0.00
+# Comment  O1100009 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   75.8     K1=  0.00     K2=  0.00
+# Comment  O1100009 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   75.8     K1=  0.00     K2=  0.00
+# Comment  O1100009 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   75.8     K1=  0.00     K2=  0.00
+# Comment  O1100009 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   75.8     K1=  0.00     K2=  0.00
+# Comment  O1100009 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   75.8     K1=  0.00     K2=  0.00

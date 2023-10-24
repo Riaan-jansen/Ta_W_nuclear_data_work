@@ -1,0 +1,56 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0073003 
+# X4 code     : 29-CU-0(P,X)27-CO-57,,SIG,,,EXP
+# Author      : Williams                 
+# Year        : 1967
+# Data points :     14
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.60000E+01  2.10000E+00  0.00000E+00  0.00000E+00  1.62643E+01   7.745       7880.       15.01              
+  3.72000E+01  3.10000E+00  0.00000E+00  0.00000E+00  1.61353E+01   5.205       3101.       14.00              
+  3.83000E+01  4.90000E+00  0.00000E+00  0.00000E+00  1.60485E+01   3.275       982.5       12.80              
+  4.00000E+01  7.60000E+00  0.00000E+00  0.00000E+00  1.60439E+01   2.111       278.6       11.11              
+  4.09000E+01  1.10000E+01  0.00000E+00  0.00000E+00  1.65812E+01   1.507       77.94       8.931              
+  4.32000E+01  1.90000E+01  0.00000E+00  0.00000E+00  1.80225E+01  0.9486       3.978       5.107              
+  4.81000E+01  4.30000E+01  0.00000E+00  0.00000E+00  2.03776E+01  0.4739       21.37       22.62              
+  5.01000E+01  5.40000E+01  0.00000E+00  0.00000E+00  2.13080E+01  0.3946       29.48       32.69              
+  5.21000E+01  5.90000E+01  0.00000E+00  0.00000E+00  2.10746E+01  0.3572       32.80       37.93              
+  5.32000E+01  6.30000E+01  0.00000E+00  0.00000E+00  2.08747E+01  0.3313       35.14       42.13              
+  5.44000E+01  6.40000E+01  0.00000E+00  0.00000E+00  2.06896E+01  0.3233       36.10       43.31              
+  5.58000E+01  6.10000E+01  0.00000E+00  0.00000E+00  2.03157E+01  0.3330       35.35       40.68              
+  5.72000E+01  5.40000E+01  0.00000E+00  0.00000E+00  1.97509E+01  0.3658       32.63       34.25              
+  5.81000E+01  5.00000E+01  0.00000E+00  0.00000E+00  1.93828E+01  0.3877       30.85       30.62              
+#
+# Average deviation:                                                3.263       898.4       25.08    
+#
+# Full reference:
+#I.R.Williams,  C.B.Fulmer
+#Jour. Physical Review Vol.162, p.1055, 1967
+#Excitation Functions For Radioactive Isotopes Produced By Protons Below 60 MeV on Al, Fe, and Cu
+#
+# Quality information:
+#
+# Quality  B0073003 : T2
+# Date     B0073003 : 05-01-2018
+# Reaction B0073003 : NP:   14 E-range:   36.0    -   58.1     MeV 29-CU-0(P,X)27-CO-57,,SIG,,,EXP     pdf: y
+# Paper    B0073003 : I.R.Williams+ Jour. Physical Review Vol.162, p.1055, 1967 Excitation Functions For Radioactive Isotopes Produced By Protons Below 60 MeV on
+# Action   B0073003 : 
+# Comment  B0073003 : Evaluation        N=    14 F=   3.26     chi-2=   898.     D=   25.1     mb T=   18.8     mb E=   35.4     K1=  3.26     K2= 4.150E+03
+# Comment  B0073003 : TALYS             N=    14 F=   2.05     chi-2=   0.00     D=   18.2     mb T=   17.2     mb E=   35.4     K1=  2.05     K2=  12.4
+# Comment  B0073003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.4     K1=  0.00     K2=  0.00
+# Comment  B0073003 : eaf.2010          N=    14 F=   3.86     chi-2=  2.069E+03 D=   28.5     mb T=   24.0     mb E=   35.4     K1=  3.86     K2= 7.417E+04
+# Comment  B0073003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.4     K1=  0.00     K2=  0.00
+# Comment  B0073003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.4     K1=  0.00     K2=  0.00
+# Comment  B0073003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.4     K1=  0.00     K2=  0.00
+# Comment  B0073003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.4     K1=  0.00     K2=  0.00
+# Comment  B0073003 : tendl.2017        N=    14 F=   3.90     chi-2=   626.     D=   28.5     mb T=   15.2     mb E=   35.4     K1=  3.90     K2= 6.159E+03

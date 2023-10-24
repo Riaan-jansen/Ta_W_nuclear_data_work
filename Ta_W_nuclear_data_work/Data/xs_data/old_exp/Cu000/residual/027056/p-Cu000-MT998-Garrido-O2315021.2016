@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  56
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O2315021 
+# X4 code     : 29-CU-0(P,X)27-CO-56,,SIG
+# Author      : Garrido                  
+# Year        : 2016
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.75500E+01  3.32000E+00  3.60000E-01  1.07000E+00  2.31416E+00  0.6970       7.806       1.006              
+  5.71200E+01  2.80000E+00  2.00000E-01  1.09000E+00  2.09226E+00  0.7472       12.52      0.7077              
+  5.67400E+01  2.43000E+00  1.90000E-01  1.13000E+00  1.89616E+00  0.7803       7.894      0.5338              
+#
+# Average deviation:                                                1.355       9.408      0.7491    
+#
+# Full reference:
+#E.Garrido, C.Duchemin, A.Guertin, F.Haddad, N.Michel, V.Metivier
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.383, p.191, 2016
+#New excitation functions for proton induced reactions on natural titanium, nickel and copper up to 70 MeV.
+#
+# Quality information:
+#
+# Quality  O2315021 : T1
+# Date     O2315021 : 05-01-2018
+# Reaction O2315021 : NP:    3 E-range:   56.7    -   57.5     MeV 29-CU-0(P,X)27-CO-56,,SIG           pdf: y
+# Paper    O2315021 : E.Garrido+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.383, p.191, 2016 New excitation functions for proton induced reactions o
+# Action   O2315021 : 
+# Comment  O2315021 : Evaluation        N=     3 F=   1.35     chi-2=   9.41     D=  0.749     mb T=   2.10     mb E=   2.85     K1=  1.35     K2=  1.99
+# Comment  O2315021 : TALYS             N=     3 F=   1.35     chi-2=   9.41     D=  0.749     mb T=   2.10     mb E=   2.85     K1=  1.35     K2=  1.99
+# Comment  O2315021 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.85     K1=  0.00     K2=  0.00
+# Comment  O2315021 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.85     K1=  0.00     K2=  0.00
+# Comment  O2315021 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.85     K1=  0.00     K2=  0.00
+# Comment  O2315021 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.85     K1=  0.00     K2=  0.00
+# Comment  O2315021 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.85     K1=  0.00     K2=  0.00
+# Comment  O2315021 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.85     K1=  0.00     K2=  0.00
+# Comment  O2315021 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.85     K1=  0.00     K2=  0.00

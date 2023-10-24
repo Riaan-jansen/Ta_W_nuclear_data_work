@@ -1,0 +1,35 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   9
+# Final A     :  18
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0250007 
+# X4 code     : 29-CU-0(P,X)9-F-18,,SIG
+# Author      : Marquez                  
+# Year        : 1952
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.20000E+02  8.00000E-02  4.00000E-02  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#L.Marquez
+#Jour. Physical Review Vol.86, p.405, 1952
+#THE YIELD OF F-18 FROM MEDIUM AND HEAVY ELEMENTS WITH 420-MEV PROTONS
+#
+# Quality information:
+#
+# Quality  C0250007 :   
+# Date     C0250007 : 05-01-2018
+# Reaction C0250007 : NP:    1 E-range:   420.    -   420.     MeV 29-CU-0(P,X)9-F-18,,SIG             pdf: n
+# Paper    C0250007 : L.Marquez Jour. Physical Review Vol.86, p.405, 1952 THE YIELD OF F-18 FROM MEDIUM AND HEAVY ELEMENTS WITH 420-MEV PROTONS
+# Action   C0250007 : 
+# Comment  C0250007 : 

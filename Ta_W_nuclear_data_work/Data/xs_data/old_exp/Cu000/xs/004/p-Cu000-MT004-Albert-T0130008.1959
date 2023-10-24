@@ -1,0 +1,35 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : T0130008 
+# X4 code     : 29-CU-0(P,N),,SIG
+# Author      : Albert                   
+# Year        : 1959
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.60000E+00  7.50000E+01  1.12500E+01  0.00000E+00
+  7.00000E+00  2.93000E+02  4.39500E+01  0.00000E+00
+  8.10000E+00  3.23000E+02  4.84500E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.D.Albert
+#Jour. Physical Review Vol.115, p.925, 1959
+#(p,n) Cross Section and Proton Optical-Model Parameters in the 4 to 5.5 MeV Energy Region
+#
+# Quality information:
+#
+# Quality  T0130008 :   
+# Date     T0130008 : 05-01-2018
+# Reaction T0130008 : NP:    3 E-range:   3.60    -   8.10     MeV 29-CU-0(P,N),,SIG                   pdf: n
+# Paper    T0130008 : R.D.Albert Jour. Physical Review Vol.115, p.925, 1959 (p,n) Cross Section and Proton Optical-Model Parameters in the 4 to 5.5 MeV Energy Reg
+# Action   T0130008 : 
+# Comment  T0130008 : 

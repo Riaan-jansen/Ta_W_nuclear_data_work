@@ -1,0 +1,24 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   18.200 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  2.75000  1.25000)
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :   51
+# X4 ID       : D0705003 
+# X4 code     : 29-CU-63(P,N)30-ZN-63,PAR,DA
+# Author      : Thomson                  
+# Year        : 1956
+# Data points :      3
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  9.00000E+01  5.30000E+00  3.00000E-01
+  9.00000E+01  2.41000E+00  1.30000E-01
+  9.00000E+01  2.10000E-01  4.00000E-02
+# Full reference:
+#D.M.Thomson
+#Jour. Proc.Physical Society (London), Section A Vol.69, p.447, 1956
+#The yield and angular distribution of neutrons from the reaction 63Cu(p,n)63Zn at 18 MeV

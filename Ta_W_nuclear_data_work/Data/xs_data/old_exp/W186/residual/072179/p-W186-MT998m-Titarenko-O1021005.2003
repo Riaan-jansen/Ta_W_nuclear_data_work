@@ -1,0 +1,35 @@
+# Target Z    :  74
+# Target A    : 186
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  72
+# Final A     : 179
+# Final state : 1
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1021005 
+# X4 code     : 74-W-186(P,X)72-HF-179-M2,IND,SIG
+# Author      : Titarenko                
+# Year        : 2003
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.60000E+03  7.09000E-01  6.90000E-02  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Yu.E.Titarenko
+#Rept. USSR report to the I.N.D.C. No.434, p.65, 2003
+#Experimental yields for W-186 irradiated with 0.2, 0.8, 1.6-GeV protons.
+#
+# Quality information:
+#
+# Quality  O1021005 :   
+# Date     O1021005 : 05-01-2018
+# Reaction O1021005 : NP:    1 E-range:  1.600E+03-  1.600E+03 MeV 74-W-186(P,X)72-HF-179-M2,IND,SIG   pdf: n
+# Paper    O1021005 : Yu.E.Titarenko Rept. USSR report to the I.N.D.C. No.434, p.65, 2003 Experimental yields for W-186 irradiated with 0.2, 0.8, 1.6-GeV protons.
+# Action   O1021005 : 
+# Comment  O1021005 : 

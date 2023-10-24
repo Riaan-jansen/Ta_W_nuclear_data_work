@@ -1,0 +1,37 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :  10
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : E1647002 
+# X4 code     : 13-AL-27(P,X)4-BE-10,,SIG
+# Author      : Shibata                  
+# Year        : 1993
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.20000E+04  2.47000E+00  1.60000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#S.Shibata,  M.Imamura,  H.Nagai,  K.Kobayashi, K.Sakamoto,  M.Furukawa,  I.Fujiwara
+#
+#Jour. Physical Review, Part C, Nuclear Physics Vol.48, Issue.6, p.2617, 1993
+#Measurements of 10Be and 26Al production cross sections with 12 GeV protons by accelerator mass spectrometry
+#
+#
+# Quality information:
+#
+# Quality  E1647002 :   
+# Date     E1647002 : 05-01-2018
+# Reaction E1647002 : NP:    1 E-range:  1.200E+04-  1.200E+04 MeV 13-AL-27(P,X)4-BE-10,,SIG           pdf: n
+# Paper    E1647002 : S.Shibata+ Jour. Physical Review, Part C, Nuclear Physics Vol.48, Issue.6, p.2617, 1993 Measurements of 10Be and 26Al production cross secti
+# Action   E1647002 : 
+# Comment  E1647002 : 

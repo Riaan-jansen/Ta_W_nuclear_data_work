@@ -1,0 +1,41 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,npa)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   45
+# X4 ID       : D0162008 
+# X4 code     : 29-CU-63(P,N+P+A)27-CO-58,,SIG
+# Author      : Brinkman                 
+# Year        : 1977
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.10000E+01  1.61000E+02  0.00000E+00  0.00000E+00  3.14312E+01  0.1952       0.000       129.6              
+#
+# Average deviation:                                                5.122       0.000       129.6    
+#
+# Full reference:
+#G.A.Brinkman, J.Helmer, L.Lindner
+#Jour. Radiochemical and Radioanalytical Letters Vol.28, p.9, 1977
+#Nickel and copper fiols as monitors for cyclotron beam intensities
+#
+# Quality information:
+#
+# Quality  D0162008 : T2
+# Date     D0162008 : 05-01-2018
+# Reaction D0162008 : NP:    1 E-range:   51.0    -   51.0     MeV 29-CU-63(P,N+P+A)27-CO-58,,SIG      pdf: y
+# Paper    D0162008 : G.A.Brinkman+ Jour. Radiochemical and Radioanalytical Letters Vol.28, p.9, 1977 Nickel and copper fiols as monitors for cyclotron beam inten
+# Action   D0162008 : 
+# Comment  D0162008 : Evaluation        N=     1 F=   5.12     chi-2=   0.00     D=   130.     mb T=   31.4     mb E=   161.     K1=  5.12     K2= 4.074E+04
+# Comment  D0162008 : TALYS             N=     1 F=   5.12     chi-2=   0.00     D=   130.     mb T=   31.4     mb E=   161.     K1=  5.12     K2= 4.074E+04
+# Comment  D0162008 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   161.     K1=  0.00     K2=  0.00
+# Comment  D0162008 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   161.     K1=  0.00     K2=  0.00
+# Comment  D0162008 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   161.     K1=  0.00     K2=  0.00
+# Comment  D0162008 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   161.     K1=  0.00     K2=  0.00
+# Comment  D0162008 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   161.     K1=  0.00     K2=  0.00
+# Comment  D0162008 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   161.     K1=  0.00     K2=  0.00
+# Comment  D0162008 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   161.     K1=  0.00     K2=  0.00

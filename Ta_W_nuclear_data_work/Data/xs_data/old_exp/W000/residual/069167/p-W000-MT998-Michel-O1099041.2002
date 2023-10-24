@@ -1,0 +1,47 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  69
+# Final A     : 167
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099041 
+# X4 code     : 74-W-0(P,X)69-TM-167,CUM,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :     11
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.54000E+02  3.95700E+01  4.11900E+00  1.72000E+00
+  2.60000E+02  3.62300E+01  3.66800E+00  1.08000E+00
+  3.34000E+02  5.00400E+01  5.11500E+00  1.68000E+00
+  5.59000E+02  6.64700E+01  6.75700E+00  1.48000E+00
+  7.64000E+02  6.04700E+01  6.11300E+00  1.45000E+00
+  9.88000E+02  5.27800E+01  5.42800E+00  1.01000E+00
+  1.16000E+03  4.76600E+01  4.82900E+00  1.36600E+00
+  1.38000E+03  4.04100E+01  4.19900E+00  1.01600E+00
+  1.57000E+03  3.66600E+01  3.82200E+00  1.29000E+00
+  2.58000E+03  2.84600E+01  5.40400E+00  1.00200E+00
+  2.59000E+03  2.29300E+01  2.36200E+00  1.01000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099041 :   
+# Date     O1099041 : 05-01-2018
+# Reaction O1099041 : NP:   11 E-range:   254.    -  2.590E+03 MeV 74-W-0(P,X)69-TM-167,CUM,SIG        pdf: n
+# Paper    O1099041 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099041 : 
+# Comment  O1099041 : 

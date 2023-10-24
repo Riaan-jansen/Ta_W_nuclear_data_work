@@ -1,0 +1,33 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xh)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  206
+# X4 ID       : O01030021
+# X4 code     : 13-AL-27(P,X)2-HE-3,,SIG,,,EXP
+# Author      : Green                    
+# Year        : 1988
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.50000E+02  3.30000E+01  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#S.L.Green, W.V.Green, F.H.Hegedus, M.Victoria, W.F.Sommer, B.M.Oliver
+#Jour. Journal of Nuclear Materials Vol.155/157, p.1350, 1988
+#PRODUCTION OF HELIUM BY MEDIUM ENERGY (600 AND 800 MEV) PROTONS.
+#
+# Quality information:
+#
+# Quality  O01030021:   
+# Date     O01030021: 05-01-2018
+# Reaction O01030021: NP:    1 E-range:   750.    -   750.     MeV 13-AL-27(P,X)2-HE-3,,SIG,,,EXP      pdf: n
+# Paper    O01030021: S.L.Green+ Jour. Journal of Nuclear Materials Vol.155/157, p.1350, 1988 PRODUCTION OF HELIUM BY MEDIUM ENERGY (600 AND 800 MEV) PROTONS.
+# Action   O01030021: 
+# Comment  O01030021: 

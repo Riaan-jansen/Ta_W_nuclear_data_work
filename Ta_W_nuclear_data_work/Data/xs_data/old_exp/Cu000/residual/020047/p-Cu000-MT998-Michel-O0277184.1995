@@ -1,0 +1,38 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  20
+# Final A     :  47
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0277184 
+# X4 code     : 29-CU-0(P,X)20-CA-47,CUM,SIG
+# Author      : Michel                   
+# Year        : 1995
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.60000E+03  8.50000E-02  1.30000E-02  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Michel, M.Gloris,  H.-J.Lange,  I.Leya,  M.Luepke, U.Herpers,  B.Dittrich-Hannen,  R.Roesel,  Th.Schiekel,
+#D.Filges,  P.Dragovitsch,  M.Suter,  H.-J.Hofmann, W.Woelfli,  P.W.Kubik,  H.Baur,  R.Wieler
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.103, p.183, 1995
+#Nuclide production by proton-induced reactions on elements (6<=Z<=29) in the energy range from 800 to 2600 MeV.
+#
+#
+# Quality information:
+#
+# Quality  O0277184 :   
+# Date     O0277184 : 05-01-2018
+# Reaction O0277184 : NP:    1 E-range:  1.600E+03-  1.600E+03 MeV 29-CU-0(P,X)20-CA-47,CUM,SIG        pdf: n
+# Paper    O0277184 : R.Michel+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.103, p.183, 1995 Nuclide production by proton-induced reactions on elemen
+# Action   O0277184 : 
+# Comment  O0277184 : 

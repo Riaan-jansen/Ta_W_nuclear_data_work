@@ -1,0 +1,49 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D4101002 
+# X4 code     : 13-AL-27(P,X)11-NA-22,,SIG
+# Author      : Batzel                   
+# Year        : 1954
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.55000E+01  3.00000E-03  0.00000E+00  0.00000E+00  1.34451E-03  0.4482       0.000      1.6555E-03          
+  2.67000E+01  1.70000E-02  0.00000E+00  0.00000E+00  3.61097E-02   2.124       0.000      1.9110E-02          
+  2.78000E+01  6.00000E-02  0.00000E+00  0.00000E+00  9.00363E-02   1.501       0.000      3.0036E-02          
+  2.90000E+01  2.20000E-01  0.00000E+00  0.00000E+00  4.85540E-01   2.207       0.000      0.2655              
+  3.00000E+01  5.20000E-01  0.00000E+00  0.00000E+00  8.71238E-01   1.675       0.000      0.3512              
+  3.10000E+01  1.29000E+00  0.00000E+00  0.00000E+00  2.73681E+00   2.122       0.000       1.447              
+  3.20000E+01  2.63000E+00  0.00000E+00  0.00000E+00  4.60238E+00   1.750       0.000       1.972              
+#
+# Average deviation:                                                1.955       0.000      0.5838    
+#
+# Full reference:
+#R.E.Batzel, G.H.Coleman
+#Jour. Physical Review Vol.93, p.280, 1954
+#Cross sections for the formation of 22Na from aluminium and magnesium bombarded with protons
+#
+# Quality information:
+#
+# Quality  D4101002 : T1
+# Date     D4101002 : 05-01-2018
+# Reaction D4101002 : NP:    7 E-range:   25.5    -   32.0     MeV 13-AL-27(P,X)11-NA-22,,SIG          pdf: y
+# Paper    D4101002 : R.E.Batzel+ Jour. Physical Review Vol.93, p.280, 1954 Cross sections for the formation of 22Na from aluminium and magnesium bombarded with p
+# Action   D4101002 : 
+# Comment  D4101002 : Evaluation        N=     7 F=   1.96     chi-2=   0.00     D=  0.584     mb T=   1.26     mb E=  0.677     K1=  1.96     K2=  9.76
+# Comment  D4101002 : TALYS             N=     7 F=   1.96     chi-2=   0.00     D=  0.584     mb T=   1.26     mb E=  0.677     K1=  1.96     K2=  9.76
+# Comment  D4101002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.677     K1=  0.00     K2=  0.00
+# Comment  D4101002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.677     K1=  0.00     K2=  0.00
+# Comment  D4101002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.677     K1=  0.00     K2=  0.00
+# Comment  D4101002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.677     K1=  0.00     K2=  0.00
+# Comment  D4101002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.677     K1=  0.00     K2=  0.00
+# Comment  D4101002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.677     K1=  0.00     K2=  0.00
+# Comment  D4101002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.677     K1=  0.00     K2=  0.00

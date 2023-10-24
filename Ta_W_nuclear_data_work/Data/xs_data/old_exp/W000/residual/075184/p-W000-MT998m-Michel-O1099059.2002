@@ -1,0 +1,64 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 184
+# Final state : 1
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099059 
+# X4 code     : 74-W-0(P,X)75-RE-184-M,IND,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :     28
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.86000E+01  3.55300E+00  4.35900E-01  1.92400E+00
+  8.01000E+01  2.84900E+00  3.38500E-01  1.30000E+00
+  8.42000E+01  2.74400E+00  3.10000E-01  1.83000E+00
+  9.17000E+01  2.24800E+00  2.60600E-01  1.20000E+00
+  9.55000E+01  2.59200E+00  2.99600E-01  1.76000E+00
+  9.92000E+01  2.34200E+00  2.91700E-01  1.74100E+00
+  9.96000E+01  2.38400E+00  2.98700E-01  1.12000E+00
+  1.07000E+02  2.24600E+00  2.55400E-01  1.68000E+00
+  1.09000E+02  1.81500E+00  2.23500E-01  1.01000E+00
+  1.16000E+02  2.15400E+00  3.21000E-01  1.62900E+00
+  1.17000E+02  1.83300E+00  2.16300E-01  9.25000E-01
+  1.26000E+02  1.64900E+00  1.85300E-01  7.85000E-01
+  1.32000E+02  1.60300E+00  2.71500E-01  6.57000E-01
+  1.36000E+02  1.92000E+00  2.69500E-01  1.47000E+00
+  1.39000E+02  1.89100E+00  3.14700E-01  1.45100E+00
+  1.47000E+02  1.77300E+00  2.54400E-01  1.38000E+00
+  1.54000E+02  1.51300E+00  1.96700E-01  1.29000E+00
+  1.59000E+02  1.38500E+00  2.12000E-01  1.25000E+00
+  1.63000E+02  1.39900E+00  2.43400E-01  1.20000E+00
+  1.70000E+02  1.18500E+00  1.53700E-01  1.11000E+00
+  1.72000E+02  1.11700E+00  1.68600E-01  1.08900E+00
+  2.35000E+02  9.88400E-01  1.83800E-01  1.29900E+00
+  2.54000E+02  1.00600E+00  2.71900E-01  1.72000E+00
+  2.60000E+02  1.10200E+00  2.04200E-01  1.08000E+00
+  3.34000E+02  5.20900E-01  1.37900E-01  1.68000E+00
+  5.59000E+02  6.07000E-01  1.34600E-01  1.48000E+00
+  7.64000E+02  4.64000E-01  1.20000E-01  1.45000E+00
+  9.88000E+02  6.15500E-01  1.07600E-01  1.01000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099059 :   
+# Date     O1099059 : 05-01-2018
+# Reaction O1099059 : NP:   28 E-range:   68.6    -   988.     MeV 74-W-0(P,X)75-RE-184-M,IND,SIG      pdf: n
+# Paper    O1099059 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099059 : 
+# Comment  O1099059 : 

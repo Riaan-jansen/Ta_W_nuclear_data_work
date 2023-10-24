@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   57.000 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  2.00000)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :  651
+# X4 ID       : E2249014 
+# X4 code     : 13-AL-27(P,D)13-AL-26,PAR,DA
+# Author      : Ishizaki                 
+# Year        : 1965
+# Data points :     13
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  1.06399E+01  4.55100E+00  1.56000E-01
+  1.58900E+01  3.79900E+00  1.61000E-01
+  2.11300E+01  2.80300E+00  1.31000E-01
+  2.64601E+01  1.37400E+00  7.90000E-02
+  3.18001E+01  1.20100E+00  8.40000E-02
+  3.68000E+01  1.04800E+00  7.20000E-02
+  4.21700E+01  9.88000E-01  7.20000E-02
+  4.76100E+01  5.51000E-01  6.20000E-02
+  5.29501E+01  3.80000E-01  7.70000E-02
+  5.79901E+01  5.14000E-01  5.90000E-02
+  6.29601E+01  2.54000E-01  6.20000E-02
+  6.84201E+01  2.61000E-01  5.90000E-02
+  7.35501E+01  1.62000E-01  0.00000E+00
+# Full reference:
+#Y.Ishizaki,  K.Kikuchi,  K.Matsuda,  T.Mikumo, Y.Nakajima,  I.Nonaka,  Y.Saji,  A.Suzuki,  H.Yamaguchi,
+#R.Eisberg
+#Jour. Journal of the Physical Society of Japan Vol.20, p.2118, 1965
+#An experimental survey of nuclear reactions induced by 57 MeV protons part II (p,d) reactions.

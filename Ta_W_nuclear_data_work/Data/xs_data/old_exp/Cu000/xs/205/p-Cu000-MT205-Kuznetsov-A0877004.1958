@@ -1,0 +1,33 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  205
+# X4 ID       : A0877004 
+# X4 code     : 29-CU-0(P,X)1-H-3,,SIG
+# Author      : Kuznetsov                
+# Year        : 1958
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.60000E+02  7.40000E+01  2.20000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#V.V.Kuznetsov, V.N.Mekhedov
+#Jour. Zhurnal Eksperimental`noi i Teoret. Fiziki Vol.35, p.587, 1958
+#Tritium production in metals by 120 to 660-MeV Protons.
+#
+# Quality information:
+#
+# Quality  A0877004 :   
+# Date     A0877004 : 05-01-2018
+# Reaction A0877004 : NP:    1 E-range:   660.    -   660.     MeV 29-CU-0(P,X)1-H-3,,SIG              pdf: n
+# Paper    A0877004 : V.V.Kuznetsov+ Jour. Zhurnal Eksperimental`noi i Teoret. Fiziki Vol.35, p.587, 1958 Tritium production in metals by 120 to 660-MeV Protons.
+# Action   A0877004 : 
+# Comment  A0877004 : 

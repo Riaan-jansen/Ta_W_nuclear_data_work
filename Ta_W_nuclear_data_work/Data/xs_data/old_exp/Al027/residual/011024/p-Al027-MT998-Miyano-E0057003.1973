@@ -1,0 +1,48 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : E0057003 
+# X4 code     : 13-AL-27(P,X)11-NA-24,,SIG
+# Author      : Miyano                   
+# Year        : 1973
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.40400E+01  5.03700E-01  3.89000E-01  3.00000E-01  2.95402E-01  0.5865      0.2867      0.2083              
+  3.74100E+01  8.44900E-01  4.67100E-01  3.00000E-01  9.52227E-01   1.127      5.2796E-02  0.1073              
+  4.04100E+01  1.41700E+00  5.61100E-01  3.00000E-01  1.70296E+00   1.202      0.2597      0.2860              
+  4.66700E+01  3.51300E+00  6.47100E-01  3.00000E-01  3.69929E+00   1.053      8.2874E-02  0.1863              
+  5.12300E+01  5.25100E+00  6.21900E-01  3.00000E-01  5.49430E+00   1.046      0.1530      0.2433              
+  5.18000E+01  5.30600E+00  5.96900E-01  3.00000E-01  5.72279E+00   1.079      0.4876      0.4168              
+#
+# Average deviation:                                                1.270      0.2205      0.2413    
+#
+# Full reference:
+#K.Miyano
+#Jour. Journal of the Physical Society of Japan Vol.34, Issue.4, p.853, 1973
+#The 7Be, 22Na and 24Na Production Cross Sections with 22- to 52-MeV Proton on 27Al
+#
+# Quality information:
+#
+# Quality  E0057003 : T1
+# Date     E0057003 : 05-01-2018
+# Reaction E0057003 : NP:    6 E-range:   34.0    -   51.8     MeV 13-AL-27(P,X)11-NA-24,,SIG          pdf: y
+# Paper    E0057003 : K.Miyano Jour. Journal of the Physical Society of Japan Vol.34, Issue.4, p.853, 1973 The 7Be, 22Na and 24Na Production Cross Sections with 2
+# Action   E0057003 : 
+# Comment  E0057003 : Evaluation        N=     6 F=   1.27     chi-2=  0.220     D=  0.241     mb T=   2.98     mb E=   2.81     K1=  1.27     K2=  1.38
+# Comment  E0057003 : TALYS             N=     6 F=   1.27     chi-2=  0.220     D=  0.241     mb T=   2.98     mb E=   2.81     K1=  1.27     K2=  1.38
+# Comment  E0057003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.81     K1=  0.00     K2=  0.00
+# Comment  E0057003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.81     K1=  0.00     K2=  0.00
+# Comment  E0057003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.81     K1=  0.00     K2=  0.00
+# Comment  E0057003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.81     K1=  0.00     K2=  0.00
+# Comment  E0057003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.81     K1=  0.00     K2=  0.00
+# Comment  E0057003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.81     K1=  0.00     K2=  0.00
+# Comment  E0057003 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.81     K1=  0.00     K2=  0.00

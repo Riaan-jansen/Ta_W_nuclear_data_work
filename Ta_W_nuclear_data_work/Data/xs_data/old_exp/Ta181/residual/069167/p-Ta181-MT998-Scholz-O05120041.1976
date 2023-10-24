@@ -1,0 +1,45 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  69
+# Final A     : 167
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O05120041
+# X4 code     : 73-TA-181(P,X)69-TM-167,CUM,SIG
+# Author      : Scholz                   
+# Year        : 1976
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.90000E+02  5.70000E+01  8.00000E+00  0.00000E+00  2.08928E-01  3.6654E-03   50.39       56.79              
+  5.90000E+02  4.80000E+01  7.00000E+00  0.00000E+00  2.08928E-01  4.3527E-03   46.61       47.79              
+#
+# Average deviation:                                                250.5       48.50       52.29    
+#
+# Full reference:
+#K.L.Scholz, V.J.Sodd, J.W.Blue
+#Jour. Applied Radiation and Isotopes Vol.27, p.263, 1976
+#Production of Thulium-167 For Medical Use by Irradiation of Lutetium,Hafnium,Tantalum and Tundsten With 590-MeV Protons.
+#
+#
+# Quality information:
+#
+# Quality  O05120041: T2
+# Date     O05120041: 05-01-2018
+# Reaction O05120041: NP:    2 E-range:   590.    -   590.     MeV 73-TA-181(P,X)69-TM-167,CUM,SIG     pdf: y
+# Paper    O05120041: K.L.Scholz+ Jour. Applied Radiation and Isotopes Vol.27, p.263, 1976 Production of Thulium-167 For Medical Use by Irradiation of Lutetium,Ha
+# Action   O05120041: 
+# Comment  O05120041: Evaluation        N=     2 F=   251.     chi-2=   48.5     D=   52.3     mb T=  0.209     mb E=   52.5     K1=  251.     K2= 1.000E+35
+# Comment  O05120041: TALYS             N=     2 F=   251.     chi-2=   48.5     D=   52.3     mb T=  0.209     mb E=   52.5     K1=  251.     K2= 1.000E+35
+# Comment  O05120041: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.5     K1=  0.00     K2=  0.00
+# Comment  O05120041: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.5     K1=  0.00     K2=  0.00
+# Comment  O05120041: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.5     K1=  0.00     K2=  0.00
+# Comment  O05120041: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.5     K1=  0.00     K2=  0.00
+# Comment  O05120041: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.5     K1=  0.00     K2=  0.00
+# Comment  O05120041: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.5     K1=  0.00     K2=  0.00
+# Comment  O05120041: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.5     K1=  0.00     K2=  0.00

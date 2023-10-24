@@ -1,0 +1,44 @@
+# Target Z    :  74
+# Target A    : 186
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   18.000 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  0.02400)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :  651
+# X4 ID       : O0371008 
+# X4 code     : 74-W-186(P,D)74-W-185,PAR,DA,,,EXP
+# Author      : Ascuitto                 
+# Year        : 1972
+# Data points :     23
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  5.10004E+00  1.48000E-02  1.62800E-03
+  1.14999E+01  1.85000E-02  0.00000E+00
+  1.90001E+01  8.80000E-03  1.23200E-03
+  2.63001E+01  8.50000E-03  7.65000E-04
+  3.45000E+01  2.59000E-02  0.00000E+00
+  4.17001E+01  2.73000E-02  0.00000E+00
+  4.91001E+01  9.40000E-03  1.12800E-03
+  5.67001E+01  1.70000E-03  6.80000E-04
+  6.32001E+01  7.60000E-03  9.12000E-04
+  7.31001E+01  9.70000E-03  9.70000E-04
+  8.04001E+01  5.80000E-03  6.96000E-04
+  8.71001E+01  2.20000E-03  3.96000E-04
+  9.19001E+01  1.40000E-03  5.60000E-04
+  9.95001E+01  2.70000E-03  5.94000E-04
+  1.07200E+02  1.90000E-03  4.94000E-04
+  1.15000E+02  1.90000E-03  5.70000E-04
+  1.22900E+02  7.20000E-04  2.08800E-04
+  1.30100E+02  1.20000E-03  3.00000E-04
+  1.37100E+02  9.00000E-04  2.70000E-04
+  1.44000E+02  1.70000E-03  4.08000E-04
+  1.52700E+02  9.00000E-04  3.60000E-04
+  1.59300E+02  6.00000E-04  2.40000E-04
+  1.67300E+02  8.00000E-04  4.80000E-04
+# Full reference:
+#R.J.Ascuitto, C.H.King, L.J.Mcvay
+#Jour. Physical Review Letters Vol.29, p.1106, 1972
+#Evidence For Higher-Order Processes in Single-Nucleon Transfer Reactions.

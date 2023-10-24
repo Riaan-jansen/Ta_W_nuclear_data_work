@@ -1,0 +1,51 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : E1894003 
+# X4 code     : 13-AL-27(P,X)11-NA-22,CUM,SIG
+# Author      : Uddin                    
+# Year        : 2004
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.07260E+01  8.10000E-01  7.00000E-02  0.00000E+00  2.22564E+00   2.748       409.0       1.416              
+  3.67180E+01  1.63000E+01  1.80000E+00  0.00000E+00  1.45437E+01  0.8923      0.9521       1.756              
+  4.20560E+01  3.45000E+01  3.50000E+00  0.00000E+00  2.54472E+01  0.7376       6.690       9.053              
+  4.69430E+01  3.71000E+01  3.80000E+00  0.00000E+00  2.92569E+01  0.7886       4.260       7.843              
+  5.14760E+01  3.59000E+01  3.70000E+00  0.00000E+00  2.85756E+01  0.7960       3.919       7.324              
+  5.57050E+01  2.97000E+01  2.90000E+00  0.00000E+00  2.62806E+01  0.8849       1.390       3.419              
+  5.97320E+01  2.67000E+01  2.80000E+00  0.00000E+00  2.42091E+01  0.9067      0.7914       2.491              
+  6.35110E+01  2.26000E+01  2.50000E+00  0.00000E+00  2.27947E+01   1.009      6.0678E-03  0.1947              
+  6.71540E+01  2.00000E+01  2.50000E+00  0.00000E+00  2.18451E+01   1.092      0.5447       1.845              
+#
+# Average deviation:                                                1.456       47.50       3.927    
+#
+# Full reference:
+#M.S.Uddin,  M.Hagiwara,  F.Tarkanyi,  F.Ditroi,  M.Baba
+#Jour. Applied Radiation and Isotopes Vol.60, Issue.6, p.911, 2004
+#Experimental studies on the proton-induced activation reactions of molybdenum in the energy range 22-67 MeV
+#
+# Quality information:
+#
+# Quality  E1894003 : T1
+# Date     E1894003 : 05-01-2018
+# Reaction E1894003 : NP:    9 E-range:   30.7    -   67.2     MeV 13-AL-27(P,X)11-NA-22,CUM,SIG       pdf: y
+# Paper    E1894003 : M.S.Uddin+ Jour. Applied Radiation and Isotopes Vol.60, Issue.6, p.911, 2004 Experimental studies on the proton-induced activation reactions
+# Action   E1894003 : 
+# Comment  E1894003 : Evaluation        N=     9 F=   1.46     chi-2=   47.5     D=   3.93     mb T=   21.7     mb E=   24.8     K1=  1.46     K2=  4.87
+# Comment  E1894003 : TALYS             N=     9 F=   1.46     chi-2=   47.5     D=   3.93     mb T=   21.7     mb E=   24.8     K1=  1.46     K2=  4.87
+# Comment  E1894003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   24.8     K1=  0.00     K2=  0.00
+# Comment  E1894003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   24.8     K1=  0.00     K2=  0.00
+# Comment  E1894003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   24.8     K1=  0.00     K2=  0.00
+# Comment  E1894003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   24.8     K1=  0.00     K2=  0.00
+# Comment  E1894003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   24.8     K1=  0.00     K2=  0.00
+# Comment  E1894003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   24.8     K1=  0.00     K2=  0.00
+# Comment  E1894003 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   24.8     K1=  0.00     K2=  0.00

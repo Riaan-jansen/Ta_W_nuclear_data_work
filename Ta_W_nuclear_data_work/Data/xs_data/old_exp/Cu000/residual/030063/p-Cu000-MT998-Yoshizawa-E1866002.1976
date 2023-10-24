@@ -1,0 +1,53 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  63
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : E1866002 
+# X4 code     : 29-CU-0(P,X)30-ZN-63,,SIG
+# Author      : Yoshizawa                
+# Year        : 1976
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.51100E+01  4.55600E+01  5.61400E+00  0.00000E+00  2.63266E+01  0.5778       11.74       19.23              
+  2.76500E+01  4.11100E+01  5.06700E+00  0.00000E+00  2.29388E+01  0.5580       12.86       18.17              
+  3.02000E+01  4.35300E+01  5.36500E+00  0.00000E+00  1.99858E+01  0.4591       19.26       23.54              
+  3.27400E+01  4.04400E+01  4.98400E+00  0.00000E+00  1.76081E+01  0.4354       20.99       22.83              
+  3.57700E+01  4.47200E+01  4.07300E+00  0.00000E+00  1.49860E+01  0.3351       53.29       29.73              
+  3.92800E+01  4.03500E+01  4.97200E+00  0.00000E+00  1.26770E+01  0.3142       30.98       27.67              
+  4.26600E+01  3.24100E+01  3.99400E+00  0.00000E+00  1.09490E+01  0.3378       28.87       21.46              
+  4.56800E+01  2.49200E+01  2.27000E+00  0.00000E+00  9.59770E+00  0.3851       45.56       15.32              
+  4.88300E+01  2.28200E+01  2.07800E+00  0.00000E+00  8.44970E+00  0.3703       47.82       14.37              
+  5.18500E+01  1.91400E+01  2.67400E+00  0.00000E+00  7.61046E+00  0.3976       18.59       11.53              
+#
+# Average deviation:                                                2.501       29.00       20.39    
+#
+# Full reference:
+#Y.Yoshizawa,  H.Noma,  T.Horiguchi,  T.Katoh,  S.Amemiya, M.Itoh,  K.Hisatake,  M.Sekikawa,  K.Chida
+#
+#Jour. Nuclear Instrum.and Methods in Physics Res. Vol.134, Issue.1, p.93, 1976
+#Isotope separator on-line at INS FM cyclotron
+#
+# Quality information:
+#
+# Quality  E1866002 : T1
+# Date     E1866002 : 05-01-2018
+# Reaction E1866002 : NP:   10 E-range:   25.1    -   51.8     MeV 29-CU-0(P,X)30-ZN-63,,SIG           pdf: y
+# Paper    E1866002 : Y.Yoshizawa+ Jour. Nuclear Instrum.and Methods in Physics Res. Vol.134, Issue.1, p.93, 1976 Isotope separator on-line at INS FM cyclotron
+# Action   E1866002 : 
+# Comment  E1866002 : Evaluation        N=    10 F=   2.50     chi-2=   29.0     D=   20.4     mb T=   15.1     mb E=   35.5     K1=  2.50     K2=  40.8
+# Comment  E1866002 : TALYS             N=    10 F=   2.50     chi-2=   29.0     D=   20.4     mb T=   15.1     mb E=   35.5     K1=  2.50     K2=  40.8
+# Comment  E1866002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  E1866002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  E1866002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  E1866002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  E1866002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  E1866002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  E1866002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00

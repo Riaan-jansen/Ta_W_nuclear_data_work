@@ -1,0 +1,41 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : B0071004 
+# X4 code     : 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP
+# Author      : Reuland                  
+# Year        : 1969
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.00000E+02  9.00000E-01  1.71000E-01  2.00000E+01  6.84045E-01  0.7601       1.595      0.2160              
+#
+# Average deviation:                                                1.316       1.595      0.2160    
+#
+# Full reference:
+#D.J.Reuland,  A.A.Caretto Jr
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.31, p.1915, 1969
+#The Measurement of Some (P,N) And (P,2N) Reaction Cross Sections at 400 MeV
+#
+# Quality information:
+#
+# Quality  B0071004 : T1
+# Date     B0071004 : 05-01-2018
+# Reaction B0071004 : NP:    1 E-range:   400.    -   400.     MeV 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP    pdf: y
+# Paper    B0071004 : D.J.Reuland+ Jour. Journal of Inorganic and Nuclear Chemistry Vol.31, p.1915, 1969 The Measurement of Some (P,N) And (P,2N) Reaction Cross S
+# Action   B0071004 : 
+# Comment  B0071004 : Evaluation        N=     1 F=   1.32     chi-2=   1.59     D=  0.216     mb T=  0.684     mb E=  0.900     K1=  1.32     K2=  1.56
+# Comment  B0071004 : TALYS             N=     1 F=   1.32     chi-2=   1.59     D=  0.216     mb T=  0.684     mb E=  0.900     K1=  1.32     K2=  1.56
+# Comment  B0071004 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.900     K1=  0.00     K2=  0.00
+# Comment  B0071004 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.900     K1=  0.00     K2=  0.00
+# Comment  B0071004 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.900     K1=  0.00     K2=  0.00
+# Comment  B0071004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.900     K1=  0.00     K2=  0.00
+# Comment  B0071004 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.900     K1=  0.00     K2=  0.00
+# Comment  B0071004 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.900     K1=  0.00     K2=  0.00
+# Comment  B0071004 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.900     K1=  0.00     K2=  0.00

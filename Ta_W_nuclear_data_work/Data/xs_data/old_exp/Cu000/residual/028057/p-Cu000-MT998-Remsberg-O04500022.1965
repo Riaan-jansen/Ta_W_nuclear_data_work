@@ -1,0 +1,49 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  28
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O04500022
+# X4 code     : 29-CU-0(P,X)28-NI-57,,SIG
+# Author      : Remsberg                 
+# Year        : 1965
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.90000E+02  1.30000E+00  1.20000E-01  0.00000E+00  1.53004E+00   1.177       3.675      0.2300              
+  6.50000E+02  1.13000E+00  1.00000E-01  0.00000E+00  1.46706E+00   1.298       11.36      0.3371              
+  1.00000E+03  8.21000E-01  7.40000E-02  0.00000E+00  1.31527E+00   1.602       44.61      0.4943              
+  1.40000E+03  7.29000E-01  6.60000E-02  0.00000E+00
+  2.00000E+03  6.55000E-01  5.90000E-02  0.00000E+00
+  2.80000E+03  5.94000E-01  5.30000E-02  0.00000E+00
+  2.80000E+04  5.00000E-01  4.50000E-02  0.00000E+00
+#
+# Average deviation:                                                1.384       19.88      0.3538    
+#
+# Full reference:
+#L.P.Remsberg
+#Jour. Physical Review Vol.138, p.B572, 1965
+#Excitation function and integral recoil properties of the Cu-65(p,p+pip)Ni-65 reaction.
+#
+# Quality information:
+#
+# Quality  O04500022: T1
+# Date     O04500022: 05-01-2018
+# Reaction O04500022: NP:    7 E-range:   490.    -  2.800E+04 MeV 29-CU-0(P,X)28-NI-57,,SIG           pdf: y
+# Paper    O04500022: L.P.Remsberg Jour. Physical Review Vol.138, p.B572, 1965 Excitation function and integral recoil properties of the Cu-65(p,p+pip)Ni-65 react
+# Action   O04500022: 
+# Comment  O04500022: Evaluation        N=     3 F=   1.38     chi-2=   19.9     D=  0.354     mb T=   1.44     mb E=  0.818     K1=  1.38     K2=  2.30
+# Comment  O04500022: TALYS             N=     3 F=   1.38     chi-2=   19.9     D=  0.354     mb T=   1.44     mb E=  0.818     K1=  1.38     K2=  2.30
+# Comment  O04500022: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.818     K1=  0.00     K2=  0.00
+# Comment  O04500022: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.818     K1=  0.00     K2=  0.00
+# Comment  O04500022: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.818     K1=  0.00     K2=  0.00
+# Comment  O04500022: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.818     K1=  0.00     K2=  0.00
+# Comment  O04500022: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.818     K1=  0.00     K2=  0.00
+# Comment  O04500022: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.818     K1=  0.00     K2=  0.00
+# Comment  O04500022: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.818     K1=  0.00     K2=  0.00

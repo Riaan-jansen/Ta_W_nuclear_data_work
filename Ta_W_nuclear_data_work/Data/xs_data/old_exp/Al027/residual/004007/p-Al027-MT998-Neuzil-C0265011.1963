@@ -1,0 +1,47 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : C
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0265011 
+# X4 code     : 13-AL-27(P,X)4-BE-7,,SIG
+# Author      : Neuzil                   
+# Year        : 1963
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.97850E+01  4.05000E-02  8.81000E-03  0.00000E+00  5.40481E+01   1335.      4.1817E+07   54.01              
+  3.19880E+01  7.74700E-02  1.54940E-02  0.00000E+00  3.68620E+01   475.8      6.3034E+06   36.78              
+  3.40780E+01  8.48300E-02  1.69660E-02  0.00000E+00  3.59205E+01   423.4      4.8564E+06   35.84              
+  3.59660E+01  1.11430E-01  2.56100E-02  0.00000E+00  3.46960E+01   311.4      1.9593E+06   34.58              
+  3.78200E+01  2.77840E-01  5.55680E-02  0.00000E+00  3.33365E+01   120.0      3.7625E+05   33.06              
+#
+# Average deviation:                                                402.1      1.1063E+07   38.85    
+#
+# Full reference:
+#E.F.Neuzil, R.H.Lindsay
+#Jour. Physical Review Vol.131, p.1697, 1963
+#Emission of Be7 and Competition Processes at 30 to 42 MeV
+#
+# Quality information:
+#
+# Quality  C0265011 : T2
+# Date     C0265011 : 05-01-2018
+# Reaction C0265011 : NP:    5 E-range:   29.8    -   37.8     MeV 13-AL-27(P,X)4-BE-7,,SIG            pdf: y
+# Paper    C0265011 : E.F.Neuzil+ Jour. Physical Review Vol.131, p.1697, 1963 Emission of Be7 and Competition Processes at 30 to 42 MeV
+# Action   C0265011 : 
+# Comment  C0265011 : Evaluation        N=     5 F=   402.     chi-2=  1.106E+07 D=   38.9     mb T=   39.0     mb E=  0.118     K1=  402.     K2= 1.000E+35
+# Comment  C0265011 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.118     K1=  0.00     K2=  0.00
+# Comment  C0265011 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.118     K1=  0.00     K2=  0.00
+# Comment  C0265011 : eaf.2010          N=     5 F=   505.     chi-2=  1.127E+07 D=   46.7     mb T=   46.8     mb E=  0.118     K1=  505.     K2= 1.000E+35
+# Comment  C0265011 : endfb8.0          N=     1 F=   730.     chi-2=  1.124E+07 D=   29.5     mb T=   29.6     mb E=  0.118     K1=  730.     K2= 1.000E+35
+# Comment  C0265011 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.118     K1=  0.00     K2=  0.00
+# Comment  C0265011 : jeff3.3           N=     1 F=  1.323E+03 chi-2=  3.694E+07 D=   53.5     mb T=   53.6     mb E=  0.118     K1= 1.323E+03 K2= 1.000E+35
+# Comment  C0265011 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.118     K1=  0.00     K2=  0.00
+# Comment  C0265011 : tendl.2017        N=     5 F=   358.     chi-2=  1.795E+07 D=   36.0     mb T=   36.1     mb E=  0.118     K1=  358.     K2= 1.000E+35

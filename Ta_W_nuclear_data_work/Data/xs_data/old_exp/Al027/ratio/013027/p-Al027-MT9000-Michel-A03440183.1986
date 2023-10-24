@@ -1,0 +1,25 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9000
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9000
+# X4 ID       : A03440183
+# X4 code     : (13-AL-27(P,X)2-HE-3,IND,SIG)/(13-AL-27(P,X)2-HE-4,,SIG)
+# Author      : Michel                   
+# Year        : 1986
+# Data points :      1
+#    E(MeV)      ratio        dratio      dE(MeV)
+  6.00000E+02  8.20000E-02  1.00000E-03  0.00000E+00
+# Full reference:
+#R.Michel,  P.Dragovitsch,  P.Englert,  F.Peiffer, R.Stuek,  S.Theis,  F.Begemann,  H.Weber,  P.Signer,
+#R.Wieler,  D.Filges,  P.Cloth
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.16, p.61, 1986
+#On the depth dependence of spallation reactions in a spherical thick diorite target homogeneously irradiated by 600 MeV protons. Simulation of
+#production of cosmogenic nuclides in small meteorites

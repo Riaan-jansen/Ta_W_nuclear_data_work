@@ -1,0 +1,53 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  68
+# Final A     : 160
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099127 
+# X4 code     : 73-TA-181(P,X)68-ER-160,CUM,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.56000E+02  7.63000E+00  1.23000E+00  1.00000E+00  3.73949E-02  4.9010E-03   38.10       7.593              
+  2.58000E+02  1.29000E+01  2.00000E+00  2.00000E+00  3.75014E-02  2.9071E-03   41.36       12.86              
+  3.37000E+02  2.86000E+01  3.60000E+00  2.00000E+00  3.45267E-02  1.2072E-03   62.96       28.57              
+  5.61000E+02  5.13000E+01  6.40000E+00  1.00000E+00  4.09435E-02  7.9812E-04   64.15       51.26              
+  7.65000E+02  5.32000E+01  6.80000E+00  1.00000E+00  2.70109E-02  5.0772E-04   61.15       53.17              
+  9.86000E+02  4.98000E+01  6.30000E+00  1.00000E+00  2.20966E-02  4.4371E-04   62.43       49.78              
+  1.18000E+03  4.43000E+01  6.10000E+00  1.00000E+00
+  1.38000E+03  3.79000E+01  5.10000E+00  1.00000E+00
+  1.57000E+03  3.36000E+01  4.70000E+00  1.00000E+00
+#
+# Average deviation:                                                877.5       55.02       33.87    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099127 : T2
+# Date     O1099127 : 05-01-2018
+# Reaction O1099127 : NP:    9 E-range:   256.    -  1.570E+03 MeV 73-TA-181(P,X)68-ER-160,CUM,SIG     pdf: y
+# Paper    O1099127 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099127 : 
+# Comment  O1099127 : Evaluation        N=     6 F=   878.     chi-2=   55.0     D=   33.9     mb T=  3.325E-02 mb E=   35.5     K1=  878.     K2= 1.000E+35
+# Comment  O1099127 : TALYS             N=     6 F=   878.     chi-2=   55.0     D=   33.9     mb T=  3.325E-02 mb E=   35.5     K1=  878.     K2= 1.000E+35
+# Comment  O1099127 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  O1099127 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  O1099127 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  O1099127 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  O1099127 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  O1099127 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00
+# Comment  O1099127 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   35.5     K1=  0.00     K2=  0.00

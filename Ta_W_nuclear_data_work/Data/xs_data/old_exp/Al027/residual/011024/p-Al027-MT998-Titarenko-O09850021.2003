@@ -1,0 +1,56 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O09850021
+# X4 code     : 13-AL-27(P,X)11-NA-24,,SIG
+# Author      : Titarenko                
+# Year        : 2003
+# Data points :     12
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.70000E+01  1.13000E+01  8.00000E-01  0.00000E+00  9.45466E+00  0.8367       5.321       1.845              
+  9.70000E+01  1.10000E+01  8.00000E-01  0.00000E+00  9.08826E+00  0.8262       5.711       1.912              
+  1.27000E+02  1.01000E+01  8.00000E-01  0.00000E+00  8.03292E+00  0.7953       6.676       2.067              
+  1.47000E+02  9.80000E+00  8.00000E-01  0.00000E+00  7.45160E+00  0.7604       8.617       2.348              
+  1.97000E+02  9.80000E+00  7.00000E-01  0.00000E+00  6.20424E+00  0.6331       26.39       3.596              
+  8.00000E+02  1.27000E+01  8.00000E-01  0.00000E+00  4.41823E+00  0.3479       107.2       8.282              
+  1.00000E+03  1.30000E+01  1.10000E+00  0.00000E+00  3.64203E+00  0.2802       72.37       9.358              
+  1.20000E+03  1.29000E+01  9.00000E-01  0.00000E+00
+  1.40000E+03  1.28000E+01  1.00000E+00  0.00000E+00
+  1.50000E+03  1.24000E+01  1.00000E+00  0.00000E+00
+  1.60000E+03  1.16000E+01  9.00000E-01  0.00000E+00
+  2.60000E+03  1.06000E+01  9.00000E-01  0.00000E+00
+#
+# Average deviation:                                                1.953       33.18       4.201    
+#
+# Full reference:
+#Yu.E.Titarenko,  O.V.Shvedov,  V.F.Batyaev, E.I.Karpikhin,  V.M.Zhivun,  A.B.Koldobsky, R.D.Mulambetov,  A.N.Sosin,  Yu.N.Shubin,
+# A.V.Ignatyuk, V.P.Lunev,  S.G.Mashnik,  R.E.Prael,  T.A.Gabriel, M.Blann
+#Rept. USSR report to the I.N.D.C. No.434, p.86, 2003
+#Experimental and theoretical study of the yields of radioactive product nuclei in Tc-99 thin targets irradiated with 100-2600 MeV protons.
+#
+#
+# Quality information:
+#
+# Quality  O09850021: N1
+# Date     O09850021: 05-01-2018
+# Reaction O09850021: NP:   12 E-range:   67.0    -  2.600E+03 MeV 13-AL-27(P,X)11-NA-24,,SIG          pdf: n
+# Paper    O09850021: Yu.E.Titarenko+ Rept. USSR report to the I.N.D.C. No.434, p.86, 2003 Experimental and theoretical study of the yields of radioactive product
+# Action   O09850021: 
+# Comment  O09850021: Evaluation        N=     7 F=   1.95     chi-2=   33.2     D=   4.20     mb T=   6.90     mb E=   11.5     K1=  1.95     K2=  34.5
+# Comment  O09850021: TALYS             N=     7 F=   1.95     chi-2=   33.2     D=   4.20     mb T=   6.90     mb E=   11.5     K1=  1.95     K2=  34.5
+# Comment  O09850021: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.5     K1=  0.00     K2=  0.00
+# Comment  O09850021: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.5     K1=  0.00     K2=  0.00
+# Comment  O09850021: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.5     K1=  0.00     K2=  0.00
+# Comment  O09850021: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.5     K1=  0.00     K2=  0.00
+# Comment  O09850021: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.5     K1=  0.00     K2=  0.00
+# Comment  O09850021: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.5     K1=  0.00     K2=  0.00
+# Comment  O09850021: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.5     K1=  0.00     K2=  0.00

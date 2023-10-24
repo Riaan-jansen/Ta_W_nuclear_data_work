@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  26
+# Final A     :  52
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O04110094
+# X4 code     : 29-CU-0(P,X)26-FE-52,CUM,SIG
+# Author      : Haller                   
+# Year        : 1961
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.53000E+02  9.20000E-02  1.30000E-02  8.00000E+00  1.65089E-01   1.794       31.61      7.3089E-02          
+#
+# Average deviation:                                                1.794       31.61      7.3089E-02
+#
+# Full reference:
+#I.B.Haller, G.Rudstam
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.19, p.1, 1961
+#Relative Yields of the Isomeric Pairs Zn-69-G,Zn-69-M And Mn-52-G,Mn-52-M in Some Spallation Reactions Induced by 20-153 MeV Protons.
+#
+#
+# Quality information:
+#
+# Quality  O04110094: T1
+# Date     O04110094: 05-01-2018
+# Reaction O04110094: NP:    1 E-range:   153.    -   153.     MeV 29-CU-0(P,X)26-FE-52,CUM,SIG        pdf: y
+# Paper    O04110094: I.B.Haller+ Jour. Journal of Inorganic and Nuclear Chemistry Vol.19, p.1, 1961 Relative Yields of the Isomeric Pairs Zn-69-G,Zn-69-M And Mn-
+# Action   O04110094: 
+# Comment  O04110094: Evaluation        N=     1 F=   1.79     chi-2=   31.6     D=  7.309E-02 mb T=  0.165     mb E=  9.200E-02 K1=  1.79     K2=  4.50
+# Comment  O04110094: TALYS             N=     1 F=   1.79     chi-2=   31.6     D=  7.309E-02 mb T=  0.165     mb E=  9.200E-02 K1=  1.79     K2=  4.50
+# Comment  O04110094: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  9.200E-02 K1=  0.00     K2=  0.00
+# Comment  O04110094: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  9.200E-02 K1=  0.00     K2=  0.00
+# Comment  O04110094: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  9.200E-02 K1=  0.00     K2=  0.00
+# Comment  O04110094: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  9.200E-02 K1=  0.00     K2=  0.00
+# Comment  O04110094: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  9.200E-02 K1=  0.00     K2=  0.00
+# Comment  O04110094: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  9.200E-02 K1=  0.00     K2=  0.00
+# Comment  O04110094: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  9.200E-02 K1=  0.00     K2=  0.00

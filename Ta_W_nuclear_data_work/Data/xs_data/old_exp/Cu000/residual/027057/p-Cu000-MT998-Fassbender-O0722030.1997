@@ -1,0 +1,49 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0722030 
+# X4 code     : 29-CU-CMP(P,X)27-CO-57,CUM,SIG
+# Author      : Fassbender               
+# Year        : 1997
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.50800E+02  2.33000E+01  5.40000E+00  0.00000E+00  3.02622E+01   1.299       1.662       6.962              
+  2.14900E+02  2.93000E+01  4.10000E+00  0.00000E+00  2.89904E+01  0.9894      5.7005E-03  0.3096              
+  1.74600E+02  3.03000E+01  4.50000E+00  0.00000E+00  3.06098E+01   1.010      4.7395E-03  0.3098              
+  1.30700E+02  3.72000E+01  5.50000E+00  0.00000E+00  3.64401E+01  0.9796      1.9090E-02  0.7599              
+  1.25000E+02  4.00000E+01  5.90000E+00  0.00000E+00  3.73468E+01  0.9337      0.2022       2.653              
+  7.90000E+01  3.67000E+01  5.50000E+00  0.00000E+00  2.03122E+01  0.5535       8.878       16.39              
+#
+# Average deviation:                                                1.304       1.795       4.564    
+#
+# Full reference:
+#M.Fassbender,  Yu.N.Shubin,  V.P.Lunev,  S.M.Qaim
+#Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997
+#Experimental studies and nuclear model calculations on the formation of radioactive products in interactions of medium energy protons with copper, zinc
+#and brass:  estimation of collimator activation in proton therapy facilities.
+#
+# Quality information:
+#
+# Quality  O0722030 : T1
+# Date     O0722030 : 05-01-2018
+# Reaction O0722030 : NP:    6 E-range:   79.0    -   351.     MeV 29-CU-CMP(P,X)27-CO-57,CUM,SIG      pdf: y
+# Paper    O0722030 : M.Fassbender+ Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997 Experimental studies and nuclear model calculations on the formation
+# Action   O0722030 : 
+# Comment  O0722030 : Evaluation        N=     6 F=   1.30     chi-2=   1.80     D=   4.56     mb T=   30.7     mb E=   32.8     K1=  1.30     K2=  1.88
+# Comment  O0722030 : TALYS             N=     6 F=   1.30     chi-2=   1.80     D=   4.56     mb T=   30.7     mb E=   32.8     K1=  1.30     K2=  1.88
+# Comment  O0722030 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.8     K1=  0.00     K2=  0.00
+# Comment  O0722030 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.8     K1=  0.00     K2=  0.00
+# Comment  O0722030 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.8     K1=  0.00     K2=  0.00
+# Comment  O0722030 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.8     K1=  0.00     K2=  0.00
+# Comment  O0722030 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.8     K1=  0.00     K2=  0.00
+# Comment  O0722030 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.8     K1=  0.00     K2=  0.00
+# Comment  O0722030 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   32.8     K1=  0.00     K2=  0.00

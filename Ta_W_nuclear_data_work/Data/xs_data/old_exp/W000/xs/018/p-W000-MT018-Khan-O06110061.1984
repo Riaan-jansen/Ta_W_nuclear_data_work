@@ -1,0 +1,36 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,f)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   18
+# X4 ID       : O06110061
+# X4 code     : 74-W-0(P,F),,SIG,,,EXP
+# Author      : Khan                     
+# Year        : 1984
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.00000E+03  6.00000E+01  6.00000E+00  0.00000E+00
+  7.00000E+03  6.30000E+01  7.00000E+00  0.00000E+00
+  7.00000E+03  6.60000E+01  5.00000E+00  0.00000E+00
+  7.00000E+03  7.10000E+01  5.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#H.A.Khan, N.A.Khan
+#Jour. Physical Review, Part C, Nuclear Physics Vol.29, p.2199, 1984
+#Fission and Spallation Induced by 7-GeV Protons on U, Bi, Pb, Au, W, Ho, and Ag.
+#
+# Quality information:
+#
+# Quality  O06110061:   
+# Date     O06110061: 05-01-2018
+# Reaction O06110061: NP:    4 E-range:  7.000E+03-  7.000E+03 MeV 74-W-0(P,F),,SIG,,,EXP              pdf: n
+# Paper    O06110061: H.A.Khan+ Jour. Physical Review, Part C, Nuclear Physics Vol.29, p.2199, 1984 Fission and Spallation Induced by 7-GeV Protons on U, Bi, Pb,
+# Action   O06110061: 
+# Comment  O06110061: 

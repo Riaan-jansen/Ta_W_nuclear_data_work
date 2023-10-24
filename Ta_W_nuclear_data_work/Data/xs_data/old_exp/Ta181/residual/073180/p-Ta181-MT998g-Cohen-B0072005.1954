@@ -1,0 +1,54 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  73
+# Final A     : 180
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0072005 
+# X4 code     : 73-TA-181(P,X)73-TA-180-G,IND,SIG,,,EXP
+# Author      : Cohen                    
+# Year        : 1954
+# Data points :     12
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.34000E+01  4.90000E-01  0.00000E+00  0.00000E+00  2.28839E+02   467.0      2.5387E+07   228.5              
+  1.40000E+01  1.00000E+00  0.00000E+00  0.00000E+00  2.17084E+02   217.1      5.4605E+06   216.3              
+  1.50000E+01  2.90000E+00  0.00000E+00  0.00000E+00  1.78475E+02   61.54      4.3114E+05   176.2              
+  1.60000E+01  6.90000E+00  0.00000E+00  0.00000E+00  1.38477E+02   20.07      4.3111E+04   133.0              
+  1.70000E+01  1.40000E+01  0.00000E+00  0.00000E+00  1.08538E+02   7.753       5511.       97.19              
+  1.80000E+01  2.40000E+01  0.00000E+00  0.00000E+00  9.08752E+01   3.786       976.8       71.17              
+  1.90000E+01  3.70000E+01  0.00000E+00  0.00000E+00  8.07195E+01   2.182       193.5       50.00              
+  2.00000E+01  5.00000E+01  0.00000E+00  0.00000E+00  7.44835E+01   1.490       41.00       32.12              
+  2.10000E+01  6.60000E+01  0.00000E+00  0.00000E+00  6.70443E+01   1.016       4.013       17.76              
+  2.20000E+01  7.90000E+01  0.00000E+00  0.00000E+00  6.62478E+01  0.8386       2.520       15.24              
+  2.30000E+01  9.40000E+01  0.00000E+00  0.00000E+00  6.65293E+01  0.7078       7.281       27.47              
+  2.34000E+01  1.01000E+02  0.00000E+00  0.00000E+00  6.67689E+01  0.6611       10.03       34.23              
+#
+# Average deviation:                                                16.39      2.6107E+06   91.60    
+#
+# Full reference:
+#B.L.Cohen,  E.Newman,  R.A.Charpie,  T.H.Handley
+#Jour. Physical Review Vol.94, p.620, 1954
+#(P,PN) And (P,AN) Excitation Functions.
+#
+# Quality information:
+#
+# Quality  B0072005 : T2
+# Date     B0072005 : 05-01-2018
+# Reaction B0072005 : NP:   12 E-range:   13.4    -   23.4     MeV 73-TA-181(P,X)73-TA-180-G,IND,SIG,, pdf: y
+# Paper    B0072005 : B.L.Cohen+ Jour. Physical Review Vol.94, p.620, 1954 (P,PN) And (P,AN) Excitation Functions.
+# Action   B0072005 : 
+# Comment  B0072005 : Evaluation        N=    12 F=   16.4     chi-2=  2.611E+06 D=   91.6     mb T=   115.     mb E=   39.7     K1=  16.4     K2= 1.000E+35
+# Comment  B0072005 : TALYS             N=    12 F=   3.03     chi-2=   0.00     D=   18.4     mb T=   21.3     mb E=   39.7     K1=  3.03     K2=  643.
+# Comment  B0072005 : cendl3.1          N=     8 F=   36.0     chi-2=  4.632E+06 D=   132.     mb T=   149.     mb E=   39.7     K1=  36.0     K2= 1.000E+35
+# Comment  B0072005 : eaf.2010          N=    12 F=   20.2     chi-2=  3.083E+06 D=   106.     mb T=   135.     mb E=   39.7     K1=  20.2     K2= 1.000E+35
+# Comment  B0072005 : endfb8.0          N=    12 F=   19.9     chi-2=  3.016E+06 D=   105.     mb T=   122.     mb E=   39.7     K1=  19.9     K2= 1.000E+35
+# Comment  B0072005 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   39.7     K1=  0.00     K2=  0.00
+# Comment  B0072005 : jeff3.3           N=    12 F=   19.8     chi-2=  2.852E+06 D=   104.     mb T=   134.     mb E=   39.7     K1=  19.8     K2= 1.000E+35
+# Comment  B0072005 : jendl4.0          N=     8 F=   39.9     chi-2=  5.117E+06 D=   154.     mb T=   171.     mb E=   39.7     K1=  39.9     K2= 1.000E+35
+# Comment  B0072005 : tendl.2017        N=    12 F=   19.8     chi-2=  2.825E+06 D=   102.     mb T=   137.     mb E=   39.7     K1=  19.8     K2= 1.000E+35

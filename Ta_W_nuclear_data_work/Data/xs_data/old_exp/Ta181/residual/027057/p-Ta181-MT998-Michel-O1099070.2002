@@ -1,0 +1,39 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099070 
+# X4 code     : 73-TA-181(P,X)27-CO-57,CUM,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.38000E+03  2.68000E-01  3.40000E-02  1.00000E+00
+  1.57000E+03  3.04000E-01  4.10000E-02  1.00000E+00
+  2.58000E+03  6.92000E-01  9.60000E-02  1.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099070 :   
+# Date     O1099070 : 05-01-2018
+# Reaction O1099070 : NP:    3 E-range:  1.380E+03-  2.580E+03 MeV 73-TA-181(P,X)27-CO-57,CUM,SIG      pdf: n
+# Paper    O1099070 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099070 : 
+# Comment  O1099070 : 

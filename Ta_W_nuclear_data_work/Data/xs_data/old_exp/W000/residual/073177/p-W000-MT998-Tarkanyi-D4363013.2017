@@ -1,0 +1,56 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  73
+# Final A     : 177
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D4363013 
+# X4 code     : 74-W-0(P,X)73-TA-177,CUM,SIG
+# Author      : Tarkanyi                 
+# Year        : 2017
+# Data points :     13
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.49000E+01  1.46560E+02  1.64600E+01  2.00000E-01  2.63970E-02  1.8011E-04   79.25       146.5              
+  6.35000E+01  1.39630E+02  1.56800E+01  2.70000E-01  2.49037E-02  1.7836E-04   79.27       139.6              
+  6.22000E+01  1.38950E+02  1.56000E+01  3.40000E-01  2.35171E-02  1.6925E-04   79.31       138.9              
+  6.07000E+01  1.28470E+02  1.44300E+01  4.10000E-01  2.19172E-02  1.7060E-04   79.24       128.4              
+  5.93000E+01  1.49990E+02  1.68400E+01  4.80000E-01  2.03665E-02  1.3579E-04   79.31       150.0              
+  5.78000E+01  9.00200E+01  1.01200E+01  5.50000E-01  1.86435E-02  2.0710E-04   79.09       90.00              
+  5.63000E+01  8.90500E+01  1.00100E+01  6.30000E-01  1.69205E-02  1.9001E-04   79.11       89.03              
+  5.48000E+01  7.90000E+01  8.88000E+00  7.10000E-01  1.52199E-02  1.9266E-04   79.12       78.98              
+  5.32000E+01  6.94900E+01  7.82000E+00  7.80000E-01  1.35609E-02  1.9515E-04   78.93       69.48              
+  5.16000E+01  6.36500E+01  7.16000E+00  8.70000E-01  1.19018E-02  1.8699E-04   79.00       63.64              
+  4.99000E+01  7.08600E+01  7.97000E+00  9.50000E-01  1.01701E-02  1.4352E-04   79.02       70.85              
+  4.82000E+01  7.50200E+01  8.43000E+00  1.03000E+00  8.93538E-03  1.1911E-04   79.18       75.01              
+  4.62000E+01  8.37700E+01  9.40000E+00  1.13000E+00  7.48277E-03  8.9325E-05   79.40       83.76              
+#
+# Average deviation:                                                6189.       79.17       101.9    
+#
+# Full reference:
+#F.Tarkanyi, F.Ditroi, S.Takacs, A.Hermanne
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.391, p.27, 2017
+#New measurements of excitation functions of 186W(p,x) nuclear reactions up to 65 MeV. Production of a 178W/178mTa generator
+#
+#
+# Quality information:
+#
+# Quality  D4363013 : T2
+# Date     D4363013 : 05-01-2018
+# Reaction D4363013 : NP:   13 E-range:   46.2    -   64.9     MeV 74-W-0(P,X)73-TA-177,CUM,SIG        pdf: y
+# Paper    D4363013 : F.Tarkanyi+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.391, p.27, 2017 New measurements of excitation functions of 186W(p,x) n
+# Action   D4363013 : 
+# Comment  D4363013 : Evaluation        N=    13 F=  6.189E+03 chi-2=   79.2     D=   102.     mb T=  1.692E-02 mb E=   102.     K1= 6.189E+03 K2= 1.000E+35
+# Comment  D4363013 : TALYS             N=    13 F=  6.189E+03 chi-2=   79.2     D=   102.     mb T=  1.692E-02 mb E=   102.     K1= 6.189E+03 K2= 1.000E+35
+# Comment  D4363013 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   102.     K1=  0.00     K2=  0.00
+# Comment  D4363013 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   102.     K1=  0.00     K2=  0.00
+# Comment  D4363013 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   102.     K1=  0.00     K2=  0.00
+# Comment  D4363013 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   102.     K1=  0.00     K2=  0.00
+# Comment  D4363013 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   102.     K1=  0.00     K2=  0.00
+# Comment  D4363013 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   102.     K1=  0.00     K2=  0.00
+# Comment  D4363013 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   102.     K1=  0.00     K2=  0.00

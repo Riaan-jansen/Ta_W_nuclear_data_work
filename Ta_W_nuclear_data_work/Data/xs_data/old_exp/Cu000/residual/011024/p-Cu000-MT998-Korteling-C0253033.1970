@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0253033 
+# X4 code     : 29-CU-0(P,X)11-NA-24,,SIG
+# Author      : Korteling                
+# Year        : 1970
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.00000E+02  5.08000E-04  6.40000E-05  1.00000E+01
+  2.00000E+02  5.46000E-03  2.00000E-04  1.00000E+01  6.95878E+00   1275.      1.2087E+09   6.953              
+  3.00000E+02  1.98000E-02  5.00000E-04  1.00000E+01
+#
+# Average deviation:                                                1275.      1.2087E+09   6.953    
+#
+# Full reference:
+#R.G.Korteling, A.A.Caretto Jr
+#Jour. Physical Review, Part C, Nuclear Physics Vol.1, p.1960, 1970
+#Energy dependence of Na22 and Na24 production cross sections with 100- to 400-MeV protons
+#
+# Quality information:
+#
+# Quality  C0253033 : T2
+# Date     C0253033 : 05-01-2018
+# Reaction C0253033 : NP:    3 E-range:   100.    -   300.     MeV 29-CU-0(P,X)11-NA-24,,SIG           pdf: y
+# Paper    C0253033 : R.G.Korteling+ Jour. Physical Review, Part C, Nuclear Physics Vol.1, p.1960, 1970 Energy dependence of Na22 and Na24 production cross sectio
+# Action   C0253033 : 
+# Comment  C0253033 : Evaluation        N=     1 F=  1.275E+03 chi-2=  1.209E+09 D=   6.95     mb T=   6.96     mb E=  8.589E-03 K1= 1.275E+03 K2= 1.000E+35
+# Comment  C0253033 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  8.589E-03 K1=  0.00     K2=  0.00
+# Comment  C0253033 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  8.589E-03 K1=  0.00     K2=  0.00
+# Comment  C0253033 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  8.589E-03 K1=  0.00     K2=  0.00
+# Comment  C0253033 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  8.589E-03 K1=  0.00     K2=  0.00
+# Comment  C0253033 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  8.589E-03 K1=  0.00     K2=  0.00
+# Comment  C0253033 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  8.589E-03 K1=  0.00     K2=  0.00
+# Comment  C0253033 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  8.589E-03 K1=  0.00     K2=  0.00
+# Comment  C0253033 : tendl.2017        N=     1 F=  1.275E+03 chi-2=  1.209E+09 D=   6.95     mb T=   6.96     mb E=  8.589E-03 K1= 1.275E+03 K2= 1.000E+35

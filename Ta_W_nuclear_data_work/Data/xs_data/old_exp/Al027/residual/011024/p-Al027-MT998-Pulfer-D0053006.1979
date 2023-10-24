@@ -1,0 +1,49 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0053006 
+# X4 code     : 13-AL-27(P,X)11-NA-24,,SIG
+# Author      : Pulfer                   
+# Year        : 1979
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.49300E+01  4.30000E-01  3.00000E-02  0.00000E+00  3.60230E-01  0.8377       5.409      6.9770E-02          
+  4.48500E+01  3.00000E+00  2.00000E-01  0.00000E+00  3.00246E+00   1.001      1.5100E-04  2.4576E-03          
+  4.93900E+01  5.71000E+00  7.80000E-01  0.00000E+00  4.76274E+00  0.8341       1.475      0.9473              
+  5.46100E+01  7.85000E+00  6.20000E-01  0.00000E+00  6.84923E+00  0.8725       2.605       1.001              
+  5.92000E+01  8.88000E+00  6.90000E-01  0.00000E+00  8.27484E+00  0.9319      0.7692      0.6052              
+  7.08700E+01  1.04000E+01  4.00000E-01  0.00000E+00  9.64975E+00  0.9279       3.518      0.7502              
+#
+# Average deviation:                                                1.133       2.296      0.5626    
+#
+# Full reference:
+#P.Pulfer
+#Thes. Thesis or dissertation Name.Pulfer, 1979
+#-determination of absolute production cross sections for proton induced reactions in the energy range 15 to 72 MeV and at 1820 MeV.- (in German)
+#
+#
+# Quality information:
+#
+# Quality  D0053006 : N1
+# Date     D0053006 : 05-01-2018
+# Reaction D0053006 : NP:    6 E-range:   34.9    -   70.9     MeV 13-AL-27(P,X)11-NA-24,,SIG          pdf: n
+# Paper    D0053006 : P.Pulfer Thes. Thesis or dissertation Name.Pulfer, 1979 -determination of absolute production cross sections for proton induced reactions in
+# Action   D0053006 : 
+# Comment  D0053006 : Evaluation        N=     6 F=   1.13     chi-2=   2.30     D=  0.563     mb T=   5.48     mb E=   6.04     K1=  1.13     K2=  1.24
+# Comment  D0053006 : TALYS             N=     6 F=   1.13     chi-2=   2.30     D=  0.563     mb T=   5.48     mb E=   6.04     K1=  1.13     K2=  1.24
+# Comment  D0053006 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.04     K1=  0.00     K2=  0.00
+# Comment  D0053006 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.04     K1=  0.00     K2=  0.00
+# Comment  D0053006 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.04     K1=  0.00     K2=  0.00
+# Comment  D0053006 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.04     K1=  0.00     K2=  0.00
+# Comment  D0053006 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.04     K1=  0.00     K2=  0.00
+# Comment  D0053006 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.04     K1=  0.00     K2=  0.00
+# Comment  D0053006 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   6.04     K1=  0.00     K2=  0.00

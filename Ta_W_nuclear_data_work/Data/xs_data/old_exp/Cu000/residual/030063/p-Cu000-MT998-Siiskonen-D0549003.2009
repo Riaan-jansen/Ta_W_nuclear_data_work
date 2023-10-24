@@ -1,0 +1,51 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  63
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0549003 
+# X4 code     : 29-CU-0(P,X)30-ZN-63,,SIG
+# Author      : Siiskonen                
+# Year        : 2009
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.00000E+00  1.98000E+02  1.20000E+01  7.50000E-01  1.88557E+02  0.9523      0.6193       9.443              
+  8.36000E+00  2.57000E+02  1.80000E+01  6.50000E-01  2.05250E+02  0.7986       8.265       51.75              
+  9.62000E+00  2.85000E+02  2.40000E+01  6.00000E-01  2.21722E+02  0.7780       6.952       63.28              
+  1.07400E+01  3.14000E+02  2.70000E+01  5.50000E-01  2.34592E+02  0.7471       8.650       79.41              
+  1.21200E+01  3.34000E+02  2.50000E+01  4.50000E-01  2.44454E+02  0.7319       12.83       89.55              
+  1.33900E+01  2.95000E+02  2.30000E+01  4.00000E-01  2.24417E+02  0.7607       9.418       70.58              
+  1.48400E+01  2.24000E+02  2.10000E+01  3.50000E-01  1.47888E+02  0.6602       13.14       76.11              
+  1.64500E+01  1.39000E+02  1.70000E+01  3.00000E-01  8.49256E+01  0.6110       10.12       54.07              
+#
+# Average deviation:                                                1.369       8.748       61.77    
+#
+# Full reference:
+#T.Siiskonen, J.Huikari, T.Haavisto, J.Bergman, S.-J.Heselius,  J.-O.Lill, T.Lonnroth, K.Perajarvi
+#
+#Jour. Applied Radiation and Isotopes Vol.67, p.2037, 2009
+#Excitation functions of proton-induced reactions in natCu in the energy range 7 - 17 MeV
+#
+# Quality information:
+#
+# Quality  D0549003 : T1
+# Date     D0549003 : 05-01-2018
+# Reaction D0549003 : NP:    8 E-range:   7.00    -   16.5     MeV 29-CU-0(P,X)30-ZN-63,,SIG           pdf: y
+# Paper    D0549003 : T.Siiskonen+ Jour. Applied Radiation and Isotopes Vol.67, p.2037, 2009 Excitation functions of proton-induced reactions in natCu in the ener
+# Action   D0549003 : 
+# Comment  D0549003 : Evaluation        N=     8 F=   1.37     chi-2=   8.75     D=   61.8     mb T=   194.     mb E=   256.     K1=  1.37     K2=  2.12
+# Comment  D0549003 : TALYS             N=     8 F=   1.37     chi-2=   8.75     D=   61.8     mb T=   194.     mb E=   256.     K1=  1.37     K2=  2.12
+# Comment  D0549003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   256.     K1=  0.00     K2=  0.00
+# Comment  D0549003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   256.     K1=  0.00     K2=  0.00
+# Comment  D0549003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   256.     K1=  0.00     K2=  0.00
+# Comment  D0549003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   256.     K1=  0.00     K2=  0.00
+# Comment  D0549003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   256.     K1=  0.00     K2=  0.00
+# Comment  D0549003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   256.     K1=  0.00     K2=  0.00
+# Comment  D0549003 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   256.     K1=  0.00     K2=  0.00

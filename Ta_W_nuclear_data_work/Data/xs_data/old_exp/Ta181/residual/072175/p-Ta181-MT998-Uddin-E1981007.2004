@@ -1,0 +1,55 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  72
+# Final A     : 175
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : E1981007 
+# X4 code     : 73-TA-181(P,X)72-HF-175,CUM,SIG
+# Author      : Uddin                    
+# Year        : 2004
+# Data points :     11
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.89900E+01  3.09390E+02  3.48000E+01  0.00000E+00  6.48184E+00  2.0950E-02   75.76       302.9              
+  6.55600E+01  1.87670E+02  2.46500E+01  0.00000E+00  5.73913E+00  3.0581E-02   54.47       181.9              
+  6.27100E+01  1.23860E+02  1.57400E+01  0.00000E+00  5.53653E+00  4.4700E-02   56.51       118.3              
+  5.97600E+01  5.56400E+01  7.42000E+00  0.00000E+00  5.47267E+00  9.8359E-02   45.71       50.17              
+  5.67100E+01  1.19200E+01  1.85000E+00  0.00000E+00  5.88431E+00  0.4936       10.64       6.036              
+  5.35400E+01  8.52000E+00  1.48000E+00  0.00000E+00  6.34044E+00  0.7442       2.169       2.180              
+  5.19400E+01  7.77000E+00  1.32000E+00  0.00000E+00  6.58740E+00  0.8478      0.8027       1.183              
+  5.02200E+01  8.36000E+00  1.43000E+00  0.00000E+00  6.85288E+00  0.8197       1.111       1.507              
+  4.67400E+01  8.60000E+00  1.26000E+00  0.00000E+00  7.02289E+00  0.8166       1.567       1.577              
+  4.14800E+01  6.05000E+00  7.00000E-01  0.00000E+00  5.69531E+00  0.9414      0.2567      0.3547              
+  3.55000E+01  1.22000E+00  3.00000E-01  0.00000E+00  1.75439E+00   1.438       3.173      0.5344              
+#
+# Average deviation:                                                7.217       22.93       60.61    
+#
+# Full reference:
+#M.S.Uddin,  M.Hagiwara,  N.Kawata,  T.Itoga, N.Hirabayashi,  M.Baba,  F.Tarkanyi,  F.Ditroi, J.Csikai
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.4, p.160, 2004
+#Measurement of excitation functions of the proton-induced activation reactions on tantalum in the energy range 28-70 MeV
+#
+#
+# Quality information:
+#
+# Quality  E1981007 : T2
+# Date     E1981007 : 05-01-2018
+# Reaction E1981007 : NP:   11 E-range:   35.5    -   69.0     MeV 73-TA-181(P,X)72-HF-175,CUM,SIG     pdf: y
+# Paper    E1981007 : M.S.Uddin+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.4, p.160, 2004 Measurement of excitation functions of the proton-induced
+# Action   E1981007 : 
+# Comment  E1981007 : Evaluation        N=    11 F=   7.22     chi-2=   22.9     D=   60.6     mb T=   5.76     mb E=   66.3     K1=  7.22     K2= 7.050E+13
+# Comment  E1981007 : TALYS             N=    11 F=   7.22     chi-2=   22.9     D=   60.6     mb T=   5.76     mb E=   66.3     K1=  7.22     K2= 7.050E+13
+# Comment  E1981007 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   66.3     K1=  0.00     K2=  0.00
+# Comment  E1981007 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   66.3     K1=  0.00     K2=  0.00
+# Comment  E1981007 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   66.3     K1=  0.00     K2=  0.00
+# Comment  E1981007 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   66.3     K1=  0.00     K2=  0.00
+# Comment  E1981007 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   66.3     K1=  0.00     K2=  0.00
+# Comment  E1981007 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   66.3     K1=  0.00     K2=  0.00
+# Comment  E1981007 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   66.3     K1=  0.00     K2=  0.00

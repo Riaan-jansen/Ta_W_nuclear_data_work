@@ -1,0 +1,33 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : O0369003 
+# X4 code     : 13-AL-27(P,NON),,SIG,,,EXP
+# Author      : Makino                   
+# Year        : 1964
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.90000E+01  7.75000E+02  3.70000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#M.Q.Makino, C.N.Waddell, R.M.Eisberg
+#Jour. Nuclear Physics Vol.50, p.145, 1964
+#Total Reaction Cross Sections For 29 MeV Protons.
+#
+# Quality information:
+#
+# Quality  O0369003 :   
+# Date     O0369003 : 05-01-2018
+# Reaction O0369003 : NP:    1 E-range:   29.0    -   29.0     MeV 13-AL-27(P,NON),,SIG,,,EXP          pdf: n
+# Paper    O0369003 : M.Q.Makino+ Jour. Nuclear Physics Vol.50, p.145, 1964 Total Reaction Cross Sections For 29 MeV Protons.
+# Action   O0369003 : 
+# Comment  O0369003 : 

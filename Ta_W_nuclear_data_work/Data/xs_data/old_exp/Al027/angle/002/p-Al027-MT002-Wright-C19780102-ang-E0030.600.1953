@@ -1,0 +1,38 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,el)
+# E-inc       :   30.600 MeV
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :    2
+# X4 ID       : C19780102
+# X4 code     : 13-AL-27(P,EL)13-AL-27,,DA,,RTH
+# Author      : Wright                   
+# Year        : 1953
+# Data points :     18
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  1.04002E+01  3.46019E+03  0.00000E+00
+  1.55001E+01  1.64101E+03  0.00000E+00
+  2.07000E+01  9.23084E+02  0.00000E+00
+  2.59000E+01  4.11152E+02  0.00000E+00
+  3.11000E+01  1.46687E+02  0.00000E+00
+  9.21001E+01  5.37010E+00  0.00000E+00
+  9.71002E+01  4.43790E+00  0.00000E+00
+  1.02100E+02  3.63450E+00  0.00000E+00
+  1.07100E+02  2.42900E+00  0.00000E+00
+  1.12000E+02  2.04920E+00  0.00000E+00
+  1.16900E+02  1.38550E+00  1.77820E-01
+  1.21800E+02  1.14770E+00  0.00000E+00
+  1.26700E+02  8.67390E-01  0.00000E+00
+  1.31600E+02  6.81100E-01  0.00000E+00
+  1.36500E+02  7.46070E-01  0.00000E+00
+  1.41400E+02  8.59980E-01  0.00000E+00
+  1.46200E+02  7.82910E-01  0.00000E+00
+  1.51100E+02  8.61560E-01  1.10540E-01
+# Full reference:
+#B.T.Wright
+#Prog. U.C., Lawrence Rad.Lab. (Berkeley and Livermore) No.2422, 1953
+#Angular Distribution of 30.6 MeV Protons Elastically Scattered by Be, C, and Al

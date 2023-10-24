@@ -1,0 +1,37 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  205
+# X4 ID       : O0304003 
+# X4 code     : 13-AL-27(P,X)1-H-3,,SIG
+# Author      : Mekhedov                 
+# Year        : 1967
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.30000E+02  1.50000E+01  2.60000E+00  0.00000E+00
+  3.00000E+02  1.90000E+01  3.30000E+00  0.00000E+00
+  4.50000E+02  2.40000E+01  3.30000E+00  0.00000E+00
+  5.50000E+02  3.00000E+01  5.00000E+00  0.00000E+00
+  6.60000E+02  4.20000E+01  6.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#V.N.Mekhedov
+#Jour. Yadernaya Fizika Vol.5, p.34, 1967
+#Formation of tritium in C, Al and Fe under the influence of protons with Ep = 130-660 MeV.
+#
+# Quality information:
+#
+# Quality  O0304003 :   
+# Date     O0304003 : 05-01-2018
+# Reaction O0304003 : NP:    5 E-range:   130.    -   660.     MeV 13-AL-27(P,X)1-H-3,,SIG             pdf: n
+# Paper    O0304003 : V.N.Mekhedov Jour. Yadernaya Fizika Vol.5, p.34, 1967 Formation of tritium in C, Al and Fe under the influence of protons with Ep = 130-660
+# Action   O0304003 : 
+# Comment  O0304003 : 

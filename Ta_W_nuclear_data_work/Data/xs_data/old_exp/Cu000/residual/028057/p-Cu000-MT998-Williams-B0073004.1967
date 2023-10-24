@@ -1,0 +1,52 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  28
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0073004 
+# X4 code     : 29-CU-0(P,X)28-NI-57,CUM,SIG,,,EXP
+# Author      : Williams                 
+# Year        : 1967
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.46000E+01  1.90000E-01  0.00000E+00  0.00000E+00  1.38039E+01   72.65      7.8919E+05   13.61              
+  4.58000E+01  3.00000E-01  0.00000E+00  0.00000E+00  1.34949E+01   44.98      2.9684E+05   13.19              
+  4.69000E+01  4.30000E-01  0.00000E+00  0.00000E+00  1.31893E+01   30.67      1.3517E+05   12.76              
+  4.84000E+01  6.90000E-01  0.00000E+00  0.00000E+00  1.28084E+01   18.56      4.7731E+04   12.12              
+  4.95000E+01  9.10000E-01  0.00000E+00  0.00000E+00  1.26154E+01   13.86      2.5932E+04   11.71              
+  5.09000E+01  1.30000E+00  0.00000E+00  0.00000E+00  1.23883E+01   9.529      1.1699E+04   11.31              
+  5.21000E+01  1.50000E+00  0.00000E+00  0.00000E+00  1.21957E+01   8.130       8298.       11.03              
+  5.35000E+01  1.60000E+00  0.00000E+00  0.00000E+00  1.18832E+01   7.427       6790.       10.66              
+  5.50000E+01  1.70000E+00  0.00000E+00  0.00000E+00  1.16306E+01   6.842       5664.       10.36              
+  5.72000E+01  1.80000E+00  0.00000E+00  0.00000E+00  1.12682E+01   6.260       4674.       10.01              
+#
+# Average deviation:                                                13.79      1.3320E+05   11.68    
+#
+# Full reference:
+#I.R.Williams,  C.B.Fulmer
+#Jour. Physical Review Vol.162, p.1055, 1967
+#Excitation Functions For Radioactive Isotopes Produced By Protons Below 60 MeV on Al, Fe, and Cu
+#
+# Quality information:
+#
+# Quality  B0073004 : T2
+# Date     B0073004 : 05-01-2018
+# Reaction B0073004 : NP:   10 E-range:   44.6    -   57.2     MeV 29-CU-0(P,X)28-NI-57,CUM,SIG,,,EXP  pdf: y
+# Paper    B0073004 : I.R.Williams+ Jour. Physical Review Vol.162, p.1055, 1967 Excitation Functions For Radioactive Isotopes Produced By Protons Below 60 MeV on
+# Action   B0073004 : 
+# Comment  B0073004 : Evaluation        N=    10 F=   13.8     chi-2=  1.332E+05 D=   11.7     mb T=   12.5     mb E=   1.04     K1=  13.8     K2= 9.915E+24
+# Comment  B0073004 : TALYS             N=    10 F=   1.62     chi-2=   0.00     D=  0.371     mb T=  0.843     mb E=   1.04     K1=  1.62     K2=  4.58
+# Comment  B0073004 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.04     K1=  0.00     K2=  0.00
+# Comment  B0073004 : eaf.2010          N=    10 F=   29.5     chi-2=  2.748E+05 D=   21.1     mb T=   22.1     mb E=   1.04     K1=  29.5     K2= 5.377E+34
+# Comment  B0073004 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.04     K1=  0.00     K2=  0.00
+# Comment  B0073004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.04     K1=  0.00     K2=  0.00
+# Comment  B0073004 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.04     K1=  0.00     K2=  0.00
+# Comment  B0073004 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.04     K1=  0.00     K2=  0.00
+# Comment  B0073004 : tendl.2017        N=    10 F=   19.9     chi-2=  1.248E+05 D=   13.6     mb T=   14.6     mb E=   1.04     K1=  19.9     K2= 6.946E+25

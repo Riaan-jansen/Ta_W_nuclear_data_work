@@ -1,0 +1,41 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : B0063002 
+# X4 code     : 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP
+# Author      : Jones                    
+# Year        : 1961
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  9.85000E+00  3.25000E+02  3.90000E+01  0.00000E+00  2.03850E+02  0.6272       11.67       121.2              
+#
+# Average deviation:                                                1.747       11.67       121.2    
+#
+# Full reference:
+#G.A.Jones,  J.P.Schiffer,  J.R.Huizenga,  J.W.Wing
+#Rept. Div. of Tech. Info. U.S. AEC Reports No.12696, 1961
+#Measurements of (P,N) Cross Sections on Cu at 9.85 MeV
+#
+# Quality information:
+#
+# Quality  B0063002 : N2
+# Date     B0063002 : 05-01-2018
+# Reaction B0063002 : NP:    1 E-range:   9.85    -   9.85     MeV 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP    pdf: n
+# Paper    B0063002 : G.A.Jones+ Rept. Div. of Tech. Info. U.S. AEC Reports No.12696, 1961 Measurements of (P,N) Cross Sections on Cu at 9.85 MeV
+# Action   B0063002 : 
+# Comment  B0063002 : Evaluation        N=     1 F=   1.75     chi-2=   11.7     D=   121.     mb T=   204.     mb E=   325.     K1=  1.75     K2=  5.40
+# Comment  B0063002 : TALYS             N=     1 F=   1.00     chi-2=  6.652E-06 D=  0.101     mb T=   325.     mb E=   325.     K1=  1.00     K2=  1.00
+# Comment  B0063002 : cendl3.1          N=     1 F=   2.41     chi-2=   23.7     D=   190.     mb T=   135.     mb E=   325.     K1=  2.41     K2=  22.9
+# Comment  B0063002 : eaf.2010          N=     1 F=   1.74     chi-2=   12.6     D=   138.     mb T=   187.     mb E=   325.     K1=  1.74     K2=  4.40
+# Comment  B0063002 : endfb8.0          N=     1 F=   1.60     chi-2=   9.81     D=   122.     mb T=   203.     mb E=   325.     K1=  1.60     K2=  3.18
+# Comment  B0063002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   325.     K1=  0.00     K2=  0.00
+# Comment  B0063002 : jeff3.3           N=     1 F=   1.83     chi-2=   14.4     D=   148.     mb T=   177.     mb E=   325.     K1=  1.83     K2=  5.53
+# Comment  B0063002 : jendl4.0          N=     1 F=   1.46     chi-2=   6.81     D=   102.     mb T=   223.     mb E=   325.     K1=  1.46     K2=  2.28
+# Comment  B0063002 : tendl.2017        N=     1 F=   1.84     chi-2=   14.4     D=   148.     mb T=   177.     mb E=   325.     K1=  1.84     K2=  5.58

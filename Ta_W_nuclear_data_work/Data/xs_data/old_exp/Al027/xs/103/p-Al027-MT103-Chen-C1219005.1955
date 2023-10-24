@@ -1,0 +1,41 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,p)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  103
+# X4 ID       : C1219005 
+# X4 code     : 13-AL-27(P,INL)13-AL-27,,SIG
+# Author      : Chen                     
+# Year        : 1955
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.00000E+02  3.94000E+02  1.00000E+01  0.00000E+00  4.06396E+00  1.0315E-02   1521.       389.9              
+#
+# Average deviation:                                                96.95       1521.       389.9    
+#
+# Full reference:
+#F.F.Chen, C.P.Leavitt, A.M.Shapiro
+#Jour. Physical Review Vol.99, p.857, 1955
+#Attenuation Cross Sections for 860-Mev Protons
+#
+# Quality information:
+#
+# Quality  C1219005 : T2
+# Date     C1219005 : 05-01-2018
+# Reaction C1219005 : NP:    1 E-range:   800.    -   800.     MeV 13-AL-27(P,INL)13-AL-27,,SIG        pdf: y
+# Paper    C1219005 : F.F.Chen+ Jour. Physical Review Vol.99, p.857, 1955 Attenuation Cross Sections for 860-Mev Protons
+# Action   C1219005 : 
+# Comment  C1219005 : Evaluation        N=     1 F=   96.9     chi-2=  1.521E+03 D=   390.     mb T=   4.06     mb E=   394.     K1=  96.9     K2= 1.000E+35
+# Comment  C1219005 : TALYS             N=     1 F=   96.9     chi-2=  1.521E+03 D=   390.     mb T=   4.06     mb E=   394.     K1=  96.9     K2= 1.000E+35
+# Comment  C1219005 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   394.     K1=  0.00     K2=  0.00
+# Comment  C1219005 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   394.     K1=  0.00     K2=  0.00
+# Comment  C1219005 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   394.     K1=  0.00     K2=  0.00
+# Comment  C1219005 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   394.     K1=  0.00     K2=  0.00
+# Comment  C1219005 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   394.     K1=  0.00     K2=  0.00
+# Comment  C1219005 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   394.     K1=  0.00     K2=  0.00
+# Comment  C1219005 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   394.     K1=  0.00     K2=  0.00

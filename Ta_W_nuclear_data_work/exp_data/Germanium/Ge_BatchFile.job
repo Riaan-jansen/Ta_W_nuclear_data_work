@@ -1,0 +1,7 @@
+set_preset_real 300
+loop 12
+clear
+start
+wait
+save M:\SHU_ISIS_Feb22\Ge_Foil9\Ge_Foil9_???.spe
+end_loop

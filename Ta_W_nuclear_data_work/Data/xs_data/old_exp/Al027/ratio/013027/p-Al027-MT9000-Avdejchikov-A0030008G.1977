@@ -1,0 +1,23 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9000
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9000
+# X4 ID       : A0030008G
+# X4 code     : (13-AL-27(P,X)1-H-3,IND,SIG)/(13-AL-27(P,X)2-HE-3,IND,SIG)
+# Author      : Avdejchikov              
+# Year        : 1977
+# Data points :      1
+#    E(MeV)      ratio        dratio      dE(MeV)
+  6.60000E+02  1.40000E+00  0.00000E+00  0.00000E+00
+# Full reference:
+#V.V.Avdejchikov, V.I.Bogatin, O.V.Lozhkin
+#Jour. Yadernaya Fizika Vol.25, Issue.1, p.3, 1977
+#Inelastic interaction of high energy particles with light nuclei and cluster structure of nuclei.

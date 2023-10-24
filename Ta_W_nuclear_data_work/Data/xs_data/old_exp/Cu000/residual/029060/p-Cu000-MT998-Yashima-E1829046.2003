@@ -1,0 +1,53 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  60
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : E1829046 
+# X4 code     : 29-CU-0(P,X)29-CU-60,CUM,SIG
+# Author      : Yashima                  
+# Year        : 2003
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.80000E+01  2.86020E+01  1.37300E+00  0.00000E+00  1.67441E+01  0.5854       74.59       11.86              
+  6.30000E+01  2.17220E+01  1.04500E+00  0.00000E+00  1.48282E+01  0.6826       43.52       6.894              
+  7.60000E+01  1.80000E+01  8.64000E-01  0.00000E+00  1.22255E+01  0.6792       44.67       5.774              
+  8.80000E+01  1.43890E+01  6.73000E-01  0.00000E+00  1.03990E+01  0.7227       35.15       3.990              
+  9.80000E+01  1.20000E+01  5.62000E-01  0.00000E+00  9.29259E+00  0.7744       23.21       2.707              
+  1.00000E+02  1.50740E+01  5.82000E-01  0.00000E+00  9.08728E+00  0.6028       105.8       5.987              
+  1.39000E+02  1.19580E+01  4.60000E-01  0.00000E+00  6.82833E+00  0.5710       124.4       5.130              
+  1.73000E+02  1.03820E+01  3.96000E-01  0.00000E+00  5.67748E+00  0.5469       141.1       4.705              
+  2.02000E+02  8.50600E+00  3.22000E-01  0.00000E+00  4.99949E+00  0.5878       118.6       3.507              
+  2.30000E+02  5.68400E+00  2.14000E-01  0.00000E+00  4.95025E+00  0.8709       11.76      0.7338              
+#
+# Average deviation:                                                1.562       72.28       5.128    
+#
+# Full reference:
+#H.Yashima,  Y.Uwamino,  H.Iwase,  H.Sugita,  T.Nakamura, S.Ito,  A.Fukumura
+#
+#Jour. Radiochimica Acta Vol.91, Issue.12, p.689, 2003
+#Measurement and calculation of radioactivities of spallation products by high-energy heavy ions
+#
+# Quality information:
+#
+# Quality  E1829046 : T1
+# Date     E1829046 : 05-01-2018
+# Reaction E1829046 : NP:   10 E-range:   48.0    -   230.     MeV 29-CU-0(P,X)29-CU-60,CUM,SIG        pdf: y
+# Paper    E1829046 : H.Yashima+ Jour. Radiochimica Acta Vol.91, Issue.12, p.689, 2003 Measurement and calculation of radioactivities of spallation products by hi
+# Action   E1829046 : 
+# Comment  E1829046 : Evaluation        N=    10 F=   1.56     chi-2=   72.3     D=   5.13     mb T=   9.50     mb E=   14.6     K1=  1.56     K2=  6.34
+# Comment  E1829046 : TALYS             N=    10 F=   1.56     chi-2=   72.3     D=   5.13     mb T=   9.50     mb E=   14.6     K1=  1.56     K2=  6.34
+# Comment  E1829046 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.6     K1=  0.00     K2=  0.00
+# Comment  E1829046 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.6     K1=  0.00     K2=  0.00
+# Comment  E1829046 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.6     K1=  0.00     K2=  0.00
+# Comment  E1829046 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.6     K1=  0.00     K2=  0.00
+# Comment  E1829046 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.6     K1=  0.00     K2=  0.00
+# Comment  E1829046 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.6     K1=  0.00     K2=  0.00
+# Comment  E1829046 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.6     K1=  0.00     K2=  0.00

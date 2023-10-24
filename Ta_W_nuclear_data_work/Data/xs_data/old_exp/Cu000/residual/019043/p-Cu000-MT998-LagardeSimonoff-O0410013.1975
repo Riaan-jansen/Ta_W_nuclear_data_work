@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  19
+# Final A     :  43
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0410013 
+# X4 code     : 29-CU-0(P,X)19-K-43,CUM,SIG
+# Author      : LagardeSimonoff          
+# Year        : 1975
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.50000E+02  2.70000E-03  5.00000E-04  0.00000E+00
+  6.00000E+02  4.50000E-01  5.00000E-02  0.00000E+00  1.90913E-02  4.2425E-02   74.27      0.4309              
+#
+# Average deviation:                                                23.57       74.27      0.4309    
+#
+# Full reference:
+#M.Lagarde-Simonoff, S.Regnier, H.Sauvageon, G.N.Simonoff, F.Brout
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.37, p.627, 1975
+#Spallation cross sections in high energy nuclear reactions with medium mass targets 21<=z<=29 and 0.15, 0.3 and 0.6 GeV protons.
+#
+#
+# Quality information:
+#
+# Quality  O0410013 : T2
+# Date     O0410013 : 05-01-2018
+# Reaction O0410013 : NP:    2 E-range:   150.    -   600.     MeV 29-CU-0(P,X)19-K-43,CUM,SIG         pdf: y
+# Paper    O0410013 : M.Lagarde-Simonoff+ Jour. Journal of Inorganic and Nuclear Chemistry Vol.37, p.627, 1975 Spallation cross sections in high energy nuclear re
+# Action   O0410013 : 
+# Comment  O0410013 : Evaluation        N=     1 F=   23.6     chi-2=   74.3     D=  0.431     mb T=  1.909E-02 mb E=  0.226     K1=  23.6     K2= 4.056E+19
+# Comment  O0410013 : TALYS             N=     1 F=   23.6     chi-2=   74.3     D=  0.431     mb T=  1.909E-02 mb E=  0.226     K1=  23.6     K2= 4.056E+19
+# Comment  O0410013 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.226     K1=  0.00     K2=  0.00
+# Comment  O0410013 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.226     K1=  0.00     K2=  0.00
+# Comment  O0410013 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.226     K1=  0.00     K2=  0.00
+# Comment  O0410013 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.226     K1=  0.00     K2=  0.00
+# Comment  O0410013 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.226     K1=  0.00     K2=  0.00
+# Comment  O0410013 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.226     K1=  0.00     K2=  0.00
+# Comment  O0410013 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.226     K1=  0.00     K2=  0.00

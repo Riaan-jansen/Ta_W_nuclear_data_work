@@ -1,0 +1,21 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (n, )
+# Quantity    : Resonance Parameters
+# Frame       : L
+# MF          :  402
+# MT          : 6001
+# X4 ID       : C05640051
+# X4 code     : 13-AL-27(P,0),,EN
+# Author      : Powell                   
+# Year        : 1998
+# Data points :      1
+#    E(eV)        par         dpar         dE(eV)
+  0.00000E+00  4.06000E+05  0.00000E+00  2.00000E-03
+# Full reference:
+#D.C.Powell, C.Iliadis, A.E.Champagne, S.E.Hale, V.Y.Hansper, R.A.Surman, K.D.Veal
+#
+#Jour. Nuclear Physics, Section A Vol.644, p.263, 1998
+#Low-energy resonance strengths for proton capture on Mg and Al

@@ -1,0 +1,33 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)
+# E-inc       :   72.300 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  205
+# X4 ID       : O0754020 
+# X4 code     : 13-AL-27(P,X)1-H-3,,DA/DE
+# Author      : Lewandowski              
+# Year        : 1980
+# Data points :     12
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.30000E+01  6.16000E-08  1.41600E-09  0.00000E+00  2.13000E+01
+  4.30000E+01  3.65000E-08  8.39500E-10  0.00000E+00  3.14001E+01
+  4.30000E+01  1.34000E-08  3.08200E-10  0.00000E+00  4.17001E+01
+  4.30000E+01  6.85000E-09  1.57500E-10  0.00000E+00  5.14000E+01
+  4.30000E+01  5.68000E-09  1.30600E-10  0.00000E+00  6.31001E+01
+  4.30000E+01  3.36000E-09  7.72800E-11  0.00000E+00  7.27001E+01
+  4.30000E+01  2.09000E-09  4.80700E-11  0.00000E+00  8.20001E+01
+  4.30000E+01  1.17900E-09  2.71100E-11  0.00000E+00  9.08001E+01
+  4.30000E+01  5.90000E-10  1.35700E-11  0.00000E+00  1.16400E+02
+  4.30000E+01  2.89000E-10  6.64700E-12  0.00000E+00  1.29200E+02
+  4.30000E+01  3.57000E-10  8.21100E-12  0.00000E+00  1.38600E+02
+  4.30000E+01  2.25000E-10  5.17500E-12  0.00000E+00  1.47800E+02
+# Full reference:
+#Z.Lewandowski,  E.Loeffler,  R.Wagner,  H.H.Mueller, W.Reichart,  P.Schober,  E.Gadioli,  E.Gadioli Erba
+#
+#Jour. Lettere al Nuovo Cimento Vol.28, p.15, 1980
+#Proton-Induced Alpha- And Tritium-Emission at 72 MeV.

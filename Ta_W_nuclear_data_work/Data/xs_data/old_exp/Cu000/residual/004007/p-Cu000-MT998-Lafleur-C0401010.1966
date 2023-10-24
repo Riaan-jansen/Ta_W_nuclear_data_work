@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   4
+# Final A     :   7
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0401010 
+# X4 code     : 29-CU-0(P,X)4-BE-7,,SIG
+# Author      : Lafleur                  
+# Year        : 1966
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.50000E+01  2.30000E-02  2.99000E-03  2.00000E+00  1.14445E+01   497.6      1.4592E+07   11.42              
+  8.50000E+01  6.80000E-02  8.84000E-03  2.00000E+00  1.02422E+01   150.6      1.3246E+06   10.17              
+#
+# Average deviation:                                                282.6      7.9582E+06   10.80    
+#
+# Full reference:
+#M.S.Lafleur, N.T.Porille, L.Yaffe
+#Jour. Canadian Journal of Chemistry Vol.44, p.2749, 1966
+#Formation of 7Be in nuclear reactions induced by 85-MeV protons
+#
+# Quality information:
+#
+# Quality  C0401010 : T2
+# Date     C0401010 : 05-01-2018
+# Reaction C0401010 : NP:    2 E-range:   65.0    -   85.0     MeV 29-CU-0(P,X)4-BE-7,,SIG             pdf: y
+# Paper    C0401010 : M.S.Lafleur+ Jour. Canadian Journal of Chemistry Vol.44, p.2749, 1966 Formation of 7Be in nuclear reactions induced by 85-MeV protons
+# Action   C0401010 : 
+# Comment  C0401010 : Evaluation        N=     2 F=   283.     chi-2=  7.958E+06 D=   10.8     mb T=   10.8     mb E=  4.550E-02 K1=  283.     K2= 1.000E+35
+# Comment  C0401010 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.550E-02 K1=  0.00     K2=  0.00
+# Comment  C0401010 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.550E-02 K1=  0.00     K2=  0.00
+# Comment  C0401010 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.550E-02 K1=  0.00     K2=  0.00
+# Comment  C0401010 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.550E-02 K1=  0.00     K2=  0.00
+# Comment  C0401010 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.550E-02 K1=  0.00     K2=  0.00
+# Comment  C0401010 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.550E-02 K1=  0.00     K2=  0.00
+# Comment  C0401010 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  4.550E-02 K1=  0.00     K2=  0.00
+# Comment  C0401010 : tendl.2017        N=     2 F=   283.     chi-2=  7.958E+06 D=   10.8     mb T=   10.8     mb E=  4.550E-02 K1=  283.     K2= 1.000E+35

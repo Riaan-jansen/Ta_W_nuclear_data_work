@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : B0060006 
+# X4 code     : 29-CU-65(P,N)30-ZN-65,,SIG,,,EXP
+# Author      : Howe                     
+# Year        : 1958
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.40000E+00  4.73000E+02  0.00000E+00  0.00000E+00  4.35324E+02  0.9203       0.000       37.68              
+  7.40000E+00  6.28000E+02  0.00000E+00  0.00000E+00  9.36952E+01  0.1492       79.52       534.3              
+  9.30000E+00  7.23000E+02  0.00000E+00  0.00000E+00  2.24508E+02  0.3105       52.58       498.5              
+  1.03000E+01  8.18000E+02  0.00000E+00  0.00000E+00  2.65301E+02  0.3243       48.90       552.7              
+  1.14000E+01  8.17000E+02  0.00000E+00  0.00000E+00  2.88693E+02  0.3534       43.03       528.3              
+#
+# Average deviation:                                                5.640       44.81       430.3    
+#
+# Full reference:
+#H.A.Howe
+#Jour. Physical Review Vol.109, p.2083, 1958
+#(P,N) Cross Sections of Copper and Zinc.
+#
+# Quality information:
+#
+# Quality  B0060006 : T2
+# Date     B0060006 : 05-01-2018
+# Reaction B0060006 : NP:    5 E-range:   6.40    -   11.4     MeV 29-CU-65(P,N)30-ZN-65,,SIG,,,EXP    pdf: y
+# Paper    B0060006 : H.A.Howe Jour. Physical Review Vol.109, p.2083, 1958 (P,N) Cross Sections of Copper and Zinc.
+# Action   B0060006 : 
+# Comment  B0060006 : Evaluation        N=     5 F=   5.64     chi-2=   44.8     D=   430.     mb T=   262.     mb E=   692.     K1=  5.64     K2= 3.143E+11
+# Comment  B0060006 : TALYS             N=     5 F=   1.23     chi-2=   0.00     D=   127.     mb T=   565.     mb E=   692.     K1=  1.23     K2=  1.52
+# Comment  B0060006 : cendl3.1          N=     4 F=   12.1     chi-2=   71.1     D=   618.     mb T=   129.     mb E=   692.     K1=  12.1     K2= 3.285E+22
+# Comment  B0060006 : eaf.2010          N=     4 F=   7.16     chi-2=   64.8     D=   590.     mb T=   157.     mb E=   692.     K1=  7.16     K2= 2.651E+10
+# Comment  B0060006 : endfb8.0          N=     4 F=   6.66     chi-2=   62.6     D=   579.     mb T=   168.     mb E=   692.     K1=  6.66     K2= 4.639E+09
+# Comment  B0060006 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   692.     K1=  0.00     K2=  0.00
+# Comment  B0060006 : jeff3.3           N=     4 F=   7.48     chi-2=   66.4     D=   599.     mb T=   148.     mb E=   692.     K1=  7.48     K2= 6.648E+10
+# Comment  B0060006 : jendl4.0          N=     4 F=   7.97     chi-2=   60.7     D=   566.     mb T=   181.     mb E=   692.     K1=  7.97     K2= 3.997E+14
+# Comment  B0060006 : tendl.2017        N=     4 F=   7.49     chi-2=   66.4     D=   599.     mb T=   148.     mb E=   692.     K1=  7.49     K2= 6.680E+10

@@ -1,0 +1,48 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  21
+# Final A     :  48
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0537015 
+# X4 code     : 29-CU-0(P,X)21-SC-48,CUM,SIG
+# Author      : Greenwood                
+# Year        : 1984
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.50000E+02  2.70000E-02  1.35000E-03  0.00000E+00  6.82895E+00   252.9      2.5386E+07   6.802              
+  2.00000E+02  9.00000E-02  4.50000E-03  0.00000E+00  3.48509E+00   38.72      1.1651E+06   3.474              
+  2.50000E+02  1.16000E-01  5.80000E-03  0.00000E+00  2.14108E-02  0.1846       266.0      9.4589E-02          
+  3.00000E+02  3.21000E-01  1.60500E-02  0.00000E+00  2.08100E-02  6.4829E-02   349.8      0.3002              
+  3.50000E+02  3.81000E-01  1.90500E-02  0.00000E+00  1.79805E-02  4.7193E-02   363.1      0.3630              
+  4.50000E+02  3.18000E-01  1.59000E-02  0.00000E+00  1.61380E-02  5.0748E-02   360.4      0.3019              
+#
+# Average deviation:                                                43.02      5.3105E+06   2.267    
+#
+# Full reference:
+#L.R.Greenwood, R.K.Smither
+#Prog. U.S. Dept.of Energy, Fusion Energy Series No.0046,18, p.11, 1984
+#Measurement of Cu spallation cross sections at IPNS
+#
+# Quality information:
+#
+# Quality  C0537015 : T2
+# Date     C0537015 : 05-01-2018
+# Reaction C0537015 : NP:    6 E-range:   150.    -   450.     MeV 29-CU-0(P,X)21-SC-48,CUM,SIG        pdf: y
+# Paper    C0537015 : L.R.Greenwood+ Prog. U.S. Dept.of Energy, Fusion Energy Series No.0046,18, p.11, 1984 Measurement of Cu spallation cross sections at IPNS
+# Action   C0537015 : 
+# Comment  C0537015 : Evaluation        N=     5 F=   43.0     chi-2=  5.311E+06 D=   2.27     mb T=   2.08     mb E=  0.209     K1=  43.0     K2= 1.000E+35
+# Comment  C0537015 : TALYS             N=     5 F=   13.0     chi-2=   329.     D=  0.228     mb T=  1.755E-02 mb E=  0.209     K1=  13.0     K2= 3.472E+19
+# Comment  C0537015 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.209     K1=  0.00     K2=  0.00
+# Comment  C0537015 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.209     K1=  0.00     K2=  0.00
+# Comment  C0537015 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.209     K1=  0.00     K2=  0.00
+# Comment  C0537015 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.209     K1=  0.00     K2=  0.00
+# Comment  C0537015 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.209     K1=  0.00     K2=  0.00
+# Comment  C0537015 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.209     K1=  0.00     K2=  0.00
+# Comment  C0537015 : tendl.2017        N=     2 F=   145.     chi-2=  1.386E+07 D=   6.84     mb T=   6.89     mb E=  0.209     K1=  145.     K2= 1.000E+35

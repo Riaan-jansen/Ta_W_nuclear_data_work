@@ -1,0 +1,37 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0405004 
+# X4 code     : 29-CU-0(P,X)11-NA-24,CUM,SIG
+# Author      : Brandt                   
+# Year        : 1992
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.15000E+03  3.40000E+00  5.00000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Brandt,  G.Dersch,  E.M.Friedlander,  G.Haase,  M.Heck, V.S.Butsev,  M.I.Krivopustov,  B.A.Kulakov, E.-J.Langrock,
+# F.Pille,  H.H.Cui,  E.Ganssauge
+#Jour. Physical Review, Part C, Nuclear Physics Vol.45, p.1194, 1992
+#Enhanced  production of 24-Na by wide-angle secondaries produced in the interaction of relativistic carbon ions with copper
+#
+#
+# Quality information:
+#
+# Quality  A0405004 :   
+# Date     A0405004 : 05-01-2018
+# Reaction A0405004 : NP:    1 E-range:  8.150E+03-  8.150E+03 MeV 29-CU-0(P,X)11-NA-24,CUM,SIG        pdf: n
+# Paper    A0405004 : R.Brandt+ Jour. Physical Review, Part C, Nuclear Physics Vol.45, p.1194, 1992 Enhanced  production of 24-Na by wide-angle secondaries produc
+# Action   A0405004 : 
+# Comment  A0405004 : 

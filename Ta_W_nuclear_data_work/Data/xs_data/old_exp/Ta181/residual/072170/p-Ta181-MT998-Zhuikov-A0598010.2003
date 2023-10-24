@@ -1,0 +1,47 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  72
+# Final A     : 170
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0598010 
+# X4 code     : 73-TA-181(P,X)72-HF-170,CUM,SIG
+# Author      : Zhuikov                  
+# Year        : 2003
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.00000E+02  1.36000E+01  2.00000E+00  0.00000E+00  1.06490E+01  0.7830       4.552       3.082              
+  1.45000E+02  5.80000E+01  7.00000E+00  0.00000E+00  1.22851E+01  0.2118       42.73       45.71              
+  2.00000E+02  6.46000E+01  7.00000E+00  0.00000E+00  1.29838E+01  0.2010       54.55       51.62              
+  3.50000E+02  5.90000E+01  6.00000E+00  0.00000E+00  2.09736E+01  0.3555       40.17       38.03              
+  5.00000E+02  4.30000E+01  5.00000E+00  0.00000E+00  1.81102E+01  0.4212       24.78       24.89              
+#
+# Average deviation:                                                3.314       33.36       32.67    
+#
+# Full reference:
+#B.L.Zhuikov,  M.V.Mebel,  V.M.Kokhanyuk,  A.S.Iljinov, A.Yu.Zyuzin,  J.S.Vincent
+#Jour. Physical Review, Part C, Nuclear Physics Vol.68, p.054611, 2003
+#Production of high-spin isomers in proton induced reactions at 100-500 MeV on 181Ta
+#
+# Quality information:
+#
+# Quality  A0598010 : T2
+# Date     A0598010 : 05-01-2018
+# Reaction A0598010 : NP:    5 E-range:   100.    -   500.     MeV 73-TA-181(P,X)72-HF-170,CUM,SIG     pdf: y
+# Paper    A0598010 : B.L.Zhuikov+ Jour. Physical Review, Part C, Nuclear Physics Vol.68, p.054611, 2003 Production of high-spin isomers in proton induced reactio
+# Action   A0598010 : 
+# Comment  A0598010 : Evaluation        N=     5 F=   3.31     chi-2=   33.4     D=   32.7     mb T=   15.0     mb E=   47.6     K1=  3.31     K2=  916.
+# Comment  A0598010 : TALYS             N=     5 F=   3.02     chi-2=   32.3     D=   32.3     mb T=   15.4     mb E=   47.6     K1=  3.02     K2=  203.
+# Comment  A0598010 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   47.6     K1=  0.00     K2=  0.00
+# Comment  A0598010 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   47.6     K1=  0.00     K2=  0.00
+# Comment  A0598010 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   47.6     K1=  0.00     K2=  0.00
+# Comment  A0598010 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   47.6     K1=  0.00     K2=  0.00
+# Comment  A0598010 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   47.6     K1=  0.00     K2=  0.00
+# Comment  A0598010 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   47.6     K1=  0.00     K2=  0.00
+# Comment  A0598010 : tendl.2017        N=     3 F=   4.33     chi-2=   35.7     D=   34.1     mb T=   11.4     mb E=   47.6     K1=  4.33     K2= 2.001E+04

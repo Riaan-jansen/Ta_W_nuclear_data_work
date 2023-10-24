@@ -1,0 +1,36 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  205
+# X4 ID       : O0313002 
+# X4 code     : 13-AL-27(P,X)1-H-3,,SIG
+# Author      : Mekhedov                 
+# Year        : 1970
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.53000E+02  9.00000E+00  1.00000E+00  0.00000E+00
+  3.40000E+02  1.60000E+01  1.60000E+00  0.00000E+00
+  4.80000E+02  1.75000E+01  1.80000E+00  0.00000E+00
+  6.60000E+02  3.00000E+01  3.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#B.N.Mekhedov, V.N.Mekhedov
+#Jour. Yadernaya Fizika Vol.11, p.708, 1970
+#Production of tritium in Al,Sn,Pb and Bi under the influence of high energy protons
+#
+# Quality information:
+#
+# Quality  O0313002 :   
+# Date     O0313002 : 05-01-2018
+# Reaction O0313002 : NP:    4 E-range:   153.    -   660.     MeV 13-AL-27(P,X)1-H-3,,SIG             pdf: n
+# Paper    O0313002 : B.N.Mekhedov+ Jour. Yadernaya Fizika Vol.11, p.708, 1970 Production of tritium in Al,Sn,Pb and Bi under the influence of high energy protons
+# Action   O0313002 : 
+# Comment  O0313002 : 

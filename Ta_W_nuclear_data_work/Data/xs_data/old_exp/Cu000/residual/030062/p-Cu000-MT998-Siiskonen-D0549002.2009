@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  62
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0549002 
+# X4 code     : 29-CU-0(P,X)30-ZN-62,,SIG
+# Author      : Siiskonen                
+# Year        : 2009
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.48400E+01  8.00000E+00  6.00000E-01  3.50000E-01  1.06287E+01   1.329       19.20       2.629              
+  1.64500E+01  2.70000E+01  2.00000E+00  3.00000E-01  2.46148E+01  0.9117       1.422       2.385              
+#
+# Average deviation:                                                1.235       10.31       2.507    
+#
+# Full reference:
+#T.Siiskonen, J.Huikari, T.Haavisto, J.Bergman, S.-J.Heselius,  J.-O.Lill, T.Lonnroth, K.Perajarvi
+#
+#Jour. Applied Radiation and Isotopes Vol.67, p.2037, 2009
+#Excitation functions of proton-induced reactions in natCu in the energy range 7 - 17 MeV
+#
+# Quality information:
+#
+# Quality  D0549002 : T1
+# Date     D0549002 : 05-01-2018
+# Reaction D0549002 : NP:    2 E-range:   14.8    -   16.5     MeV 29-CU-0(P,X)30-ZN-62,,SIG           pdf: y
+# Paper    D0549002 : T.Siiskonen+ Jour. Applied Radiation and Isotopes Vol.67, p.2037, 2009 Excitation functions of proton-induced reactions in natCu in the ener
+# Action   D0549002 : 
+# Comment  D0549002 : Evaluation        N=     2 F=   1.24     chi-2=   10.3     D=   2.51     mb T=   17.6     mb E=   17.5     K1=  1.24     K2=  1.61
+# Comment  D0549002 : TALYS             N=     2 F=   1.24     chi-2=   10.3     D=   2.51     mb T=   17.6     mb E=   17.5     K1=  1.24     K2=  1.61
+# Comment  D0549002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  D0549002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  D0549002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  D0549002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  D0549002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  D0549002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00
+# Comment  D0549002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   17.5     K1=  0.00     K2=  0.00

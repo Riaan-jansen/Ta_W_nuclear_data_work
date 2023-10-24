@@ -1,0 +1,49 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  55
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0505017 
+# X4 code     : 29-CU-0(P,X)27-CO-55,CUM,SIG
+# Author      : Gruetter                 
+# Year        : 1982
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.98000E+01  2.49000E-01  7.47000E-03  3.40000E-01  1.47801E-01  0.5936       183.5      0.1012              
+  6.97000E+01  2.32000E-01  6.96000E-03  3.40000E-01  1.45604E-01  0.6276       154.1      8.6396E-02          
+  6.97000E+01  2.30000E-01  6.90000E-03  3.40000E-01  1.45604E-01  0.6331       149.6      8.4396E-02          
+  6.76000E+01  1.49000E-01  4.47000E-03  3.40000E-01  9.94710E-02  0.6676       122.8      4.9529E-02          
+  6.51000E+01  7.41000E-02  2.22300E-03  3.40000E-01  4.45513E-02  0.6012       176.7      2.9549E-02          
+  6.51000E+01  7.70000E-02  2.31000E-03  3.40000E-01  4.45513E-02  0.5786       197.3      3.2449E-02          
+#
+# Average deviation:                                                1.626       164.0      6.3920E-02
+#
+# Full reference:
+#A.Gruetter
+#Jour. Nuclear Physics, Section A Vol.383, p.98, 1982
+#Excitation functions for radioactive isotope produced by proton bombardment of Cu and Al in the energy range of 16 to 70 MeV
+#
+#
+# Quality information:
+#
+# Quality  D0505017 : T1
+# Date     D0505017 : 05-01-2018
+# Reaction D0505017 : NP:    6 E-range:   65.1    -   69.8     MeV 29-CU-0(P,X)27-CO-55,CUM,SIG        pdf: y
+# Paper    D0505017 : A.Gruetter Jour. Nuclear Physics, Section A Vol.383, p.98, 1982 Excitation functions for radioactive isotope produced by proton bombardment
+# Action   D0505017 : 
+# Comment  D0505017 : Evaluation        N=     6 F=   1.63     chi-2=   164.     D=  6.392E-02 mb T=  0.105     mb E=  0.169     K1=  1.63     K2=  9.95
+# Comment  D0505017 : TALYS             N=     6 F=   1.63     chi-2=   164.     D=  6.392E-02 mb T=  0.105     mb E=  0.169     K1=  1.63     K2=  9.95
+# Comment  D0505017 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.169     K1=  0.00     K2=  0.00
+# Comment  D0505017 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.169     K1=  0.00     K2=  0.00
+# Comment  D0505017 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.169     K1=  0.00     K2=  0.00
+# Comment  D0505017 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.169     K1=  0.00     K2=  0.00
+# Comment  D0505017 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.169     K1=  0.00     K2=  0.00
+# Comment  D0505017 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.169     K1=  0.00     K2=  0.00
+# Comment  D0505017 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.169     K1=  0.00     K2=  0.00

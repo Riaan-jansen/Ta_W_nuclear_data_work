@@ -1,0 +1,52 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  13
+# Final A     :  26
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0972003 
+# X4 code     : 13-AL-27(P,X)13-AL-26-G,,SIG
+# Author      : Furukawa                 
+# Year        : 1971
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.52000E+01  6.80000E+01  6.80000E+00  2.00000E-01  1.62072E+01  0.2383       58.01       51.79              
+  1.68000E+01  1.20000E+02  9.60000E+00  1.20000E+00  5.72791E+01  0.4773       42.69       62.72              
+  1.76000E+01  1.32000E+02  1.05600E+01  7.00000E-01  8.21008E+01  0.6220       22.33       49.90              
+  1.87600E+01  1.41000E+02  1.26900E+01  2.50000E-01  1.14683E+02  0.8134       4.301       26.32              
+  2.07100E+01  1.63000E+02  1.30400E+01  2.00000E-01  1.52000E+02  0.9325      0.7115       11.00              
+  2.55000E+01  1.61000E+02  1.28800E+01  9.00000E-01  1.91826E+02   1.191       5.728       30.83              
+  3.10700E+01  1.02000E+02  7.14000E+00  2.20000E-01  1.69908E+02   1.666       90.46       67.91              
+  3.92800E+01  8.20000E+01  4.92000E+00  2.00000E-01  1.26071E+02   1.537       80.24       44.07              
+  3.97100E+01  8.10000E+01  8.91000E+00  2.40000E-01  1.24059E+02   1.532       23.35       43.06              
+  5.17100E+01  6.70000E+01  8.04000E+00  2.40000E-01  8.62895E+01   1.288       5.756       19.29              
+#
+# Average deviation:                                                1.822       33.36       40.69    
+#
+# Full reference:
+#M.Furukawa,  K.Shizuri,  K.Komura,  K.Sakamoto,  S.Tanaka
+#Jour. Nuclear Physics, Section A Vol.174, p.539, 1971
+#Production of 26-Al and 22-Na from proton bombardment of Si, Al and Mg
+#
+# Quality information:
+#
+# Quality  O0972003 : T1
+# Date     O0972003 : 05-01-2018
+# Reaction O0972003 : NP:   10 E-range:   15.2    -   51.7     MeV 13-AL-27(P,X)13-AL-26-G,,SIG        pdf: y
+# Paper    O0972003 : M.Furukawa+ Jour. Nuclear Physics, Section A Vol.174, p.539, 1971 Production of 26-Al and 22-Na from proton bombardment of Si, Al and Mg
+# Action   O0972003 : 
+# Comment  O0972003 : Evaluation        N=    10 F=   1.82     chi-2=   33.4     D=   40.7     mb T=   112.     mb E=   112.     K1=  1.82     K2=  18.1
+# Comment  O0972003 : TALYS             N=    10 F=   1.82     chi-2=   33.4     D=   40.7     mb T=   112.     mb E=   112.     K1=  1.82     K2=  18.1
+# Comment  O0972003 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   112.     K1=  0.00     K2=  0.00
+# Comment  O0972003 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   112.     K1=  0.00     K2=  0.00
+# Comment  O0972003 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   112.     K1=  0.00     K2=  0.00
+# Comment  O0972003 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   112.     K1=  0.00     K2=  0.00
+# Comment  O0972003 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   112.     K1=  0.00     K2=  0.00
+# Comment  O0972003 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   112.     K1=  0.00     K2=  0.00
+# Comment  O0972003 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   112.     K1=  0.00     K2=  0.00

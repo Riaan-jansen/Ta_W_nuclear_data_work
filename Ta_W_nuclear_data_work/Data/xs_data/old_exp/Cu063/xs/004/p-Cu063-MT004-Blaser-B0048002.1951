@@ -1,0 +1,49 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : B0048002 
+# X4 code     : 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP
+# Author      : Blaser                   
+# Year        : 1951
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.22000E+00  1.20000E-02  0.00000E+00  0.00000E+00  2.84044E+01   2367.       0.000       28.39              
+  4.25000E+00  2.20000E+00  0.00000E+00  0.00000E+00  3.22777E+01   14.67       0.000       30.08              
+  4.48000E+00  1.40000E+01  0.00000E+00  0.00000E+00  6.19733E+01   4.427       0.000       47.97              
+  4.67000E+00  3.10000E+01  0.00000E+00  0.00000E+00  8.65044E+01   2.790       0.000       55.50              
+  5.04000E+00  8.60000E+01  0.00000E+00  0.00000E+00  1.33183E+02   1.549       0.000       47.18              
+  5.36000E+00  1.40000E+02  0.00000E+00  0.00000E+00  1.65762E+02   1.184       0.000       25.76              
+  5.68000E+00  1.90000E+02  0.00000E+00  0.00000E+00  1.98340E+02   1.044       0.000       8.340              
+  6.01000E+00  2.40000E+02  0.00000E+00  0.00000E+00  2.31335E+02  0.9639       0.000       8.665              
+  6.30000E+00  2.80000E+02  0.00000E+00  0.00000E+00  2.43422E+02  0.8694       0.000       36.58              
+#
+# Average deviation:                                                16.62       0.000       32.05    
+#
+# Full reference:
+#J.-P.Blaser,  F.Boehm,  P.Marmier,  D.C.Peaslee
+#Jour. Helvetica Physica Acta Vol.24, p.3, 1951
+#Fonctions D`Excitation De La Reaction (P,N). I
+#
+# Quality information:
+#
+# Quality  B0048002 : T2
+# Date     B0048002 : 05-01-2018
+# Reaction B0048002 : NP:    9 E-range:   4.22    -   6.30     MeV 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP    pdf: y
+# Paper    B0048002 : J.-P.Blaser+ Jour. Helvetica Physica Acta Vol.24, p.3, 1951 Fonctions D`Excitation De La Reaction (P,N). I
+# Action   B0048002 : 
+# Comment  B0048002 : Evaluation        N=     9 F=   16.6     chi-2=   0.00     D=   32.1     mb T=   131.     mb E=   109.     K1=  16.6     K2= 1.000E+35
+# Comment  B0048002 : TALYS             N=     9 F=   16.6     chi-2=   0.00     D=   32.1     mb T=   131.     mb E=   109.     K1=  16.6     K2= 1.000E+35
+# Comment  B0048002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   109.     K1=  0.00     K2=  0.00
+# Comment  B0048002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   109.     K1=  0.00     K2=  0.00
+# Comment  B0048002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   109.     K1=  0.00     K2=  0.00
+# Comment  B0048002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   109.     K1=  0.00     K2=  0.00
+# Comment  B0048002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   109.     K1=  0.00     K2=  0.00
+# Comment  B0048002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   109.     K1=  0.00     K2=  0.00
+# Comment  B0048002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   109.     K1=  0.00     K2=  0.00

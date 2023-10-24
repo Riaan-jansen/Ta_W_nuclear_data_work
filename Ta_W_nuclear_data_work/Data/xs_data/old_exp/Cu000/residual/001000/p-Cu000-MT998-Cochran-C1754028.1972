@@ -1,0 +1,36 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   1
+# Final A     :   0
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C1754028 
+# X4 code     : 29-CU-0(P,X)1-PP-0,,SIG
+# Author      : Cochran                  
+# Year        : 1972
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.30000E+02  7.73000E+01  4.30000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#D.R.F.Cochran, P.N.Dean, P.A.M.Gram, E.A.Knapp, E.R.Martin, D.E.Nagle,  R.B.Perkins, W.J.Shlaer, H.A.Thiessen,
+#E.D.Theriot
+#Jour. Physical Review, Part D, Particles and Fields Vol.6, p.3085, 1972
+#Production of charged pions by 730-MeV protons from hydrogen and selected nuclei
+#
+# Quality information:
+#
+# Quality  C1754028 :   
+# Date     C1754028 : 05-01-2018
+# Reaction C1754028 : NP:    1 E-range:   730.    -   730.     MeV 29-CU-0(P,X)1-PP-0,,SIG             pdf: n
+# Paper    C1754028 : D.R.F.Cochran+ Jour. Physical Review, Part D, Particles and Fields Vol.6, p.3085, 1972 Production of charged pions by 730-MeV protons from h
+# Action   C1754028 : 
+# Comment  C1754028 : 

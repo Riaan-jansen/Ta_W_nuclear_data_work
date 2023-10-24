@@ -1,0 +1,37 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xp)
+# E-inc       :  300.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  203
+# X4 ID       : E1936014 
+# X4 code     : 13-AL-27(P,X)1-H-1,,DA/DE
+# Author      : Kin                      
+# Year        : 2005
+# Data points :     16
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.00000E+01  3.47900E-07  4.72800E-09  0.00000E+00  7.50001E+01
+  5.00000E+01  3.22700E-07  4.56400E-09  0.00000E+00  7.50001E+01
+  6.00000E+01  2.67000E-07  4.14900E-09  0.00000E+00  7.50001E+01
+  7.00000E+01  2.49700E-07  4.02600E-09  0.00000E+00  7.50001E+01
+  8.00000E+01  2.10300E-07  3.71800E-09  0.00000E+00  7.50001E+01
+  9.00000E+01  1.50400E-07  3.14300E-09  0.00000E+00  7.50001E+01
+  1.00000E+02  1.24900E-07  2.88800E-09  0.00000E+00  7.50001E+01
+  1.10000E+02  9.20000E-08  2.48500E-09  0.00000E+00  7.50001E+01
+  1.20000E+02  8.03300E-08  2.34600E-09  0.00000E+00  7.50001E+01
+  1.30000E+02  6.38500E-08  2.10000E-09  0.00000E+00  7.50001E+01
+  1.40000E+02  5.05400E-08  1.88800E-09  0.00000E+00  7.50001E+01
+  1.50000E+02  4.00000E-08  1.69900E-09  0.00000E+00  7.50001E+01
+  1.60000E+02  2.75600E-08  1.41700E-09  0.00000E+00  7.50001E+01
+  1.70000E+02  2.46600E-08  1.35700E-09  0.00000E+00  7.50001E+01
+  1.80000E+02  1.35000E-08  1.01600E-09  0.00000E+00  7.50001E+01
+  2.00000E+02  6.82500E-09  7.42200E-10  0.00000E+00  7.50001E+01
+# Full reference:
+#T.Kin,  F.Saiho,  S.Hohara,  K.Ikeda,  K.Ichikawa, Y.Yamashita,  M.Imamura,  G.Wakabayashi,  N.Ikeda,
+#Y.Uozumi,  M.Matoba,  M.Nakano,  N.Koori
+#Jour. Physical Review, Part C, Nuclear Physics Vol.72, Issue.1, p.014606, 2005
+#Proton production cross sections for reactions by 300- and 392-MeV protons on carbon, aluminum, and niobium

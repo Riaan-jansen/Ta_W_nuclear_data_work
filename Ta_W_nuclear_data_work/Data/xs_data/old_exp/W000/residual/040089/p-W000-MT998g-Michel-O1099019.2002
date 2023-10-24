@@ -1,0 +1,46 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  40
+# Final A     :  89
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1099019 
+# X4 code     : 74-W-0(P,X)40-ZR-89-G,CUM,SIG
+# Author      : Michel                   
+# Year        : 2002
+# Data points :     10
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.54000E+02  2.35400E-01  3.95400E-02  1.72000E+00
+  2.60000E+02  1.67300E-01  3.23000E-02  1.08000E+00
+  3.34000E+02  2.59100E-01  6.24200E-02  1.68000E+00
+  5.59000E+02  4.93700E-01  5.90200E-02  1.48000E+00
+  7.64000E+02  5.39800E-01  7.26800E-02  1.45000E+00
+  1.16000E+03  1.00100E+00  1.43200E-01  1.36600E+00
+  1.38000E+03  1.24200E+00  1.34200E-01  1.01600E+00
+  1.57000E+03  1.40300E+00  1.84900E-01  1.29000E+00
+  2.58000E+03  3.77100E+00  7.49100E-01  1.00200E+00
+  2.59000E+03  2.69400E+00  2.86300E-01  1.01000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Michel,  M.Gloris,  J.Protoschill,  U.Herpers, J.Kuhnhenn,  F.Sudbrock,  P.Malmborg,  P.Kubik
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002
+#Cross sections for the production of radionuclides by proton-induced reactions on W, Ta, Pb and Bi from thresholds up to 2.6 GeV
+#
+#
+# Quality information:
+#
+# Quality  O1099019 :   
+# Date     O1099019 : 05-01-2018
+# Reaction O1099019 : NP:   10 E-range:   254.    -  2.590E+03 MeV 74-W-0(P,X)40-ZR-89-G,CUM,SIG       pdf: n
+# Paper    O1099019 : R.Michel+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.2, p.242, 2002 Cross sections for the production of radionuclides by prot
+# Action   O1099019 : 
+# Comment  O1099019 : 

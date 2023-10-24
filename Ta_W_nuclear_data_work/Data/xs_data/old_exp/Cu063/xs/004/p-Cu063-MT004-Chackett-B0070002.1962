@@ -1,0 +1,41 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : B0070002 
+# X4 code     : 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP
+# Author      : Chackett                 
+# Year        : 1962
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  9.30000E+00  4.80000E+02  2.00000E+01  3.00000E-01  1.79788E+02  0.3746       234.4       300.2              
+#
+# Average deviation:                                                2.932       234.4       300.2    
+#
+# Full reference:
+#K.F.Chackett,  G.A.Chackett,  L.Ismail
+#Jour. Proceedings of the Physical Society (London), Vol.80, p.738, 1962
+#The (P,N) Reaction Cross Section of Copper For 9.3 MeV Protons
+#
+# Quality information:
+#
+# Quality  B0070002 : T2
+# Date     B0070002 : 05-01-2018
+# Reaction B0070002 : NP:    1 E-range:   9.30    -   9.30     MeV 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP    pdf: y
+# Paper    B0070002 : K.F.Chackett+ Jour. Proceedings of the Physical Society (London), Vol.80, p.738, 1962 The (P,N) Reaction Cross Section of Copper For 9.3 MeV
+# Action   B0070002 : 
+# Comment  B0070002 : Evaluation        N=     1 F=   2.93     chi-2=   234.     D=   300.     mb T=   180.     mb E=   480.     K1=  2.93     K2= 3.701E+03
+# Comment  B0070002 : TALYS             N=     1 F=   1.53     chi-2=   68.5     D=   166.     mb T=   314.     mb E=   480.     K1=  1.53     K2=  4.76
+# Comment  B0070002 : cendl3.1          N=     1 F=   4.69     chi-2=   357.     D=   378.     mb T=   102.     mb E=   480.     K1=  4.69     K2= 2.266E+06
+# Comment  B0070002 : eaf.2010          N=     1 F=   2.99     chi-2=   255.     D=   319.     mb T=   161.     mb E=   480.     K1=  2.99     K2= 2.095E+03
+# Comment  B0070002 : endfb8.0          N=     1 F=   2.71     chi-2=   229.     D=   303.     mb T=   177.     mb E=   480.     K1=  2.71     K2=  633.
+# Comment  B0070002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   480.     K1=  0.00     K2=  0.00
+# Comment  B0070002 : jeff3.3           N=     1 F=   3.01     chi-2=   257.     D=   321.     mb T=   159.     mb E=   480.     K1=  3.01     K2= 2.295E+03
+# Comment  B0070002 : jendl4.0          N=     1 F=   2.58     chi-2=   216.     D=   294.     mb T=   186.     mb E=   480.     K1=  2.58     K2=  372.
+# Comment  B0070002 : tendl.2017        N=     1 F=   3.03     chi-2=   258.     D=   322.     mb T=   158.     mb E=   480.     K1=  3.03     K2= 2.466E+03

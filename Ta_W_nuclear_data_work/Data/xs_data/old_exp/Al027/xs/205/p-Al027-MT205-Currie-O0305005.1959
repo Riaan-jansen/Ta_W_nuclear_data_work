@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  205
+# X4 ID       : O0305005 
+# X4 code     : 13-AL-27(P,X)1-H-3,,SIG
+# Author      : Currie                   
+# Year        : 1959
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.20000E+02  8.00000E+00  1.60000E+00  0.00000E+00
+  2.05000E+03  4.40000E+01  8.80000E+00  0.00000E+00
+  5.70000E+03  5.00000E+01  1.00000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#L.A.Currie
+#Jour. Physical Review Vol.114, p.878, 1959
+#Tritium production by 6-Bev protons.
+#
+# Quality information:
+#
+# Quality  O0305005 :   
+# Date     O0305005 : 05-01-2018
+# Reaction O0305005 : NP:    3 E-range:   120.    -  5.700E+03 MeV 13-AL-27(P,X)1-H-3,,SIG             pdf: n
+# Paper    O0305005 : L.A.Currie Jour. Physical Review Vol.114, p.878, 1959 Tritium production by 6-Bev protons.
+# Action   O0305005 : 
+# Comment  O0305005 : 

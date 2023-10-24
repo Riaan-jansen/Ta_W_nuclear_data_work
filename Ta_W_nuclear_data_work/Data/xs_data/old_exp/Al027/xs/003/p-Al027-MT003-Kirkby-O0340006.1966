@@ -1,0 +1,33 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : O0340006 
+# X4 code     : 13-AL-27(P,NON),,SIG,,,EXP
+# Author      : Kirkby                   
+# Year        : 1966
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  9.97000E+01  4.30000E+02  1.20400E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#P.Kirkby, W.T.Link
+#Jour. Canadian Journal of Physics Vol.44, p.1847, 1966
+#Faraday-Cup Measurement of Proton Total Reaction Cross Sections at 100 MeV.
+#
+# Quality information:
+#
+# Quality  O0340006 :   
+# Date     O0340006 : 05-01-2018
+# Reaction O0340006 : NP:    1 E-range:   99.7    -   99.7     MeV 13-AL-27(P,NON),,SIG,,,EXP          pdf: n
+# Paper    O0340006 : P.Kirkby+ Jour. Canadian Journal of Physics Vol.44, p.1847, 1966 Faraday-Cup Measurement of Proton Total Reaction Cross Sections at 100 MeV.
+# Action   O0340006 : 
+# Comment  O0340006 : 

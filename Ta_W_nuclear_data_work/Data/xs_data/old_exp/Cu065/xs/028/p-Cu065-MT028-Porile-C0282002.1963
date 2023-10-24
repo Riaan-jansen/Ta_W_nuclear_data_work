@@ -1,0 +1,33 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,np)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   28
+# X4 ID       : C0282002 
+# X4 code     : 29-CU-65(P,N+P)29-CU-64,,SIG
+# Author      : Porile                   
+# Year        : 1963
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.90000E+03  4.90000E+01  4.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#N.T.Porile, S.Tanaka
+#Jour. Physical Review Vol.130, p.1541, 1963
+#NUCLEAR STRUCTURE EFFECTS IN HIGH-ENERGY (P,PN) REACTIONS
+#
+# Quality information:
+#
+# Quality  C0282002 :   
+# Date     C0282002 : 05-01-2018
+# Reaction C0282002 : NP:    1 E-range:  2.900E+03-  2.900E+03 MeV 29-CU-65(P,N+P)29-CU-64,,SIG        pdf: n
+# Paper    C0282002 : N.T.Porile+ Jour. Physical Review Vol.130, p.1541, 1963 NUCLEAR STRUCTURE EFFECTS IN HIGH-ENERGY (P,PN) REACTIONS
+# Action   C0282002 : 
+# Comment  C0282002 : 

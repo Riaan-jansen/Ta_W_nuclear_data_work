@@ -1,0 +1,46 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  55
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C2243002 
+# X4 code     : 29-CU-0(P,X)27-CO-55,CUM,SIG
+# Author      : Graves                   
+# Year        : 2016
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.94000E+01  1.60000E+00  1.10000E-01  6.00000E-01  1.01188E+00  0.6324       28.59      0.5881              
+  7.86000E+01  7.88000E-01  6.90000E-02  9.00000E-01  5.59759E-01  0.7104       10.94      0.2282              
+  6.91000E+01  1.08000E-01  1.40000E-02  1.10000E+00  1.32423E-01   1.226       3.043      2.4423E-02          
+#
+# Average deviation:                                                1.420       14.19      0.2803    
+#
+# Full reference:
+#S.A.Graves, P.A.Ellison, T.E.Barnhart, H.F.Valdovinos, E.R.Birnbaum, F.M.Nortier, R.J.Nickles, J.W.Engle
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.386, p.44, 2016
+#Nuclear excitation functions of proton-induced reactions (Ep = 35-90 MeV) from Fe, Cu, and Al
+#
+# Quality information:
+#
+# Quality  C2243002 : T1
+# Date     C2243002 : 05-01-2018
+# Reaction C2243002 : NP:    3 E-range:   69.1    -   89.4     MeV 29-CU-0(P,X)27-CO-55,CUM,SIG        pdf: y
+# Paper    C2243002 : S.A.Graves+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.386, p.44, 2016 Nuclear excitation functions of proton-induced reaction
+# Action   C2243002 : 
+# Comment  C2243002 : Evaluation        N=     3 F=   1.42     chi-2=   14.2     D=  0.280     mb T=  0.568     mb E=  0.832     K1=  1.42     K2=  2.61
+# Comment  C2243002 : TALYS             N=     3 F=   1.42     chi-2=   14.2     D=  0.280     mb T=  0.568     mb E=  0.832     K1=  1.42     K2=  2.61
+# Comment  C2243002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.832     K1=  0.00     K2=  0.00
+# Comment  C2243002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.832     K1=  0.00     K2=  0.00
+# Comment  C2243002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.832     K1=  0.00     K2=  0.00
+# Comment  C2243002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.832     K1=  0.00     K2=  0.00
+# Comment  C2243002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.832     K1=  0.00     K2=  0.00
+# Comment  C2243002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.832     K1=  0.00     K2=  0.00
+# Comment  C2243002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.832     K1=  0.00     K2=  0.00

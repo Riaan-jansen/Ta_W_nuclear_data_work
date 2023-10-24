@@ -1,0 +1,34 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,p)     
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  103
+# X4 ID       : O14260151
+# X4 code     : 29-CU-0(P,INL)29-CU-0,,SIG,,,DERIV
+# Author      : Herbach                  
+# Year        : 2006
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.20000E+03  8.13000E+02  3.00000E+01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#C.-M.Herbach,  D.Hilscher,  U.Jahnke,  V.G.Tishchenko, J.Galin,  A.Letourneau,  A.Peghaire,  D.Filges, F.Goldenbaum,
+# L.Pienkowski,  W.U.Schroeder,  J.Toke
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.A Vol.562, p.729, 2006
+#Systematic investigation of 1.2-GeV proton-induced spallation reactions on targets between Al and U.
+#
+# Quality information:
+#
+# Quality  O14260151:   
+# Date     O14260151: 05-01-2018
+# Reaction O14260151: NP:    1 E-range:  1.200E+03-  1.200E+03 MeV 29-CU-0(P,INL)29-CU-0,,SIG,,,DERIV  pdf: n
+# Paper    O14260151: C.-M.Herbach+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.A Vol.562, p.729, 2006 Systematic investigation of 1.2-GeV proton-induced s
+# Action   O14260151: 
+# Comment  O14260151: 

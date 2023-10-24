@@ -1,0 +1,49 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  29
+# Final A     :  60
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0104004 
+# X4 code     : 29-CU-63(P,X)29-CU-60,CUM,SIG,,,EXP
+# Author      : Noma                     
+# Year        : 1977
+# Data points :      6
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.56000E+01  1.00000E+00  1.00000E-01  0.00000E+00  2.36648E+01   23.66      8.2998E+04   22.66              
+  3.94000E+01  3.60000E+00  3.20000E-01  0.00000E+00  2.30541E+01   6.404       5817.       19.45              
+  4.26000E+01  8.30000E+00  8.90000E-01  0.00000E+00  2.45490E+01   2.958       460.3       16.25              
+  4.57000E+01  1.70000E+01  1.50000E+00  0.00000E+00  2.61138E+01   1.536       52.74       9.114              
+  4.89000E+01  2.80000E+01  2.40000E+00  0.00000E+00  2.65341E+01  0.9476       3.599       4.263              
+  5.15000E+01  3.30000E+01  3.30000E+00  0.00000E+00  2.62478E+01  0.7954       6.062       6.752              
+#
+# Average deviation:                                                4.356      1.4890E+04   13.08    
+#
+# Full reference:
+#H.Noma,  T.Horiguchi,  Y.Yoshizawa,  I.Fujiwara,  S.Kume, K.Chida,  T.Matsui,  S.Amemiya,  T.Katoh
+#
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.39, p.1923, 1977
+#Cross Sections of the Cu-63(P,3N)Zn-61 and the Cu-63(P,P3N)Cu-60 Reactions
+#
+# Quality information:
+#
+# Quality  B0104004 : T2
+# Date     B0104004 : 05-01-2018
+# Reaction B0104004 : NP:    6 E-range:   35.6    -   51.5     MeV 29-CU-63(P,X)29-CU-60,CUM,SIG,,,EXP pdf: y
+# Paper    B0104004 : H.Noma+ Jour. Journal of Inorganic and Nuclear Chemistry Vol.39, p.1923, 1977 Cross Sections of the Cu-63(P,3N)Zn-61 and the Cu-63(P,P3N)Cu-
+# Action   B0104004 : 
+# Comment  B0104004 : Evaluation        N=     6 F=   4.36     chi-2=  1.489E+04 D=   13.1     mb T=   25.0     mb E=   15.2     K1=  4.36     K2= 1.481E+10
+# Comment  B0104004 : TALYS             N=     6 F=   1.24     chi-2=   5.83     D=   2.78     mb T=   15.1     mb E=   15.2     K1=  1.24     K2=  1.57
+# Comment  B0104004 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   15.2     K1=  0.00     K2=  0.00
+# Comment  B0104004 : eaf.2010          N=     6 F=   7.08     chi-2=  3.405E+04 D=   22.0     mb T=   36.6     mb E=   15.2     K1=  7.08     K2= 7.764E+14
+# Comment  B0104004 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   15.2     K1=  0.00     K2=  0.00
+# Comment  B0104004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   15.2     K1=  0.00     K2=  0.00
+# Comment  B0104004 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   15.2     K1=  0.00     K2=  0.00
+# Comment  B0104004 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   15.2     K1=  0.00     K2=  0.00
+# Comment  B0104004 : tendl.2017        N=     6 F=   5.05     chi-2=  1.061E+04 D=   14.5     mb T=   23.4     mb E=   15.2     K1=  5.05     K2= 2.575E+09

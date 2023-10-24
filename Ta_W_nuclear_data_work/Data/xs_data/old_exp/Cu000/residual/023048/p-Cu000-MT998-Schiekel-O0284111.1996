@@ -1,0 +1,48 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  23
+# Final A     :  48
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0284111 
+# X4 code     : 29-CU-0(P,X)23-V-48,CUM,SIG
+# Author      : Schiekel                 
+# Year        : 1996
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.26000E+02  3.13000E+00  2.42000E-01  1.80000E+00  9.57326E+00   3.059       708.9       6.443              
+  2.71000E+02  4.63000E+00  3.62000E-01  1.28000E+00  1.02068E+01   2.204       237.3       5.577              
+  3.38000E+02  6.54000E+00  5.03000E-01  1.74000E+00  8.57629E+00   1.311       16.39       2.036              
+  3.75000E+02  7.65000E+00  5.81000E-01  1.26000E+00  7.81019E+00   1.021      7.6020E-02  0.1602              
+#
+# Average deviation:                                                2.010       240.7       3.554    
+#
+# Full reference:
+#Th.Schiekel,  F.Sudbrock,  U.Herpers,  M.Gloris, H.-J.Lange,  I.Leya,  R.Michel,  B.Dittrich-Hannen, H.-A.Synal,
+# M.Suter,  P.W.Kubik,  M.Blann,  D.Filges
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.114, p.91, 1996
+#Nuclide production by proton-induced reactions on elements (6<=Z<=296) in the energy range from 200 MeV to 400 MeV.
+#
+#
+# Quality information:
+#
+# Quality  O0284111 : T1
+# Date     O0284111 : 05-01-2018
+# Reaction O0284111 : NP:    4 E-range:   226.    -   375.     MeV 29-CU-0(P,X)23-V-48,CUM,SIG         pdf: y
+# Paper    O0284111 : Th.Schiekel+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.114, p.91, 1996 Nuclide production by proton-induced reactions on elem
+# Action   O0284111 : 
+# Comment  O0284111 : Evaluation        N=     4 F=   2.01     chi-2=   241.     D=   3.55     mb T=   9.04     mb E=   5.49     K1=  2.01     K2=  28.8
+# Comment  O0284111 : TALYS             N=     4 F=   2.01     chi-2=   241.     D=   3.55     mb T=   9.04     mb E=   5.49     K1=  2.01     K2=  28.8
+# Comment  O0284111 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.49     K1=  0.00     K2=  0.00
+# Comment  O0284111 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.49     K1=  0.00     K2=  0.00
+# Comment  O0284111 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.49     K1=  0.00     K2=  0.00
+# Comment  O0284111 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.49     K1=  0.00     K2=  0.00
+# Comment  O0284111 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.49     K1=  0.00     K2=  0.00
+# Comment  O0284111 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.49     K1=  0.00     K2=  0.00
+# Comment  O0284111 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.49     K1=  0.00     K2=  0.00

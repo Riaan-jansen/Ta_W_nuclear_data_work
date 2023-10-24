@@ -1,0 +1,56 @@
+# Target Z    :  74
+# Target A    : 182
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   25.000 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  0.00000)
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :  740
+# X4 ID       : O1744006 
+# X4 code     : 74-W-182(P,T)74-W-180,PAR,DA
+# Author      : Meyer                    
+# Year        : 2006
+# Data points :     33
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  4.99979E+00  1.11300E+00  6.00000E-03
+  1.75000E+01  5.14000E-02  8.00000E-04
+  3.00000E+01  3.63000E-01  2.00000E-03
+  4.99979E+00  6.00000E-04  1.00000E-04
+  1.75000E+01  3.00000E-04  1.00000E-04
+  3.00000E+01  3.00000E-04  1.00000E-04
+  4.99979E+00  3.10000E-03  4.00000E-04
+  1.75000E+01  4.00000E-04  1.00000E-04
+  3.00000E+01  1.00000E-03  1.00000E-04
+  4.99979E+00  8.00000E-04  2.00000E-04
+  1.75000E+01  2.00000E-04  1.00000E-04
+  3.00000E+01  3.00000E-04  1.00000E-04
+  4.99979E+00  1.10000E-01  1.00000E-03
+  1.75000E+01  1.09000E-02  3.00000E-04
+  3.00000E+01  3.51000E-02  6.00000E-04
+  4.99979E+00  2.20000E-02  1.00000E-03
+  1.75000E+01  1.90000E-03  2.00000E-04
+  3.00000E+01  7.20000E-03  4.00000E-04
+  4.99979E+00  1.63000E-02  5.00000E-04
+  1.75000E+01  3.10000E-03  2.00000E-04
+  3.00000E+01  7.20000E-03  3.00000E-04
+  4.99979E+00  8.00000E-03  5.00000E-04
+  1.75000E+01  3.40000E-03  2.00000E-04
+  3.00000E+01  2.30000E-03  2.00000E-04
+  4.99979E+00  2.13000E-02  6.00000E-04
+  1.75000E+01  1.00000E-03  1.00000E-04
+  3.00000E+01  4.70000E-03  2.00000E-04
+  4.99979E+00  2.40000E-03  6.00000E-04
+  1.75000E+01  1.00000E-04  1.00000E-04
+  3.00000E+01  1.70000E-03  4.00000E-04
+  4.99979E+00  1.10000E-02  2.00000E-03
+  1.75000E+01  1.80000E-03  3.00000E-04
+  3.00000E+01  2.40000E-03  7.00000E-04
+# Full reference:
+#D.A.Meyer,  V.Wood,  R.F.Casten,  C.R.Fitzpatrick, G.Graw,  D.Bucurescu,  J.Jolie,  P.Von Brentano, R.Hertenberger,
+#H.-F.Wirth,  N.Braun,  T.Faestermann, S.Heinze,  J.L.Jerke,  R.Kruecken,  M.Mahgoub,  O.Moeller, D.Muecher,
+# C.Scholl
+#Jour. Physical Review, Part C, Nuclear Physics Vol.74, p.044309, 2006
+#Extensive investigation of 0+ states in rare earth region nuclei.

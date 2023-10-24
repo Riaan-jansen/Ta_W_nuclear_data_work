@@ -1,0 +1,46 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0397053 
+# X4 code     : 29-CU-63(P,X)27-CO-57,CUM,SIG
+# Author      : Titarenko                
+# Year        : 1996
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.30000E+02  7.10000E+01  9.00000E+00  0.00000E+00  5.28650E+01  0.7446       4.060       18.13              
+  1.50000E+03  3.36000E+01  3.50000E+00  0.00000E+00
+#
+# Average deviation:                                                1.343       4.060       18.13    
+#
+# Full reference:
+#Yu.E.Titarenko, E.I.Karpikhin, A.F.Smolyakov, M.M.Igumnov, O.V.Shvedov, N.V.Stepanov, V.D.Kazarizki, V.F.Batyaev, S.G.Mashnik,
+#T.A.Gabriehl
+#Conf. Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 p.184, 1996
+#Experimental and calculative research of radioactive nuclei formation-products of target and constructional materials of electronuclear facilities irradiated by
+#protons with energies 1.5 GeV and 130 MeV.
+#
+# Quality information:
+#
+# Quality  O0397053 : N1
+# Date     O0397053 : 05-01-2018
+# Reaction O0397053 : NP:    2 E-range:   130.    -  1.500E+03 MeV 29-CU-63(P,X)27-CO-57,CUM,SIG       pdf: n
+# Paper    O0397053 : Yu.E.Titarenko+ Conf. Worksh.Exact Meas.in Nucl.Spect., Sarov, Russia 1996 p.184, 1996 Experimental and calculative research of radioactive
+# Action   O0397053 : 
+# Comment  O0397053 : Evaluation        N=     1 F=   1.34     chi-2=   4.06     D=   18.1     mb T=   52.9     mb E=   52.3     K1=  1.34     K2=  1.76
+# Comment  O0397053 : TALYS             N=     1 F=   1.34     chi-2=   4.06     D=   18.1     mb T=   52.9     mb E=   52.3     K1=  1.34     K2=  1.76
+# Comment  O0397053 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.3     K1=  0.00     K2=  0.00
+# Comment  O0397053 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.3     K1=  0.00     K2=  0.00
+# Comment  O0397053 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.3     K1=  0.00     K2=  0.00
+# Comment  O0397053 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.3     K1=  0.00     K2=  0.00
+# Comment  O0397053 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.3     K1=  0.00     K2=  0.00
+# Comment  O0397053 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.3     K1=  0.00     K2=  0.00
+# Comment  O0397053 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   52.3     K1=  0.00     K2=  0.00

@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D6156002 
+# X4 code     : 13-AL-27(P,X)11-NA-24,CUM,SIG
+# Author      : Nair                     
+# Year        : 1993
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.79000E+01  7.51000E-03  0.00000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#A.G.C.Nair, S.S.Rattan, A.Ramaswami, R.J.Singh, R.H.Iyer
+#Conf. 36th Nuclear Physics Symposium, Calicut, 1993 p.188, 1993
+#Proton induced fission of 243Am at 17.8 MeV: Formation cross section for the fission products.
+#
+# Quality information:
+#
+# Quality  D6156002 :   
+# Date     D6156002 : 05-01-2018
+# Reaction D6156002 : NP:    1 E-range:   17.9    -   17.9     MeV 13-AL-27(P,X)11-NA-24,CUM,SIG       pdf: n
+# Paper    D6156002 : A.G.C.Nair+ Conf. 36th Nuclear Physics Symposium, Calicut, 1993 p.188, 1993 Proton induced fission of 243Am at 17.8 MeV: Formation cross sec
+# Action   D6156002 : 
+# Comment  D6156002 : 

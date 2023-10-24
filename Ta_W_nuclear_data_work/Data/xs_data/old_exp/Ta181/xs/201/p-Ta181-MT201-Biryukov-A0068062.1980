@@ -1,0 +1,41 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xn)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  201
+# X4 ID       : A0068062 
+# X4 code     : 73-TA-181(P,X)0-NN-1,PAR,SIG
+# Author      : Biryukov                 
+# Year        : 1980
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.20000E+01  1.94800E+03  1.27000E+02  2.00000E-01  7.16163E+01  3.6764E-02   218.3       1876.              
+#
+# Average deviation:                                                27.75       218.3       1876.    
+#
+# Full reference:
+#N.S.Biryukov, B.V.Zhuravlev, A.P.Rudenko, O.A.Salnikov, V.I.Trykova
+#Jour. Yadernaya Fizika Vol.31, Issue.3, p.561, 1980
+#Direct and equilibrium processes in (p,n) reactions at proton energy of 22.2 MeV
+#
+# Quality information:
+#
+# Quality  A0068062 : T2
+# Date     A0068062 : 05-01-2018
+# Reaction A0068062 : NP:    1 E-range:   22.0    -   22.0     MeV 73-TA-181(P,X)0-NN-1,PAR,SIG        pdf: y
+# Paper    A0068062 : N.S.Biryukov+ Jour. Yadernaya Fizika Vol.31, Issue.3, p.561, 1980 Direct and equilibrium processes in (p,n) reactions at proton energy of 22
+# Action   A0068062 : 
+# Comment  A0068062 : Evaluation        N=     1 F=   27.8     chi-2=   218.     D=  1.876E+03 mb T=   71.6     mb E=  1.948E+03 K1=  27.8     K2= 5.889E+29
+# Comment  A0068062 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.948E+03 K1=  0.00     K2=  0.00
+# Comment  A0068062 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.948E+03 K1=  0.00     K2=  0.00
+# Comment  A0068062 : eaf.2010          N=     1 F=   27.0     chi-2=   218.     D=  1.876E+03 mb T=   72.1     mb E=  1.948E+03 K1=  27.0     K2= 4.239E+28
+# Comment  A0068062 : endfb8.0          N=     1 F=   37.0     chi-2=   223.     D=  1.895E+03 mb T=   52.7     mb E=  1.948E+03 K1=  37.0     K2= 1.000E+35
+# Comment  A0068062 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.948E+03 K1=  0.00     K2=  0.00
+# Comment  A0068062 : jeff3.3           N=     1 F=   25.5     chi-2=   217.     D=  1.872E+03 mb T=   76.5     mb E=  1.948E+03 K1=  25.5     K2= 1.917E+27
+# Comment  A0068062 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  1.948E+03 K1=  0.00     K2=  0.00
+# Comment  A0068062 : tendl.2017        N=     1 F=   22.9     chi-2=   215.     D=  1.863E+03 mb T=   85.2     mb E=  1.948E+03 K1=  22.9     K2= 8.353E+24

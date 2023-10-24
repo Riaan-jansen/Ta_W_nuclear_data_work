@@ -1,0 +1,37 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   1
+# Final A     :   0
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O01560252
+# X4 code     : 13-AL-27(P,X)1-PN-0,,SIG
+# Author      : Crawford                 
+# Year        : 1980
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.85000E+02  9.80000E+00  1.20000E+00  2.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#J.F.Crawford, M.Daum, G.H.Eaton, R.Frosch, H.Hirschmann, R.Horisberger, J.W.Mcculloch, E.Steiner, R.Hausammann,
+#R.Hess, D.Werren
+#Jour. Physical Review, Part C, Nuclear Physics Vol.22, p.1184, 1980
+#Measurement of cross sections and asymmetry parameters for the production of charged pions from various nuclei by 585-MeV protons.
+#
+#
+# Quality information:
+#
+# Quality  O01560252:   
+# Date     O01560252: 05-01-2018
+# Reaction O01560252: NP:    1 E-range:   585.    -   585.     MeV 13-AL-27(P,X)1-PN-0,,SIG            pdf: n
+# Paper    O01560252: J.F.Crawford+ Jour. Physical Review, Part C, Nuclear Physics Vol.22, p.1184, 1980 Measurement of cross sections and asymmetry parameters for
+# Action   O01560252: 
+# Comment  O01560252: 

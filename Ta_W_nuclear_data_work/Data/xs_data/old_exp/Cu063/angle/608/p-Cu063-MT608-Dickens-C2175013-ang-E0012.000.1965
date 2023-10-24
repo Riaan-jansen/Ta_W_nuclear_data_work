@@ -1,0 +1,37 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : Inelastic scattering
+# E-inc       :   12.000 MeV
+# E-exc       :  2.01292 MeV (EXFOR:  2.01200)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :  608
+# X4 ID       : C2175013 
+# X4 code     : 29-CU-63(P,INL)29-CU-63,PAR,DA
+# Author      : Dickens                  
+# Year        : 1965
+# Data points :     15
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  3.05000E+01  3.20000E-01  1.60000E-01
+  3.56001E+01  3.40000E-01  1.00000E-01
+  4.06000E+01  2.66000E-01  7.80000E-02
+  4.57001E+01  1.80000E-01  4.80000E-02
+  5.08001E+01  1.88000E-01  2.70000E-02
+  5.58001E+01  1.12000E-01  2.50000E-02
+  6.09001E+01  1.08000E-01  2.10000E-02
+  6.59001E+01  6.10000E-02  1.70000E-02
+  7.09001E+01  7.00000E-02  1.40000E-02
+  7.60001E+01  8.10000E-02  1.20000E-02
+  8.10001E+01  1.02000E-01  1.60000E-02
+  8.60001E+01  1.26000E-01  1.40000E-02
+  9.10001E+01  1.14000E-01  1.60000E-02
+  9.60001E+01  7.10000E-02  1.60000E-02
+  1.06000E+02  4.80000E-02  1.10000E-02
+# Full reference:
+#J.K.Dickens, R.J.Silva
+#Rept. Oak Ridge National Lab. Reports No.3851, 1965
+#Elastic and Inelastic Scattering of 12.0-MeV Protons from 62Ni, 63Cu, and 64Zn: Tabulated Differential Cross Sections
+#

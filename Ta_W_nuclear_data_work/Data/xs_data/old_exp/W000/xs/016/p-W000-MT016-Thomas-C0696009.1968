@@ -1,0 +1,48 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,2n)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   16
+# X4 ID       : C0696009 
+# X4 code     : 74-W-0(P,2N),,SIG
+# Author      : Thomas                   
+# Year        : 1968
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.40000E+00  1.30000E+01  0.00000E+00  0.00000E+00  1.17659E-01  9.0507E-03   81.69       12.88              
+  9.80000E+00  4.80000E+01  0.00000E+00  0.00000E+00  2.17717E-01  4.5358E-03   82.54       47.78              
+  1.09000E+01  2.10000E+02  0.00000E+00  0.00000E+00  2.66066E-01  1.2670E-03   83.12       209.7              
+  1.14000E+01  2.61000E+02  0.00000E+00  0.00000E+00  2.86173E-01  1.0964E-03   83.15       260.7              
+  1.20000E+01  4.00000E+02  0.00000E+00  0.00000E+00  3.08166E-01  7.7041E-04   83.21       399.7              
+  1.29000E+01  5.73000E+02  0.00000E+00  0.00000E+00  3.23936E-01  5.6533E-04   83.24       572.7              
+  1.35000E+01  7.50000E+02  0.00000E+00  0.00000E+00  3.18911E-01  4.2521E-04   83.26       749.7              
+  1.44000E+01  8.50000E+02  0.00000E+00  0.00000E+00  2.83352E-01  3.3336E-04   83.28       849.7              
+#
+# Average deviation:                                                938.0       82.94       387.9    
+#
+# Full reference:
+#R.G.Thomas, W.Bartolini
+#Jour. Nuclear Physics, Section A Vol.106, p.323, 1968
+#Excitation functions for (p,n) and (p,2n) interactions in Sc, Cr, Mo, Cd and W between 8 and 14 MeV
+#
+# Quality information:
+#
+# Quality  C0696009 : T2
+# Date     C0696009 : 05-01-2018
+# Reaction C0696009 : NP:    8 E-range:   8.40    -   14.4     MeV 74-W-0(P,2N),,SIG                   pdf: y
+# Paper    C0696009 : R.G.Thomas+ Jour. Nuclear Physics, Section A Vol.106, p.323, 1968 Excitation functions for (p,n) and (p,2n) interactions in Sc, Cr, Mo, Cd a
+# Action   C0696009 : 
+# Comment  C0696009 : Evaluation        N=     8 F=   938.     chi-2=   82.9     D=   388.     mb T=  0.265     mb E=   388.     K1=  938.     K2= 1.000E+35
+# Comment  C0696009 : TALYS             N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   388.     K1=  0.00     K2=  0.00
+# Comment  C0696009 : cendl3.1          N=     8 F=  1.020E+03 chi-2=   0.00     D=   388.     mb T=  0.253     mb E=   388.     K1= 1.020E+03 K2= 1.000E+35
+# Comment  C0696009 : eaf.2010          N=     8 F=   935.     chi-2=   99.6     D=   388.     mb T=  0.264     mb E=   388.     K1=  935.     K2= 1.000E+35
+# Comment  C0696009 : endfb8.0          N=     8 F=   900.     chi-2=   99.5     D=   388.     mb T=  0.273     mb E=   388.     K1=  900.     K2= 1.000E+35
+# Comment  C0696009 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   388.     K1=  0.00     K2=  0.00
+# Comment  C0696009 : jeff3.3           N=     8 F=   972.     chi-2=   99.5     D=   388.     mb T=  0.253     mb E=   388.     K1=  972.     K2= 1.000E+35
+# Comment  C0696009 : jendl4.0          N=     8 F=   837.     chi-2=   99.5     D=   388.     mb T=  0.296     mb E=   388.     K1=  837.     K2= 1.000E+35
+# Comment  C0696009 : tendl.2017        N=     8 F=   973.     chi-2=   99.5     D=   388.     mb T=  0.252     mb E=   388.     K1=  973.     K2= 1.000E+35

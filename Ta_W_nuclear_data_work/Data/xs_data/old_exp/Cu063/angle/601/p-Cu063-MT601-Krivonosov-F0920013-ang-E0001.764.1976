@@ -1,0 +1,28 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : Inelastic scattering
+# E-inc       :    1.764 MeV
+# E-exc       :  0.66993 MeV (EXFOR:  0.67000)
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :  601
+# X4 ID       : F0920013 
+# X4 code     : 29-CU-63(P,INL)29-CU-63,PAR,DA
+# Author      : Krivonosov               
+# Year        : 1976
+# Data points :      7
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  5.60001E+01  1.63000E-04  7.80000E-05
+  5.60001E+01  1.18800E-03  4.36000E-04
+  5.60001E+01  3.21400E-03  9.26000E-04
+  5.60001E+01  9.50000E-03  3.03000E-03
+  5.60001E+01  1.94180E-02  4.75300E-03
+  5.60001E+01  5.25530E-02  1.45770E-02
+  5.60001E+01  1.35990E-01  4.06000E-02
+# Full reference:
+#G.A.Krivonosov, B.A.Nemashkalo, V.E.Storizhko, A.P.Klyucharev, O.I.Ekhichev, V.K.Chirt
+#Jour. Yadernaya Fizika Vol.24, p.461, 1976
+#Inelastic scattering of protons by middle atomic weight nuclei at low energies.

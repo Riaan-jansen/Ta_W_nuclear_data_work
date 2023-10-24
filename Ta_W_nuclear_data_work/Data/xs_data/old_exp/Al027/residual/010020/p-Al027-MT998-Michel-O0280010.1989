@@ -1,0 +1,45 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  10
+# Final A     :  20
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0280010 
+# X4 code     : 13-AL-27(P,X)10-NE-20,CUM,SIG
+# Author      : Michel                   
+# Year        : 1989
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.00000E+02  2.28000E+01  2.06000E+00  0.00000E+00  2.67834E+01   1.175       3.739       3.983              
+#
+# Average deviation:                                                1.175       3.739       3.983    
+#
+# Full reference:
+#R.Michel,  F.Peiffer,  S.Theis,  F.Begemann,  H.Weber, P.Signer,  R.Wieler,  P.Cloth,  P.Dragovitsch,
+# D.Filges, P.Englert
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.42, p.76, 1989
+#Production of stable and radioactive nuclides in thick stony targets (r=15 and 25 cm) isotropically irradiated with 600 MeV protons and simulation of the production
+#of cosmogenic nuclides in meteorites
+#
+# Quality information:
+#
+# Quality  O0280010 : T1
+# Date     O0280010 : 05-01-2018
+# Reaction O0280010 : NP:    1 E-range:   600.    -   600.     MeV 13-AL-27(P,X)10-NE-20,CUM,SIG       pdf: y
+# Paper    O0280010 : R.Michel+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.42, p.76, 1989 Production of stable and radioactive nuclides in thick sto
+# Action   O0280010 : 
+# Comment  O0280010 : Evaluation        N=     1 F=   1.17     chi-2=   3.74     D=   3.98     mb T=   26.8     mb E=   22.8     K1=  1.17     K2=  1.32
+# Comment  O0280010 : TALYS             N=     1 F=   1.17     chi-2=   3.74     D=   3.98     mb T=   26.8     mb E=   22.8     K1=  1.17     K2=  1.32
+# Comment  O0280010 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.8     K1=  0.00     K2=  0.00
+# Comment  O0280010 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.8     K1=  0.00     K2=  0.00
+# Comment  O0280010 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.8     K1=  0.00     K2=  0.00
+# Comment  O0280010 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.8     K1=  0.00     K2=  0.00
+# Comment  O0280010 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.8     K1=  0.00     K2=  0.00
+# Comment  O0280010 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.8     K1=  0.00     K2=  0.00
+# Comment  O0280010 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.8     K1=  0.00     K2=  0.00

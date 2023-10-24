@@ -1,0 +1,43 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0259008 
+# X4 code     : 13-AL-27(P,X)11-NA-22,,SIG
+# Author      : Marquez                  
+# Year        : 1951
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.35000E+02  1.20000E+01  0.00000E+00  0.00000E+00  1.63117E+01   1.359       0.000       4.312              
+#
+# Average deviation:                                                1.359       0.000       4.312    
+#
+# Full reference:
+#L.Marquez, I.Perlman
+#Jour. Physical Review Vol.81, p.953, 1951
+#Observations on Lithium and Beryllium Nuclei Ejected from Heavy Nuclei by High Energy Particles
+#
+# Quality information:
+#
+# Quality  C0259008 : T1
+# Date     C0259008 : 05-01-2018
+# Reaction C0259008 : NP:    1 E-range:   335.    -   335.     MeV 13-AL-27(P,X)11-NA-22,,SIG          pdf: y
+# Paper    C0259008 : L.Marquez+ Jour. Physical Review Vol.81, p.953, 1951 Observations on Lithium and Beryllium Nuclei Ejected from Heavy Nuclei by High Energy P
+# Action   C0259008 : 
+# Comment  C0259008 : Evaluation        N=     1 F=   1.36     chi-2=   0.00     D=   4.31     mb T=   16.3     mb E=   12.0     K1=  1.36     K2=  1.93
+# Comment  C0259008 : TALYS             N=     1 F=   1.36     chi-2=   0.00     D=   4.31     mb T=   16.3     mb E=   12.0     K1=  1.36     K2=  1.93
+# Comment  C0259008 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   12.0     K1=  0.00     K2=  0.00
+# Comment  C0259008 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   12.0     K1=  0.00     K2=  0.00
+# Comment  C0259008 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   12.0     K1=  0.00     K2=  0.00
+# Comment  C0259008 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   12.0     K1=  0.00     K2=  0.00
+# Comment  C0259008 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   12.0     K1=  0.00     K2=  0.00
+# Comment  C0259008 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   12.0     K1=  0.00     K2=  0.00
+# Comment  C0259008 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   12.0     K1=  0.00     K2=  0.00

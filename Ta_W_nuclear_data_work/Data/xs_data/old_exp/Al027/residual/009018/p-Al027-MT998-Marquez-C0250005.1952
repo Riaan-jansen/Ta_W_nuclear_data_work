@@ -1,0 +1,43 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :   9
+# Final A     :  18
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0250005 
+# X4 code     : 13-AL-27(P,X)9-F-18,,SIG
+# Author      : Marquez                  
+# Year        : 1952
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.20000E+02  8.40000E+00  1.26000E+00  0.00000E+00  1.08378E+01   1.290       3.743       2.438              
+#
+# Average deviation:                                                1.290       3.743       2.438    
+#
+# Full reference:
+#L.Marquez
+#Jour. Physical Review Vol.86, p.405, 1952
+#THE YIELD OF F-18 FROM MEDIUM AND HEAVY ELEMENTS WITH 420-MEV PROTONS
+#
+# Quality information:
+#
+# Quality  C0250005 : T1
+# Date     C0250005 : 05-01-2018
+# Reaction C0250005 : NP:    1 E-range:   420.    -   420.     MeV 13-AL-27(P,X)9-F-18,,SIG            pdf: y
+# Paper    C0250005 : L.Marquez Jour. Physical Review Vol.86, p.405, 1952 THE YIELD OF F-18 FROM MEDIUM AND HEAVY ELEMENTS WITH 420-MEV PROTONS
+# Action   C0250005 : 
+# Comment  C0250005 : Evaluation        N=     1 F=   1.29     chi-2=   3.74     D=   2.44     mb T=   10.8     mb E=   8.40     K1=  1.29     K2=  1.55
+# Comment  C0250005 : TALYS             N=     1 F=   1.29     chi-2=   3.74     D=   2.44     mb T=   10.8     mb E=   8.40     K1=  1.29     K2=  1.55
+# Comment  C0250005 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.40     K1=  0.00     K2=  0.00
+# Comment  C0250005 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.40     K1=  0.00     K2=  0.00
+# Comment  C0250005 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.40     K1=  0.00     K2=  0.00
+# Comment  C0250005 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.40     K1=  0.00     K2=  0.00
+# Comment  C0250005 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.40     K1=  0.00     K2=  0.00
+# Comment  C0250005 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.40     K1=  0.00     K2=  0.00
+# Comment  C0250005 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   8.40     K1=  0.00     K2=  0.00

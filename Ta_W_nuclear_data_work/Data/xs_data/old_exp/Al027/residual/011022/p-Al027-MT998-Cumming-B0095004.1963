@@ -1,0 +1,47 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0095004 
+# X4 code     : 13-AL-27(P,X)11-NA-22,CUM,SIG,,,EXP
+# Author      : Cumming                  
+# Year        : 1963
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.97000E+01  2.40000E+00  2.00000E-01  0.00000E+00  4.34872E+01   18.12      6.0178E+04   41.74              
+  3.74000E+01  3.42000E+01  9.00000E-01  0.00000E+00  2.78529E+01  0.8144       192.8       11.68              
+  4.41000E+01  4.68000E+01  1.20000E+00  0.00000E+00  2.92943E+01  0.6259       229.1       17.51              
+  5.01000E+01  3.84000E+01  1.00000E+00  0.00000E+00  2.74052E+01  0.7137       142.8       10.99              
+  5.06000E+01  3.64000E+01  3.60000E+00  0.00000E+00  2.71968E+01  0.7472       8.220       9.203              
+#
+# Average deviation:                                                3.716      1.2150E+04   18.23    
+#
+# Full reference:
+#J.B.Cumming
+#Jour. Nuclear Physics Vol.49, p.417, 1963
+#Absolute Cross Section For the C-12(P,PN)C-11 Reaction At 50 MeV
+#
+# Quality information:
+#
+# Quality  B0095004 : T2
+# Date     B0095004 : 05-01-2018
+# Reaction B0095004 : NP:    5 E-range:   29.7    -   50.6     MeV 13-AL-27(P,X)11-NA-22,CUM,SIG,,,EXP pdf: y
+# Paper    B0095004 : J.B.Cumming Jour. Nuclear Physics Vol.49, p.417, 1963 Absolute Cross Section For the C-12(P,PN)C-11 Reaction At 50 MeV
+# Action   B0095004 : 
+# Comment  B0095004 : Evaluation        N=     5 F=   3.72     chi-2=  1.215E+04 D=   18.2     mb T=   31.0     mb E=   31.6     K1=  3.72     K2= 1.020E+09
+# Comment  B0095004 : TALYS             N=     5 F=   1.96     chi-2=   159.     D=   11.0     mb T=   20.7     mb E=   31.6     K1=  1.96     K2=  40.1
+# Comment  B0095004 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   31.6     K1=  0.00     K2=  0.00
+# Comment  B0095004 : eaf.2010          N=     5 F=   4.02     chi-2=  1.253E+04 D=   16.0     mb T=   38.8     mb E=   31.6     K1=  4.02     K2= 3.077E+09
+# Comment  B0095004 : endfb8.0          N=     1 F=   12.4     chi-2=  1.861E+04 D=   27.3     mb T=   29.7     mb E=   31.6     K1=  12.4     K2= 6.395E+12
+# Comment  B0095004 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   31.6     K1=  0.00     K2=  0.00
+# Comment  B0095004 : jeff3.3           N=     1 F=   22.4     chi-2=  6.607E+04 D=   51.4     mb T=   53.8     mb E=   31.6     K1=  22.4     K2= 4.969E+21
+# Comment  B0095004 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   31.6     K1=  0.00     K2=  0.00
+# Comment  B0095004 : tendl.2017        N=     5 F=   5.20     chi-2=  3.089E+04 D=   28.7     mb T=   34.3     mb E=   31.6     K1=  5.20     K2= 3.856E+13

@@ -1,0 +1,41 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : B0064005 
+# X4 code     : 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP
+# Author      : Dell                     
+# Year        : 1965
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.75000E+00  2.39000E+02  1.30000E+01  0.00000E+00  3.76375E+01  0.1575       289.6       208.0              
+#
+# Average deviation:                                                951.7       289.6       208.0    
+#
+# Full reference:
+#G.F.Dell,  W.D.Ploughe,  H.J.Hausman
+#Jour. Nuclear Physics Vol.64, p.513, 1965
+#Total Reaction Cross Sections in the Mass Range 45 to 65
+#
+# Quality information:
+#
+# Quality  B0064005 : T2
+# Date     B0064005 : 05-01-2018
+# Reaction B0064005 : NP:    1 E-range:   6.75    -   6.75     MeV 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP    pdf: y
+# Paper    B0064005 : G.F.Dell+ Jour. Nuclear Physics Vol.64, p.513, 1965 Total Reaction Cross Sections in the Mass Range 45 to 65
+# Action   B0064005 : 
+# Comment  B0064005 : Evaluation        N=     1 F=   952.     chi-2=   290.     D=   208.     mb T=   37.6     mb E=   239.     K1=  952.     K2= 1.000E+35
+# Comment  B0064005 : TALYS             N=     1 F=   1.10     chi-2=   3.18     D=   23.2     mb T=   262.     mb E=   239.     K1=  1.10     K2=  1.17
+# Comment  B0064005 : cendl3.1          N=     1 F=   646.     chi-2=   337.     D=   239.     mb T=  0.370     mb E=   239.     K1=  646.     K2= 1.000E+35
+# Comment  B0064005 : eaf.2010          N=     1 F=  2.449E+03 chi-2=   338.     D=   239.     mb T=  9.758E-02 mb E=   239.     K1= 2.449E+03 K2= 1.000E+35
+# Comment  B0064005 : endfb8.0          N=     1 F=  8.512E+03 chi-2=   338.     D=   239.     mb T=  2.808E-02 mb E=   239.     K1= 8.512E+03 K2= 1.000E+35
+# Comment  B0064005 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   239.     K1=  0.00     K2=  0.00
+# Comment  B0064005 : jeff3.3           N=     1 F=  1.517E+03 chi-2=   338.     D=   239.     mb T=  0.158     mb E=   239.     K1= 1.517E+03 K2= 1.000E+35
+# Comment  B0064005 : jendl4.0          N=     1 F=   533.     chi-2=   337.     D=   239.     mb T=  0.448     mb E=   239.     K1=  533.     K2= 1.000E+35
+# Comment  B0064005 : tendl.2017        N=     1 F=  1.309E+03 chi-2=   337.     D=   239.     mb T=  0.183     mb E=   239.     K1= 1.309E+03 K2= 1.000E+35

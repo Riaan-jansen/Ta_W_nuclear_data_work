@@ -1,0 +1,52 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  10
+# Final A     :  21
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O2015010 
+# X4 code     : 13-AL-27(P,X)10-NE-21,,SIG
+# Author      : Baros                    
+# Year        : 1984
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.90000E+01  3.21000E+01  4.10000E+00  0.00000E+00  2.25336E+01  0.7020       5.444       9.566              
+  7.50000E+01  3.29000E+01  3.90000E+00  0.00000E+00  2.28410E+01  0.6943       6.652       10.06              
+  1.50000E+02  2.43000E+01  2.70000E+00  0.00000E+00  2.20953E+01  0.9093      0.6668       2.205              
+  1.68000E+02  2.36000E+01  2.70000E+00  0.00000E+00  2.08107E+01  0.8818       1.067       2.789              
+  2.00000E+02  2.77000E+01  3.10000E+00  0.00000E+00  1.88008E+01  0.6787       8.241       8.899              
+  1.00000E+03  2.24000E+01  2.80000E+00  0.00000E+00  1.34809E+01  0.6018       10.15       8.919              
+  1.05000E+03  2.94000E+01  3.40000E+00  0.00000E+00
+  2.50000E+03  2.19000E+01  2.50000E+00  0.00000E+00
+  2.40000E+04  1.88000E+01  2.40000E+00  0.00000E+00
+#
+# Average deviation:                                                1.404       5.370       7.073    
+#
+# Full reference:
+#F.Baros,  S.Regnier
+#Jour. Journal de Physique Vol.45, p.855, 1984
+#Measurement of cross sections for Na-22, Ne-20-22 and Ar-36-42 in the spallation of Mg, Al, Si, Ca and Fe. Production ratios of some cosmogenic nuclides in
+#meteorites.
+#
+# Quality information:
+#
+# Quality  O2015010 : T1
+# Date     O2015010 : 05-01-2018
+# Reaction O2015010 : NP:    9 E-range:   59.0    -  2.400E+04 MeV 13-AL-27(P,X)10-NE-21,,SIG          pdf: y
+# Paper    O2015010 : F.Baros+ Jour. Journal de Physique Vol.45, p.855, 1984 Measurement of cross sections for Na-22, Ne-20-22 and Ar-36-42 in the spallation of M
+# Action   O2015010 : 
+# Comment  O2015010 : Evaluation        N=     6 F=   1.40     chi-2=   5.37     D=   7.07     mb T=   20.1     mb E=   25.9     K1=  1.40     K2=  2.18
+# Comment  O2015010 : TALYS             N=     6 F=   1.40     chi-2=   5.37     D=   7.07     mb T=   20.1     mb E=   25.9     K1=  1.40     K2=  2.18
+# Comment  O2015010 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  O2015010 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  O2015010 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  O2015010 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  O2015010 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  O2015010 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00
+# Comment  O2015010 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   25.9     K1=  0.00     K2=  0.00

@@ -1,0 +1,51 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  58
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0722031 
+# X4 code     : 29-CU-CMP(P,X)27-CO-58,,SIG
+# Author      : Fassbender               
+# Year        : 1997
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.54600E+02  2.70000E+01  6.20000E+00  0.00000E+00  2.94486E+01   1.091      0.1560       2.449              
+  2.14900E+02  2.74000E+01  5.60000E+00  0.00000E+00  2.85782E+01   1.043      4.4266E-02   1.178              
+  1.74600E+02  3.82000E+01  5.70000E+00  0.00000E+00  3.08087E+01  0.8065       1.681       7.391              
+  1.30700E+02  3.82000E+01  5.70000E+00  0.00000E+00  3.63056E+01  0.9504      0.1105       1.894              
+  1.30500E+02  3.75000E+01  5.60000E+00  0.00000E+00  3.63289E+01  0.9688      4.3734E-02   1.171              
+  1.25000E+02  4.23000E+01  6.30000E+00  0.00000E+00  3.72970E+01  0.8817      0.6306       5.003              
+  1.03000E+02  3.73000E+01  5.60000E+00  0.00000E+00  4.26030E+01   1.142      0.8967       5.303              
+  7.90000E+01  4.13000E+01  6.20000E+00  0.00000E+00  3.54722E+01  0.8589      0.8835       5.828              
+#
+# Average deviation:                                                1.128      0.5559       3.777    
+#
+# Full reference:
+#M.Fassbender,  Yu.N.Shubin,  V.P.Lunev,  S.M.Qaim
+#Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997
+#Experimental studies and nuclear model calculations on the formation of radioactive products in interactions of medium energy protons with copper, zinc
+#and brass:  estimation of collimator activation in proton therapy facilities.
+#
+# Quality information:
+#
+# Quality  O0722031 : T1
+# Date     O0722031 : 05-01-2018
+# Reaction O0722031 : NP:    8 E-range:   79.0    -   255.     MeV 29-CU-CMP(P,X)27-CO-58,,SIG         pdf: y
+# Paper    O0722031 : M.Fassbender+ Jour. Applied Radiation and Isotopes Vol.48, p.1221, 1997 Experimental studies and nuclear model calculations on the formation
+# Action   O0722031 : 
+# Comment  O0722031 : Evaluation        N=     8 F=   1.13     chi-2=  0.556     D=   3.78     mb T=   34.6     mb E=   36.1     K1=  1.13     K2=  1.19
+# Comment  O0722031 : TALYS             N=     8 F=   1.13     chi-2=  0.556     D=   3.78     mb T=   34.6     mb E=   36.1     K1=  1.13     K2=  1.19
+# Comment  O0722031 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   36.1     K1=  0.00     K2=  0.00
+# Comment  O0722031 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   36.1     K1=  0.00     K2=  0.00
+# Comment  O0722031 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   36.1     K1=  0.00     K2=  0.00
+# Comment  O0722031 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   36.1     K1=  0.00     K2=  0.00
+# Comment  O0722031 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   36.1     K1=  0.00     K2=  0.00
+# Comment  O0722031 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   36.1     K1=  0.00     K2=  0.00
+# Comment  O0722031 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   36.1     K1=  0.00     K2=  0.00

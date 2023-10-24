@@ -1,0 +1,40 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xn)
+# E-inc       :  800.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  201
+# X4 ID       : E1762023 
+# X4 code     : 13-AL-27(P,X)0-NN-1,,DA/DE
+# Author      : Ishibashi                
+# Year        : 1997
+# Data points :     18
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.25000E+00  5.99000E-06  1.85200E-06  0.00000E+00  9.00000E+01
+  1.75000E+00  7.57500E-06  2.15400E-06  0.00000E+00  9.00000E+01
+  2.50000E+00  6.11300E-06  1.71500E-06  0.00000E+00  9.00000E+01
+  3.50000E+00  3.27100E-06  8.25300E-07  0.00000E+00  9.00000E+01
+  4.50000E+00  2.68300E-06  6.78700E-07  0.00000E+00  9.00000E+01
+  5.50000E+00  2.40400E-06  6.08800E-07  0.00000E+00  9.00000E+01
+  7.00000E+00  1.83000E-06  4.59200E-07  0.00000E+00  9.00000E+01
+  9.00000E+00  1.13800E-06  2.91200E-07  0.00000E+00  9.00000E+01
+  1.25000E+01  8.15800E-07  2.05700E-07  0.00000E+00  9.00000E+01
+  1.75000E+01  5.99600E-07  1.53100E-07  0.00000E+00  9.00000E+01
+  2.50000E+01  4.74700E-07  1.19900E-07  0.00000E+00  9.00000E+01
+  3.50000E+01  3.31500E-07  8.65400E-08  0.00000E+00  9.00000E+01
+  4.50000E+01  2.79300E-07  7.41600E-08  0.00000E+00  9.00000E+01
+  5.50000E+01  1.97300E-07  5.77000E-08  0.00000E+00  9.00000E+01
+  7.00000E+01  1.87700E-07  4.97200E-08  0.00000E+00  9.00000E+01
+  9.00000E+01  1.13600E-07  3.70400E-08  0.00000E+00  9.00000E+01
+  1.25000E+02  5.92800E-08  2.16300E-08  0.00000E+00  9.00000E+01
+  1.75000E+02  2.86300E-08  1.26500E-08  0.00000E+00  9.00000E+01
+# Full reference:
+#K.Ishibashi,  H.Takada,  T.Nakamoto,  N.Shigyo, K.Maehata,  N.Matsufuji,  S.Meigo,  S.Chiba,  M.Numajiri,
+#Y.Watanabe,  T.Nakamura
+#Jour. Jour. of Nuclear Science and Technology Vol.34, Issue.6, p.529, 1997
+#Measurement of neutron-production double-differential cross sections for nuclear spallation reaction induced by 0.8, 1.5 and 3.0 GeV protons
+#

@@ -1,0 +1,54 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0073020 
+# X4 code     : 13-AL-27(P,X)11-NA-24-G,CUM,SIG,,,EXP
+# Author      : Williams                 
+# Year        : 1967
+# Data points :     12
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.35000E+01  1.90000E-01  0.00000E+00  0.00000E+00  2.42126E+01   127.4      2.6250E+06   24.02              
+  3.45000E+01  2.70000E-01  0.00000E+00  0.00000E+00  2.38742E+01   88.42      1.2432E+06   23.60              
+  3.58000E+01  3.60000E-01  0.00000E+00  0.00000E+00  2.33892E+01   64.97      6.5707E+05   23.03              
+  3.70000E+01  5.10000E-01  0.00000E+00  0.00000E+00  2.29102E+01   44.92      3.0628E+05   22.40              
+  3.88000E+01  7.90000E-01  0.00000E+00  0.00000E+00  2.22957E+01   28.22      1.1607E+05   21.51              
+  4.05000E+01  1.10000E+00  0.00000E+00  0.00000E+00  2.18318E+01   19.85      5.5024E+04   20.73              
+  4.36000E+01  1.70000E+00  0.00000E+00  0.00000E+00  2.10001E+01   12.35      1.9529E+04   19.30              
+  4.68000E+01  2.70000E+00  0.00000E+00  0.00000E+00  2.00443E+01   7.424       6193.       17.34              
+  5.04000E+01  4.10000E+00  0.00000E+00  0.00000E+00  1.92788E+01   4.702       2081.       15.18              
+  5.37000E+01  5.60000E+00  0.00000E+00  0.00000E+00  1.87793E+01   3.353       855.3       13.18              
+  5.82000E+01  8.10000E+00  0.00000E+00  0.00000E+00  1.82275E+01   2.250       264.8       10.21              
+  6.12000E+01  9.90000E+00  0.00000E+00  0.00000E+00  1.30500E+01   1.318       28.61       4.339              
+#
+# Average deviation:                                                15.46      4.1930E+05   17.90    
+#
+# Full reference:
+#I.R.Williams,  C.B.Fulmer
+#Jour. Physical Review Vol.162, p.1055, 1967
+#Excitation Functions For Radioactive Isotopes Produced By Protons Below 60 MeV on Al, Fe, and Cu
+#
+# Quality information:
+#
+# Quality  B0073020 : T2
+# Date     B0073020 : 05-01-2018
+# Reaction B0073020 : NP:   12 E-range:   33.5    -   61.2     MeV 13-AL-27(P,X)11-NA-24-G,CUM,SIG,,,E pdf: y
+# Paper    B0073020 : I.R.Williams+ Jour. Physical Review Vol.162, p.1055, 1967 Excitation Functions For Radioactive Isotopes Produced By Protons Below 60 MeV on
+# Action   B0073020 : 
+# Comment  B0073020 : Evaluation        N=    12 F=   15.5     chi-2=  4.193E+05 D=   17.9     mb T=   20.7     mb E=   2.94     K1=  15.5     K2= 1.000E+35
+# Comment  B0073020 : TALYS             N=    12 F=   1.41     chi-2=   0.00     D=  0.587     mb T=   3.31     mb E=   2.94     K1=  1.41     K2=  2.38
+# Comment  B0073020 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.94     K1=  0.00     K2=  0.00
+# Comment  B0073020 : eaf.2010          N=    11 F=   41.3     chi-2=  1.060E+06 D=   35.9     mb T=   38.2     mb E=   2.94     K1=  41.3     K2= 1.000E+35
+# Comment  B0073020 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.94     K1=  0.00     K2=  0.00
+# Comment  B0073020 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.94     K1=  0.00     K2=  0.00
+# Comment  B0073020 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.94     K1=  0.00     K2=  0.00
+# Comment  B0073020 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   2.94     K1=  0.00     K2=  0.00
+# Comment  B0073020 : tendl.2017        N=    12 F=   22.4     chi-2=  2.865E+05 D=   19.8     mb T=   22.8     mb E=   2.94     K1=  22.4     K2= 7.018E+34

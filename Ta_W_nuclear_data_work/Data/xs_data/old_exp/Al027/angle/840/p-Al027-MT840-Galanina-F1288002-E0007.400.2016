@@ -1,0 +1,43 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :    7.400 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  0.00000)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :  840
+# X4 ID       : F1288002 
+# X4 code     : 13-AL-27(P,A)12-MG-24,PAR,DA
+# Author      : Galanina                 
+# Year        : 2016
+# Data points :     22
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  2.67001E+01  6.40000E-01  3.00000E-02
+  3.20000E+01  6.70000E-01  5.00000E-02
+  3.73000E+01  7.20000E-01  5.00000E-02
+  4.26001E+01  7.10000E-01  5.00000E-02
+  4.79000E+01  7.40000E-01  5.00000E-02
+  5.31001E+01  7.40000E-01  4.00000E-02
+  5.83001E+01  6.60000E-01  4.00000E-02
+  6.35001E+01  5.50000E-01  4.00000E-02
+  6.87001E+01  5.40000E-01  4.00000E-02
+  7.38001E+01  4.50000E-01  3.00000E-02
+  7.89001E+01  4.20000E-01  3.00000E-02
+  8.40001E+01  5.60000E-01  3.00000E-02
+  8.91001E+01  5.70000E-01  3.00000E-02
+  9.41001E+01  6.10000E-01  3.00000E-02
+  9.91001E+01  6.50000E-01  5.00000E-02
+  1.04000E+02  5.60000E-01  4.00000E-02
+  1.13800E+02  6.70000E-01  4.00000E-02
+  1.23500E+02  7.10000E-01  5.00000E-02
+  1.33100E+02  8.30000E-01  5.00000E-02
+  1.42600E+02  1.25000E+00  7.00000E-02
+  1.52000E+02  1.77000E+00  8.00000E-02
+  1.61400E+02  1.92000E+00  9.00000E-02
+# Full reference:
+#L.I.Galanina, N.S.Zelenskaya, V.M.Lebedev, N.V.Orlova, A.V.Spassky
+#Jour. Izv. Rossiiskoi Akademii Nauk, Ser.Fiz. Vol.80, Issue.3, p.338, 2016
+#Angular correlations in the Al-27(p,a1+gamma)Mg-24 reaction at Ep=7.4 MeV.

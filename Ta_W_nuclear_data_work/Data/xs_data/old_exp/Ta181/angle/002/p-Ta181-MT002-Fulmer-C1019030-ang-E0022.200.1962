@@ -1,0 +1,21 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,el)
+# E-inc       :   22.200 MeV
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :    2
+# X4 ID       : C1019030 
+# X4 code     : 73-TA-181(P,EL)73-TA-181,,DA
+# Author      : Fulmer                   
+# Year        : 1962
+# Data points :      1
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  9.04001E+01  7.58000E+00  3.79000E-01
+# Full reference:
+#C.B.Fulmer
+#Jour. Physical Review Vol.125, p.631, 1962
+#Elastic Scattering of Protons by Single Isotopes

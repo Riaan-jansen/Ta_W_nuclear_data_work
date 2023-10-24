@@ -1,0 +1,47 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  25
+# Final A     :  54
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0416011 
+# X4 code     : 29-CU-0(P,X)25-MN-54,,SIG
+# Author      : Heydegger                
+# Year        : 1972
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.20000E+01  3.70000E+00  7.40000E-01  8.00000E+00  1.03893E+00  0.2808       12.93       2.661              
+  1.11000E+02  1.10000E+01  2.20000E+00  1.00000E+01  5.98041E+00  0.5437       5.206       5.020              
+  1.87000E+02  1.60000E+01  3.20000E+00  1.30000E+01  1.05211E+01  0.6576       2.932       5.479              
+  2.83000E+02  1.90000E+01  3.80000E+00  1.70000E+01  9.42739E+00  0.4962       6.346       9.573              
+  4.16000E+02  2.10000E+01  4.20000E+00  2.10000E+01  9.19405E+00  0.4378       7.901       11.81              
+#
+# Average deviation:                                                2.263       7.063       6.908    
+#
+# Full reference:
+#H.R.Heydegger, C.K.Garrett, A.Van Ginneken
+#Jour. Physical Review, Part C, Nuclear Physics Vol.6, p.1235, 1972
+#Thin-Target Cross Sections For Some Cr,Mn,Co,Ni and Zn Nuclides Produced in Copper by 82 to 416 MeV Protons.
+#
+# Quality information:
+#
+# Quality  O0416011 : T1
+# Date     O0416011 : 05-01-2018
+# Reaction O0416011 : NP:    5 E-range:   82.0    -   416.     MeV 29-CU-0(P,X)25-MN-54,,SIG           pdf: y
+# Paper    O0416011 : H.R.Heydegger+ Jour. Physical Review, Part C, Nuclear Physics Vol.6, p.1235, 1972 Thin-Target Cross Sections For Some Cr,Mn,Co,Ni and Zn Nuc
+# Action   O0416011 : 
+# Comment  O0416011 : Evaluation        N=     5 F=   2.26     chi-2=   7.06     D=   6.91     mb T=   7.23     mb E=   14.1     K1=  2.26     K2=  13.0
+# Comment  O0416011 : TALYS             N=     5 F=   2.26     chi-2=   7.06     D=   6.91     mb T=   7.23     mb E=   14.1     K1=  2.26     K2=  13.0
+# Comment  O0416011 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.1     K1=  0.00     K2=  0.00
+# Comment  O0416011 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.1     K1=  0.00     K2=  0.00
+# Comment  O0416011 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.1     K1=  0.00     K2=  0.00
+# Comment  O0416011 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.1     K1=  0.00     K2=  0.00
+# Comment  O0416011 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.1     K1=  0.00     K2=  0.00
+# Comment  O0416011 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.1     K1=  0.00     K2=  0.00
+# Comment  O0416011 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   14.1     K1=  0.00     K2=  0.00

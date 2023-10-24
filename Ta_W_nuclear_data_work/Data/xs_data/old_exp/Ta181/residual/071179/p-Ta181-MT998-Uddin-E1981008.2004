@@ -1,0 +1,49 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  71
+# Final A     : 179
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : E1981008 
+# X4 code     : 73-TA-181(P,X)71-LU-179,,SIG
+# Author      : Uddin                    
+# Year        : 2004
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.19400E+01  9.27200E+01  9.27200E+00  0.00000E+00  7.92139E-03  8.5433E-05   99.98       92.71              
+  5.65700E+01  1.76010E+02  1.76010E+01  0.00000E+00  2.10512E-02  1.1960E-04   99.98       176.0              
+  6.09300E+01  2.05430E+02  2.05430E+01  0.00000E+00  3.85971E-02  1.8788E-04   99.96       205.4              
+  6.50800E+01  1.28590E+02  1.28590E+01  0.00000E+00  5.71196E-02  4.4420E-04   99.91       128.5              
+  6.89900E+01  1.28970E+02  1.28970E+01  0.00000E+00  7.35154E-02  5.7002E-04   99.89       128.9              
+#
+# Average deviation:                                                4748.       99.94       146.3    
+#
+# Full reference:
+#M.S.Uddin,  M.Hagiwara,  N.Kawata,  T.Itoga, N.Hirabayashi,  M.Baba,  F.Tarkanyi,  F.Ditroi, J.Csikai
+#
+#Jour. Jour. of Nuclear Science and Technology Suppl. Vol.4, p.160, 2004
+#Measurement of excitation functions of the proton-induced activation reactions on tantalum in the energy range 28-70 MeV
+#
+#
+# Quality information:
+#
+# Quality  E1981008 : T2
+# Date     E1981008 : 05-01-2018
+# Reaction E1981008 : NP:    5 E-range:   51.9    -   69.0     MeV 73-TA-181(P,X)71-LU-179,,SIG        pdf: y
+# Paper    E1981008 : M.S.Uddin+ Jour. Jour. of Nuclear Science and Technology Suppl. Vol.4, p.160, 2004 Measurement of excitation functions of the proton-induced
+# Action   E1981008 : 
+# Comment  E1981008 : Evaluation        N=     5 F=  4.748E+03 chi-2=   99.9     D=   146.     mb T=  3.964E-02 mb E=   146.     K1= 4.748E+03 K2= 1.000E+35
+# Comment  E1981008 : TALYS             N=     5 F=  4.748E+03 chi-2=   99.9     D=   146.     mb T=  3.964E-02 mb E=   146.     K1= 4.748E+03 K2= 1.000E+35
+# Comment  E1981008 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   146.     K1=  0.00     K2=  0.00
+# Comment  E1981008 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   146.     K1=  0.00     K2=  0.00
+# Comment  E1981008 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   146.     K1=  0.00     K2=  0.00
+# Comment  E1981008 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   146.     K1=  0.00     K2=  0.00
+# Comment  E1981008 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   146.     K1=  0.00     K2=  0.00
+# Comment  E1981008 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   146.     K1=  0.00     K2=  0.00
+# Comment  E1981008 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   146.     K1=  0.00     K2=  0.00

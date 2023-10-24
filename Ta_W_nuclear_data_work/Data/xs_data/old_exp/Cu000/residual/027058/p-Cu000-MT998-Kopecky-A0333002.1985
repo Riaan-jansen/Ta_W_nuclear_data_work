@@ -1,0 +1,51 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  58
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A0333002 
+# X4 code     : 29-CU-0(P,X)27-CO-58,,SIG
+# Author      : Kopecky                  
+# Year        : 1985
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.78500E+01  1.70000E+00  1.30000E-01  4.50000E-01  3.15377E+01   18.55      7.3426E+04   30.10              
+  2.85200E+01  3.30000E+00  2.60000E-01  4.50000E-01  3.12969E+01   9.484      1.6521E+04   28.45              
+  2.92000E+01  5.58000E+00  4.20000E-01  4.50000E-01  3.10541E+01   5.565       5455.       26.30              
+  2.98600E+01  8.39000E+00  5.60000E-01  4.50000E-01  3.08154E+01   3.673       2544.       23.85              
+  3.05100E+01  1.24000E+01  7.00000E-01  4.50000E-01  2.00375E+01   1.616       400.4       11.17              
+  3.11500E+01  1.65000E+01  9.00000E-01  4.50000E-01  2.05795E+01   1.247       160.2       8.678              
+  3.17800E+01  2.07000E+01  1.10000E+00  4.50000E-01  2.11130E+01   1.020       76.57       8.740              
+  3.24000E+01  2.38000E+01  1.30000E+00  4.50000E-01  2.17386E+01  0.9134       46.48       8.762              
+#
+# Average deviation:                                                4.549      1.2329E+04   18.26    
+#
+# Full reference:
+#P.Kopecky
+#Jour. Applied Radiation and Isotopes Vol.36, Issue.8, p.657, 1985
+#Proton beam monitoring via the Cu(p,x)Co-58, Cu-63(p,2n)Zn-62, Cu-65(p,n)Zn-65 reactions in copper.
+#
+#
+# Quality information:
+#
+# Quality  A0333002 : T2
+# Date     A0333002 : 05-01-2018
+# Reaction A0333002 : NP:    8 E-range:   27.9    -   32.4     MeV 29-CU-0(P,X)27-CO-58,,SIG           pdf: y
+# Paper    A0333002 : P.Kopecky Jour. Applied Radiation and Isotopes Vol.36, Issue.8, p.657, 1985 Proton beam monitoring via the Cu(p,x)Co-58, Cu-63(p,2n)Zn-62, C
+# Action   A0333002 : 
+# Comment  A0333002 : Evaluation        N=     8 F=   4.55     chi-2=  1.233E+04 D=   18.3     mb T=   26.0     mb E=   11.5     K1=  4.55     K2= 1.108E+09
+# Comment  A0333002 : TALYS             N=     8 F=   1.66     chi-2=   42.3     D=   4.70     mb T=   6.85     mb E=   11.5     K1=  1.66     K2=  5.86
+# Comment  A0333002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.5     K1=  0.00     K2=  0.00
+# Comment  A0333002 : eaf.2010          N=     8 F=   5.51     chi-2=  1.317E+04 D=   24.3     mb T=   35.9     mb E=   11.5     K1=  5.51     K2= 4.195E+09
+# Comment  A0333002 : endfb8.0          N=     4 F=   5.93     chi-2=  7.891E+03 D=   16.5     mb T=   21.3     mb E=   11.5     K1=  5.93     K2= 1.174E+08
+# Comment  A0333002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.5     K1=  0.00     K2=  0.00
+# Comment  A0333002 : jeff3.3           N=     4 F=   10.4     chi-2=  2.837E+04 D=   33.7     mb T=   38.5     mb E=   11.5     K1=  10.4     K2= 1.076E+14
+# Comment  A0333002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   11.5     K1=  0.00     K2=  0.00
+# Comment  A0333002 : tendl.2017        N=     8 F=   6.83     chi-2=  3.013E+04 D=   27.8     mb T=   36.6     mb E=   11.5     K1=  6.83     K2= 3.575E+13

@@ -1,0 +1,47 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 182
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0380004 
+# X4 code     : 74-W-0(P,X)75-RE-182-G,,SIG
+# Author      : XiaodongZhangg           
+# Year        : 1999
+# Data points :     11
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.50000E+00  1.09000E+00  3.30000E-01  0.00000E+00
+  9.20000E+00  4.27000E+00  1.07000E+00  0.00000E+00
+  1.08000E+01  1.24000E+01  1.50000E+00  0.00000E+00
+  1.23000E+01  1.91000E+01  1.80000E+00  0.00000E+00
+  1.38000E+01  2.20000E+01  2.00000E+00  0.00000E+00
+  1.48000E+01  2.28000E+01  2.10000E+00  0.00000E+00
+  1.64000E+01  3.13000E+01  2.50000E+00  0.00000E+00
+  1.78000E+01  3.70000E+01  3.00000E+00  0.00000E+00
+  1.93000E+01  4.78000E+01  3.90000E+00  0.00000E+00
+  2.08000E+01  6.70000E+01  5.40000E+00  0.00000E+00
+  2.22000E+01  8.50000E+01  6.90000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#Xiaodong Zhang, Wenxin Lp, Kemin Fang, Weiyu He, Rong Sheng, Duanzi Ying, Weiqing Hu
+#
+#Jour. Radiochimica Acta Vol.86, p.11, 1999
+#Excitation functions for natW(p,xn)181-186Re reactions and production of no-carrier-added 186Re via 186W(p,n)186Re Reaction
+#
+#
+# Quality information:
+#
+# Quality  D0380004 :   
+# Date     D0380004 : 05-01-2018
+# Reaction D0380004 : NP:   11 E-range:   7.50    -   22.2     MeV 74-W-0(P,X)75-RE-182-G,,SIG         pdf: n
+# Paper    D0380004 : Xiaodong Zhang+ Jour. Radiochimica Acta Vol.86, p.11, 1999 Excitation functions for natW(p,xn)181-186Re reactions and production of no-carri
+# Action   D0380004 : 
+# Comment  D0380004 : 

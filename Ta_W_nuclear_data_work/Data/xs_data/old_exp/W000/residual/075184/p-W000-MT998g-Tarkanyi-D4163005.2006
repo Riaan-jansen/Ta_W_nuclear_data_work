@@ -1,0 +1,62 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 184
+# Final state : 0
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D4163005 
+# X4 code     : 74-W-0(P,X)75-RE-184-G,,SIG
+# Author      : Tarkanyi                 
+# Year        : 2006
+# Data points :     28
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.84000E+00  3.81000E+00  4.50000E-01  1.38000E+00
+  7.89000E+00  1.38100E+01  1.58000E+00  1.28000E+00
+  8.85000E+00  3.75100E+01  4.24000E+00  1.18000E+00
+  9.74000E+00  5.36400E+01  6.05000E+00  1.09000E+00
+  1.05700E+01  7.31200E+01  8.22000E+00  1.01000E+00
+  1.15700E+01  4.76700E+01  5.43000E+00  9.10000E-01
+  1.25100E+01  3.60300E+01  4.07000E+00  8.20000E-01
+  1.34000E+01  2.50900E+01  2.85000E+00  7.30000E-01
+  1.42500E+01  2.09700E+01  2.43000E+00  6.50000E-01
+  1.50600E+01  1.82200E+01  2.16000E+00  5.70000E-01
+  1.60000E+01  1.62600E+01  1.96000E+00  4.70000E-01
+  1.69000E+01  4.61400E+01  5.28000E+00  3.90000E-01
+  1.77600E+01  1.18800E+02  1.34500E+01  3.00000E-01
+  2.00400E+01  2.48650E+02  2.92200E+01  1.48000E+00
+  2.11800E+01  3.04500E+02  3.54100E+01  1.38000E+00
+  2.22800E+01  3.31810E+02  3.86500E+01  1.28000E+00
+  2.33400E+01  3.34380E+02  3.88100E+01  1.19000E+00
+  2.43700E+01  3.35210E+02  3.83700E+01  1.10000E+00
+  2.53600E+01  3.31420E+02  3.86500E+01  1.01000E+00
+  2.63300E+01  3.08480E+02  3.69800E+01  9.20000E-01
+  2.72800E+01  2.64620E+02  3.13600E+01  8.40000E-01
+  2.83100E+01  2.08380E+02  2.51600E+01  7.50000E-01
+  2.92000E+01  1.75030E+02  2.04500E+01  6.70000E-01
+  3.00800E+01  1.40560E+02  1.74800E+01  5.90000E-01
+  3.09300E+01  1.14920E+02  1.46900E+01  5.20000E-01
+  3.17700E+01  1.09910E+02  1.56500E+01  4.40000E-01
+  3.26000E+01  8.53600E+01  1.16600E+01  3.70000E-01
+  3.34100E+01  7.44800E+01  1.33000E+01  3.00000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#F.Tarkanyi, S.Takacs, F.Szelecsenyi, F.Ditroi, A.Hermanne, M.Sonck
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.252, p.160, 2006
+#Excitation functions of proton induced nuclear reactions on natural tungsten up to 34 MeV
+#
+# Quality information:
+#
+# Quality  D4163005 :   
+# Date     D4163005 : 05-01-2018
+# Reaction D4163005 : NP:   28 E-range:   6.84    -   33.4     MeV 74-W-0(P,X)75-RE-184-G,,SIG         pdf: n
+# Paper    D4163005 : F.Tarkanyi+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.252, p.160, 2006 Excitation functions of proton induced nuclear reactio
+# Action   D4163005 : 
+# Comment  D4163005 : 

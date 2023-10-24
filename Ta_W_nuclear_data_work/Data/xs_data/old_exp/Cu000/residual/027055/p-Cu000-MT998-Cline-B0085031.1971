@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  55
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : B0085031 
+# X4 code     : 29-CU-0(P,X)27-CO-55,CUM,SIG,,,EXP
+# Author      : Cline                    
+# Year        : 1971
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.90000E+02  4.00000E+00  5.00000E-01  0.00000E+00  2.35744E+00  0.5894       10.79       1.643              
+#
+# Average deviation:                                                1.697       10.79       1.643    
+#
+# Full reference:
+#J.E.Cline,  E.B.Nieschmidt
+#Jour. Nuclear Physics, Section A Vol.169, p.437, 1971
+#Measurements of spallation cross sections for 590 MeV protons on thin targets of copper, nickel, iron and aluminum
+#
+#
+# Quality information:
+#
+# Quality  B0085031 : T1
+# Date     B0085031 : 05-01-2018
+# Reaction B0085031 : NP:    1 E-range:   590.    -   590.     MeV 29-CU-0(P,X)27-CO-55,CUM,SIG,,,EXP  pdf: y
+# Paper    B0085031 : J.E.Cline+ Jour. Nuclear Physics, Section A Vol.169, p.437, 1971 Measurements of spallation cross sections for 590 MeV protons on thin targe
+# Action   B0085031 : 
+# Comment  B0085031 : Evaluation        N=     1 F=   1.70     chi-2=   10.8     D=   1.64     mb T=   2.36     mb E=   4.00     K1=  1.70     K2=  3.88
+# Comment  B0085031 : TALYS             N=     1 F=   1.70     chi-2=   10.8     D=   1.64     mb T=   2.36     mb E=   4.00     K1=  1.70     K2=  3.88
+# Comment  B0085031 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.00     K1=  0.00     K2=  0.00
+# Comment  B0085031 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.00     K1=  0.00     K2=  0.00
+# Comment  B0085031 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.00     K1=  0.00     K2=  0.00
+# Comment  B0085031 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.00     K1=  0.00     K2=  0.00
+# Comment  B0085031 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.00     K1=  0.00     K2=  0.00
+# Comment  B0085031 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.00     K1=  0.00     K2=  0.00
+# Comment  B0085031 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.00     K1=  0.00     K2=  0.00

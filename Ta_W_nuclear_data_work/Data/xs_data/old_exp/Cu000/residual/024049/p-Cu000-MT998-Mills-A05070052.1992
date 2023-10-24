@@ -1,0 +1,46 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  24
+# Final A     :  49
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : A05070052
+# X4 code     : 29-CU-0(P,X)24-CR-49,CUM,SIG,,,EXP
+# Author      : Mills                    
+# Year        : 1992
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.96600E+02  7.00000E-01  2.30000E-01  0.00000E+00  5.35292E+00   7.647       448.5       4.653              
+  1.90200E+02  6.90000E-01  1.70000E-01  0.00000E+00  4.97878E+00   7.216       714.8       4.289              
+  1.83800E+02  7.20000E-01  1.90000E-01  0.00000E+00  4.60464E+00   6.395       486.2       3.885              
+#
+# Average deviation:                                                6.918       549.8       4.275    
+#
+# Full reference:
+#S.J.Mills, G.F.Steyn, F.M.Nortier
+#Jour. Applied Radiation and Isotopes Vol.43, p.1019, 1992
+#Experimental and Theoretical Excitation Functions of Radionuclides Produced in Proton Bombardment of Copper Up to 200 MeV.
+#
+#
+# Quality information:
+#
+# Quality  A05070052: T2
+# Date     A05070052: 05-01-2018
+# Reaction A05070052: NP:    3 E-range:   184.    -   197.     MeV 29-CU-0(P,X)24-CR-49,CUM,SIG,,,EXP  pdf: y
+# Paper    A05070052: S.J.Mills+ Jour. Applied Radiation and Isotopes Vol.43, p.1019, 1992 Experimental and Theoretical Excitation Functions of Radionuclides Prod
+# Action   A05070052: 
+# Comment  A05070052: Evaluation        N=     3 F=   6.92     chi-2=   550.     D=   4.28     mb T=   4.98     mb E=  0.703     K1=  6.92     K2= 1.743E+04
+# Comment  A05070052: TALYS             N=     3 F=   4.93     chi-2=   204.     D=   2.77     mb T=   3.47     mb E=  0.703     K1=  4.93     K2=  516.
+# Comment  A05070052: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.703     K1=  0.00     K2=  0.00
+# Comment  A05070052: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.703     K1=  0.00     K2=  0.00
+# Comment  A05070052: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.703     K1=  0.00     K2=  0.00
+# Comment  A05070052: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.703     K1=  0.00     K2=  0.00
+# Comment  A05070052: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.703     K1=  0.00     K2=  0.00
+# Comment  A05070052: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.703     K1=  0.00     K2=  0.00
+# Comment  A05070052: tendl.2017        N=     3 F=   9.22     chi-2=   896.     D=   5.78     mb T=   6.48     mb E=  0.703     K1=  9.22     K2= 2.237E+05

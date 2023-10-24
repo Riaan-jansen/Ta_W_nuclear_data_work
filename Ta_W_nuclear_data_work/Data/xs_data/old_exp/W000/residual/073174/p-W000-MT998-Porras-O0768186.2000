@@ -1,0 +1,45 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  73
+# Final A     : 174
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O0768186 
+# X4 code     : 74-W-0(P,X)73-TA-174,IND,SIG
+# Author      : Porras                   
+# Year        : 2000
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  8.50000E+02  1.20000E+01  2.00000E+00  0.00000E+00  4.36897E-02  3.6408E-03   35.74       11.96              
+  8.50000E+02  3.20000E+01  2.00000E+00  0.00000E+00  4.36897E-02  1.3653E-03   255.3       31.96              
+#
+# Average deviation:                                                457.4       145.5       21.96    
+#
+# Full reference:
+#E.Porras,  F.Sanchez,  V.Reglero,  B.Cordier,  A.J.Dean, F.Lei,  J.M.Perez,  B.M.Swinyard
+#
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.160, p.73, 2000
+#Production rate of proton-induced isotopes in different materials.
+#
+# Quality information:
+#
+# Quality  O0768186 : T2
+# Date     O0768186 : 05-01-2018
+# Reaction O0768186 : NP:    2 E-range:   850.    -   850.     MeV 74-W-0(P,X)73-TA-174,IND,SIG        pdf: y
+# Paper    O0768186 : E.Porras+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.160, p.73, 2000 Production rate of proton-induced isotopes in different m
+# Action   O0768186 : 
+# Comment  O0768186 : Evaluation        N=     2 F=   457.     chi-2=   146.     D=   22.0     mb T=  4.369E-02 mb E=   22.0     K1=  457.     K2= 1.000E+35
+# Comment  O0768186 : TALYS             N=     2 F=   457.     chi-2=   146.     D=   22.0     mb T=  4.369E-02 mb E=   22.0     K1=  457.     K2= 1.000E+35
+# Comment  O0768186 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.0     K1=  0.00     K2=  0.00
+# Comment  O0768186 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.0     K1=  0.00     K2=  0.00
+# Comment  O0768186 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.0     K1=  0.00     K2=  0.00
+# Comment  O0768186 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.0     K1=  0.00     K2=  0.00
+# Comment  O0768186 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.0     K1=  0.00     K2=  0.00
+# Comment  O0768186 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.0     K1=  0.00     K2=  0.00
+# Comment  O0768186 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   22.0     K1=  0.00     K2=  0.00

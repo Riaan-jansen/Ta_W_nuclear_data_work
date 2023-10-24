@@ -1,0 +1,47 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  27
+# Final A     :  56
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : E1894006 
+# X4 code     : 29-CU-0(P,X)27-CO-56,CUM,SIG
+# Author      : Uddin                    
+# Year        : 2004
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  5.34350E+01  3.60000E-01  7.00000E-02  0.00000E+00  7.19163E-01   1.998       26.33      0.3592              
+  5.75520E+01  1.93000E+00  2.00000E-01  0.00000E+00  2.31520E+00   1.200       3.709      0.3852              
+  6.14720E+01  5.12000E+00  5.00000E-01  0.00000E+00  4.15875E+00  0.8123       3.696      0.9612              
+  6.51940E+01  9.16000E+00  8.00000E-01  0.00000E+00  5.57755E+00  0.6089       20.05       3.582              
+  6.87880E+01  1.22000E+01  1.10000E+00  0.00000E+00  6.09737E+00  0.4998       30.78       6.103              
+#
+# Average deviation:                                                1.659       16.91       2.278    
+#
+# Full reference:
+#M.S.Uddin,  M.Hagiwara,  F.Tarkanyi,  F.Ditroi,  M.Baba
+#Jour. Applied Radiation and Isotopes Vol.60, Issue.6, p.911, 2004
+#Experimental studies on the proton-induced activation reactions of molybdenum in the energy range 22-67 MeV
+#
+# Quality information:
+#
+# Quality  E1894006 : T1
+# Date     E1894006 : 05-01-2018
+# Reaction E1894006 : NP:    5 E-range:   53.4    -   68.8     MeV 29-CU-0(P,X)27-CO-56,CUM,SIG        pdf: y
+# Paper    E1894006 : M.S.Uddin+ Jour. Applied Radiation and Isotopes Vol.60, Issue.6, p.911, 2004 Experimental studies on the proton-induced activation reactions
+# Action   E1894006 : 
+# Comment  E1894006 : Evaluation        N=     5 F=   1.66     chi-2=   16.9     D=   2.28     mb T=   3.77     mb E=   5.75     K1=  1.66     K2=  4.42
+# Comment  E1894006 : TALYS             N=     5 F=   1.66     chi-2=   16.9     D=   2.28     mb T=   3.77     mb E=   5.75     K1=  1.66     K2=  4.42
+# Comment  E1894006 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.75     K1=  0.00     K2=  0.00
+# Comment  E1894006 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.75     K1=  0.00     K2=  0.00
+# Comment  E1894006 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.75     K1=  0.00     K2=  0.00
+# Comment  E1894006 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.75     K1=  0.00     K2=  0.00
+# Comment  E1894006 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.75     K1=  0.00     K2=  0.00
+# Comment  E1894006 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.75     K1=  0.00     K2=  0.00
+# Comment  E1894006 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   5.75     K1=  0.00     K2=  0.00

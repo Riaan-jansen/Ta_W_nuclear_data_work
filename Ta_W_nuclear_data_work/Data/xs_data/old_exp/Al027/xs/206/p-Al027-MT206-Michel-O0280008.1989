@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xh)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  206
+# X4 ID       : O0280008 
+# X4 code     : 13-AL-27(P,X)2-HE-3,,SIG
+# Author      : Michel                   
+# Year        : 1989
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.00000E+02  3.01000E+01  5.52000E+00  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#R.Michel,  F.Peiffer,  S.Theis,  F.Begemann,  H.Weber, P.Signer,  R.Wieler,  P.Cloth,  P.Dragovitsch,
+# D.Filges, P.Englert
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.42, p.76, 1989
+#Production of stable and radioactive nuclides in thick stony targets (r=15 and 25 cm) isotropically irradiated with 600 MeV protons and simulation of the production
+#of cosmogenic nuclides in meteorites
+#
+# Quality information:
+#
+# Quality  O0280008 :   
+# Date     O0280008 : 05-01-2018
+# Reaction O0280008 : NP:    1 E-range:   600.    -   600.     MeV 13-AL-27(P,X)2-HE-3,,SIG            pdf: n
+# Paper    O0280008 : R.Michel+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.42, p.76, 1989 Production of stable and radioactive nuclides in thick sto
+# Action   O0280008 : 
+# Comment  O0280008 : 

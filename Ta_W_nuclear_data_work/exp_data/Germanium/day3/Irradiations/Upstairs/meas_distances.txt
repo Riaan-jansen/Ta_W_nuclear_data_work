@@ -1,0 +1,5 @@
+Ta21 distance = 131mm
+
+Ta22 distance = 121mm
+
+Ta23 distance = 121mm

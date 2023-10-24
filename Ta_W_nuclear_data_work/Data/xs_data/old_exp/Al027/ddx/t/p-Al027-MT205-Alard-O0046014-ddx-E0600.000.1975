@@ -1,0 +1,35 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,xt)
+# E-inc       :  600.000 MeV
+# Quantity    : Double-differential cross section
+# Frame       : L
+# MF          :    6
+# MT          :  205
+# X4 ID       : O0046014 
+# X4 code     : 13-AL-27(P,X)1-H-3,,DA/DE
+# Author      : Alard                    
+# Year        : 1975
+# Data points :     14
+# E-out(MeV) xs(mb/MeV.sr) dxs(mb/MeV.sr) dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.74000E+00  2.80000E-08  1.70000E-08  0.00000E+00  7.50001E+01
+  3.32000E+00  6.90000E-08  1.70000E-08  0.00000E+00  7.50001E+01
+  3.90000E+00  6.80000E-08  1.70000E-08  0.00000E+00  7.50001E+01
+  4.48000E+00  8.20000E-08  1.40000E-08  0.00000E+00  7.50001E+01
+  5.06000E+00  6.70000E-08  1.70000E-08  0.00000E+00  7.50001E+01
+  5.63000E+00  9.50000E-08  1.10000E-08  0.00000E+00  7.50001E+01
+  6.10000E+00  8.00000E-08  1.70000E-08  0.00000E+00  7.50001E+01
+  6.79000E+00  8.00000E-08  1.10000E-08  0.00000E+00  7.50001E+01
+  7.37000E+00  6.50000E-08  1.70000E-08  0.00000E+00  7.50001E+01
+  7.83000E+00  6.50000E-08  1.70000E-08  0.00000E+00  7.50001E+01
+  8.53000E+00  6.40000E-08  1.70000E-08  0.00000E+00  7.50001E+01
+  9.10000E+00  7.80000E-08  1.70000E-08  0.00000E+00  7.50001E+01
+  9.68000E+00  5.80000E-08  1.30000E-08  0.00000E+00  7.50001E+01
+  1.01500E+01  4.90000E-08  1.70000E-08  0.00000E+00  7.50001E+01
+# Full reference:
+#J.P.Alard,  A.Baldit,  R.Brun,  J.P.Costilhes, J.Dhermain,  J.Fargeix,  L.Fraysse,  J.Pellet,  G.Roche,
+#J.C.Tamain
+#Jour. Nuovo Cimento A Vol.30, p.320, 1975
+#Light-fragment production in P-nucleus interactions at 600 MeV. Astrophysical application.

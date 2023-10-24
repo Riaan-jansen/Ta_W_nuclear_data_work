@@ -1,0 +1,65 @@
+# Target Z    :  74
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  75
+# Final A     : 181
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D4163002 
+# X4 code     : 74-W-0(P,X)75-RE-181,,SIG
+# Author      : Tarkanyi                 
+# Year        : 2006
+# Data points :     23
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.15700E+01  2.07000E+01  3.19000E+00  9.10000E-01  1.14484E-03  5.5306E-05   42.10       20.70              
+  1.25100E+01  1.02510E+02  1.21200E+01  8.20000E-01  1.10274E-03  1.0757E-05   71.53       102.5              
+  1.34000E+01  1.74630E+02  2.02100E+01  7.30000E-01  1.13264E-03  6.4859E-06   74.66       174.6              
+  1.42500E+01  2.44540E+02  2.78500E+01  6.50000E-01  1.20100E-03  4.9113E-06   77.10       244.5              
+  1.50600E+01  2.87080E+02  3.25000E+01  5.70000E-01  1.28840E-03  4.4880E-06   78.03       287.1              
+  1.60000E+01  3.26900E+02  3.71000E+01  4.70000E-01  1.39405E-03  4.2645E-06   77.64       326.9              
+  1.69000E+01  3.76050E+02  4.25800E+01  3.90000E-01  1.47939E-03  3.9340E-06   78.00       376.0              
+  1.77600E+01  3.81770E+02  4.33400E+01  3.00000E-01  1.50800E-03  3.9500E-06   77.59       381.8              
+  2.00400E+01  3.83540E+02  4.51400E+01  1.48000E+00  1.30537E-03  3.4035E-06   72.19       383.5              
+  2.11800E+01  4.09800E+02  4.76900E+01  1.38000E+00  1.13512E-03  2.7699E-06   73.84       409.8              
+  2.22800E+01  3.79180E+02  4.90300E+01  1.28000E+00
+  2.33400E+01  3.76070E+02  4.38600E+01  1.19000E+00
+  2.43700E+01  3.23360E+02  3.73200E+01  1.10000E+00
+  2.53600E+01  2.86470E+02  3.46100E+01  1.01000E+00
+  2.63300E+01  2.86190E+02  3.35900E+01  9.20000E-01
+  2.72800E+01  2.77160E+02  3.44800E+01  8.40000E-01
+  2.83100E+01  2.75550E+02  3.28200E+01  7.50000E-01
+  2.92000E+01  3.03340E+02  3.50700E+01  6.70000E-01
+  3.00800E+01  3.38110E+02  3.96100E+01  5.90000E-01
+  3.09300E+01  3.68120E+02  4.33800E+01  5.20000E-01
+  3.17700E+01  4.03280E+02  4.66000E+01  4.40000E-01
+  3.26000E+01  4.08640E+02  4.66200E+01  3.70000E-01
+  3.34100E+01  4.41620E+02  5.04900E+01  3.00000E-01
+#
+# Average deviation:                                               1.7366E+05   72.27       270.8    
+#
+# Full reference:
+#F.Tarkanyi, S.Takacs, F.Szelecsenyi, F.Ditroi, A.Hermanne, M.Sonck
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.252, p.160, 2006
+#Excitation functions of proton induced nuclear reactions on natural tungsten up to 34 MeV
+#
+# Quality information:
+#
+# Quality  D4163002 : T2
+# Date     D4163002 : 05-01-2018
+# Reaction D4163002 : NP:   23 E-range:   11.6    -   33.4     MeV 74-W-0(P,X)75-RE-181,,SIG           pdf: y
+# Paper    D4163002 : F.Tarkanyi+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.252, p.160, 2006 Excitation functions of proton induced nuclear reactio
+# Action   D4163002 : 
+# Comment  D4163002 : Evaluation        N=    10 F=  1.737E+05 chi-2=   72.3     D=   271.     mb T=  1.269E-03 mb E=   312.     K1= 1.737E+05 K2= 1.000E+35
+# Comment  D4163002 : TALYS             N=    10 F=  1.737E+05 chi-2=   72.3     D=   271.     mb T=  1.269E-03 mb E=   312.     K1= 1.737E+05 K2= 1.000E+35
+# Comment  D4163002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   312.     K1=  0.00     K2=  0.00
+# Comment  D4163002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   312.     K1=  0.00     K2=  0.00
+# Comment  D4163002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   312.     K1=  0.00     K2=  0.00
+# Comment  D4163002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   312.     K1=  0.00     K2=  0.00
+# Comment  D4163002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   312.     K1=  0.00     K2=  0.00
+# Comment  D4163002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   312.     K1=  0.00     K2=  0.00
+# Comment  D4163002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   312.     K1=  0.00     K2=  0.00

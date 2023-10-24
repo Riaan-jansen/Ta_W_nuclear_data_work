@@ -1,0 +1,35 @@
+# Target Z    :  29
+# Target A    :  65
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,non)   
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    3
+# X4 ID       : D0314011 
+# X4 code     : 29-CU-65(P,NON),,SIG
+# Author      : Bearpark                 
+# Year        : 1965
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  9.15000E+00  6.76000E+02  3.20000E+01  3.50000E-01
+  1.01800E+01  8.04000E+02  2.90000E+01  3.20000E-01
+  1.12000E+01  8.90000E+02  2.60000E+01  3.00000E-01
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#K.Bearpark, W.R.Graham, G.Jones
+#Jour. Nuclear Physics Vol.73, p.206, 1965
+#Total proton and deuteron reaction cross-sections in the energy range 8.5 to 11.5 MeV
+#
+# Quality information:
+#
+# Quality  D0314011 :   
+# Date     D0314011 : 05-01-2018
+# Reaction D0314011 : NP:    3 E-range:   9.15    -   11.2     MeV 29-CU-65(P,NON),,SIG                pdf: n
+# Paper    D0314011 : K.Bearpark+ Jour. Nuclear Physics Vol.73, p.206, 1965 Total proton and deuteron reaction cross-sections in the energy range 8.5 to 11.5 MeV
+# Action   D0314011 : 
+# Comment  D0314011 : 

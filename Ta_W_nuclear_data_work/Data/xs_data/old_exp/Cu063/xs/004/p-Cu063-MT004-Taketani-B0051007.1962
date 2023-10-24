@@ -1,0 +1,44 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : B0051007 
+# X4 code     : 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP
+# Author      : Taketani                 
+# Year        : 1962
+# Data points :      4
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.31000E+00  2.27000E+01  2.50000E+00  1.00000E-02  4.00244E+01   1.763       48.02       17.32              
+  4.83000E+00  8.47000E+01  3.60000E+00  1.00000E-02  1.07162E+02   1.265       38.93       22.46              
+  5.57000E+00  1.75000E+02  5.00000E+00  1.00000E-02  1.87141E+02   1.069       5.896       12.14              
+  6.56000E+00  2.42000E+02  6.00000E+00  1.00000E-02  2.54259E+02   1.051       4.175       12.26              
+#
+# Average deviation:                                                1.363       24.26       16.05    
+#
+# Full reference:
+#H.Taketani,  W.P.Alford
+#Jour. Physical Review Vol.125, p.291, 1962
+#(P,N) Cross Sections on Ti-47, V-51, Cr-52, Co-59, And Cu-63 from 4 to 6.5 MeV
+#
+# Quality information:
+#
+# Quality  B0051007 : T1
+# Date     B0051007 : 05-01-2018
+# Reaction B0051007 : NP:    4 E-range:   4.31    -   6.56     MeV 29-CU-63(P,N)30-ZN-63,,SIG,,,EXP    pdf: y
+# Paper    B0051007 : H.Taketani+ Jour. Physical Review Vol.125, p.291, 1962 (P,N) Cross Sections on Ti-47, V-51, Cr-52, Co-59, And Cu-63 from 4 to 6.5 MeV
+# Action   B0051007 : 
+# Comment  B0051007 : Evaluation        N=     4 F=   1.36     chi-2=   24.3     D=   16.0     mb T=   147.     mb E=   131.     K1=  1.36     K2=  2.37
+# Comment  B0051007 : TALYS             N=     4 F=   1.36     chi-2=   24.3     D=   16.0     mb T=   147.     mb E=   131.     K1=  1.36     K2=  2.37
+# Comment  B0051007 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   131.     K1=  0.00     K2=  0.00
+# Comment  B0051007 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   131.     K1=  0.00     K2=  0.00
+# Comment  B0051007 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   131.     K1=  0.00     K2=  0.00
+# Comment  B0051007 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   131.     K1=  0.00     K2=  0.00
+# Comment  B0051007 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   131.     K1=  0.00     K2=  0.00
+# Comment  B0051007 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   131.     K1=  0.00     K2=  0.00
+# Comment  B0051007 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   131.     K1=  0.00     K2=  0.00

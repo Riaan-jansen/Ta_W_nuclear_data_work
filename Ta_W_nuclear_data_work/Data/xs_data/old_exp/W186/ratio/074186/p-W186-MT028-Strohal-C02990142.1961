@@ -1,0 +1,27 @@
+# Target Z    :  74
+# Target A    : 186
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       :  111
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          :   28
+# X4 ID       : C02990142
+# X4 code     : (74-W-186(P,N+P)74-W-185,,SIG)/(74-W-186(P,2P)73-TA-185,,SIG
+# Author      : Strohal                  
+# Year        : 1961
+# Data points :      5
+#    E(MeV)      ratio        dratio      dE(MeV)
+  2.50000E+02  1.57000E+00  1.00000E-02  0.00000E+00
+  3.00000E+02  1.60000E+00  4.00000E-02  0.00000E+00
+  3.50000E+02  1.53000E+00  5.00000E-01  0.00000E+00
+  4.00000E+02  1.56000E+00  4.00000E-02  0.00000E+00
+  4.40000E+02  1.62000E+00  3.00000E-02  0.00000E+00
+# Full reference:
+#P.P.Strohal, A.A.Caretto
+#Jour. Physical Review Vol.121, p.1815, 1961
+#EXCITATION FUNCTIONS OF (P,2 NUCLEON) REACTIONS

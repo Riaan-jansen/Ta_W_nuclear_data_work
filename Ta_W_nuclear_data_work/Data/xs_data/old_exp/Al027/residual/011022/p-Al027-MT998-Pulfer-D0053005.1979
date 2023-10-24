@@ -1,0 +1,37 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  22
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0053005 
+# X4 code     : 13-AL-27(P,X)11-NA-22,,SIG
+# Author      : Pulfer                   
+# Year        : 1979
+# Data points :      2
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  1.82000E+03  1.06000E+01  5.00000E-01  0.00000E+00
+  1.82000E+03  1.08000E+01  5.00000E-01  0.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#P.Pulfer
+#Thes. Thesis or dissertation Name.Pulfer, 1979
+#-determination of absolute production cross sections for proton induced reactions in the energy range 15 to 72 MeV and at 1820 MeV.- (in German)
+#
+#
+# Quality information:
+#
+# Quality  D0053005 :   
+# Date     D0053005 : 05-01-2018
+# Reaction D0053005 : NP:    2 E-range:  1.820E+03-  1.820E+03 MeV 13-AL-27(P,X)11-NA-22,,SIG          pdf: n
+# Paper    D0053005 : P.Pulfer Thes. Thesis or dissertation Name.Pulfer, 1979 -determination of absolute production cross sections for proton induced reactions in
+# Action   D0053005 : 
+# Comment  D0053005 : 

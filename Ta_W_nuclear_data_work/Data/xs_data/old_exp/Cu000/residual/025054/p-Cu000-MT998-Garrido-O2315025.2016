@@ -1,0 +1,50 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  25
+# Final A     :  54
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O2315025 
+# X4 code     : 29-CU-0(P,X)25-MN-54,,SIG
+# Author      : Garrido                  
+# Year        : 2016
+# Data points :      8
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.00800E+01  3.89000E+00  4.10000E-01  5.40000E-01  6.55134E-01  0.1684       62.25       3.235              
+  6.99900E+01  3.58000E+00  5.60000E-01  5.50000E-01  6.55611E-01  0.1831       27.27       2.924              
+  6.97300E+01  3.92000E+00  3.60000E-01  5.90000E-01  6.59425E-01  0.1682       82.03       3.261              
+  6.38600E+01  4.53000E+00  3.40000E-01  8.60000E-01  7.30148E-01  0.1612       124.9       3.800              
+  6.34900E+01  4.82000E+00  3.80000E-01  9.20000E-01  7.30580E-01  0.1516       115.8       4.089              
+  5.75500E+01  4.37000E+00  6.70000E-01  1.07000E+00  6.12429E-01  0.1401       31.45       3.758              
+  5.71200E+01  4.53000E+00  5.00000E-01  1.09000E+00  5.90977E-01  0.1305       62.06       3.939              
+  5.67400E+01  4.17000E+00  3.80000E-01  1.13000E+00  5.72019E-01  0.1372       89.65       3.598              
+#
+# Average deviation:                                                6.511       74.43       3.575    
+#
+# Full reference:
+#E.Garrido, C.Duchemin, A.Guertin, F.Haddad, N.Michel, V.Metivier
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.383, p.191, 2016
+#New excitation functions for proton induced reactions on natural titanium, nickel and copper up to 70 MeV.
+#
+# Quality information:
+#
+# Quality  O2315025 : T2
+# Date     O2315025 : 05-01-2018
+# Reaction O2315025 : NP:    8 E-range:   56.7    -   70.1     MeV 29-CU-0(P,X)25-MN-54,,SIG           pdf: y
+# Paper    O2315025 : E.Garrido+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.383, p.191, 2016 New excitation functions for proton induced reactions o
+# Action   O2315025 : 
+# Comment  O2315025 : Evaluation        N=     8 F=   6.51     chi-2=   74.4     D=   3.58     mb T=  0.651     mb E=   4.23     K1=  6.51     K2= 1.333E+06
+# Comment  O2315025 : TALYS             N=     8 F=   6.51     chi-2=   74.4     D=   3.58     mb T=  0.651     mb E=   4.23     K1=  6.51     K2= 1.333E+06
+# Comment  O2315025 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.23     K1=  0.00     K2=  0.00
+# Comment  O2315025 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.23     K1=  0.00     K2=  0.00
+# Comment  O2315025 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.23     K1=  0.00     K2=  0.00
+# Comment  O2315025 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.23     K1=  0.00     K2=  0.00
+# Comment  O2315025 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.23     K1=  0.00     K2=  0.00
+# Comment  O2315025 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.23     K1=  0.00     K2=  0.00
+# Comment  O2315025 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   4.23     K1=  0.00     K2=  0.00

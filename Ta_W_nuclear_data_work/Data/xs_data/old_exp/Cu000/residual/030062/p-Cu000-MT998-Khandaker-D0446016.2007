@@ -1,0 +1,53 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  62
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0446016 
+# X4 code     : 29-CU-0(P,X)30-ZN-62,,SIG
+# Author      : Khandaker                
+# Year        : 2007
+# Data points :     11
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.05000E+01  1.24000E+01  1.70000E+00  2.00000E-01  8.38073E+00  0.6759       5.590       4.019              
+  3.75000E+01  1.48000E+01  1.70000E+00  3.00000E-01  9.70545E+00  0.6558       8.981       5.095              
+  3.32000E+01  2.13000E+01  2.40000E+00  4.00000E-01  1.31074E+01  0.6154       11.65       8.193              
+  3.01000E+01  3.57000E+01  3.46000E+00  4.00000E-01  1.69600E+01  0.4751       29.34       18.74              
+  2.90000E+01  4.02000E+01  4.40000E+00  5.00000E-01  2.01575E+01  0.5014       20.75       20.04              
+  2.61000E+01  5.71000E+01  5.50000E+00  5.00000E-01  3.21605E+01  0.5632       20.56       24.94              
+  2.44000E+01  6.30000E+01  6.50000E+00  6.00000E-01  4.03736E+01  0.6409       12.12       22.63              
+  2.03000E+01  4.91000E+01  4.50000E+00  7.00000E-01  4.37065E+01  0.8902       1.437       5.393              
+  1.95000E+01  4.37000E+01  4.60000E+00  7.00000E-01  4.17885E+01  0.9563      0.1727       1.912              
+  1.62000E+01  1.41000E+01  2.10000E+00  8.00000E-01  2.28462E+01   1.620       17.35       8.746              
+  1.56000E+01  1.48000E+01  2.10000E+00  9.00000E-01  1.77417E+01   1.199       1.962       2.942              
+#
+# Average deviation:                                                1.596       11.81       11.15    
+#
+# Full reference:
+#M.U.Khandaker, M.S.Uddin, K.S.Kim, Y.S.Lee, G.N.Kim
+#Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.262, p.171, 2007
+#Measurement of cross-sections for the (p, xn) reactions in natural molybdenum
+#
+# Quality information:
+#
+# Quality  D0446016 : T1
+# Date     D0446016 : 05-01-2018
+# Reaction D0446016 : NP:   11 E-range:   15.6    -   40.5     MeV 29-CU-0(P,X)30-ZN-62,,SIG           pdf: y
+# Paper    D0446016 : M.U.Khandaker+ Jour. Nucl. Instrum. Methods in Physics Res., Sect.B Vol.262, p.171, 2007 Measurement of cross-sections for the (p, xn) react
+# Action   D0446016 : 
+# Comment  D0446016 : Evaluation        N=    11 F=   1.60     chi-2=   11.8     D=   11.1     mb T=   24.3     mb E=   33.3     K1=  1.60     K2=  3.91
+# Comment  D0446016 : TALYS             N=    11 F=   1.60     chi-2=   11.8     D=   11.1     mb T=   24.3     mb E=   33.3     K1=  1.60     K2=  3.91
+# Comment  D0446016 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.3     K1=  0.00     K2=  0.00
+# Comment  D0446016 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.3     K1=  0.00     K2=  0.00
+# Comment  D0446016 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.3     K1=  0.00     K2=  0.00
+# Comment  D0446016 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.3     K1=  0.00     K2=  0.00
+# Comment  D0446016 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.3     K1=  0.00     K2=  0.00
+# Comment  D0446016 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.3     K1=  0.00     K2=  0.00
+# Comment  D0446016 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   33.3     K1=  0.00     K2=  0.00

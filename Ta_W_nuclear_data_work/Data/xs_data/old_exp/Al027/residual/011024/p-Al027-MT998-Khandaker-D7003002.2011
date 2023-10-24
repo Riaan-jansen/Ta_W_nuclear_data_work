@@ -1,0 +1,49 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  11
+# Final A     :  24
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D7003002 
+# X4 code     : 13-AL-27(P,X)11-NA-24,,SIG
+# Author      : Khandaker                
+# Year        : 2011
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.09000E+01  4.50000E-01  9.00000E-02  5.00000E-01  6.66833E-02  0.1482       18.14      0.3833              
+  3.16000E+01  4.60000E-01  8.00000E-02  5.00000E-01  1.17672E-01  0.2558       18.31      0.3423              
+  3.34000E+01  5.40000E-01  9.00000E-02  4.00000E-01  2.48784E-01  0.4607       10.47      0.2912              
+  3.41000E+01  6.50000E-01  1.10000E-01  4.00000E-01  2.99773E-01  0.4612       10.14      0.3502              
+  3.45000E+01  7.70000E-01  1.30000E-01  4.00000E-01  3.28909E-01  0.4272       11.51      0.4411              
+  3.65000E+01  1.27000E+00  1.50000E-01  3.00000E-01  7.30618E-01  0.5753       12.93      0.5394              
+  3.83000E+01  1.81000E+00  1.40000E-01  3.00000E-01  1.16897E+00  0.6458       20.97      0.6410              
+#
+# Average deviation:                                                2.898       14.64      0.4269    
+#
+# Full reference:
+#M.U.Khandaker,  K.Kim,  M.W.Lee,  K.S.Kim,  G.N.Kim
+#Jour. Journal of the Korean Physical Society Vol.59, p.1821, 2011
+#Excitation functions for the 27Al(p,x)22,24Na nuclear reactions up to 40 MeV
+#
+# Quality information:
+#
+# Quality  D7003002 : T2
+# Date     D7003002 : 05-01-2018
+# Reaction D7003002 : NP:    7 E-range:   30.9    -   38.3     MeV 13-AL-27(P,X)11-NA-24,,SIG          pdf: y
+# Paper    D7003002 : M.U.Khandaker+ Jour. Journal of the Korean Physical Society Vol.59, p.1821, 2011 Excitation functions for the 27Al(p,x)22,24Na nuclear react
+# Action   D7003002 : 
+# Comment  D7003002 : Evaluation        N=     7 F=   2.90     chi-2=   14.6     D=  0.427     mb T=  0.423     mb E=  0.850     K1=  2.90     K2=  121.
+# Comment  D7003002 : TALYS             N=     7 F=   2.90     chi-2=   14.6     D=  0.427     mb T=  0.423     mb E=  0.850     K1=  2.90     K2=  121.
+# Comment  D7003002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.850     K1=  0.00     K2=  0.00
+# Comment  D7003002 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.850     K1=  0.00     K2=  0.00
+# Comment  D7003002 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.850     K1=  0.00     K2=  0.00
+# Comment  D7003002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.850     K1=  0.00     K2=  0.00
+# Comment  D7003002 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.850     K1=  0.00     K2=  0.00
+# Comment  D7003002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.850     K1=  0.00     K2=  0.00
+# Comment  D7003002 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.850     K1=  0.00     K2=  0.00

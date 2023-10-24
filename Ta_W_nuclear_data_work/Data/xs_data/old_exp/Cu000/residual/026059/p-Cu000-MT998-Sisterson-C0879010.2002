@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  26
+# Final A     :  59
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : C0879010 
+# X4 code     : 29-CU-CMP(P,X)26-FE-59,,SIG
+# Author      : Sisterson                
+# Year        : 2002
+# Data points :      3
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  7.00000E+01  6.00000E-01  9.00000E-02  0.00000E+00  5.66137E+00   9.436       6687.       5.343              
+  1.20000E+02  1.00000E+00  1.00000E-01  0.00000E+00  4.38127E+00   4.381       2674.       3.912              
+  1.60000E+02  1.20000E+00  2.00000E-01  0.00000E+00  3.48294E+00   2.902       365.7       3.068              
+#
+# Average deviation:                                                5.631       3242.       4.108    
+#
+# Full reference:
+#J.M.Sisterson
+#Conf. Meeting on Radiation Shielding,Santa Fe,NM,USA, 2002 p.01-28-02, 2002
+#Selected radiation safety issues at proton therapy facilities
+#
+# Quality information:
+#
+# Quality  C0879010 : T2
+# Date     C0879010 : 05-01-2018
+# Reaction C0879010 : NP:    3 E-range:   70.0    -   160.     MeV 29-CU-CMP(P,X)26-FE-59,,SIG         pdf: y
+# Paper    C0879010 : J.M.Sisterson Conf. Meeting on Radiation Shielding,Santa Fe,NM,USA, 2002 p.01-28-02, 2002 Selected radiation safety issues at proton therapy
+# Action   C0879010 : 
+# Comment  C0879010 : Evaluation        N=     3 F=   5.63     chi-2=  3.242E+03 D=   4.11     mb T=   4.51     mb E=  0.933     K1=  5.63     K2= 4.836E+06
+# Comment  C0879010 : TALYS             N=     3 F=   2.31     chi-2=   17.8     D=  0.533     mb T=  0.401     mb E=  0.933     K1=  2.31     K2=  16.7
+# Comment  C0879010 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.933     K1=  0.00     K2=  0.00
+# Comment  C0879010 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.933     K1=  0.00     K2=  0.00
+# Comment  C0879010 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.933     K1=  0.00     K2=  0.00
+# Comment  C0879010 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.933     K1=  0.00     K2=  0.00
+# Comment  C0879010 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.933     K1=  0.00     K2=  0.00
+# Comment  C0879010 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=  0.933     K1=  0.00     K2=  0.00
+# Comment  C0879010 : tendl.2017        N=     3 F=   9.94     chi-2=  6.466E+03 D=   7.68     mb T=   8.62     mb E=  0.933     K1=  9.94     K2= 2.365E+09

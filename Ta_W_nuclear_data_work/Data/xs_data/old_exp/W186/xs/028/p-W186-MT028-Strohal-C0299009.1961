@@ -1,0 +1,45 @@
+# Target Z    :  74
+# Target A    : 186
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,np)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :   28
+# X4 ID       : C0299009 
+# X4 code     : 74-W-186(P,N+P)74-W-185,,SIG
+# Author      : Strohal                  
+# Year        : 1961
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.50000E+02  6.94000E+01  1.00000E+00  0.00000E+00  5.95987E+01  0.8588       96.07       9.801              
+  3.00000E+02  6.95000E+01  4.30000E+00  0.00000E+00  5.45479E+01  0.7849       12.09       14.95              
+  3.50000E+02  6.87000E+01  4.40000E+00  0.00000E+00  5.27938E+01  0.7685       13.07       15.91              
+  4.00000E+02  6.86000E+01  5.70000E+00  0.00000E+00  5.14465E+01  0.7499       9.056       17.15              
+  4.40000E+02  7.02000E+01  5.60000E+00  0.00000E+00  5.06011E+01  0.7208       12.25       19.60              
+#
+# Average deviation:                                                1.299       28.51       15.48    
+#
+# Full reference:
+#P.P.Strohal, A.A.Caretto
+#Jour. Physical Review Vol.121, p.1815, 1961
+#EXCITATION FUNCTIONS OF (P,2 NUCLEON) REACTIONS
+#
+# Quality information:
+#
+# Quality  C0299009 : T1
+# Date     C0299009 : 05-01-2018
+# Reaction C0299009 : NP:    5 E-range:   250.    -   440.     MeV 74-W-186(P,N+P)74-W-185,,SIG        pdf: y
+# Paper    C0299009 : P.P.Strohal+ Jour. Physical Review Vol.121, p.1815, 1961 EXCITATION FUNCTIONS OF (P,2 NUCLEON) REACTIONS
+# Action   C0299009 : 
+# Comment  C0299009 : Evaluation        N=     5 F=   1.30     chi-2=   28.5     D=   15.5     mb T=   53.8     mb E=   69.3     K1=  1.30     K2=  1.90
+# Comment  C0299009 : TALYS             N=     5 F=   1.30     chi-2=   28.5     D=   15.5     mb T=   53.8     mb E=   69.3     K1=  1.30     K2=  1.90
+# Comment  C0299009 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.3     K1=  0.00     K2=  0.00
+# Comment  C0299009 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.3     K1=  0.00     K2=  0.00
+# Comment  C0299009 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.3     K1=  0.00     K2=  0.00
+# Comment  C0299009 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.3     K1=  0.00     K2=  0.00
+# Comment  C0299009 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.3     K1=  0.00     K2=  0.00
+# Comment  C0299009 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.3     K1=  0.00     K2=  0.00
+# Comment  C0299009 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   69.3     K1=  0.00     K2=  0.00

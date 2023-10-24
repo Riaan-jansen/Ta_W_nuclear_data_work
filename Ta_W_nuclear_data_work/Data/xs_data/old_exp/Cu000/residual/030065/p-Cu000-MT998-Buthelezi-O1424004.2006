@@ -1,0 +1,45 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  30
+# Final A     :  65
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O1424004 
+# X4 code     : 29-CU-0(P,X)30-ZN-65,,SIG
+# Author      : Buthelezi                
+# Year        : 2006
+# Data points :     11
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  3.78800E+01  7.63000E+00  5.10000E-01  1.00000E+00
+  3.45300E+01  7.76000E+00  5.20000E-01  1.00000E+00
+  3.08800E+01  8.86000E+00  5.90000E-01  1.00000E+00
+  2.75100E+01  1.04000E+01  7.00000E-01  1.00000E+00
+  2.37800E+01  1.36000E+01  9.10000E-01  1.00000E+00
+  2.16400E+01  1.55000E+01  1.10000E+00  1.00000E+00
+  1.93100E+01  2.16000E+01  1.50000E+00  1.00000E+00
+  1.67600E+01  4.02000E+01  2.70000E+00  1.00000E+00
+  1.38700E+01  9.36000E+01  6.30000E+00  1.00000E+00
+  1.04300E+01  2.00000E+02  1.40000E+01  1.00000E+00
+  5.79200E+00  1.79000E+02  1.20000E+01  1.00000E+00
+#
+# Average deviation:                                                0.000       0.000       0.000    
+#
+# Full reference:
+#E.Z.Buthelezi,  F.M.Nortier,  I.W.Schroeder
+#Jour. Applied Radiation and Isotopes Vol.64, p.915, 2006
+#Excitation functions for the production of 82Sr by proton bombardment of natRb at energies up to 100 MeV
+#
+# Quality information:
+#
+# Quality  O1424004 :   
+# Date     O1424004 : 05-01-2018
+# Reaction O1424004 : NP:   11 E-range:   5.79    -   37.9     MeV 29-CU-0(P,X)30-ZN-65,,SIG           pdf: n
+# Paper    O1424004 : E.Z.Buthelezi+ Jour. Applied Radiation and Isotopes Vol.64, p.915, 2006 Excitation functions for the production of 82Sr by proton bombardmen
+# Action   O1424004 : 
+# Comment  O1424004 : 

@@ -1,0 +1,36 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,el)
+# E-inc       :  142.000 MeV
+# Quantity    : Angular distribution
+# Frame       : L
+# MF          :    4
+# MT          :    2
+# X4 ID       : O0247006 
+# X4 code     : 13-AL-27(P,EL)13-AL-27,,DA,,,EXP
+# Author      : Taylor                   
+# Year        : 1961
+# Data points :     16
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  4.99979E+00  1.65000E+03  2.00000E+01
+  5.50011E+00  1.52000E+03  2.00000E+01
+  5.99996E+00  1.39000E+03  2.00000E+01
+  6.49993E+00  1.32000E+03  4.00000E+01
+  7.00006E+00  1.27000E+03  2.00000E+01
+  7.49994E+00  1.28000E+03  5.00000E+01
+  8.00003E+00  1.18000E+03  2.00000E+01
+  8.49995E+00  1.15000E+03  4.00000E+01
+  9.00012E+00  1.07000E+03  2.00000E+01
+  9.99991E+00  8.90000E+02  2.00000E+01
+  1.10001E+01  7.30000E+02  2.00000E+01
+  1.19999E+01  5.80000E+02  1.00000E+01
+  1.30000E+01  4.00000E+02  2.00000E+01
+  1.50000E+01  1.88000E+02  2.00000E+01
+  1.75000E+01  9.70000E+01  1.50000E+01
+  2.00001E+01  4.30000E+01  1.50000E+01
+# Full reference:
+#A.E.Taylor, E.Wood
+#Jour. Nuclear Physics Vol.25, p.642, 1961
+#Proton Scattering from Light Elements at 142 MeV.

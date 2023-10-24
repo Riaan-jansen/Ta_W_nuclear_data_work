@@ -1,0 +1,61 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  28
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : D0505009 
+# X4 code     : 29-CU-0(P,X)28-NI-57,CUM,SIG
+# Author      : Gruetter                 
+# Year        : 1982
+# Data points :     18
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  6.98000E+01  1.19000E+00  3.57000E-02  3.40000E-01  6.43057E-01  0.5404       234.7      0.5469              
+  6.97000E+01  1.19500E+00  3.58500E-02  3.40000E-01  6.44913E-01  0.5397       235.4      0.5501              
+  6.97000E+01  1.14500E+00  3.43500E-02  3.40000E-01  6.44913E-01  0.5632       212.0      0.5001              
+  6.76000E+01  1.27700E+00  3.83100E-02  3.40000E-01  6.83901E-01  0.5356       239.7      0.5931              
+  6.51000E+01  1.43800E+00  4.31400E-02  3.40000E-01  7.30315E-01  0.5079       269.1      0.7077              
+  6.51000E+01  1.48100E+00  4.44300E-02  3.40000E-01  7.30315E-01  0.4931       285.5      0.7507              
+  6.07000E+01  1.84300E+00  5.52900E-02  3.40000E-01  8.85027E-01  0.4802       300.2      0.9580              
+  5.85000E+01  1.91300E+00  5.73900E-02  3.40000E-01  9.54776E-01  0.4991       278.8      0.9582              
+  5.55000E+01  2.00000E+00  6.00000E-02  3.40000E-01  1.04451E+00  0.5223       253.6      0.9555              
+  5.55000E+01  1.96400E+00  5.89200E-02  3.40000E-01  1.04451E+00  0.5318       243.5      0.9195              
+  5.24000E+01  1.71600E+00  5.14800E-02  3.40000E-01  1.00437E+00  0.5853       191.1      0.7116              
+  5.24000E+01  1.75100E+00  5.25300E-02  3.40000E-01  1.00437E+00  0.5736       202.0      0.7466              
+  4.91000E+01  1.16600E+00  3.49800E-02  3.40000E-01  8.68910E-01  0.7452       72.13      0.2971              
+  4.91000E+01  1.18100E+00  3.54300E-02  3.40000E-01  8.68910E-01  0.7357       77.59      0.3121              
+  4.56000E+01  5.63000E-01  1.68900E-02  3.40000E-01  5.39916E-01  0.9590       1.868      2.3084E-02          
+  4.56000E+01  5.83000E-01  1.74900E-02  3.40000E-01  5.39916E-01  0.9261       6.068      4.3084E-02          
+  4.25000E+01  1.83000E-01  5.49000E-03  3.40000E-01  2.60734E-01   1.425       200.5      7.7734E-02          
+  4.09000E+01  7.65000E-02  2.29500E-03  3.40000E-01  1.18153E-01   1.544       329.4      4.1653E-02          
+#
+# Average deviation:                                                1.727       201.8      0.5385    
+#
+# Full reference:
+#A.Gruetter
+#Jour. Nuclear Physics, Section A Vol.383, p.98, 1982
+#Excitation functions for radioactive isotope produced by proton bombardment of Cu and Al in the energy range of 16 to 70 MeV
+#
+#
+# Quality information:
+#
+# Quality  D0505009 : T1
+# Date     D0505009 : 05-01-2018
+# Reaction D0505009 : NP:   18 E-range:   40.9    -   69.8     MeV 29-CU-0(P,X)28-NI-57,CUM,SIG        pdf: y
+# Paper    D0505009 : A.Gruetter Jour. Nuclear Physics, Section A Vol.383, p.98, 1982 Excitation functions for radioactive isotope produced by proton bombardment
+# Action   D0505009 : 
+# Comment  D0505009 : Evaluation        N=    18 F=   1.73     chi-2=   202.     D=  0.538     mb T=  0.734     mb E=   1.26     K1=  1.73     K2=  19.8
+# Comment  D0505009 : TALYS             N=    18 F=   1.73     chi-2=   202.     D=  0.538     mb T=  0.734     mb E=   1.26     K1=  1.73     K2=  19.8
+# Comment  D0505009 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.26     K1=  0.00     K2=  0.00
+# Comment  D0505009 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.26     K1=  0.00     K2=  0.00
+# Comment  D0505009 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.26     K1=  0.00     K2=  0.00
+# Comment  D0505009 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.26     K1=  0.00     K2=  0.00
+# Comment  D0505009 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.26     K1=  0.00     K2=  0.00
+# Comment  D0505009 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.26     K1=  0.00     K2=  0.00
+# Comment  D0505009 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.26     K1=  0.00     K2=  0.00

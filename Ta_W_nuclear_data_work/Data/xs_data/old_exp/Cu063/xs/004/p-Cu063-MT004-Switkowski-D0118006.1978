@@ -1,0 +1,49 @@
+# Target Z    :  29
+# Target A    :  63
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : C
+# MF          :    3
+# MT          :    4
+# X4 ID       : D0118006 
+# X4 code     : 29-CU-63(P,N)30-ZN-63,,SIG
+# Author      : Switkowski               
+# Year        : 1978
+# Data points :      9
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.14830E+00  1.50970E+01  2.85870E+00  8.00000E-02  1.91472E+01   1.268       2.007       4.050              
+  4.24380E+00  2.21440E+01  2.92150E+00  8.00000E-02  3.14773E+01   1.421       10.21       9.333              
+  4.65880E+00  7.99840E+01  6.71060E+00  8.00000E-02  8.50583E+01   1.063      0.5718       5.074              
+  4.75330E+00  8.34480E+01  7.00430E+00  9.00000E-02  9.72593E+01   1.166       3.888       13.81              
+  5.13200E+00  1.30650E+02  1.00820E+01  7.80000E-02  1.42550E+02   1.091       1.393       11.90              
+  5.45300E+00  1.68920E+02  7.16830E+00  9.40000E-02  1.75230E+02   1.037      0.7748       6.310              
+  5.57790E+00  1.86290E+02  7.90510E+00  9.40000E-02  1.87945E+02   1.009      4.3845E-02   1.655              
+  5.99610E+00  2.03550E+02  9.84140E+00  1.00000E-01  2.30521E+02   1.133       7.511       26.97              
+  6.43450E+00  2.30790E+02  7.03860E+00  8.40000E-02  2.49028E+02   1.079       6.714       18.24              
+#
+# Average deviation:                                                1.176       3.679       10.82    
+#
+# Full reference:
+#Z.E.Switkowski, J.C.P.Heggie, F.M.Mann
+#Jour. Australian Journal of Physics Vol.31, p.253, 1978
+#Threshold Effects in Proton-induced Reactions on Copper
+#
+# Quality information:
+#
+# Quality  D0118006 : T1
+# Date     D0118006 : 05-01-2018
+# Reaction D0118006 : NP:    9 E-range:   4.15    -   6.43     MeV 29-CU-63(P,N)30-ZN-63,,SIG          pdf: y
+# Paper    D0118006 : Z.E.Switkowski+ Jour. Australian Journal of Physics Vol.31, p.253, 1978 Threshold Effects in Proton-induced Reactions on Copper
+# Action   D0118006 : 
+# Comment  D0118006 : Evaluation        N=     9 F=   1.18     chi-2=   3.68     D=   10.8     mb T=   135.     mb E=   125.     K1=  1.18     K2=  1.35
+# Comment  D0118006 : TALYS             N=     9 F=   1.18     chi-2=   3.68     D=   10.8     mb T=   135.     mb E=   125.     K1=  1.18     K2=  1.35
+# Comment  D0118006 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   125.     K1=  0.00     K2=  0.00
+# Comment  D0118006 : eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   125.     K1=  0.00     K2=  0.00
+# Comment  D0118006 : endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   125.     K1=  0.00     K2=  0.00
+# Comment  D0118006 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   125.     K1=  0.00     K2=  0.00
+# Comment  D0118006 : jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   125.     K1=  0.00     K2=  0.00
+# Comment  D0118006 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   125.     K1=  0.00     K2=  0.00
+# Comment  D0118006 : tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   125.     K1=  0.00     K2=  0.00

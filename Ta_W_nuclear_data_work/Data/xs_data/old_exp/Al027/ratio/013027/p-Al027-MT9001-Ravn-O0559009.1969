@@ -1,0 +1,24 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : ratio
+# Final state :  
+# MTrat       : 9001
+# Ratio isomer: 99
+# Quantity    : Cross section ratio
+# Frame       : L
+# MF          :  203
+# MT          : 9001
+# X4 ID       : O0559009 
+# X4 code     : (13-AL-27(P,X)11-NA-22,CUM,SIG)/(13-AL-27(P,X)11-NA-24,CUM,S
+# Author      : Ravn                     
+# Year        : 1969
+# Data points :      1
+#    E(MeV)      ratio        dratio      dE(MeV)
+  1.80000E+04  1.24000E+00  5.00000E-02  0.00000E+00
+# Full reference:
+#H.Ravn
+#Jour. Journal of Inorganic and Nuclear Chemistry Vol.31, p.1883, 1969
+#Yields and Recoil Properties of Scandium Isotopes Produced in the Interaction of 590 MeV and 18 GeV Protons with Uranium.
+#

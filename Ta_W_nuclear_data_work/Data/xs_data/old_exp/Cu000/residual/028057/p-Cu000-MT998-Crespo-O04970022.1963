@@ -1,0 +1,50 @@
+# Target Z    :  29
+# Target A    :   0
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,x)
+# Final Z     :  28
+# Final A     :  57
+# Final state : *
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  998
+# X4 ID       : O04970022
+# X4 code     : 29-CU-0(P,X)28-NI-57,,SIG
+# Author      : Crespo                   
+# Year        : 1963
+# Data points :      7
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  4.40000E+02  1.20000E+00  0.00000E+00  0.00000E+00  1.52478E+00   1.271       0.000      0.3248              
+  4.40000E+02  1.30000E+00  0.00000E+00  0.00000E+00  1.52478E+00   1.173       0.000      0.2248              
+  5.50000E+02  1.10000E+00  0.00000E+00  0.00000E+00  1.50259E+00   1.366       0.000      0.4026              
+  5.50000E+02  1.10000E+00  0.00000E+00  0.00000E+00  1.50259E+00   1.366       0.000      0.4026              
+  7.00000E+02  1.10000E+00  0.00000E+00  0.00000E+00  1.45801E+00   1.325       0.000      0.3580              
+  7.00000E+02  1.10000E+00  0.00000E+00  0.00000E+00  1.45801E+00   1.325       0.000      0.3580              
+  7.00000E+02  9.40000E-01  0.00000E+00  0.00000E+00  1.45801E+00   1.551       0.000      0.5180              
+#
+# Average deviation:                                                1.349       0.000      0.3698    
+#
+# Full reference:
+#V.P.Crespo
+#Jour. Revista Portugesa de Qimica Vol.5, p.6, 1963
+#Producton of Ni and Mg Isotopes in the Interaction Of Copper and Aluminium with Protons and Alpha Particles.
+#
+#
+# Quality information:
+#
+# Quality  O04970022: N1
+# Date     O04970022: 05-01-2018
+# Reaction O04970022: NP:    7 E-range:   440.    -   700.     MeV 29-CU-0(P,X)28-NI-57,,SIG           pdf: n
+# Paper    O04970022: V.P.Crespo Jour. Revista Portugesa de Qimica Vol.5, p.6, 1963 Producton of Ni and Mg Isotopes in the Interaction Of Copper and Aluminium wit
+# Action   O04970022: 
+# Comment  O04970022: Evaluation        N=     7 F=   1.35     chi-2=   0.00     D=  0.370     mb T=   1.49     mb E=   1.12     K1=  1.35     K2=  1.95
+# Comment  O04970022: TALYS             N=     7 F=   1.35     chi-2=   0.00     D=  0.370     mb T=   1.49     mb E=   1.12     K1=  1.35     K2=  1.95
+# Comment  O04970022: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.12     K1=  0.00     K2=  0.00
+# Comment  O04970022: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.12     K1=  0.00     K2=  0.00
+# Comment  O04970022: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.12     K1=  0.00     K2=  0.00
+# Comment  O04970022: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.12     K1=  0.00     K2=  0.00
+# Comment  O04970022: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.12     K1=  0.00     K2=  0.00
+# Comment  O04970022: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.12     K1=  0.00     K2=  0.00
+# Comment  O04970022: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   1.12     K1=  0.00     K2=  0.00

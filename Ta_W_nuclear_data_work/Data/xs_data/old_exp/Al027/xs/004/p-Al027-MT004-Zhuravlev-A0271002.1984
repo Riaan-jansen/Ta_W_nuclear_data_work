@@ -1,0 +1,41 @@
+# Target Z    :  13
+# Target A    :  27
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,n')    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :    4
+# X4 ID       : A0271002 
+# X4 code     : 13-AL-27(P,N)14-SI-27,,SIG,,,EXP
+# Author      : Zhuravlev                
+# Year        : 1984
+# Data points :      1
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.22000E+01  1.92000E+02  0.00000E+00  2.00000E-01  6.38571E+01  0.3326       32.08       128.1              
+#
+# Average deviation:                                                3.291       32.08       128.1    
+#
+# Full reference:
+#B.V.Zhuravlev,  O.V.Grusha,  S.P.Ivanova,  V.I.Trykova, Yu.N.Shubin
+#Jour. Yadernaya Fizika Vol.39, p.264, 1984
+#Analysis of neutron spectre in 22-MeV proton interactions with nuclei.
+#
+# Quality information:
+#
+# Quality  A0271002 : T2
+# Date     A0271002 : 05-01-2018
+# Reaction A0271002 : NP:    1 E-range:   22.2    -   22.2     MeV 13-AL-27(P,N)14-SI-27,,SIG,,,EXP    pdf: y
+# Paper    A0271002 : B.V.Zhuravlev+ Jour. Yadernaya Fizika Vol.39, p.264, 1984 Analysis of neutron spectre in 22-MeV proton interactions with nuclei.
+# Action   A0271002 : 
+# Comment  A0271002 : Evaluation        N=     1 F=   3.29     chi-2=   32.1     D=   128.     mb T=   63.9     mb E=   192.     K1=  3.29     K2=  753.
+# Comment  A0271002 : TALYS             N=     1 F=   5.45     chi-2=   0.00     D=   157.     mb T=   35.2     mb E=   192.     K1=  5.45     K2= 9.327E+04
+# Comment  A0271002 : cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   192.     K1=  0.00     K2=  0.00
+# Comment  A0271002 : eaf.2010          N=     1 F=   2.69     chi-2=   39.5     D=   121.     mb T=   71.3     mb E=   192.     K1=  2.69     K2=  66.0
+# Comment  A0271002 : endfb8.0          N=     1 F=   3.69     chi-2=   53.2     D=   140.     mb T=   52.0     mb E=   192.     K1=  3.69     K2= 1.000E+03
+# Comment  A0271002 : irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   192.     K1=  0.00     K2=  0.00
+# Comment  A0271002 : jeff3.3           N=     1 F=   2.54     chi-2=   36.7     D=   116.     mb T=   75.7     mb E=   192.     K1=  2.54     K2=  43.3
+# Comment  A0271002 : jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   192.     K1=  0.00     K2=  0.00
+# Comment  A0271002 : tendl.2017        N=     1 F=   2.26     chi-2=   31.0     D=   107.     mb T=   85.1     mb E=   192.     K1=  2.26     K2=  20.0

@@ -1,0 +1,37 @@
+# Target Z    :  73
+# Target A    : 181
+# Target state:  
+# Projectile  : p
+# Reaction    : Exchange  scattering
+# E-inc       :   27.000 MeV
+# E-exc       :  0.00000 MeV (EXFOR:  0.00000  0.25000)
+# Quantity    : Angular distribution
+# Frame       : C
+# MF          :    4
+# MT          :   43
+# X4 ID       : T0112002 
+# X4 code     : 73-TA-181(P,N)74-W-181,PAR,DA
+# Author      : Hansen                   
+# Year        : 1983
+# Data points :     16
+#  Angle(deg)    xs(mb/sr) dxs(mb/sr) dAngle(deg)
+  2.50030E+00  1.46000E+00  0.00000E+00
+  7.90020E+00  1.82000E+00  0.00000E+00
+  1.61000E+01  2.10000E+00  0.00000E+00
+  2.44001E+01  2.30000E+00  0.00000E+00
+  3.26000E+01  2.40000E+00  0.00000E+00
+  3.83000E+01  1.59000E+00  0.00000E+00
+  4.66000E+01  1.03000E+00  0.00000E+00
+  5.50001E+01  8.90000E-01  0.00000E+00
+  6.24001E+01  7.40000E-01  0.00000E+00
+  7.16001E+01  6.10000E-01  0.00000E+00
+  8.57001E+01  2.30000E-01  5.98000E-02
+  9.94001E+01  2.30000E-01  5.98000E-02
+  1.16100E+02  1.30000E-01  3.90000E-02
+  1.29900E+02  1.09000E-01  3.05200E-02
+  1.46400E+02  1.40000E-01  4.06000E-02
+  1.60200E+02  1.17000E-01  3.51000E-02
+# Full reference:
+#L.F.Hansen, S.M.Grimes, C.H.Poppe, C.Wong
+#Jour. Physical Review, Part C, Nuclear Physics Vol.28, p.1934, 1983
+#Charge exchange (p,n) reactions to the isobaric analog states of high Z nuclei: Z=73-92

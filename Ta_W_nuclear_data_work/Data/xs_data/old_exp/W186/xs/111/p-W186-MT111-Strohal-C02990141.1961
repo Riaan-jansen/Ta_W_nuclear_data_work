@@ -1,0 +1,45 @@
+# Target Z    :  74
+# Target A    : 186
+# Target state:  
+# Projectile  : p
+# Reaction    : (p,2p)    
+# Final state :  
+# Quantity    : Cross section
+# Frame       : L
+# MF          :    3
+# MT          :  111
+# X4 ID       : C02990141
+# X4 code     : 74-W-186(P,2P)73-TA-185,,SIG
+# Author      : Strohal                  
+# Year        : 1961
+# Data points :      5
+#    E(MeV)       xs(mb)      dxs(mb)     dE(MeV)      Evaluation  C/E(F)      Chi-2     Delta(mb)
+  2.50000E+02  4.41000E+01  3.30000E+00  0.00000E+00  1.36221E+01  0.3089       85.30       30.48              
+  3.00000E+02  4.34000E+01  4.50000E+00  0.00000E+00  1.25857E+01  0.2900       46.89       30.81              
+  3.50000E+02  4.49000E+01  4.40000E+00  0.00000E+00  1.16897E+01  0.2603       56.97       33.21              
+  4.00000E+02  4.38000E+01  3.90000E+00  0.00000E+00  1.08694E+01  0.2482       71.30       32.93              
+  4.40000E+02  4.34000E+01  4.80000E+00  0.00000E+00  1.01310E+01  0.2334       48.04       33.27              
+#
+# Average deviation:                                                3.763       61.70       32.14    
+#
+# Full reference:
+#P.P.Strohal, A.A.Caretto
+#Jour. Physical Review Vol.121, p.1815, 1961
+#EXCITATION FUNCTIONS OF (P,2 NUCLEON) REACTIONS
+#
+# Quality information:
+#
+# Quality  C02990141: T2
+# Date     C02990141: 05-01-2018
+# Reaction C02990141: NP:    5 E-range:   250.    -   440.     MeV 74-W-186(P,2P)73-TA-185,,SIG        pdf: y
+# Paper    C02990141: P.P.Strohal+ Jour. Physical Review Vol.121, p.1815, 1961 EXCITATION FUNCTIONS OF (P,2 NUCLEON) REACTIONS
+# Action   C02990141: 
+# Comment  C02990141: Evaluation        N=     5 F=   3.76     chi-2=   61.7     D=   32.1     mb T=   11.8     mb E=   43.9     K1=  3.76     K2= 1.505E+03
+# Comment  C02990141: TALYS             N=     5 F=   3.76     chi-2=   61.7     D=   32.1     mb T=   11.8     mb E=   43.9     K1=  3.76     K2= 1.505E+03
+# Comment  C02990141: cendl3.1          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   43.9     K1=  0.00     K2=  0.00
+# Comment  C02990141: eaf.2010          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   43.9     K1=  0.00     K2=  0.00
+# Comment  C02990141: endfb8.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   43.9     K1=  0.00     K2=  0.00
+# Comment  C02990141: irdff1.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   43.9     K1=  0.00     K2=  0.00
+# Comment  C02990141: jeff3.3           N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   43.9     K1=  0.00     K2=  0.00
+# Comment  C02990141: jendl4.0          N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   43.9     K1=  0.00     K2=  0.00
+# Comment  C02990141: tendl.2017        N=     0 F=   0.00     chi-2=   0.00     D=   0.00     mb T=   0.00     mb E=   43.9     K1=  0.00     K2=  0.00
